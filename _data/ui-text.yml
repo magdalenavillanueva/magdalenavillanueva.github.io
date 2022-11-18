@@ -88,7 +88,7 @@ es: &DEFAULT_ES
   related_label              : "Puede que también te interese"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
-  powered_by                 : "Funciona con"
+  powered_by                 : "Desarrollado con"
   website_label              : "Sitio web"
   email_label                : "Correo electrónico"
   recent_posts               : "Entradas recientes"
