@@ -104,18 +104,21 @@ Hermana mayor de Matilde. Tiene ojos celestes, piernas largas y perfectas.  Mide
 
 Ella encarnaba: la traición, los bajos instintos, lo superficial, la frivolidad. Padece un trastorno psicológico grave debido al consumo de alcohol y cocaína que lleva alrededor de diez años.  Su caso requería internación inmediata.	
 
-**Dolores Martínez Sánchez:**
+**Dolores Martínez Sánchez:**  
+
 Hermana  
 Vive en Argentina, está casada con hijos.  
 Su relación con Matilde es distante, casi inexistente.  
 
 **Abuela Celia:**  
+
 Casada con Esteban.  
 Autoritaria.  
 No demuestra cariño hacia la familia.  
 Vive de apariencias y lo primero es el qué dirán.  
 
 **Enriqueta Martínez Olazábal:**  
+
 Viuda.  
 Tía, es hermana de su padre.  
 Superó su alcoholismo.  
@@ -123,7 +126,8 @@ Artista plástica reconocida. Su madre se oponía a su vocación por las Bellas 
 Siente amor filial hacia Matilde.  
 
 **Sofía Martínez Olazábal:**  
-Es  la hermana menor de su padre.  
+
+Es la hermana menor de su padre.  
 Se escapa con su novio Fernando/Nando Guzmán, que no pertenecía a su misma clase social y era moreno. Tienen un hijo de 17 años, Fabrice, y la mayor, Amélie es monja.  
 
 **Familia de Eliah:**
