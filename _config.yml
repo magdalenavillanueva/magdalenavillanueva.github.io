@@ -105,35 +105,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maria Magdalena Villanueva"
+  # name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Profesora de Educación Media en la
-Especialidad de Castellano y Literatura. Egresada de la UPEL. Magíster en
-Educación, mención Gerencia Educacional. Coautora del Manual de
-Castellano y Literatura de 1° y 2° nivel de Educación Diversificada.
-(2002). Editorial Fedupel. Coautora del libro Transversalidad: la teoría en
-la práctica (2011). Editorial Fedupel."
+  bio              : "MSc. María Magdalena Villanueva, MSc. Luz del Alba Inojosa. Docentes en Literatura y Dra. Isabel Rodríguez en Orientación."
   location         : "Munich, Alemania"
   email            :
   links:
-    - label: "mary_magdavilla@hotmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mary_magdavilla@hotmail.com"
+    # - label: "mary_magdavilla@hotmail.com"
+      # icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:mary_magdavilla@hotmail.com"
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MariaMVillanuev"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/mariamagdalena.villanueva"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/MariaMVillanuev"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://www.facebook.com/mariamagdalena.villanueva"
     # - label: "GitHub"
       # icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/marimvillanueva/"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # url: "https://www.instagram.com/marimvillanueva/"
+    - label: "¿Quienes Somos?"
+      icon: "fas fa-fw fa-link"
+      url: "https://disfrutandolalectura.com/blog/caballo-de-fuego-quienes-somos/"
 
 # Site Footer
 # footer:
