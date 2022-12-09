@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Quienes Somos"
-date:   2022-11-03 12:00:00 +0100
+date:   2022-11-01 12:00:00 +0100
 categories: blog
 ---
 Nosotras, María Magdalena Villanueva, Luz del Alba Inojosa Mudarra e Isabel Rodríguez, docentes en Literatura y Orientación somos lectoras apasionadas. Las estrategias de análisis de nuestras lecturas no derivan de un patrón establecido: el escritor, la temática y el lenguaje son las voces. Siempre descubriendo qué percibimos, interpretamos, adivinamos, asimilamos y comprendemos cuando leemos. Aprendemos y reaprendemos. La lectura es un deleite que nos lleva a mundos inimaginables. Mentes abiertas con caminos al andar.

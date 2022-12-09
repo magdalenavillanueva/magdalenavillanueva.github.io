@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Caballo de Fuego: Orden del Análisis"
-date:   2022-11-01 12:00:00 +0100
+date:   2022-11-02 12:00:00 +0100
 categories: blog
 ---
 1. Introducción

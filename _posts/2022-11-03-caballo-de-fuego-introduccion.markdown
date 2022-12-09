@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Caballo de Fuego: Introducción"
-date:   2022-11-02 12:00:00 +0100
+date:   2022-11-03 12:00:00 +0100
 categories: blog
 ---
 Hoy, estamos iniciando nuestro blog literario**: Disfrutando la lectura**.  
