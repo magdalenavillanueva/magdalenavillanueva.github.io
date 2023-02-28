@@ -2,7 +2,8 @@
 layout: single
 title:  "Caballo de Fuego: Ambiente"
 date:   2022-11-09 12:00:00 +0100
-categories: blog
+categories: 
+    - Caballo de Fuego
 ---
 **AMBIENTE FÍSICO:**  
 La trilogía nos describe diferentes ambientes a lo largo de la misma. En la primera parte, las acciones se desarrollan en París, en los sitios más emblemáticos por donde se pasean los personajes al comienzo de su historia de amor. Cuando Matilde Martínez rompe con Eliah Al-Saud se va al Congo, donde en esta segunda parte, nos recrean en un ambiente selvático increíble y termina en Gaza, donde vencen todos los obstáculos que hasta ahora, no les permitían su unión. En ese ambiente gazatí, consiguen limar todas sus asperezas y clarificar sus dudas. Esta vez, se alejan por eventos externos propios de un ambiente bélico, que también logran superar.

@@ -2,7 +2,8 @@
 layout: single
 title:  "Caballo de Fuego: Reseña, personajes principales"
 date:   2022-11-05 12:00:00 +0100
-categories: blog
+categories: 
+    - Caballo de Fuego
 ---
 **TRILOGÍA: _CABALLO DE FUEGO_**  
 **Obras:** _París, Congo, Gaza_  

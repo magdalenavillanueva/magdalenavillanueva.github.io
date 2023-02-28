@@ -2,7 +2,8 @@
 layout: single
 title:  "Caballo de Fuego: Música"
 date:   2022-11-10 12:00:00 +0100
-categories: blog
+categories: 
+    - Caballo de Fuego
 ---
 **MÚSICA, LITERATURA  Y COMIDA:**
 

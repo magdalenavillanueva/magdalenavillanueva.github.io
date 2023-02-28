@@ -2,7 +2,8 @@
 layout: single
 title:  "Caballo de Fuego: Otros personajes secundarios"
 date:   2022-11-08 12:00:00 +0100
-categories: blog
+categories: 
+    - Caballo de Fuego
 ---
 **OTROS PERSONAJES  SECUNDARIOS:**    
 

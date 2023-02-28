@@ -2,7 +2,8 @@
 layout: single
 title:  "Caballo de Fuego: Orden del Análisis"
 date:   2022-11-02 12:00:00 +0100
-categories: blog
+categories: 
+    - Caballo de Fuego
 ---
 1. Introducción
 2. Biografía de Florencia Bonelli

@@ -1,7 +1,13 @@
 # main links
 main:
   - title: "Inicio"
-    url: https://www.disfrutandolalectura.com
+    url: /
+  - title: "Quienes Somos"
+    url: /blog/quienes-somos
+  - title: "Caballo de Fuego"
+    url: /caballo-de-fuego
+  - title: "La Historia de La Diana"
+    url: /la-historia-de-la-diana
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

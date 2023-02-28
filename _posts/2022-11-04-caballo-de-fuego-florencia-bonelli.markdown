@@ -2,7 +2,8 @@
 layout: single
 title:  "Caballo de Fuego: Florencia Bonelli"
 date:   2022-11-04 12:00:00 +0100
-categories: blog
+categories: 
+    - Caballo de Fuego
 ---
 Es una escritora argentina con más de veinte años en el quehacer literario. Nace en Córdoba, el 5 de mayo de 1971. Hizo carrera como contadora pública hasta que decidió dedicarse a la escritura. Lleva escrito veintidós  libros. Casada con Miguel Ángel Gallo, consultor de empresas al que acompaña en sus viajes de trabajo. Uno de los libros que, según sus propias palabras, la sedujo para dedicarse a la escritura y a este género fue _El árabe_ de Edith Hull. 
 
