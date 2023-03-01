@@ -186,8 +186,7 @@ orales. Después de más de cuatro siglos de ocupación otomana, el
 siguiente hito reseñable en la historia literaria del país es la
 aparición de nombres propios de la literatura bosnia moderna.
 
-![Un puente sobre el Drina](/assets/img/un-puente-sobre-el-drina.jpeg){:width="100"}  
-Por encima de todos, sobresale el de Ivo
+![Un puente sobre el Drina](/assets/img/un-puente-sobre-el-drina.jpeg){:width="100" style="float: right"} Por encima de todos, sobresale el de Ivo
 Andrić, Premio Nobel de Literatura en 1961 por la fuerza épica con la
 que ha reflejado temas y descrito destinos de su Bosnia natal bajo el
 dominio otomano. Una de sus novelas más famosas es *Un puente sobre el
@@ -198,9 +197,7 @@ el puente del Drina, construcción del siglo XVI, inmortalizado por la
 novela del premio Nobel de Literatura Ivo Andrić ´´*.*
 
 Puente del Drina  
-![Puente del Drina](/assets/img/puente-del-drina.jpeg){: width="200"}  
-
-
+![Puente del Drina](/assets/img/puente-del-drina.jpeg){:width="200" style="float: left"} 
 Dentro de Literatura moderna, Meša
 Selimović, fue uno de los escritores más importantes de la literatura
 serbia y de Bosnia y Herzegovina. Su obra *El derviche y la muerte* se
@@ -258,7 +255,7 @@ consistiendo normalmente en huevos fritos, chorizo, salchichas con
 queso, panceta frita y pan de pita que se utiliza para todo.
 
 
-![Huevos revueltos con panceta](/assets/img/comida.jpeg){:width="200"}  
+![Huevos revueltos con panceta](/assets/img/comida.jpeg){:width="200" style="float: right"}
 **Huevos revueltos con panceta**: En la página 715 de *Aquí hay dragones,
 La historia de La Diana I,* en el desayuno lo observamos cuando: ´´La
 Diana preparó huevos revueltos con panceta, que Kovać devoró sin
@@ -270,7 +267,7 @@ muchachas´´.
 de carne picada mezclada con diferentes condimentos según el lugar, y
 cocinada frita, cocida o guisada según la receta.
 
-![Ajvar](/assets/img/ajvar.jpeg){:width="200"}  
+![Ajvar](/assets/img/ajvar.jpeg){:width="200" style="float: left"}
 **Ajvar:** pasta hecha con pimientos
 rojos, berenjenas y pimienta que se convirtió en un plato de
 acompañamiento popular en toda Yugoslavia y en el sudeste de Europa,
@@ -279,7 +276,7 @@ Kovać cuando: ´´untó un pedazo de somun con ajvar y la sorprendió
 entregándoselo. ---Pruebe. Es bueno´´*.* Pág. 364. *Aquí hay dragones.
 La historia de La Diana I.*
 
-![Bečka šnicla](/assets/img/becka-snicla.jpeg){:width="200"}  
+![Bečka šnicla](/assets/img/becka-snicla.jpeg){:width="200" style="float: right"}
 **Bečka šnicla:** son escalopes empanados.
 Se preparan con carne de cerdo o de vaca rellena de kajmak, y se fríe
 con una capa de harina, se sumerge en huevos batidos y se enrolla en pan
@@ -290,7 +287,7 @@ los escalopes cubiertos de pan rallado y fritos, la comida favorita de
 Larysa---´´*.* Pág. 560. *Dime, ¿quién es como Dios*? *La historia de La
 Diana II.*
 
-![Begova čorba](/assets/img/begova-corba.jpg){:width="200"}  
+![Begova čorba](/assets/img/begova-corba.jpg){:width="200" style="float: left"}
 **Begova čorba o sopa del bey:** un típico
 plato bosnio preparado con pollo, quingombó y un poco de harina para
 espesar. El quingombó también se lo conoce como chimbombó, gombo, ocra,
@@ -302,9 +299,7 @@ dragones. La historia de La Diana I.*
 **Bistecs con papas asadas:** se hacen en papel de aluminio y son
 acompañadas con salsa de queso blanco y ciboulette.
 
-**Blinis**
-
-![Blinis](/assets/img/blinis.jpg){:width="200"}  
+![Blinis](/assets/img/blinis.jpg){:width="200" style="float: right"}
 **Blinis:** pequeñas tortitas esponjosas
 que pueden rellenarse de carne. Se puede acompañar de kajmak. En este
 ejemplo, Vuh le ordena a Diana**:** *"*Quiero blinis rellenos de carne.
@@ -319,7 +314,7 @@ Lo vemos en el ejemplo siguiente**: ´´**Cenaron en la casa principal el
 boeuf bourguignon que Laurette había preparado para agasajar a
 Al-Saud´´. Pág. 306. *Aquí hay dragones. La historia de La Diana I.*
 
-![Börek](/assets/img/borek.jpg){:width="200"}  
+![Börek](/assets/img/borek.jpg){:width="200" style="float: left"}
 **Börek:** boreca o bureca es una especie
 de empanada o pastel que está presente en la tradición culinaria de los
 países que formaron parte del Imperio otomano. Se elabora con masa filo
@@ -330,7 +325,7 @@ prepara el mejor börek que yo he probado, lo comía y lo ensalzaba como
 si fuese un manjar´´*.* Pág. 120. *Aquí hay dragones. La historia de La
 Diana I.*
 
-![Borscht](/assets/img/borscht.jpg){:width="200"}  
+![Borscht](/assets/img/borscht.jpg){:width="200" style="float: right"}
 **Borscht o borsch:** es una sopa ​​​ agria
 común en Europa del Este y Asia del Norte. Hecha con remolacha como uno
 de los ingredientes principales, lo que le da al plato su distintivo
@@ -338,7 +333,7 @@ color rojo. En esta cita Diana relata**: ´´**en una ocasión me dormí de
 pie en la cocina mientras ayudaba a Leila a preparar borscht´´. Pág.347. 
 *Aquí hay dragones. La historia de La Diana I.*
 
-![Bosanski lonac](/assets/img/bosanski-lonac.jpg){:width="200"}  
+![Bosanski lonac](/assets/img/bosanski-lonac.jpg){:width="200" style="float: left"}
 **Bosanski lonac:** plato a base de
 estofado. Se colocan en la olla capas alternas de verduras: repollo,
 papas, tomates, zanahorias, perejil y granos de pimienta, y carne de
@@ -349,7 +344,7 @@ Kovać pero**:** ´´No pudo escuchar qué pidió; lo supo al ver el plato
 humeante de bosanski lonac´´*.* Pág. 347. *Aquí hay dragones. La
 historia de La Diana I.*
 
-![Ćevapi](/assets/img/cevapi.jpg){:width="100"}  
+![Ćevapi](/assets/img/cevapi.jpg){:width="100" style="float: right"}
 **Ćevapi o cevapcici:** plato nacional de
 Bosnia. Son salchichas sin piel, que parecen más bien unas albóndigas en
 forma cilíndrica, hechas a base de carne de ternera. El nombre proviene
@@ -359,7 +354,7 @@ cuya carne va en trozos en vez de triturada y amoldada. Ejemplo*:
 ---¡Enseguida vamos! ---contestó´´*.* Pág. 508. *Aquí hay dragones. La
 historia de La Diana I.*
 
-![Galletas de avena](/assets/img/galletas-de-avena.jpg){:width="200"}  
+![Galletas de avena](/assets/img/galletas-de-avena.jpg){:width="200" style="float: left"}
 **Galletas de avena:** los eslavos
 conocían sus propiedades curativas desde la antigüedad. Las galletas de
 avena no solo serán un postre delicioso, sino también un producto que es
@@ -377,7 +372,7 @@ final. En esta cita Foxtrot: ´´disponía los platos para servir el guiso
 de cordero´´. Pág. 613. *Dime, ¿quién es como Dios*? *La historia de La
 Diana II.*
 
-![Guiso de lentejas y carne](/assets/img/guiso-de-lentejas-y-carne.jpg){:width="200"}  
+![Guiso de lentejas y carne](/assets/img/guiso-de-lentejas-y-carne.jpg){:width="200" style="float: right"}
 **Guiso de lentejas y carne:** es un guiso
 muy tradicional que no debe faltar en los días de invierno. La primera
 vez que Diana almuerza con su hija no le resultó fácil hacerla comer el
@@ -393,7 +388,7 @@ observa cuando Admira presentó**:** ´´la jarra con la crema ácida a la
 que llaman kajmak´´*.* Pág. 367. *Aquí hay dragones. La historia de La
 Diana I.*
 
-![Medialiunas](/assets/img/medialiunas.jpg){:width="200"}  
+![Medialiunas](/assets/img/medialiunas.jpg){:width="200" style="float: left"}
 **Medialiunas:** kifla en serbocroata, es
 precursor del croissant. Se hacen cortando láminas de masa de levadura
 suave en trozos triangulares y luego se enrollan en formas de media luna
@@ -401,7 +396,7 @@ que luego se hornean. En esta secuencia Diana: ´´sorbió el café y mordió
 la medialuna bajo la mirada insistente de Kovać, y se sintió mejor´´*.*
 Pág. 440. *Dime, ¿quién es como Dios*? *La historia de La Diana II.*
 
-![Pašteta](/assets/img/pasteta.jpg){:width="200"}  
+![Pašteta](/assets/img/pasteta.jpg){:width="200" style="float: right"}
 **Pašteta:** pasta untable elaborada
 habitualmente a partir de carne picada o hígado y grasa, siendo
 frecuente la adición de verduras, hierbas, especias y vino. En esta cita
@@ -410,7 +405,7 @@ devolver su atención al trozo de pan, que le extendió cuando lo hubo
 cubierto de pašteta. ---Pruébalo, es de atún*.* Muy bueno´´. Pág. 417.
 *Aquí hay dragones. La historia de La Diana I.*
 
-![Pelmeni](/assets/img/pelmeni.jpg){:width="200"}  
+![Pelmeni](/assets/img/pelmeni.jpg){:width="200" style="float: left"}
 **Pelmeni:** es una deliciosa receta rusa
 de masitas que se puede rellenar con cualquier cosa que desees. Es ideal
 para una tarde fría. En la cita La Diana acompañó a Duscha a la
@@ -419,7 +414,7 @@ los suyos habían sido un fracaso, más allá de que Markov hubiese comido
 dos platos y asegurado que eran exquisitos´´. Pág. 1012. *Dime, ¿quién
 es como Dios*? *La historia de La Diana II.*
 
-![Pljeskavica](/assets/img/pljeskavica.jpg){:width="200"}  
+![Pljeskavica](/assets/img/pljeskavica.jpg){:width="200" style="float: right"}
 **Pljeskavica:** comida nacional de los
 serbios, es una hamburguesa de carne de vaca, cerdo y cordero que se
 sirve al plato o en pan (somun) y que se acompaña con una ensalada de
@@ -430,11 +425,11 @@ con la vista fija en la de Izia, que se la devolvía con una expresión
 amigable. ---Pljeskavica? ---tentó la mujer. ---Exacto´´. Pág. 764.
 *Dime, ¿quién es como Dios*? *La historia de La Diana II.*
 
-![Porridge](/assets/img/porridge.jpg){:width="200"}  
+![Porridge](/assets/img/porridge.jpg){:width="200" style="float: left"}
 **Porridge:** gachas de avena. Es uno de los desayunos más populares en
 el mundo anglosajón y países eslavos.
 
-![Rajma](/assets/img/rajma.jpg){:width="200"}  
+![Rajma](/assets/img/rajma.jpg){:width="200" style="float: right"}
 **Rajma:** es un popular plato vegetariano
 del norte de la India consistente en judías rojas en un curry espeso con
 muchas especias enteras, que suele servirse con arroz. En esta cita:
@@ -442,7 +437,7 @@ muchas especias enteras, que suele servirse con arroz. En esta cita:
 batallón´´*.* Pág. 480. *Aquí hay dragones. La* *historia de La Diana
 I.*
 
-![Sarma](/assets/img/sarma.jpg){:width="200"}  
+![Sarma](/assets/img/sarma.jpg){:width="200" style="float: left"}
 **Sarma:** se trata de una comida de
 origen árabe. Es un alimento envuelto con hojas de vid o de repollo, ​
 muy común en los Balcanes y áreas adyacentes. Lleva carne picada que
@@ -453,7 +448,7 @@ algunas de las hierbas locales.
 **Somun o lepinje:** pan chato sin levadura con el que se comía el
 ćevapi. Se parece al pan de pita, que viene con un plato de cevapi.
 
-![Urnebes](/assets/img/urnebes.jpg){:width="200"}  
+![Urnebes](/assets/img/urnebes.jpg){:width="200" style="float: right"}
 **Urnebes:** es un tipo de ensalada
 característica de la cocina serbia prominente en la ciudad de Niš y el
 sur de Serbia. Está hecho de queso blanco y chiles picantes, con sal y
@@ -464,7 +459,7 @@ Swift.**
 
 **Dulces:**
 
-![Baklava](/assets/img/baklava.jpg){:width="200"}  
+![Baklava](/assets/img/baklava.jpg){:width="200" style="float: left"}
 **Baklava, baklawa o baclava:** se remonta
 a la antigua Mesopotamia. En el [siglo
 XV](https://es.wikipedia.org/wiki/Siglo_XV),
@@ -477,7 +472,7 @@ debilidad. ---Por eso la preparamos, Laza, porque sabemos que es tu
 debilidad. ¿Usted también quiere baklava?´´ Pág. 373. *Aquí hay
 dragones. La* *historia de La Diana I.*
 
-![Budín con pasas](/assets/img/budin-con-pasas.jpg){:width="200"}  
+![Budín con pasas](/assets/img/budin-con-pasas.jpg){:width="200" style="float: right"}
 **Budín con pasas:** el budín de pan
 casero, conocido también como torta de pan o pudin de pan duro, es uno
 de los postres más populares en todo el mundo. En esta secuencia, Diana
@@ -485,14 +480,14 @@ le dice en su primer encuentro con Kovać: ´´---Es usted goloso
 ---manifestó La Diana. Hoy, mientras comía el budín, lo observaba
 disfrutar´´. Pág. 373. *Aquí hay dragones*. *La historia de La Diana I.*
 
-![Galletas de manteca y avena](/assets/img/galletas-de-manteca-y-avenas.jpg){:width="200"}  
+![Galletas de manteca y avena](/assets/img/galletas-de-manteca-y-avenas.jpg){:width="200" style="float: left"}
 **Galletas de manteca y avena:** son
 elaboradas con avena, manteca y leche. En la siguiente secuencia La
 Diana y Larysa: **´´**transcurrieron la tarde en la cocina de Anica
 preparando galletas de manteca y avena´´. Pág. 682. *Dime, ¿quién
 es como Dios*? *La historia de La Diana II*.
 
-![Gibanica](/assets/img/gibanica.jpg){:width="200"}  
+![Gibanica](/assets/img/gibanica.jpg){:width="200" style="float: right"}
 **Gibanica:** tarta de queso y masa filo
 que se rellena con semillas de calabaza molidas. Diana se acuerda en su
 diario que recibieron a su abuela con un almuerzo y esta tarta: ´´La
@@ -509,7 +504,7 @@ con las manos cargadas de juguetes, que soltaron para servirse los
 apetitosos mantis´´*.* Pág. 444. *Dime, ¿quién es como Dios*? *La
 historia de La Diana II.*
 
-![Petit four](/assets/img/petit-four.jpg){:width="200"}  
+![Petit four](/assets/img/petit-four.jpg){:width="200" style="float: left"}
 **Petit four:** es un pastel de pequeño tamaño de la repostería
 francesa. Son de forma recortada, elaborados con pastel genovés, a veces
 cubierto con una capa de fondant de chocolate.
@@ -522,7 +517,7 @@ como Dios*? *La historia de La Diana II.*
 
 **Torta monte**: receta famosa de la pastelería serbia.
 
-![Tulumbas](/assets/img/tulumbas.jpg){:width="200"}  
+![Tulumbas](/assets/img/tulumbas.jpg){:width="200" style="float: right"}
 **Tulumbas:** típicas masas fritas de la
 cocina bosnia. De ahí, su dorado parejo y brillante. Son de forma
 ovoides, acanaladas y bañadas en almíbar y recubierta por una crema de
@@ -538,7 +533,7 @@ Pág. 397. *Aquí hay dragones. La historia de La Diana I.*
 
 **Bebidas: a**lgunas de las bebidas típicas bosnias son:
 
-![Bosanska kafa](/assets/img/bosanska-kafa.jpg){:width="200"}  
+![Bosanska kafa](/assets/img/bosanska-kafa.jpg){:width="200" style="float: left"}
 **Bosanska kafa:** el café de Bosnia es
 muy aromático y espeso. Se sirve con su borra, la cual queda en el fondo
 de la taza, y no se remueve. Hay influencia turca en el café de Bosnia.
@@ -558,7 +553,7 @@ caminó directo hacia la bandeja con bebidas. Se escanció un vaso de
 šljivovica´´*.* Pág. 797. *Dime, ¿quién es como Dios*? *La historia de
 La Diana II.*
 
-![Viljamovka](/assets/img/viljamovka.jpg){:width="200"}  
+![Viljamovka](/assets/img/viljamovka.jpg){:width="200" style="float: right"}
 **Viljamovka:** nombre de un aguardiente
 elaborado con la pera Williams la cual tiene un sabor dulce como la
 miel. Se obtiene tras un cuidadoso proceso de fermentación y destilación
