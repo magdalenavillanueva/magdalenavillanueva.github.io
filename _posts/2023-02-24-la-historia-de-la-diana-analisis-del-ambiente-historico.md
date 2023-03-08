@@ -5,12 +5,11 @@ date:   2023-02-24 12:00:00 +0100
 categories: 
     - La Historia de La Diana
 ---
-> **Quizá la más grande lección de la historia es que nadie aprendió las
-> lecciones de la historia. Aldous Leonard Huxley.**
+> Quizá la más grande lección de la historia es que nadie aprendió las lecciones de la historia. Aldous Leonard Huxley.
 
-**AMBIENTE HISTÓRICO: Asesinato del Archiduque y su esposa**
+**Asesinato del Archiduque y su esposa**
 
-![](media/image1.jpeg){width="2.5520833333333335in" height="3.09375in"}
+![Asesinato del Archiduque y su esposa](/assets/img/asesinato-del-archiduque.jpg){:width="200" style="float: right"}  
 La intrincada historia de Yugoslavia**:** primero la del reino, luego la
 de la república, nos hace comprender los padecimientos durante la guerra
 bosnia. Siempre fue una región asolada por la violencia. En Sarajevo
@@ -77,11 +76,8 @@ iban a explotar, porque como dijo una vez Sir Winston Churchill: *los
 Balcanes producen más historia de la que pueden digerir.*
 
 **Conflictos que llevaron a la desintegración de Yugoslavia:**
-
-**Yugoslavia**
-
-![](media/image2.png){width="1.3076388888888888in"
-height="1.5131944444444445in"} Las Guerras Yugoslavas fueron más de
+![Yugoslavia](/assets/img/yugoslavia.png){:width="100" style="float: right"}  
+Las Guerras Yugoslavas fueron más de
 siete conflictos que, buscaban la independencia de las distintas
 repúblicas del poder serbio, y se sucedieron entre 1991 y 2001. Estos
 conflictos, obedecieron a causas políticas, económicas y culturales, así
@@ -111,11 +107,8 @@ Túnel de Sarajevo para la ayuda humanitaria, alimentos, combustible y
 electricidad.
 
 **¿Qué ocurría en interior de la Bosnia en guerra?**
-
-**Bosnia**
-
-![](media/image3.png){width="1.6166666666666667in"
-height="1.1166666666666667in"} La prensa internacional centraba su
+![Bosnia](/assets/img/bosnia.png){:width="200" style="float: right"}  
+La prensa internacional centraba su
 atención en los horrores causados por el ataque a la capital, sin
 mostrar el interior de la Bosnia en guerra, donde los serbios se
 ensañaban con civiles indefensos. Uno de esos fue el periodista
@@ -173,12 +166,10 @@ para nada y que es indispensable que las haya. Eugene Ionesco.**
 
 En la medida que nos adentramos en la bilogía, la autora nos pasea por
 monumentos y sitios históricos. El comienzo de la historia es en
-Sarajevo la capital Bosnia y Herzegovina y empieza en**:**
-
-**Baščaršija**
-
-![](media/image4.jpeg){width="1.6604166666666667in"
-height="1.2395833333333333in"}**Baščaršija:** bazar y centro histórico y
+Sarajevo la capital Bosnia y Herzegovina y empieza en:  
+  
+![Baščaršija](/assets/img/bascarsija.jpg){:width="200" style="float: right"}
+**Baščaršija:** bazar y centro histórico y
 cultural de la capital de Bosnia y Herzegovina, construido bajo el
 dominio otomano. Está situado en la orilla norte del río Miljacka, en el
 municipio de Stari Grad.​​​ En el área de Baščaršija hay edificios
@@ -186,19 +177,13 @@ históricos importantes como la Mezquita de Gazi Husrev-Beg, la Mezquita
 del Emperador, los baños turcos de Isa-bey, el ayuntamiento Vijećnica,
 la fuente pública Sebilj, entre otros.
 
-**Gazi Husrev-beg**
-
-![](media/image5.jpeg){width="1.3958333333333333in"
-height="1.1215277777777777in"}
-
+![Gazi](/assets/img/gazi.jpg){:width="200" style="float: right"}
 **Gazi Husrev-beg:** fue construida en el siglo XVI, es la mezquita
 histórica más grande de Bosnia y Herzegovina y una de las estructuras
-más representativas de los Balcanes.
-
-**Ferhadija**
-
-![](media/image6.jpeg){width="1.9319444444444445in"
-height="1.45in"}**Ferhadija:** calle peatonal y una de las arterias
+más representativas de los Balcanes.  
+  
+![Ferhadija](/assets/img/ferhadija.jpg){:width="200" style="float: right"}
+**Ferhadija:** calle peatonal y una de las arterias
 principales de [Sarajevo](https://es.wikipedia.org/wiki/Sarajevo), que
 corre de este a oeste por el centro histórico de la ciudad, en la
 municipalidad de Stari Grad, y conecta a la calle Maršala Tita, también
@@ -210,53 +195,43 @@ formó en torno a
 la [mezquita](https://es.wikipedia.org/wiki/Mezquita) Ferhadija,
 construida por Ferhad-beg Vuković Desisalić. En este ejemplo vemos como
 Diana y Lazar**:** ´´recorrieron de la mano la calle comercial
-Ferhadija, y aunque el frío era intenso ellos no parecían notarlo. Pág.
-560. *Aquí hay dragones. La historia de la Diana I.*
+Ferhadija, y aunque el frío era intenso ellos no parecían notarlo. Pág. 560. 
+*Aquí hay dragones. La historia de la Diana I.*  
 
-**Iglesia de la Santa Transfiguración**
-
-![](media/image7.jpeg){width="2.3381944444444445in"
-height="1.7444444444444445in"}**Iglesia de la Santa Transfiguración:**
+![Iglesia de la Santa Transfiguración](/assets/img/iglesia-de-la-santa-transfiguraci%C3%B3n.jpg){:width="200" style="float: right"}
+**Iglesia de la Santa Transfiguración:**
 es una iglesia ortodoxa serbia de estilo románico. Está situada en Novo
 Sarajevo, Sarajevo,​ Bosnia y Herzegovina, fue construida en 1940 por
 Aleksandar Deroko y consagrada por el Patriarca Gavrilo V de Serbia.
 Durante las guerras yugoslavas, la iglesia sufrió graves daños. Es el
 sitio donde Diana descubre que Lazar es sacerdote y entablan su primera
 conversación el 18 de diciembre del 2000, y donde él había residido
-hasta abandonar su vida sacerdotal por ella.
+hasta abandonar su vida sacerdotal por ella.  
 
-**Maršala Tita**
-
-![](media/image8.jpeg){width="2.106521216097988in"
-height="1.5833333333333333in"}**Maršala Tita:** es una de las calles
+![Maršala Tita](/assets/img/marsala-tita.jpg){:width="200" style="float: right"}
+**Maršala Tita:** es una de las calles
 principales de Sarajevo. La calle lleva el nombre de Josip Broz Tito, ex
 presidente de Yugoslavia. En la cita vemos a: ´´Kovać conduciendo a más
 de noventa kilómetros por hora por una Maršala Tita humedecida y
 resbaladiza debido a la escarcha´´. Pág. 675. *Aquí hay dragones. La
 historia de la Diana I.*
 
-> **Torre del reloj**
-
-![](media/image9.jpeg){width="0.725in"
-height="1.0854166666666667in"}**Sahat-kula o la torre del reloj:** es la
+![Torre del reloj](/assets/img/torre-del-reloj.jpg){:width="100" style="float: right"}
+**Sahat-kula o la torre del reloj:** es la
 única torre del reloj en el mundo que mantiene la hora lunar. Está
 ubicada al lado de la Mezquita Gazi Husrev-beg y es la más alta de las
 21 torres de reloj construidas en el país con 30 m.
 
-**Puente Latino**
-
-![](media/image10.jpeg){width="2.1972222222222224in"
-height="1.4583333333333333in"}**Puente Latino:** es un histórico puente
+![Puente Latino](/assets/img/puente-latino.jpg){:width="200" style="float: right"}
+**Puente Latino:** es un histórico puente
 otomano sobre el Río Miljacka situado en Sarajevo, Bosnia y Herzegovina.
 Como hemos dicho con anterioridad, ahí se produjo en 1914 el asesinato
 del Archiduque Francisco Fernando Carlos Luis José María de
 Habsburgo-Lorena y Sofia Chotek. Es el más antiguo de los puentes que se
 conservan en la ciudad.
 
-**Vječna Vatra**
-
-![](media/image11.jpeg){width="1.4493055555555556in"
-height="1.8583333333333334in"}**Monumento Vječna Vatra:** o la llama
+![Vječna Vatra](/assets/img/vjecna-vatra.jpg){:width="100" style="float: right"}
+**Monumento Vječna Vatra:** o la llama
 eterna es un monumento a las víctimas militares y civiles de la Segunda
 Guerra Mundial en Sarajevo, Bosnia y Herzegovina. El monumento se
 realizó el 6 de abril de 1946, en el primer aniversario de la liberación
@@ -267,29 +242,23 @@ conmigo (y remarcó que solo conmigo) mañana por la noche, a las nueve.
 ---¿Dónde? ---En el Vječna Vatra´´. Pág. 584. *Aquí hay dragones. La
 historia de la Diana I.*
 
-**Museo Histórico**
-
-![](media/image12.jpeg){width="0.8027777777777778in"
-height="0.6020833333333333in"}**Museo Histórico:** está ubicado cerca
+![Museo Histórico](/assets/img/museo-historico.jpg){:width="100" style="float: right"}
+**Museo Histórico:** está ubicado cerca
 del Puente Latino en el centro de Sarajevo.
 
 **Zmaja od Bosne:** o Dragón de Bosnia. Es un bulevar amplio y muy
 transitado, una de las arterias de la ciudad. Durante la guerra había
 sido el principal pasaje de francotiradores.
 
-**Cementerio Judío**
-
-![](media/image13.jpeg){width="1.8791666666666667in"
-height="1.2569444444444444in"}**Cementerio Judío:** se encuentra en el
+![Cementerio Judío](/assets/img/cementerio-judio.jpg){:width="200" style="float: right"}
+**Cementerio Judío:** se encuentra en el
 Monte Trebevic, en el suroeste de Sarajevo, Bosnia y Herzegovina. Se usó
 desde principios del siglo XVI hasta 1966. Establecido por los judíos
 sefardíes, también se convirtió en el lugar de entierro de judíos
 askenazíes en el siglo XIX.
 
-**Facultad de Filosofía**
-
-![](media/image14.jpeg){width="2.2916666666666665in"
-height="1.7222222222222223in"}**Facultad de Filosofía:** fue diseñada
+![Facultad de Filosofía](/assets/img/facultad-de-filosofia.jpg){:width="200" style="float: right"}
+**Facultad de Filosofía:** fue diseñada
 por Juraj Neidhardt entre 1955-1959. Se estableció en el post-Período de
 la Segunda Guerra Mundial en 1950. Es la más antigua y una de las
 facultades más destacadas de la Universidad de Sarajevo. Es donde da
@@ -298,51 +267,39 @@ Facultad de Filosofía ---aclaró él---. Queda muy cerca de la
 Transfiguración. Termino a las siete´´. Pág. 474. *Aquí hay dragones. La
 historia de la Diana I.*
 
-**Hotel Europa**
-
-![](media/image15.jpeg){width="1.8743055555555554in"
-height="1.4in"}**Hotel Europe:** es un hotel histórico en el
+![Hotel Europe](/assets/img/hotel-europa.jpg){:width="200" style="float: right"}
+**Hotel Europe:** es un hotel histórico en el
 centro [Sarajevo](https://wikioes.icu/wiki/Sarajevo). Construido y
 abierto en los primeros días de lo que resultó ser 40 años de ocupación
 austro-húngara. Era propiedad de la familia Jeftanović, posteriormente
 fue nacionalizado por las nuevas autoridades comunistas. En 2006 fue
 privatizado.
 
-**Holiday Inn**
-
-![](media/image16.jpeg){width="1.8245680227471566in"
-height="1.2166666666666666in"}**Holiday Inn:** este icónico hotel
+![Holiday Inn](/assets/img/holiday-inn.jpg){:width="200" style="float: right"}
+**Holiday Inn:** este icónico hotel
 pertenece al realismo socialista. Fue diseñado por el arquitecto Ivan
 Straus. Este cubo amarillo y marrón, construido para las Olimpiadas
 Invernales del 84 fue conocido durante el sitio de Sarajevo por haberse
 convertido en la sede de la prensa internacional y en el blanco de los
 francotiradores serbios.
 
-**Puente del Drina**
-
-![](media/image17.jpeg){width="1.7722222222222221in"
-height="1.3166666666666667in"}**Puente del Drina:** se encuentra en
+![Puente del Drina](/assets/img/puente-del-drina.jpeg){:width="200" style="float: right"}
+**Puente del Drina:** se encuentra en
 Višegrad, o Visegrado, una pequeña ciudad. El visir turco Mehmed Pashá
 Sokolovic fue quien levantó el puente sobre el Drina, entre los años
 1571 y 1577 del siglo XVI. El arquitecto del imperio otomano, Sinan, se
 ocupó de su escultórico diseño.
 
-**Iglesia de la Dormición**
-
-> **de la Virgen**
-
-![](media/image18.jpeg){width="1.3055555555555556in"
-height="1.7381944444444444in"}**Iglesia de la Dormición de la Virgen:**
+![Iglesia de la Dormición de la Virgen](/assets/img/iglesia-de-la-dormicion.jpg){:width="100" style="float: right"}
+**Iglesia de la Dormición de la Virgen:**
 este monumento nacional se encuentra en el municipio de Čajniče, al este
 de Foča. Fue construida entre 1857 y 1853. Es una iglesia típicamente
 rusa, cuyo campanario terminaba en una cúpula acebollada de cobre. Allí
 se esconden Lazar, Diana y todo el grupo perseguido por la banda de
 traficantes.
 
-**Rosas de Sarajevo**
-
-![](media/image19.jpeg){width="1.53125in"
-height="2.0416666666666665in"}**Rosas de Sarajevo:** son marcas en el
+![Rosas de Sarajevo](/assets/img/rosas-de-sarajevo.jpg){:width="100" style="float: left"}
+**Rosas de Sarajevo:** son marcas en el
 asfalto de las calles y veredas de Sarajevo, causadas por la explosión
 de morteros y proyectiles durante el sitio de Sarajevo, que fueron
 rellenadas con resina roja en recuerdo de las víctimas fatales.​ Fueron
@@ -350,10 +307,8 @@ perdiendo su color y quedaron de un tinte rosado, y por su forma se
 asemejan a rosas. Con el avance del progreso y la reconstrucción de la
 ciudad, muchas Rosas de Sarajevo fueron desapareciendo.
 
-**Túnel de Sarajevo**
-
-![](media/image20.jpeg){width="3.0194444444444444in"
-height="2.2666666666666666in"}**Túnel de Sarajevo:** es el nombre que
+![Túnel de Sarajevo](/assets/img/tunel-de-sarajevo.jpg){:width="200" style="float: right"}
+**Túnel de Sarajevo:** es el nombre que
 recibe un túnel que fue construido entre el 1 de marzo y el 1 de julio
 de 1993, durante el asedio de Sarajevo y en medio de la guerra de
 Bosnia. Fue hecho a mano durante cuatro meses y cuatro días por el
@@ -363,10 +318,8 @@ con el territorio bosnio en el otro lado del aeropuerto de Sarajevo, una
 zona controlada por las Naciones Unidas. Esta obra fue fundamental para
 la resistencia de los bosnios.
 
-**Avenida de los Francotiradores**
-
-![](media/image21.jpeg){width="2.2194444444444446in"
-height="1.4722222222222223in"}**Avenida de los Francotiradores: f**ue el
+![Avenida de los Francotiradores](/assets/img/avenida-de-los-francotiradores.jpg){:width="200" style="float: right"}
+**Avenida de los Francotiradores:** fue el
 nombre que se le dio al Bulevar Mese Selimovica, una céntrica avenida de
 Sarajevo, cerca del Río Miljacka, la cual, durante la Guerra de Bosnia
 (1992-1995), fue tomada por francotiradores serbios que disparaban a
@@ -380,10 +333,8 @@ los que las mujeres vivían en condiciones infrahumanas. Estuvieron
 repartidos por todo el territorio bosnio como parte de su programa de
 limpieza étnica.
 
-**Monumento conmemorativo**
-
-![](media/image22.jpeg){width="2.142361111111111in"
-height="1.6111111111111112in"}**Jasenovac:** fue el mayor campo de
+![Jasenovac](/assets/img/monumento-conmemorativo.jpg){:width="200" style="float: right"}
+**Jasenovac:** fue el mayor campo de
 exterminio de Croacia durante la Segunda Guerra Mundial, situado en una
 zona pantanosa a orillas del río Sava. Fue establecido por el régimen
 Ustacha en agosto de 1941, y fue desmantelado en abril de 1945. El mayor
@@ -391,10 +342,8 @@ número de víctimas fueron los serbios, también perecieron judíos,
 eslovenos, gitanos, musulmanes bosnios, comunistas, y partisanos de
 Tito.
 
-**Mercado Markale**
-
-![](media/image23.jpeg){width="2.979861111111111in"
-height="2.225in"}**Masacres en el Markale de Sarajevo:** fueron dos
+![Masacres en el Markale de Sarajevo](/assets/img/mercado-markale.jpg){:width="200" style="float: right"}
+**Masacres en el Markale de Sarajevo:** fueron dos
 bombardeos perpetrados por el Ejército de la República Srpska ​ contra
 objetivos civiles durante el sitio de Sarajevo. Tuvo lugar en el mercado
 de Markale, ubicado en el centro histórico de Sarajevo. La primera
@@ -403,29 +352,23 @@ La segunda tuvo lugar el 28 de agosto de 1995, cuando impactos de
 mortero mataron a 43 personas. En esta segunda masacre muere Momo,
 cuando fue impactado por la artillería serbia.
 
-**Srebrenica**
-
-![](media/image24.png){width="2.1680555555555556in"
-height="2.3333333333333335in"}**Masacre de Srebrenica:** asesinato de
+![Srebrenica](/assets/img/srebrenica.png){:width="200" style="float: right"}
+**Masacre de Srebrenica:** asesinato de
 8.000 musulmanes bosnios en la región de Srebrenica, en julio de 1995,
 durante la Guerra de Bosnia y llevado a cabo por unidades del Ejército
 de la República Srpska, bajo el mando del general Ratko Mladić. Se
 produjo en una zona declarada como segura por las Naciones Unidas, que
 se encontraba bajo la protección de 400 cascos azules holandeses.
 
-**Oficina central del correo**
-
-![](media/image25.jpeg){width="2.7291666666666665in"
-height="1.5347222222222223in"}**Oficina central del correo:**
+![Oficina central del correo](/assets/img/oficina-central-del-correo.jpg){:width="200" style="float: right"}
+**Oficina central del correo:**
 emblemático edificio de la época en que Bosnia había pertenecido al
 Imperio Austrohúngaro. Observamos como Lazar y Diana: ´´se dirigieron a
 la oficina central del correo; Kovać necesitaba despachar con urgencia
 una carta´´. Pág. 405 *Aquí hay dragones. La historia de la Diana I.*
 
-> **Tranvías**
-
-![](media/image26.jpeg){width="3.0319444444444446in"
-height="2.0166666666666666in"}**Tranvías:** la red de tranvías de
+![Tranvías](/assets/img/tranvias.jpg){:width="200" style="float: right"}
+**Tranvías:** la red de tranvías de
 Sarajevo es una de las más antiguas de Europa. Hay seis líneas de
 tranvía complementadas con cinco de trolebús. En el ejemplo observamos a
 Diana que**: ´´**caminó con él hasta la parada del tranvía a pocos
