@@ -37,19 +37,21 @@ categories:
     Personajes de la trilogía Caballo de fuego que aparecen en la
     historia de la Diana I y II.
 
-8.  Epígrafes en los libros de Florencia Bonelli: Aquí hay Dragones y
+8. Duga Sarajevo
+
+9.  Epígrafes en los libros de Florencia Bonelli: Aquí hay Dragones y
     Dime, ¿quién es como Dios?
 
-9.  Epígrafes en Aquí hay Dragones de La historia de la Diana I.
+10.  Epígrafes en Aquí hay Dragones de La historia de la Diana I.
 
-10. Epígrafes de Dime, ¿quién es como Dios? de La historia de la Diana II.
+11. Epígrafes de Dime, ¿quién es como Dios? de La historia de la Diana II.
 
-11. Música, comida, bebidas y Literatura Bosnia.
+12. Música, comida, bebidas y Literatura Bosnia.
 
-12. Ambiente Histórico: Asedio a Sarajevo. ¿Qué ocurría en interior de
+13. Ambiente Histórico: Asedio a Sarajevo. ¿Qué ocurría en interior de
     la Bosnia en guerra? ¿Qué sucede el 18 de diciembre del 2000 en
     nuestra historia? Monumentos y sitios históricos que van apareciendo
     en el desarrollo de la bilogía**:** Aquí hay dragones y Dime, ¿quién
     es como Dios?
 
-13. Ambiente Físico.
+14. Ambiente Físico.

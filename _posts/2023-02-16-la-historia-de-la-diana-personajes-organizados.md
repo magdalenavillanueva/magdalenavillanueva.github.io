@@ -476,8 +476,8 @@ enamorada de Lazar. En el primer libro, Izia es un personaje
 referencial. Lazar cree que fue asesinada por Ilić. En el segundo libro
 es la dra Ilić. Kovać expresa en estas palabras lo que significó para
 él: ´´Fuiste mi primer amor, la persona que me salvó del infierno en el
-que caí el día en que mi madre murió. Te debo la vida, Izia´´*.* Pág.
-790. *Dime ¿Quién es cómo Dios?. La historia de la Diana II.*
+que caí el día en que mi madre murió. Te debo la vida, Izia´´*.* Pág. 790. 
+*Dime ¿Quién es cómo Dios?. La historia de la Diana II.*
 
 **Familia Mesić:** compuesta por los hermanos: **Ivo** y **Branislav/
 Brano**. Son serbios. Llegaron a las inmediaciones de Ilidža, una

@@ -18,3 +18,4 @@ pandoc "filename.docx" -f docx -t markdown -o "filename.md"
 ## Next Steps
 - Buscar manera de agregar las sangrias
 - Ajustar las imagenes para ponerlas "en linea"
+
