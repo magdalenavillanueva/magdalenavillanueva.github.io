@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "La Historia de la Diana: Análisis del ambiente histórico"
-date:   2023-02-24 12:00:00 +0100
+date:   2023-02-23 12:00:00 +0100
 categories: 
     - La Historia de La Diana
 ---

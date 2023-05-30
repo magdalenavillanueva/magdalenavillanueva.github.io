@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "La Historia de la Diana: Análisis de los Epígrafes de La Historia de La Diana I"
-date:   2023-02-19 12:00:00 |0100
+date:   2023-02-20 12:00:00 |0100
 categories: 
     - La Historia de La Diana
 ---

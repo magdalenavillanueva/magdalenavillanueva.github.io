@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "La Historia de la Diana: Personajes Organizados"
-date:   2023-02-16 12:00:00 +0100
+date:   2023-02-18 12:00:00 +0100
 categories: 
     - La Historia de La Diana
 excerpt: "Un puñado de personajes literarios han marcado mi vida de manera más durable que buena parte de los seres de carne y hueso que he conocido"
