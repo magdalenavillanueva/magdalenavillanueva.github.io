@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de Larysa/Lary Mariyana Ilić Huseinovic"
+title:  "La Historia de la Diana: Análisis de Mariyana Huseinovic"
 date:   2023-02-13 12:00:00 +0100
 categories: 
     - La Historia de La Diana
