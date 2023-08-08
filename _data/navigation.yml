@@ -8,6 +8,8 @@ main:
     url: /caballo-de-fuego
   - title: "La Historia de La Diana"
     url: /la-historia-de-la-diana
+  - title: "La Centuria"
+    url: /la-centuria
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

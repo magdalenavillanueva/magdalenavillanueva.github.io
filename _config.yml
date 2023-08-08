@@ -20,8 +20,7 @@ title                    : "Disfrutando la lectura"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Maria Magdalena Villanueva"
-description              : "Acompáñanos a nuestra primera página web y seguiremos
-descubriendo el mundo real."
+description              : "Acompáñanos a nuestra primera página web y seguiremos descubriendo el mundo real."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -131,7 +130,7 @@ author:
       # url: "https://www.instagram.com/marimvillanueva/"
     - label: "¿Quienes Somos?"
       icon: "fas fa-fw fa-link"
-      url: "https://disfrutandolalectura.com/blog/quienes-somos/"
+      url: "https://disfrutandolalectura.com/about%20us/quienes-somos/"
 
 # Site Footer
 # footer:
