@@ -3,7 +3,7 @@ main:
   - title: "Inicio"
     url: /
   - title: "Quienes Somos"
-    url: /blog/quienes-somos
+    url: /about%20us/quienes-somos
   - title: "Caballo de Fuego"
     url: /caballo-de-fuego
   - title: "La Historia de La Diana"
