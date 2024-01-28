@@ -89,8 +89,7 @@ ella. De hecho, no la concebía sin ella.
 El nacionalista bosnio Gavrilo Princip
 asesinó al archiduque Francisco Fernando, heredero al trono del Imperio
 austrohúngaro y a su esposa, la archiduquesa Sofía, a unos cuatrocientos
-metros del Vijećnica**,** el Ayuntamiento de Sarajevo el 28 de junio de
-1914. Austria le declara la guerra a Serbia. Estos sucesos, dieron
+metros del Vijećnica**,** el Ayuntamiento de Sarajevo el 28 de junio de 1914. Austria le declara la guerra a Serbia. Estos sucesos, dieron
 inicio a las hostilidades, que comenzaron en agosto de 1914. Ante estos
 acontecimientos desatados, Walter iba a ir a la guerra. Estaba dispuesto
 a morir por Alemania.

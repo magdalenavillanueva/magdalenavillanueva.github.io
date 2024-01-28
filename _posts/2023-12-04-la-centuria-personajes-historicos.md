@@ -98,10 +98,10 @@ En Alemania van apareciendo en el desarrollo de la trama**:**
 -   **Príncipe Karl Lichnowsky:** es un diplomático que fue embajador
     alemán en Londres. Profetizó que el Reich no podría ganar la guerra.
 
--   **Mariscal de campo Paul von Hindenburg: militar, estadista y
+-   **Mariscal de campo Paul von Hindenburg**: militar, estadista y
     político alemán que dirigió en gran parte la política de Alemania
     durante la segunda mitad de la Primera Guerra Mundial y ejerció como
-    presidente de Alemania desde 1925 hasta su muerte en 1934.**
+    presidente de Alemania desde 1925 hasta su muerte en 1934.
 
 
 -   **General de infantería Erich Ludendorff:** general alemán durante

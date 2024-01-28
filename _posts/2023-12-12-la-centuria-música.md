@@ -397,8 +397,7 @@ control. Fue prohibida por el régimen ruso. En el ejemplo observamos, lo
 que le sucede a la gente que trata de introducir literatura proscrita
 por el régimen comunista: ´´Bodián era un cantante de ópera al que
 habían sorprendido pasando a escondidas dos ejemplares de Doctor
-Zhivago. En esos momentos se encontraba en un campo de trabajo´´*.* Pág.
-66. *El umbral de la eternidad. Trilogía The Century 3.*
+Zhivago. En esos momentos se encontraba en un campo de trabajo´´*.* Pág. 66. *El umbral de la eternidad. Trilogía The Century 3.*
 
 ***Moby Dick*** de Herman Melville: es la narración del marinero Ismael
 sobre la búsqueda de Ahab, capitán del barco ballenero Pequod, para
