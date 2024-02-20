@@ -10,6 +10,8 @@ main:
     url: /la-historia-de-la-diana
   - title: "La Centuria"
     url: /la-centuria
+  - title: "Aquitania"
+    url: /aquitania
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
