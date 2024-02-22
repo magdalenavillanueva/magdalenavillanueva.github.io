@@ -5,11 +5,10 @@ date: 2023-02-04 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-![](media/image1.png){width="8.483333333333333in"
-height="6.362501093613298in"}
+![Eleanor/Lía de Aquitania](/assets/img/2dda041b-57f9-460f-bb9d-26e46dab4de9.png)
 
-![](media/image2.jpeg){width="2.6729166666666666in"
-height="1.7680555555555555in"} Se conoce como una niña precoz, que
+
+![Eleanor/Lía de Aquitania](/assets/img/c5c82a96-ef21-46ee-a3c8-5e62167984b5.jpg){:width="200" style="float: right"} Se conoce como una niña precoz, que
 dominaba el latín, el inglés, la lengua de oc y la lengua de oíl que
 hablaban en la corte francesa de París. Era la mejor cetrera de su edad,
 gustaba de ir de caza y las siete artes del conocimiento no eran ningún
@@ -23,8 +22,7 @@ ducado de Aquitania y Guyena y condesa de Gascuña, tras la muerte de su
 hermano Aigret. Su abuelo decidió llamarla Alia Aenor, Eleanor: *la otra
 Aenor* para diferenciarla de su madre.
 
-![](media/image3.jpeg){width="1.5881944444444445in"
-height="2.066666666666667in"}Es hija de Guillermo X, duque de Aquitania,
+![Eleanor/Lía de Aquitania](/assets/img/6cae66b9-7406-4a6f-9b26-acd51e78e097.jpg){:width="200" style="float: left"}Es hija de Guillermo X, duque de Aquitania,
 y de Leonor de Châtellerault. Su padre le enseñó desde los ocho años a
 tomar decisiones que favorecieran la fortuna y el patrimonio de los
 aquitanos. En Burdeos, el 4 de julio de 1137, contrajo matrimonio a los
@@ -39,7 +37,7 @@ rasgados**´´**. Pág. 244. *Aquitania* de Eva García Sáenz de Urturi.
 
 **Eleanor y Luy VII**
 
-![](media/image4.jpeg){width="1.675in" height="1.6583333333333334in"}Las
+![Eleanor y Lui VII](/assets/img/e9e63f6d-e233-4be6-a653-bff976feacfa.jpg){:width="200" style="float: left"}Las
 tensiones entre la pareja empezaron, cuando la reina apoyó el matrimonio
 ilegítimo de su hermana Aelith con el conde Ralf de Vermandois. Eleanor
 es insumisa, audaz, intrépida y valiente. Además, su comportamiento
@@ -49,10 +47,7 @@ por su propia suegra, Adelaida de Saboya. Sin embargo, nada de esto le
 importó al soberano francés, que estaba locamente enamorado de su
 esposa.
 
-**Segunda cruzada**
-
-![](media/image5.png){width="1.9201388888888888in"
-height="2.071527777777778in"}En 1147, los jóvenes esposos marcharon a la
+![Segunda cruzada](/assets/img/e9e63f6d-e233-4be6-a653-bff976feacfa.jpg){:width="200" style="float: left"}En 1147, los jóvenes esposos marcharon a la
 Segunda Cruzada, movidos por la predicación de Bernardo de Claraval. El
 rey no permitió de buen grado que Leonor lo acompañara, pero ella, con
 su carácter voluntarioso e indómito, rompe con las normas y costumbres y

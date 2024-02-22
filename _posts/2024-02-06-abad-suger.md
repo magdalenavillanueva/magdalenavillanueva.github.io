@@ -5,10 +5,8 @@ date: 2023-02-06 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-**Suger de Saint-Denis**
-
-![](media/image1.jpeg){width="1.025in"
-height="2.282638888888889in"}**Suger de Saint-Denis:** es un
+![Suger de Saint-Denis](/assets/img/61424ef4-e0d5-450a-bbb9-70d5e8a3b65e.jpg){:width="200" style="float: right"}
+**Suger de Saint-Denis:** es un
 eclesiástico. Procedía de una familia de campesinos y nació en
 Saint-Denis, cerca de París. Décadas antes de la muerte del duque de
 Aquitania, un niño sin nombre es abandonado en un bosque por sus cinco

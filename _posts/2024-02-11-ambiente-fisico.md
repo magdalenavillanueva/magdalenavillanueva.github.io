@@ -1,12 +1,11 @@
 ---
 layout: single
-title: "Aquitania: Ambiente físico"
+title: ": Ambiente físico"
 date: 2023-02-11 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-![](media/image1.png){width="3.0104166666666665in"
-height="2.8819444444444446in"} Fue una antigua región de Francia, tenía
+![Aquitania](/assets/img/63ee244d-afe8-40c6-9aa4-628a8548a0e2.jpg){:width="200" style="float: right"} Fue una antigua región de Francia, tenía
 una superficie de 41.400 km². Limitaba al suroeste con el río Bidasoa
 que la separa del País Vasco y el mar Cantábrico, al oeste con el océano
 Atlántico desde la desembocadura del río Adur hasta el estuario de la
@@ -18,8 +17,8 @@ Garona y los Pirineos Atlánticos.
 
 **La provincia romana de Galia Aquitania**
 
-![](media/image2.png){width="2.4930555555555554in"
-height="2.0694444444444446in"} Durante la conquista romana de la Galia
+---
+![La provincia romana de Galia Aquitania](/assets/img/d4f266c4-2697-4354-8f55-6066f505260a.jpg){:width="200" style="float: right"} Durante la conquista romana de la Galia
 por Julio César, se llamaba así al territorio al sur del Garona,
 habitado por un pueblo de jinetes que el propio César califica de afín a
 los íberos. Mientras que, en el Imperio romano, el nombre se extendió
@@ -27,8 +26,7 @@ también a la región entre el Garona y el Loira, por estar celtizada.
 Antes de la romanización se hablaba una lengua, hoy muerta**:** aquitano
 o euskera arcaico.
 
-![](media/image3.png){width="2.4805555555555556in"
-height="2.9583333333333335in"} En la Alta Edad Media fue el territorio
+![Aquitania](/assets/img/f6993351-04dc-4818-bfd8-700676cfbc90.jpg){:width="200" style="float: right"} En la Alta Edad Media fue el territorio
 ampliado el que llevó el nombre de Aquitania, incluyendo la ciudad de
 Toulouse. Esta Aquitania fue primero entregada a los visigodos, después
 conquistada por los francos y finalmente, estructurada como ducado

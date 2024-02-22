@@ -5,11 +5,9 @@ date: 2023-02-05 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-![](media/image1.png){width="5.6222200349956255in"
-height="4.216666666666667in"}
+![Luy VII](/assets/img/a040ed5c-2e83-49aa-92c0-51910c0b80a7.jpg)
 
-![](media/image2.jpeg){width="1.9861111111111112in"
-height="2.5347222222222223in"} El primer heredero del rey Luy VI el
+![Luy VII](/assets/img/0ce42735-1e39-44fd-84e8-269604c95fca.jpg){:width="200" style="float: right"}El primer heredero del rey Luy VI el
 Gordo, había muerto años atrás en un accidente mientras volvía a
 París**:** un cerdo se le cruzó por el camino y Felipe salió volando de
 la cabalgadura. Se rompió el cuello, apenas sobrevivió unos minutos a su
@@ -27,10 +25,7 @@ prefiere los consejos del templario eunuco Thierry de Galerán. El propio
 Galerán, la reina madre y el abad Suger cercaban a Luy y tomaban las
 decisiones del reino por él, sin dejarle apenas iniciativa.
 
-**Luy VII**
-
-![](media/image3.jpeg){width="2.1506944444444445in"
-height="2.689583333333333in"}Luy es un joven sensible, introvertido,
+![Luy VII](/assets/img/ca849c85-dfef-4589-979a-5efba23d76d1.jpg){:width="200" style="float: right"}Luy es un joven sensible, introvertido,
 recto y con un gran sentido del deber que hubiese querido dedicarse a la
 iglesia pero la muerte de su hermano mayor lo ha convertido en heredero
 al trono. No desea casarse con Leonor, una joven con fama de aguerrida y

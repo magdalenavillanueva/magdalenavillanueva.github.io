@@ -5,9 +5,9 @@ date: 2023-02-07 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-![](media/image1.jpeg){width="3.308333333333333in"
-height="3.308333333333333in"}Se encargaba de la seguridad de **Guilhem
-X*, ***padre de Eleanor, de mirada hueca y fría. Sus ojos carecían de
+![Thierry de Galerán](/assets/img/06575273-0b34-404f-a08b-c7c47ebaf06b.jpg){:width="200" style="float: right"}
+
+Se encargaba de la seguridad de **Guilhem X*, ***padre de Eleanor, de mirada hueca y fría. Sus ojos carecían de
 vida. Los pómulos altos y afilados, gesto hierático. Era imposible
 determinar su edad. Era inmenso como un buey, hombros más anchos que el
 propio Luy. Galerán regentó el burdel de Niort en su juventud. Fue
