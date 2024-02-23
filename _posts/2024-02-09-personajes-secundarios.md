@@ -5,9 +5,7 @@ date: 2023-02-09 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-**Ducado de Aquitania**
-
-![](media/image1.png){width="3.7in" height="3.7in"}**Guilhem X*:***
+![Ducado de Aquitania](/assets/img/673e6ed3-3bad-4c3d-b9e9-d95cbc322f79.png){:width="200" style="float: right"}**Guilhem X*:***
 ágil, de hombros anchos, conde de Poitiers y duque de Aquitania. Era
 carismático, muy persuasivo, encantador, noble, justo y sensato. Era
 hijo de Guillermo el Trovador, pero mucho más peligroso, y su sucesor, y
@@ -74,10 +72,7 @@ por sus quehaceres. Que los testigos cuentan que ella se le abalanzó y
 con procederes de bruja le provocó convulsiones y acabó muerto´´. Pág.
 118. *Aquitania* de Eva García Sáenz de Urturi.
 
-**Bernardo de Claraval**
-
-![](media/image2.jpeg){width="2.433333333333333in"
-height="3.683333333333333in"}**Bernardo de Claraval*:*** tenía canas en
+![Bernardo de Claraval](/assets/img/59f4ed9b-fb8b-4616-8b65-a838f5178ba3.jpg){:width="200" style="float: right"}**Bernardo de Claraval*:*** tenía canas en
 las sienes, demacrado por los ayunos, alto. Lo llamaban Doctor
 Mellifluus. Era uno de los hombres más célebres de la cristiandad. Fue
 consejero de pontífices y maestro espiritual de la Orden del Císter,
@@ -117,10 +112,7 @@ pústulas´´. *Pág. 143. Aquitania de* Eva García Sáenz de Urturi.
 **Astrolabio*: ***físico. Era un anciano muy reservado y murió en Tierra
 Santa**.**
 
-**Foto: Berig (CC)**
-
-![](media/image3.jpeg){width="3.3541666666666665in"
-height="2.5166666666666666in"}**Walden*: ***de pelo rubio y pecoso,
+![Foto: Berig (CC)](/assets/img/81b76d83-f050-4fe8-8a88-c0fce09149be.jpg){:width="200" style="float: right"}**Walden*: ***de pelo rubio y pecoso,
 *pupilo de Suger. Su nombre significa* hijo del valle de madera. *Era
 como el Abad, el* hijo bastardo de una monja mancillada y prostituida.
 Descubrió que Guilhem X le suministraba monjas y peregrinas secuestradas
