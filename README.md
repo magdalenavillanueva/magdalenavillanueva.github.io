@@ -2,13 +2,12 @@
 
 # Descripcion del blog
 Para acceder al codigo fuente del Blog use los siguientes detalles:
-URL: https://github.com/magdalenavillanueva/magdalenavillanueva.github.io
-Usuario: __PREGUNTAR__
-Clave: __PREGUNTAR__
+- URL: https://github.com/magdalenavillanueva/magdalenavillanueva.github.io
+- Usuario: __PREGUNTAR__
+- Clave: __PREGUNTAR__
 
-Los articulos estan guardados en la carpeta "_posts", y siguen el formato de Markdown.
-Para convertir un fichero de Word a Markdown, se puede usar servicios online como: https://word2md.com/
-o se pueden escribir desde el principio siguiento las siguientes indicaciones: https://es.wikipedia.org/wiki/Markdown
+Los articulos estan guardados en la carpeta "_posts", y siguen el formato de Markdown.  
+Para convertir un fichero de Word a Markdown, se puede usar servicios online como: https://word2md.com/ o se pueden escribir desde el principio siguiento las siguientes indicaciones: https://es.wikipedia.org/wiki/Markdown
 
 Al principio de cada articulo hay un bloque de texto que se usa para definer los metadatos del articulo, como formato, titulo, description, fecha y categorias.
 
