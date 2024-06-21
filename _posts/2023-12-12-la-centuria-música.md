@@ -390,8 +390,8 @@ Rouge et le Noir de Stendhal, en francés, pero se quedó mirando la
 página sin asimilar nada de lo que leía. ´´*.* Pág. 176.** *El invierno
 del mundo. *Trilogía The Century 2. *
 
-***Doctor Zhivago*** de Borís Pasternak, Premio Nobel de Literatura en
-1958.La novela muestra el sufrimiento de un hombre cuando la vida que
+***Doctor Zhivago*** de Borís Pasternak, Premio Nobel de Literatura en 1958.
+La novela muestra el sufrimiento de un hombre cuando la vida que
 siempre ha conocido es transformada por fuerzas que están más allá de su
 control. Fue prohibida por el régimen ruso. En el ejemplo observamos, lo
 que le sucede a la gente que trata de introducir literatura proscrita
