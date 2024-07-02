@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "La Centuria: Orden del análisis"
+title:  "La Centuria: (1) Orden del análisis"
 date:   2023-08-01 12:00:00 +0100
 categories: 
     - La Centuria
