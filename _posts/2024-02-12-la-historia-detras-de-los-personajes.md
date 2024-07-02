@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Aquitania:La historia detrás de los personajes de Aquitania"
+title: "Aquitania: La historia detrás de los personajes de Aquitania"
 date: 2024-02-12 12:00:01 +0100
 categories: 
     - Aquitania
