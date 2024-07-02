@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Aquitania: La figura de Eleanor de Aquitania en las artes"
-date: 2023-02-13 12:00:01 +0100
+date: 2024-02-13 12:00:01 +0100
 categories: 
     - Aquitania
 ---
