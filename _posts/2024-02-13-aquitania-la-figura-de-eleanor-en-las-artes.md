@@ -13,12 +13,13 @@ todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania
 de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas
 obras actuales inspiradas en este personaje histórico:
 
-![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right"}Pamela Kaufman en 1997, escribe *Leonor de
-Aquitania* quien teniéndolo todo para ser feliz: inteligencia,
+![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg)
+Pamela Kaufman en 1997, escribe **Leonor de
+Aquitania** quien teniéndolo todo para ser feliz: inteligencia,
 preparación, belleza, fortuna y alianzas con los poderosos, nunca logró
 su objetivo de ser independiente para gobernar como duquesa ni como
-reina. Kaufman escribió otros libros sobre el tema: *El escudo de los
-tres leones* y *Banderas de oro*, que abordan la existencia de Ricardo,
+reina. Kaufman escribió otros libros sobre el tema: El escudo de los
+tres leones y Banderas de oro, que abordan la existencia de Ricardo,
 Corazón de León, hijo favorito de Leonor de Aquitania.
 
 ![Mighel Gorosabel](/assets/img/a6fd251f-fc8c-442a-89d3-fd017aba40a1.jpg){:width="200" style="float: right"}En 2013, Miguel Gorosabel Suárez realiza
