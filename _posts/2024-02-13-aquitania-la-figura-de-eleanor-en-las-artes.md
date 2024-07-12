@@ -57,7 +57,7 @@ desde una perspectiva actual resulta sumamente interesante. Flori
 analiza además hasta que punto su figura influyó en la literatura y fue
 tomada como modelo para algunos de los personajes literarios.
 
-![Leonor en la abadía de Fontevrault](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: right"}![Abadía de Fontevrault](/assets/img/9bbb03c4-1300-4602-b8f1-65bd3a98090c.jpg){:width="200" style="float: left"} Leonor fue protectora y mecenas de la
+![Leonor en la abadía de Fontevrault](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: right"}Leonor fue protectora y mecenas de la
 Abadía de Fontevrault, que se convirtió en el sepulcro de los
 Plantagenet y dirigió de forma significativa la creación de las
 esculturas de las tumbas. Llevó su singularidad hasta la efigie de su
