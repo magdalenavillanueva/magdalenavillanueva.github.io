@@ -85,12 +85,12 @@ por sus quehaceres. Que los testigos cuentan que ella se le abalanzó y
 con procederes de bruja le provocó convulsiones y acabó muerto´´. Pág.
 118. *Aquitania* de Eva García Sáenz de Urturi.
 
+
 ![Bernardo de Claraval](/assets/img/59f4ed9b-fb8b-4616-8b65-a838f5178ba3.jpg) {:width="200" style="float: right"}
 ---
 **Bernardo de Claraval:** 
 ---
-Tenía canas en
-las sienes, demacrado por los ayunos, alto. Lo llamaban Doctor
+Tenía canas en las sienes, demacrado por los ayunos, alto. Lo llamaban Doctor
 Mellifluus. Era uno de los hombres más célebres de la cristiandad. Fue
 consejero de pontífices y maestro espiritual de la Orden del Císter,
 rama de la Orden de San Benito. En la obra lo describen así:
