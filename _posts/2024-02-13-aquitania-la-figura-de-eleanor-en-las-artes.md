@@ -23,7 +23,7 @@ reina. Kaufman escribió otros libros sobre el tema: El escudo de los
 tres leones y Banderas de oro, que abordan la existencia de Ricardo,
 Corazón de León, hijo favorito de Leonor de Aquitania.
 
-![Mighel Gorosabel](/assets/img/a6fd251f-fc8c-442a-89d3-fd017aba40a1.jpg){:width="200" style="float: right"}
+![Mighel Gorosabel](/assets/img/a6fd251f-fc8c-442a-89d3-fd017aba40a1.jpg){:width="200" style="float: left"}
 ---
 En 2013, Miguel Gorosabel Suárez realiza
 un ensayo biográfico de este personaje histórico que, por ser mujer, en
@@ -53,11 +53,10 @@ inglesa. Así comienza una apasionada historia de amor, pero también de
 poder y política, ya que juntos, Leonor y Enrique, construirán el gran
 imperio Plantagenet.
 
-![Leonor de Aquitania](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: right"}
+![Leonor de Aquitania](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: left"}
 ---
-También en 2020,
-Jean Flori, escribió una biografía de *Leonor de Aquitania, la reina
-rebelde*. La singulariza ya el hecho de haber sido reina en dos
+También en 2020, Jean Flori, escribió una biografía de *Leonor de Aquitania,
+la reina rebelde*. La singulariza ya el hecho de haber sido reina en dos
 ocasiones y de dos países distintos (de Francia, casada con Luis VII y
 de Inglaterra con Enrique II), pero sobre todo la fama de mujer
 indómita, que rompe con los usos y costumbres de su tiempo, lo cual
@@ -65,8 +64,8 @@ desde una perspectiva actual resulta sumamente interesante. Flori
 analiza además hasta que punto su figura influyó en la literatura y fue
 tomada como modelo para algunos de los personajes literarios.
 
-Leonor fue protectora y mecenas de la
-Abadía de Fontevrault, que se convirtió en el sepulcro de los
+Leonor fue protectora y mecenas de la Abadía de Fontevrault,
+que se convirtió en el sepulcro de los
 Plantagenet y dirigió de forma significativa la creación de las
 esculturas de las tumbas. Llevó su singularidad hasta la efigie de su
 tumba, en la que yace leyendo un libro.
