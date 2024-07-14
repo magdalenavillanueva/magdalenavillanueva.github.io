@@ -24,7 +24,8 @@ silencios. Otro cercenó sus hombrías, venganza por lo que nos
 arrebataron a mí y a mi primer amor´´. Pág. 19. *Aquitania* de Eva
 García Sáenz de Urturi.
 
-![Raimundo da la bienvenida a Luis VII](/assets/img/8f8e875e-7d99-4ecc-90d7-131695b6841d.jpg)
+![Raimundo da la bienvenida a Luis VII](/assets/img/8f8e875e-7d99-4ecc-90d7-131695b6841d.jpg) 
+---
 Durante mucho tiempo se murmuraba que
 tiene relaciones con su sobrina Eleanor, de la cual solo lo separaban
 nueve años. Desde que ella tenía trece años y el veintiuno. En la obra,
