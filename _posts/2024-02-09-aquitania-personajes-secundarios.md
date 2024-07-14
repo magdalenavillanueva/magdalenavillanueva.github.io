@@ -104,7 +104,7 @@ de Urturi.
 ---
 Diminuta y rubicunda, cariñosa, dulce y callada, era monja.
 Fue secuestrada y prostituida por el duque, en el taller de jabones.
----
+
 **Guilhem**
 ---
 El Trovador decidió hace años su destino. Tuvo un hijo a los
