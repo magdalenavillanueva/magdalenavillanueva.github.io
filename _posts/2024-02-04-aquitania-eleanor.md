@@ -24,7 +24,8 @@ ducado de Aquitania y Guyena y condesa de Gascuña, tras la muerte de su
 hermano Aigret. Su abuelo decidió llamarla Alia Aenor, Eleanor: *la otra
 Aenor* para diferenciarla de su madre.
 
-![Eleanor/Lía de Aquitania](/assets/img/6cae66b9-7406-4a6f-9b26-acd51e78e097.jpg)
+![Eleanor/Lía de Aquitania](/assets/img/6cae66b9-7406-4a6f-9b26-acd51e78e097.jpg){:width="200" style="float: right"}
+ --
 Es hija de Guillermo X, duque de Aquitania,
 y de Leonor de Châtellerault. Su padre le enseñó desde los ocho años a
 tomar decisiones que favorecieran la fortuna y el patrimonio de los
@@ -32,7 +33,7 @@ aquitanos. En Burdeos, el 4 de julio de 1137, contrajo matrimonio a los
 15 años de edad con Luy VII de Francia, futuro rey de Francia, un año
 mayor que ella. Ese mismo año, ambos ascendieron al trono francés tras
 la muerte del rey Luy VI. Muerte que ocasionó la abuela de Eleanor. Tuvo
-una hija con Luy a la que considera una poitevina: **´´**Añoraba
+una hija con Luy a la que considera una poitevina: ´´Añoraba
 Aquitania, pero María y los cuidados que demandaba me mantenían ocupada
 en asuntos vacuos e inmediatos, nada de planes políticos. Y adoraba que
 mi hija fuera una diminuta morena aquitana de fieros ojos azules y
@@ -49,7 +50,9 @@ por su propia suegra, Adelaida de Saboya. Sin embargo, nada de esto le
 importó al soberano francés, que estaba locamente enamorado de su
 esposa.
 
-![Segunda cruzada](/assets/img/e9e63f6d-e233-4be6-a653-bff976feacfa.jpg)En 1147, los jóvenes esposos marcharon a la 
+![Segunda cruzada](/assets/img/e9e63f6d-e233-4be6-a653-bff976feacfa.jpg){:width="200" style="float: right"}
+--
+En 1147, los jóvenes esposos marcharon a la 
 Segunda Cruzada, movidos por la predicación de Bernardo de Claraval. El
 rey no permitió de buen grado que Leonor lo acompañara, pero ella, con
 su carácter voluntarioso e indómito, rompe con las normas y costumbres y
