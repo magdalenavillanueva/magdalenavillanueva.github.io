@@ -8,7 +8,8 @@ categories:
 ![Eleanor/Lía de Aquitania](/assets/img/2dda041b-57f9-460f-bb9d-26e46dab4de9.png)
 
 
-![Eleanor/Lía de Aquitania](/assets/img/c5c82a96-ef21-46ee-a3c8-5e62167984b5.jpg) 
+![Eleanor/Lía de Aquitania](/assets/img/c5c82a96-ef21-46ee-a3c8-5e62167984b5.jpg){:width="200" style="float: right"}
+  ----
    Se conoce como una niña precoz, que
 dominaba el latín, el inglés, la lengua de oc y la lengua de oíl que
 hablaban en la corte francesa de París. Era la mejor cetrera de su edad,
