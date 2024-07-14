@@ -6,6 +6,7 @@ categories:
     - Aquitania
 ---
 [Luy VII](/assets/img/a040ed5c-2e83-49aa-92c0-51910c0b80a7.jpg){:width="200" style="float: right"}
+![image](https://github.com/user-attachments/assets/bd623636-f152-4473-813e-53ad61b117af)
 
 ![Luy VII](/assets/img/0ce42735-1e39-44fd-84e8-269604c95fca.jpg){:width="200" style="float: right"}
 ---
