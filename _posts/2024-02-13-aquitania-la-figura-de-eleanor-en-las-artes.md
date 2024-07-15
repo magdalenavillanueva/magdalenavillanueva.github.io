@@ -23,8 +23,6 @@ reina. Kaufman escribió otros libros sobre el tema: El escudo de los
 tres leones y Banderas de oro, que abordan la existencia de Ricardo,
 Corazón de León, hijo favorito de Leonor de Aquitania.
 
-![Mighel Gorosabel](/assets/img/a6fd251f-fc8c-442a-89d3-fd017aba40a1.jpg){:width="200" style="float: left"}
----
 En 2013, Miguel Gorosabel Suárez realiza
 un ensayo biográfico de este personaje histórico que, por ser mujer, en
 un mundo de hombres, se le ha dado menos importancia de la que realmente
