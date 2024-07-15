@@ -5,11 +5,10 @@ date: 2024-02-05 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-
 ![image](https://github.com/user-attachments/assets/bd623636-f152-4473-813e-53ad61b117af)
 ---
 
-![Luy VII](/assets/img/0ce42735-1e39-44fd-84e8-269604c95fca.jpg){:width="200" style="float: right"}
+![Luy VII](/assets/img/0ce42735-1e39-44fd-84e8-269604c95fca.jpg)
 ---
 El primer heredero del rey Luy VI el Gordo, había muerto años 
 atrás en un accidente mientras volvía a París: un cerdo 
@@ -31,7 +30,8 @@ decisiones del reino por él, sin dejarle apenas iniciativa.
 
 ![Luy VII](/assets/img/ca849c85-dfef-4589-979a-5efba23d76d1.jpg)
 ---
-Luy es un joven sensible, introvertido, recto y con un gran sentido del deber que hubiese querido dedicarse a la
+Luy es un joven sensible, introvertido, recto y con un 
+gran sentido del deber que hubiese querido dedicarse a la
 iglesia pero la muerte de su hermano mayor lo ha convertido en heredero
 al trono. No desea casarse con Leonor, una joven con fama de aguerrida y
 luchadora, pues sabe que no podrá con ella, pero su padre le obliga
