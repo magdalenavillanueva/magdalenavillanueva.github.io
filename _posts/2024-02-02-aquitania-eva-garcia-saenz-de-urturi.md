@@ -60,7 +60,6 @@ historia con doce ediciones de gran tirada y catorce traducciones.
 
 
 ![image](https://github.com/user-attachments/assets/97f920f6-aaf9-40c3-bf6c-74ad0fee5c86)
-
 {:width="200" style="float: left"} 
 ---
 Se considera un thriller histórico ambientado en un misterio criminal
