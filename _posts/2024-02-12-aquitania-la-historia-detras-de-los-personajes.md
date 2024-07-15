@@ -12,7 +12,8 @@ categories:
 Fue una antigua región de Francia, desaparecida el 31 de diciembre de 2015. Se ubicaba en las Galias que comprendía generalmente entre Lória y Rodano. En 1453 fue incorporada a la corona de Francia. Estaba formada por los departamentos de Dordoña, Gironda, Landas, Lot y Garona y Pirineos Atlánticos. La capital de Aquitania era Burdeos.
 
 
-![Lui VI de Francia](/assets/img/587642c2-a225-44b0-981b-611c77a24ffd.gif){:width="200" style="float: right"}
+![image](https://github.com/user-attachments/assets/f6e4bfa8-4d23-425f-a239-c7af57ede9a0)
+
 ---
 **Lui VI de Francia:** 
 --- 
@@ -119,8 +120,7 @@ que se tiene noticia.
 ---
 **Guillermo VIII de Poitiers:**
 ---
-Conocido
-también como Guillermo X de Aquitania​ 1099 - Santiago de Compostela 9
+Conocido también como Guillermo X de Aquitania​ 1099 - Santiago de Compostela 9
 de abril de 1137, fue un noble francés, el último conde de Poitiers y
 duque de Aquitania de la dinastía de los Rammulfides, ya que a su muerte
 esos títulos serían heredados por su hija, Leonor de Aquitania. Llevó el
@@ -143,8 +143,7 @@ que falleció a los cuatro años.
 ---
 **Suger de Saint-Denis:** 
 ---
-Nació en 1081 y
-murió el 13 de enero de 1151, fue un eclesiástico, personaje político e
+Nació en 1081 y murió el 13 de enero de 1151, fue un eclesiástico, personaje político e
 historiador francés. Procedía de una familia de campesinos y nació en
 Saint-Denis, cerca de París. Fue abad de la abadía de Saint-Denis desde
 1122, y como tal enriqueció la nueva iglesia basilical de Saint-Denis en
@@ -154,12 +153,11 @@ fue el más famoso historiador de su tiempo. Escribió un panegírico sobre
 Luis VI y colaboró en la redacción de la que es quizá la crónica más
 imparcial del reinado de Luis VII.
 
-![Raimundo I de Poitiers. Príncipe de Antioquía](/assets/img/0814cce7-573e-4c7a-b8a5-a04e2fcd3ae4.jpg){:width="200" style="float: right"}
+![image](https://github.com/user-attachments/assets/9960e0eb-7982-40a3-8d3d-05fd99b4d1fe){:width="200" style="float: right"} 
 ---
 **Raimundo I de Poitiers:** 
 ---
-Fue un
-aristócrata medieval francés, miembro de la casa de Poitiers, hijo menor
+Fue un aristócrata medieval francés, miembro de la casa de Poitiers, hijo menor
 de Guillermo IX, duque de Aquitania y su esposa Felipa, condesa de
 Tolosa, que por su matrimonio con Constanza de Antioquía llegó a ser
 príncipe de Antioquía en Asia Menor de 1136 a 1149. Después de las
@@ -182,7 +180,7 @@ conversaciones entre los dos. Luis abandonó a toda prisa Antioquía. En
 batalla de Inab.
 
 **Ralph I de Vermandois:** 
----
+
 Era hijo de Hugo, conde de Vermandois y de su
 esposa, Adelaida. Ralph era nieto de Enrique I de Francia, mientras que
 la madre de Ralph había sido la heredera de Herbert IV, conde de
@@ -190,8 +188,8 @@ Vermandois. El tío paterno de Ralph era Felipe I de Francia, lo que lo
 convertía en primo hermano del rey Luis VI de Francia y un primo segundo
 de Luis VII de Francia. Ralph sirvió como el senescal de Francia durante
 el reinado de Luis VII. Presionado por la reina, Leonor de Aquitania,
-Luis ![Ralph I de Vermandois](/assets/img/Ralph I de Vermandois.jpg){:width="200" style="float: right"} ---
-permitió a Ralph repudiar a su esposa,
+Luis ![image](https://github.com/user-attachments/assets/efeee192-1390-4c2c-86e5-3e41643baaaf)
+{:width="200" style="float: right"} permitió a Ralph repudiar a su esposa,
 Leonor de Champagne, hermana de Esteban de Inglaterra, a favor de la
 hermana de Leonor de Aquitania, Petronila,​ lo que llevó a una guerra
 con Teobaldo II de Champagne, que era hermano de la primera esposa. La
@@ -207,7 +205,8 @@ divorciaron en 1151.
 Châtellerault, padre de Leonor de Châtellerault y abuelo de Leonor de
 Aquitania.
 
-![Dangerosa d l\'Isle Bouchard](/assets/img/Dangerosa d.jpg){:width="200" style="float: right"}
+![image](https://github.com/user-attachments/assets/1b7b2e85-4ca7-48ee-accc-f281db079ff3)
+{:width="200" style="float: right"}
 
 **Dangerosa de l\'Isle Bouchard:**
 ---
