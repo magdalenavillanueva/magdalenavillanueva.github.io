@@ -17,7 +17,6 @@ categories:
 > prestigiosos premios, Bullet (Bala de Oro) a la mejor novela negra
 > extranjera de 2019.
 
-
 ![image](https://github.com/user-attachments/assets/01fbba13-d2e6-42f8-9627-d1c8d687966d)
 {:width="200" style="float: left"}
 ---
@@ -25,7 +24,8 @@ categories:
 >una intrincada investigación que busca resolver el enigma genético de la
 >eterna juventud de los longevos. Fue publicada en dos entregas: en 2012,
 >*La vieja familia* y en 2014, publicó la segunda entrega de la saga:
->*Los hijos de Adán* y también, la novela histórica *Pasaje a Tahití.*
+>*Los hijos de Adán* y también, la novela histórica
+>*Pasaje a Tahití.*
 
 ![image](https://github.com/user-attachments/assets/e1edd1ca-e57e-467f-8a15-e701b915ef9e)
 {:width="200" style="float: right"} 
@@ -37,9 +37,10 @@ categories:
 {:width="200" style="float: right"} 
 ---
 >Dos años después, en 2016 publicó nuevamente con la editorial 
->Planeta *El silencio de la ciudad blanca* un
->thriller ambientado en Vitoria. En 2018 publicó *Los ritos del agua*, la
->segunda entrega de la trilogía de la ciudad blanca y en 2018 su tercera
+>Planeta *El silencio de la ciudad blanca* un >thriller
+>ambientado en Vitoria.
+>En 2018 publicó *Los ritos del agua*, la >segunda entrega
+>de la trilogía >de la ciudad blanca y en 2018 su tercera
 >entrega *Los señores del tiempo*. En 2019, A3Media Cine realiza la
 >adaptación cinematográfica de *El silencio de la ciudad blanca.* La
 >trilogía de la ciudad blanca se convirtió en un fenómeno con más de dos
@@ -60,7 +61,7 @@ categories:
 
 
 ![image](https://github.com/user-attachments/assets/97f920f6-aaf9-40c3-bf6c-74ad0fee5c86)
-{:width="200" style="float: left"} 
+{:width="200" style="float: right"} 
 ---
 >Se considera un thriller histórico ambientado en un misterio criminal
 >con ánimo de venganza, ubicado en el siglo XII, cuyo centro es una joven
