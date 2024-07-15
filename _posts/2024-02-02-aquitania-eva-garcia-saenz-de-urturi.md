@@ -8,9 +8,9 @@ categories:
 > ![image](https://github.com/user-attachments/assets/4064175e-7d02-43b3-859c-a9851bb3dc5c)
 {:width="200" style="float: right"}
 ---
-> Es una escritora española nacida en
-> Vitoria, Álava, el 20 de agosto de 1972. Estudió Óptica y Optometría,
-> trabajó como bibliotecaria y acudió a diversos talleres de escritura,
+> Es una escritora española nacida en > Vitoria, Álava, el 20 de agosto de 1972.
+> Estudió Óptica y Optometría, > trabajó como bibliotecaria
+> y acudió a diversos talleres de escritura,
 > como el de Fuentetaja, en Madrid. Entre sus autores favoritos se
 > encuentran el estadounidense, Dennis Lehane, el francés Pierre
 > Lemaitre y la italiana Margaret Mazzantini. Ha sido galardonada con
@@ -36,8 +36,8 @@ eterna juventud de los longevos. Fue publicada en dos entregas: en 2012,
 ![image](https://github.com/user-attachments/assets/63a28720-f9cb-4587-8519-c8680e0f1df0)
 {:width="200" style="float: right"} 
 ---
-Dos años después, en 2016 publicó
-nuevamente con la editorial Planeta *El silencio de la ciudad blanca* un
+Dos años después, en 2016 publicó nuevamente con la editorial 
+Planeta *El silencio de la ciudad blanca* un
 thriller ambientado en Vitoria. En 2018 publicó *Los ritos del agua*, la
 segunda entrega de la trilogía de la ciudad blanca y en 2018 su tercera
 entrega *Los señores del tiempo*. En 2019, A3Media Cine realiza la
