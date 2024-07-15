@@ -32,8 +32,8 @@ nueve años. Desde que ella tenía trece años y el veintiuno. En la obra,
 Eleanor misma dice: "---Mentira\... ---renegó entre susurros Rai,
 mi tío, mi amante. Me miró cómplice, lo miré lento. Intuía ya que había
 llegado, abruptamente, el final de una etapa. Supe que me estaba
-despidiendo de él y atesoré en mi memoria aquellas últimas horas´´. Pág. 17. 
-*Aquitania* de Eva García Sáenz de Urturi.
+despidiendo de él y atesoré en mi memoria aquellas últimas horas´´. 
+Pág. 17. *Aquitania* de Eva García Sáenz de Urturi.
 
 En Antioquia Rai murió batallando en Maarata a manos del nieto de
 Galerán: Nuredín, hijo de Zenghi. Su muerte arrastra a la caída a
