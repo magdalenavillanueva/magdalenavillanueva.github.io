@@ -24,8 +24,8 @@ categories:
 >una intrincada investigación que busca resolver el enigma genético de la
 >eterna juventud de los longevos. Fue publicada en dos entregas: en 2012,
 >*La vieja familia* y en 2014, publicó la segunda entrega de la saga:
->*Los hijos de Adán* y también, la novela histórica
->*Pasaje a Tahití.*
+>*Los hijos de Adán* y también,
+>la novela histórica, *Pasaje a Tahití.*
 
 ![image](https://github.com/user-attachments/assets/e1edd1ca-e57e-467f-8a15-e701b915ef9e)
 {:width="200" style="float: right"} 
