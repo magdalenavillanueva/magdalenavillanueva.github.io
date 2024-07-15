@@ -82,9 +82,8 @@ Gilbert era hermano y mano derecha de Thierry de Galerán. Murió
 asesinado en una trifulca por Adamar:´´Una cocinera ha matado a
 Gilbert... Galerán dice que Gilbert solo le dio el alto y le preguntó
 por sus quehaceres. Que los testigos cuentan que ella se le abalanzó y
-con procederes de bruja le provocó convulsiones y acabó muerto´´. 
+con procederes de bruja le provocó convulsiones y acabó muerto´´.
 Pág. 118. *Aquitania* de Eva García Sáenz de Urturi.
-
 
 ![Bernardo de Claraval](/assets/img/59f4ed9b-fb8b-4616-8b65-a838f5178ba3.jpg) {:width="200" style="float: right"}
 ---
