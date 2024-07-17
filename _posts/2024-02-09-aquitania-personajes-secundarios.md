@@ -9,7 +9,7 @@ categories:
 ---
 **Guilhem X:**
 ---
-Ägil, de hombros anchos, conde de Poitiers y duque de Aquitania. Era
+<div align="justify">Ägil, de hombros anchos, conde de Poitiers y duque de Aquitania. Era
 carismático, muy persuasivo, encantador, noble, justo y sensato. Era
 hijo de Guillermo el Trovador, pero mucho más peligroso, y su sucesor, y
 de Felipa, condesa de Tolosa. Fue forzado por su padre a casarse con
