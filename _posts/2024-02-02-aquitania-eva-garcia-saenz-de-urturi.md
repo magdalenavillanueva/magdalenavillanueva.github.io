@@ -19,7 +19,7 @@ categories:
 ![image](https://github.com/user-attachments/assets/01fbba13-d2e6-42f8-9627-d1c8d687966d)
 {:width="200" style="float: left"}
 ---
-><div align="justify">Publicó *La saga de los longevos,* una serie con rasgos históricos con
+>Publicó *La saga de los longevos,* una serie con rasgos históricos con
 >una intrincada investigación que busca resolver el enigma genético de la
 >eterna juventud de los longevos. Fue publicada en dos entregas: en 2012,
 >*La vieja familia* y en 2014, publicó la segunda entrega de la saga:
@@ -37,7 +37,7 @@ categories:
 ---
 
 
-><div align="justify">Dos años después, en 2016 publicó nuevamente con la editorial 
+>Dos años después, en 2016 publicó nuevamente con la editorial 
 >Planeta *El silencio de la ciudad blanca* un >thriller
 >ambientado en Vitoria.
 >En 2018 publicó *Los ritos del agua*, la >segunda entrega
@@ -54,7 +54,7 @@ categories:
 ![image](https://github.com/user-attachments/assets/321a9db0-9d62-4674-a46c-f64c897f8144)
 {:width="200" style="float: right"} 
 ---
-><div align="justify">En 2020 recibió el Premio Planeta otorgado desde 1952 a la mejor obra
+>En 2020 recibió el Premio Planeta otorgado desde 1952 a la mejor obra
 >inédita, con la novela *Aquitania,* que ha sido publicada por la
 >Editorial Planeta en su Colección Autores Españoles e Iberoamericanos y
 >se ha convertido en uno de los Premio Planeta más vendidos de la
@@ -64,7 +64,7 @@ categories:
 ![image](https://github.com/user-attachments/assets/97f920f6-aaf9-40c3-bf6c-74ad0fee5c86)
 {:width="200" style="float: right"} 
 ---
-><div align="justify">Se considera un thriller histórico ambientado en un misterio criminal
+>Se considera un thriller histórico ambientado en un misterio criminal
 >con ánimo de venganza, ubicado en el siglo XII, cuyo centro es una joven
 >Eleanor de Aquitania. La historia se asienta en el retrato de
 >Eleanor/Lía, una mujer joven, aguerrida, con carácter, rebelde,
@@ -75,12 +75,12 @@ categories:
 ![image](https://github.com/user-attachments/assets/c0361d23-2047-4b77-9707-a6fe3df4c834)
 {:width="200" style="float: right"} 
 ---
-><div align="justify">En febrero de 2022 presentó su novela *El libro negro de las horas.* El
+>En febrero de 2022 presentó su novela *El libro negro de las horas.* El
 >núcleo de la novela es el amor a los libros y el negocio en torno a esa
 >pasión bibliófila. Otra vez, entra en acción Unai López de Ayala, ex
 >inspector policial conocido como Kraken, en la saga de La ciudad blanca.
 
-><div align="justify">La autora escribe en la revista literaria Zenda (XL Semanal) en su
+>La autora escribe en la revista literaria Zenda (XL Semanal) en su
 >sección «The bookhunter». Además colabora y aparece habitualmente en
 >medios como «El Cultural», «Qué Leer», «El País», «El Mundo», «ABC»,
 >«Woman», «Telva» y las principales emisoras de radio del país y de
@@ -89,7 +89,7 @@ categories:
 ![image](https://github.com/user-attachments/assets/b28eea6f-b759-4c70-8596-7a4ab24ad56d)
 {:width="200" style="float: right"} 
 ---
-><div align="justify">En 2023, publica su nueva novela, El Ángel de la Ciudad. Es una
+>En el 2023, publica su nueva novela, El Ángel de la Ciudad. Es una
 >continuación de la apasionante serie del inspector Kraken, que se inició
 >con su trilogía Ciudad Blanca iniciada 2012 y que continuó con El libro
 >negro de las horas en 2022. Unas novelas que han convertido a su autora
