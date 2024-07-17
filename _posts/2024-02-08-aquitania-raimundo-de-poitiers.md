@@ -5,7 +5,7 @@ date: 2024-02-08 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-Era poitevino, de cabello negro, ojos azules claros y rasgados, piel
+<div align="justify">Era poitevino, de cabello negro, ojos azules claros y rasgados, piel
 bronceada por el eterno sol aquitano, afable y de conversación
 encantadora. Tiene gran protagonismo al inicio del libro y al final, en
 las Cruzadas.
