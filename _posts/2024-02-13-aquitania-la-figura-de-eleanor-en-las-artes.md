@@ -13,6 +13,7 @@ todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania
 de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas
 obras actuales inspiradas en este personaje histórico:
 
+
 ![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right"}
 ---
 Pamela Kaufman en 1997, escribe **Leonor de
