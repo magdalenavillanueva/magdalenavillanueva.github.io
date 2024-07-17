@@ -7,11 +7,11 @@ categories:
 ---
 ![Thierry de Galerán](/assets/img/06575273-0b34-404f-a08b-c7c47ebaf06b.jpg)
 
-Se encargaba de la seguridad de Guilhem X, padre de Eleanor, de mirada hueca y fría. Sus ojos carecían de
-vida. Los pómulos altos y afilados, gesto hierático. Era imposible
-determinar su edad. Era inmenso como un buey, hombros más anchos que el
-propio Luy. Galerán regentó el burdel de Niort en su juventud. Fue
-secretario del rey Gordo y buen amigo del Rey Niño. Actualmente, es su
+<div align="justify">Se encargaba de la seguridad de Guilhem X, padre de Eleanor,
+de mirada hueca y fría. Sus ojos carecían de vida. Los pómulos altos y afilados,
+gesto hierático. Era imposible determinar su edad. Era inmenso como un buey, 
+hombros más anchos que el propio Luy. Galerán regentó el burdel de Niort en 
+su juventud. Fue secretario del rey Gordo y buen amigo del Rey Niño. Actualmente, es su
 escolta real. Era implacable en todo lo que se le ordenaba.
 
 Fue uno de los crucesignati más populares de la primera cruzada. Había
@@ -28,7 +28,9 @@ castrado. Ambos fueron confinados en el harén de Sunqur. Ida como
 concubina, Thierry de Galerán como eunuco custodio. Pág. 297.
 *Aquitania* de Eva García Sáenz de Urturi.
 
-**Ida de Austria** da a luz a **Zenghi,** hijo de Galerán, que fue
+
+
+**Ida de Austria** da a luz a **Zenghi**, hijo de Galerán, que fue
 separado de su madre y criado por Sunqur como propio. Poco después Ida
 muere incapaz de soportar tantas vejaciones y Galerán, fuertemente
 custodiado quedó atrapado durante años en aquel harén, hasta que
@@ -38,6 +40,8 @@ Claraval precisó de él, se anda gestando en Roma una posible vuelta a
 Tierra Santa, como la cruzada en la que formó parte. Mantiene el voto
 templario, es soldado y es religioso, no ha podido negarse´´. Pág. 135.
 *Aquitania* de Eva García Sáenz de Urturi.
+
+
 
 Ante los cruentos acontecimientos que le acaecieron, se había vuelto
 cruel e inhumano. Así observamos a lo largo de toda la novela, que se
