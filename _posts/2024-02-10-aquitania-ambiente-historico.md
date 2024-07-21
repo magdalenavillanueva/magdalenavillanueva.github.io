@@ -8,7 +8,7 @@ categories:
 **AMBIENTE HISTÓRICO:**
 
 <div align="justify">El trasfondo de los hechos históricos en que se desarrolla la novela
-Aquitania nos ubica en la Edad Media, siglo XII. Eleanor de Aquitania es
+**Aquitania** nos ubica en la Edad Media, siglo XII. Eleanor de Aquitania es
 el centro de este thriller, es la duquesa de Aquitania, hija de Guilhem
 X, soberano del ducado de Aquitania, una región fértil muy rica, y más
 próspera y extensa que la de su rey, Luis VI de Francia. Los Capetos son
@@ -17,19 +17,19 @@ en perenne desencuentro, intentando imponerse una sobre la otra.
 
 Los personajes históricos que aparecen o son mencionados en la obra:
 
->El Rey Gordo, Luy VI (Luis VI)
->
->Luy VII
->
->Guilhem, el trovador (Guillermo)
->
->Guilhem X, Conde de Poitiers, duque de Aquitania
->
->Raimond de Poitiers
->
->Eleanor de Aquitania.
->
->Thierre de Galerán.
+<center>El Rey Gordo, Luy VI (Luis VI)</center>
+
+<center>Luy VII</center>
+
+<center>Guilhem, el trovador (Guillermo)</center>
+
+<center>Guilhem X, Conde de Poitiers, duque de Aquitania</center>
+
+<center>Raimond de Poitiers</center>
+
+<center>Eleanor de Aquitania.</center>
+
+<center>Thierre de Galerán.</center>
 
 El matrimonio concertado entre Luy VII y Eleanor de Aquitania era más
 beneficioso para el reinado de Francia, ya que de esa manera, lograban
