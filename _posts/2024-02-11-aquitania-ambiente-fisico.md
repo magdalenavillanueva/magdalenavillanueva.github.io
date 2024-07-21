@@ -7,7 +7,7 @@ categories:
 ---
 ![image](https://github.com/user-attachments/assets/1164088a-477e-4cd6-8cdb-9af0d69fabba)
 
-Fue una antigua región de Francia, tenía
+<div align="justify">Fue una antigua región de Francia, tenía
 una superficie de 41.400 km². Limitaba al suroeste con el río Bidasoa
 que la separa del País Vasco y el mar Cantábrico, al oeste con el océano
 Atlántico desde la desembocadura del río Adur hasta el estuario de la
