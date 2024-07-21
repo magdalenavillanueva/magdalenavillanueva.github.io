@@ -11,8 +11,8 @@ categories:
 de mirada hueca y fría. Sus ojos carecían de vida. Los pómulos altos y afilados,
 gesto hierático. Era imposible determinar su edad. Era inmenso como un buey, 
 hombros más anchos que el propio Luy. Galerán regentó el burdel de Niort en 
-su juventud. Fue secretario del rey Gordo y buen amigo del Rey Niño. Actualmente, es su
-escolta real. Era implacable en todo lo que se le ordenaba.
+su juventud. Fue secretario del rey Gordo y buen amigo del Rey Niño. Actualmente, es su escolta real. Era implacable en todo lo que se le ordenaba.
+
 
 Fue uno de los crucesignati más populares de la primera cruzada. Había
 sido cruzado y había vuelto castrado de Tierra Santa. Galerán era el
