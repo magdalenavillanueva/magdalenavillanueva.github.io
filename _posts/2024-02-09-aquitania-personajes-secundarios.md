@@ -9,14 +9,13 @@ categories:
 ---
 **Guilhem X:**
 ---
-<div align="justify">Ägil, de hombros anchos, conde de Poitiers y duque de Aquitania. Era
-carismático, muy persuasivo, encantador, noble, justo y sensato. Era
-hijo de Guillermo el Trovador, pero mucho más peligroso, y su sucesor, y
+<div align="justify">Ägil, de hombros anchos, conde de Poitiers y duque de Aquitania. Era carismático, muy persuasivo, encantador, noble, justo y sensato. Era hijo de Guillermo el Trovador, pero mucho más peligroso, y su sucesor, y
 de Felipa, condesa de Tolosa. Fue forzado por su padre a casarse con
 Aenor de Châtellerault, bella y fría, hija de la Maubergeona y tuvieron
 por hijos a Eleanor, Alix y Aigret de Aquitania. Fue excomulgado por
 apoyar al antipapa Anacleto. Falleció a temprana edad en extrañas
 circunstancias.
+
 
 **Guilhem el Trovador:** 
 ---
@@ -26,11 +25,13 @@ trovadores, según la tradición de la poesía cortesana. Raptó a la
 Dangerosa, y la instaló en la torre Maubergeon. Las dos abuelas de Lía
 eran la esposa y la concubina de su abuelo.
 
+
 **Felipa de Tolosa:** 
 ---
 Era temible, estaba casada con Guilhem el
 Trovador, fue expulsada por su esposo del hogar y luego, la encerró en
 la abadía de Fontevrault.
+
 
 **Adamar:** 
 ---
@@ -44,6 +45,7 @@ los hombros para que su chepa destacase y su mirada limpia de anciana
 apartaba todas las sospechas por muy sospechosas´´. Pág. 106.
 *Aquitania* de Eva García Sáenz de Urturi.
 
+
 Era cocinera y a la vez, se desempeñaba como la gata aquitana más
 veterana y era su legendaria cabeza, fiel a Eleanor. Estaba al frente de
 los **Gatos aquitanos**, una red de espionaje al servicio de los duques
@@ -53,6 +55,7 @@ cadáver la dignidad que siempre tuvo en vida. Sus manos estaban tibias,
 no hacía mucho que la habían torturado y asesinado´´. Pág. 127.
 *Aquitania* de Eva García Sáenz de Urturi.
 
+
 **Lui VI de Francia:** 
 ---
 De larga melena rubia, llamado el rey gordo.
@@ -61,11 +64,13 @@ mano, según Eleanor:´´La muerte del Rey Gordo no fue la segunda
 parte de ningún plan. Fue una reacción a la primera muerte. Una
 venganza´´. Pág. 257. *Aquitania* de Eva García Sáenz de Urturi.
 
+
 Según Felipa, era un glotón, y por lo tanto, fue tan sencillo
 envenenarlo con: ´´Un torte des roys, una torta de reyes. Carne de
 ciervo regada con vino tinto para disimular el oscuro veneno azul
 destilado de la piel de esas ranitas´´. Pág. 258. *Aquitania* de Eva
 García Sáenz de Urturi.
+
 
 **Gilbert de Galerán:** 
 ---
@@ -78,6 +83,7 @@ infieles con los puños desnudos o a patadas desde que había vuelto de la
 cruzada tras rescatar a Galerán´´. Pág. 95. *Aquitania* de Eva García
 Sáenz de Urturi.
 
+
 Gilbert era hermano y mano derecha de Thierry de Galerán. Murió
 asesinado en una trifulca por Adamar:´´Una cocinera ha matado a
 Gilbert... Galerán dice que Gilbert solo le dio el alto y le preguntó
@@ -85,8 +91,10 @@ por sus quehaceres. Que los testigos cuentan que ella se le abalanzó y
 con procederes de bruja le provocó convulsiones y acabó muerto´´.
 Pág. 118. *Aquitania* de Eva García Sáenz de Urturi.
 
+
 ![Bernardo de Claraval](/assets/img/59f4ed9b-fb8b-4616-8b65-a838f5178ba3.jpg)
 ---
+
 **Bernardo de Claraval:** 
 ---
 Tenía canas en las sienes, demacrado por los ayunos, alto. Lo llamaban Doctor
@@ -99,15 +107,18 @@ pasos detrás de la comitiva real, en un lugar en el que la muchedumbre
 no podía verlo desde abajo´´. Pág. 247. *Aquitania* de Eva García Sáenz
 de Urturi.
 
+
 **Maud:** 
 ---
 Diminuta y rubicunda, cariñosa, dulce y callada, era monja.
 Fue secuestrada y prostituida por el duque, en el taller de jabones.
 
+
 **Guilhem**
 ---
 El Trovador decidió hace años su destino. Tuvo un hijo a los
 once años de edad.
+
 
 **Ralf de Vermandois**:
 ---
@@ -116,6 +127,7 @@ bordado para ocultar el globo ocular vacío, tenía la nariz aplastada. Es
 el senescal de Luy. Se divorció de la hermana de Teobaldo de Champaña
 pese a tener cinco hijos en común. Se casó con Aelith, la hermana de
 Eleanor.
+
 
 **Aelith:** 
 ---
@@ -126,6 +138,7 @@ fantasiosos planes siempre nos metían en problemas, así fue desde que
 compartíamos juegos en la cuna´´. Pág. 71. Aquitania de Eva García
 Sáenz de Urturi.
 
+
 **Aigret:** 
 ---
 Unico varón de Guilhem X, conde de Poitiers y duque de
@@ -134,9 +147,11 @@ Aenor. Aigret murió pequeño. Tenía cuatro años de edad:´´Nunca
 guardé cama, ni cuando a madre y a Aigret se los llevaron las
 pústulas´´. Pág. 143. Aquitania de Eva García Sáenz de Urturi.
 
+
 **Cercamon:** 
 ---
 De carácter voluble. Fue el trovador de Guilhem X.
+
 
 **Astrolabio físico:** 
 ---
@@ -145,6 +160,7 @@ Santa.
 
 ![Foto: Berig (CC)](/assets/img/81b76d83-f050-4fe8-8a88-c0fce09149be.jpg){:width="200" style="float: right"} 
 ---
+
 **Walden:** 
 ---
 De pelo rubio y pecoso,
@@ -159,6 +175,7 @@ El desgraciado moría durante el tormento, y parecía que le habían
 crecido unas alas sangrientas, de ahí el nombre. Había que partir
 costillas, desde luego: ese era el procedimiento de los normandos:
 . Pág. 289. *Aquitania* de Eva García Sáenz de Urturi.
+
 
 **Gatos aquitanos:** 
 ---
