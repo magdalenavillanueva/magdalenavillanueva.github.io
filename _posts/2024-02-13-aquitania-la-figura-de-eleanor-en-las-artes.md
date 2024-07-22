@@ -5,11 +5,10 @@ date: 2024-02-13 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-<div stye="text-align:justify">Leonor de Aquitania sigue encarnando uno de los destinos de mujer másfascinantes de todos los tiempos, es protagonista de muchas obras porque dejó su huella de mujer longeva, inteligente, intrépida, culta e insumisa en la historia de las monarquías europeas. Leonor defendía ante todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas obras actuales inspiradas en este personaje histórico:</div>
+<div stye="text-align:justify">Leonor de Aquitania sigue encarnando uno de los destinos de mujer más fascinantes de todos los tiempos, es protagonista de muchas obras porque dejó su huella de mujer longeva, inteligente, intrépida, culta e insumisa en la historia de las monarquías europeas. Leonor defendía ante todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas obras actuales inspiradas en este personaje histórico:</div>
 
-![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right"}
 ---
-
+![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right"}
 Pamela Kaufman en 1997, escribe **Leonor de Aquitania** quien teniéndolo todo para ser feliz: inteligencia, preparación, belleza, fortuna y alianzas con los poderosos, nunca logró su objetivo de ser independiente para gobernar como duquesa ni como reina. Kaufman escribió otros libros sobre el tema: El escudo de los
 tres leones y Banderas de oro, que abordan la existencia de Ricardo,
 Corazón de León, hijo favorito de Leonor de Aquitania.
@@ -27,8 +26,8 @@ la cual fue reina de Francia y de Inglaterra, madre de Ricardo Corazón
 de León y de Juan Sin Tierra.
 
 
-![Leonor de Aquitania](/assets/img/fa8d6e2a-1f97-45d0-8364-96c6e0f783d9.jpg){:width="200" style="float: left"}
 ---
+![Leonor de Aquitania](/assets/img/fa8d6e2a-1f97-45d0-8364-96c6e0f783d9.jpg){:width="200" style="float: left"}
 
 En 2020, Alain-Gilles Minella es autor de *Leonor de Aquitania*, cuando Leonor de Aquitania (1122-1204) tiene veintinueve años y está casada con el rey de Francia y conoce a Enrique Plantagenet, el hijo del conde de Anjou, diez años más joven que ella. Su encuentro es un auténtico flechazo. La reina pronto consigue la nulidad de su matrimonio con Luis VII y une su vida y su destino a los de la corte
 inglesa. Así comienza una apasionada historia de amor, pero también de
