@@ -8,7 +8,7 @@ categories:
 <div style="text-align:justify">Leonor de Aquitania sigue encarnando uno de los destinos de mujer más fascinantes de todos los tiempos, es protagonista de muchas obras porque dejó su huella de mujer longeva, inteligente, intrépida, culta e insumisa en la historia de las monarquías europeas. Leonor defendía ante todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas obras actuales inspiradas en este personaje histórico:</div>
 
 ---
-![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right"}
+![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right; padding:10px"}
 Pamela Kaufman en 1997, escribe **Leonor de Aquitania** quien teniéndolo todo para ser feliz: inteligencia, preparación, belleza, fortuna y alianzas con los poderosos, nunca logró su objetivo de ser independiente para gobernar como duquesa ni como reina. Kaufman escribió otros libros sobre el tema: El escudo de los
 tres leones y Banderas de oro, que abordan la existencia de Ricardo,
 Corazón de León, hijo favorito de Leonor de Aquitania.
@@ -27,7 +27,7 @@ de León y de Juan Sin Tierra.
 
 
 ---
-![Leonor de Aquitania](/assets/img/fa8d6e2a-1f97-45d0-8364-96c6e0f783d9.jpg){:width="200" style="float: left"}
+![Leonor de Aquitania](/assets/img/fa8d6e2a-1f97-45d0-8364-96c6e0f783d9.jpg){:width="200" style="float: left"; padding:10px}
 
 En 2020, Alain-Gilles Minella es autor de *Leonor de Aquitania*, cuando Leonor de Aquitania (1122-1204) tiene veintinueve años y está casada con el rey de Francia y conoce a Enrique Plantagenet, el hijo del conde de Anjou, diez años más joven que ella. Su encuentro es un auténtico flechazo. La reina pronto consigue la nulidad de su matrimonio con Luis VII y une su vida y su destino a los de la corte
 inglesa. Así comienza una apasionada historia de amor, pero también de
@@ -35,7 +35,7 @@ poder y política, ya que juntos, Leonor y Enrique, construirán el gran
 imperio Plantagenet.
 
 
-![Leonor de Aquitania](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: left"}
+![Leonor de Aquitania](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: left"; padding:10px}
 ---
 
 También en 2020, Jean Flori, escribió una biografía de *Leonor de Aquitania,
@@ -52,7 +52,7 @@ Leonor fue protectora y mecenas de la Abadía de Fontevrault,
 que se convirtió en el sepulcro de los Plantagenet y dirigió de forma significativa la creación de las esculturas de las tumbas. Llevó su singularidad hasta la efigie de su tumba, en la que yace leyendo un libro.
 
 
-![Katharine Hepburn como Leonor](/assets/img/aa45c8d3-916e-451a-bdb0-1539a971b871.jpg){:width="200" style="float: left"}
+![Katharine Hepburn como Leonor](/assets/img/aa45c8d3-916e-451a-bdb0-1539a971b871.jpg){:width="200" style="float: left"; padding:10px}
 --
 
 En 1968, es el personaje principal de la película *El león en invierno* (The Lion in Winter). Katharine Hepburn interpretó el papel de Leonor y Peter O\'Toole el de Enrique. ​ La película fue un éxito comercial y obtuvo tres Premios Oscar.
