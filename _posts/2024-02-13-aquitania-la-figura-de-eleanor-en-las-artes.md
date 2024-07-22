@@ -47,7 +47,7 @@ que se convirtió en el sepulcro de los Plantagenet y dirigió de forma signific
 
 ---
 ![Katharine Hepburn como Leonor](/assets/img/aa45c8d3-916e-451a-bdb0-1539a971b871.jpg){:width="200" style="float: left"; padding:10px}
-En 1968, es el personaje principal de la película *El león en invierno* (The Lion in Winter). Katharine Hepburn interpretó el papel de Leonor y Peter O\'Toole el de Enrique. ​ La película fue un éxito comercial y obtuvo tres Premios Oscar.
+En 1968, es el personaje principal de la película **El león en invierno** (The Lion in Winter). Katharine Hepburn interpretó el papel de Leonor y Peter O\'Toole el de Enrique. ​ La película fue un éxito comercial y obtuvo tres Premios Oscar.
 
 Starz, un canal de televisión por suscripción premium estadounidense,
 está desarrollando una lista de series inspiradas en mujeres
