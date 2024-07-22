@@ -25,14 +25,14 @@ de León y de Juan Sin Tierra.
 
 
 ---
-![Leonor de Aquitania](/assets/img/fa8d6e2a-1f97-45d0-8364-96c6e0f783d9.jpg){:width="200" style="float: right"; padding:10px}
+![Leonor de Aquitania](/assets/img/fa8d6e2a-1f97-45d0-8364-96c6e0f783d9.jpg){:width="200" style="float: left; padding:10px"}
 En 2020, Alain-Gilles Minella es autor de *Leonor de Aquitania*, cuando Leonor de Aquitania (1122-1204) tiene veintinueve años y está casada con el rey de Francia y conoce a Enrique Plantagenet, el hijo del conde de Anjou, diez años más joven que ella. Su encuentro es un auténtico flechazo. La reina pronto consigue la nulidad de su matrimonio con Luis VII y une su vida y su destino a los de la corte
 inglesa. Así comienza una apasionada historia de amor, pero también de
 poder y política, ya que juntos, Leonor y Enrique, construirán el gran
 imperio Plantagenet.
 
 ---
-![Leonor de Aquitania](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: right"; padding:10px}
+![Leonor de Aquitania](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: left; padding:10px"}
 También en 2020, Jean Flori, escribió una biografía de *Leonor de Aquitania,
 la reina rebelde*. La singulariza ya el hecho de haber sido reina en dos
 ocasiones y de dos países distintos (de Francia, casada con Luis VII y
@@ -46,7 +46,7 @@ Leonor fue protectora y mecenas de la Abadía de Fontevrault,
 que se convirtió en el sepulcro de los Plantagenet y dirigió de forma significativa la creación de las esculturas de las tumbas. Llevó su singularidad hasta la efigie de su tumba, en la que yace leyendo un libro.
 
 ---
-![Katharine Hepburn como Leonor](/assets/img/aa45c8d3-916e-451a-bdb0-1539a971b871.jpg){:width="200" style="float: right"; padding:10px}
+![Katharine Hepburn como Leonor](/assets/img/aa45c8d3-916e-451a-bdb0-1539a971b871.jpg){:width="200" style="float: left; padding:10px"}
 En 1968, es el personaje principal de la película **El león en invierno** (The Lion in Winter). Katharine Hepburn interpretó el papel de Leonor y Peter O\'Toole el de Enrique. ​ La película fue un éxito comercial y obtuvo tres Premios Oscar.
 
 Starz, un canal de televisión por suscripción premium estadounidense,
