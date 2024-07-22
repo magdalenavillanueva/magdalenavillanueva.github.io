@@ -5,7 +5,9 @@ date: 2024-02-13 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-<div style="text-align:justify">Leonor de Aquitania sigue encarnando uno de los destinos de mujer más fascinantes de todos los tiempos, es protagonista de muchas obras porque dejó su huella de mujer longeva, inteligente, intrépida, culta e insumisa en la historia de las monarquías europeas. Leonor defendía ante todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas obras actuales inspiradas en este personaje histórico:</div>
+<div style="text-align:justify">
+
+Leonor de Aquitania sigue encarnando uno de los destinos de mujer más fascinantes de todos los tiempos, es protagonista de muchas obras porque dejó su huella de mujer longeva, inteligente, intrépida, culta e insumisa en la historia de las monarquías europeas. Leonor defendía ante todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas obras actuales inspiradas en este personaje histórico:
 
 ---
 ![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right; padding:10px"}
@@ -35,9 +37,8 @@ poder y política, ya que juntos, Leonor y Enrique, construirán el gran
 imperio Plantagenet.
 
 
-![Leonor de Aquitania](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: left"; padding:10px}
 ---
-
+![Leonor de Aquitania](/assets/img/adc1e8a0-3ed9-4f55-ab11-b426ba0a8275.jpg){:width="200" style="float: left"; padding:10px}
 También en 2020, Jean Flori, escribió una biografía de *Leonor de Aquitania,
 la reina rebelde*. La singulariza ya el hecho de haber sido reina en dos
 ocasiones y de dos países distintos (de Francia, casada con Luis VII y
@@ -52,9 +53,8 @@ Leonor fue protectora y mecenas de la Abadía de Fontevrault,
 que se convirtió en el sepulcro de los Plantagenet y dirigió de forma significativa la creación de las esculturas de las tumbas. Llevó su singularidad hasta la efigie de su tumba, en la que yace leyendo un libro.
 
 
+---
 ![Katharine Hepburn como Leonor](/assets/img/aa45c8d3-916e-451a-bdb0-1539a971b871.jpg){:width="200" style="float: left"; padding:10px}
---
-
 En 1968, es el personaje principal de la película *El león en invierno* (The Lion in Winter). Katharine Hepburn interpretó el papel de Leonor y Peter O\'Toole el de Enrique. ​ La película fue un éxito comercial y obtuvo tres Premios Oscar.
 
 
@@ -64,3 +64,5 @@ extraordinarias de la historia y está preparando un drama sobre Leonor
 de Aquitania. La cadena se ha hecho con los derechos de la biografía de
 la historiadora Alison Weir, Eleanor of Aquitaine: A Life, que se
 publicó originalmente en 1999 y le siguió Captive Queen en 2010. 
+
+</div>
