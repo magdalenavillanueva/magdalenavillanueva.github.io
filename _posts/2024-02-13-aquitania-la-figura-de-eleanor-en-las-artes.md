@@ -5,7 +5,7 @@ date: 2024-02-13 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-<div align="justify">Leonor de Aquitania sigue encarnando uno de los destinos de mujer másfascinantes de todos los tiempos, es protagonista de muchas obras porque
+Leonor de Aquitania sigue encarnando uno de los destinos de mujer másfascinantes de todos los tiempos, es protagonista de muchas obras porque
 dejó su huella de mujer longeva, inteligente, intrépida, culta e
 insumisa en la historia de las monarquías europeas. Leonor defendía ante
 todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania
