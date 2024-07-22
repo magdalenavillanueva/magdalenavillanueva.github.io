@@ -5,15 +5,11 @@ date: 2024-02-13 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-<div style="text-align:justify">
-
-Leonor de Aquitania sigue encarnando uno de los destinos de mujer más fascinantes de todos los tiempos, es protagonista de muchas obras porque dejó su huella de mujer longeva, inteligente, intrépida, culta e insumisa en la historia de las monarquías europeas. Leonor defendía ante todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas obras actuales inspiradas en este personaje histórico:
+<div style="text-align:justify">Leonor de Aquitania sigue encarnando uno de los destinos de mujer más fascinantes de todos los tiempos, es protagonista de muchas obras porque dejó su huella de mujer longeva, inteligente, intrépida, culta e insumisa en la historia de las monarquías europeas. Leonor defendía ante todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas obras actuales inspiradas en este personaje histórico:</div>
 
 ---
-![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right; padding:10px"}
-Pamela Kaufman en 1997, escribe **Leonor de Aquitania** quien teniéndolo todo para ser feliz: inteligencia, preparación, belleza, fortuna y alianzas con los poderosos, nunca logró su objetivo de ser independiente para gobernar como duquesa ni como reina. Kaufman escribió otros libros sobre el tema: El escudo de los
-tres leones y Banderas de oro, que abordan la existencia de Ricardo,
-Corazón de León, hijo favorito de Leonor de Aquitania.
+<div style="text-align:justify">![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right; padding:10px"}
+Pamela Kaufman en 1997, escribe **Leonor de Aquitania** quien teniéndolo todo para ser feliz: inteligencia, preparación, belleza, fortuna y alianzas con los poderosos, nunca logró su objetivo de ser independiente para gobernar como duquesa ni como reina. Kaufman escribió otros libros sobre el tema: El escudo de los tres leones y Banderas de oro, que abordan la existencia de Ricardo, Corazón de León, hijo favorito de Leonor de Aquitania.</div>
 
 
 En 2013, Miguel Gorosabel Suárez realiza un ensayo biográfico de este personaje histórico que, por ser mujer, en un mundo de hombres, se le ha dado menos importancia de la que realmente tuvo. En el siglo XI, la historia era contada por los cronistas, casi siempre eclesiásticos, para los que, el mero hecho de ser mujer, venía a ser poco menos que la encarnación del mal. En una ardua síntesis de
@@ -63,6 +59,4 @@ está desarrollando una lista de series inspiradas en mujeres
 extraordinarias de la historia y está preparando un drama sobre Leonor
 de Aquitania. La cadena se ha hecho con los derechos de la biografía de
 la historiadora Alison Weir, Eleanor of Aquitaine: A Life, que se
-publicó originalmente en 1999 y le siguió Captive Queen en 2010. 
-
-</div>
+publicó originalmente en 1999 y le siguió Captive Queen en 2010.
