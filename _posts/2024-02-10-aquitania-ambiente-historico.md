@@ -7,7 +7,7 @@ categories:
 ---
 **AMBIENTE HISTÓRICO:**
 
-<div align="justify">El trasfondo de los hechos históricos en que se desarrolla la novela Aquitania nos ubica en la Edad Media, siglo XII. Eleanor de Aquitania es el centro de este thriller, es la duquesa de Aquitania, hija de Guilhem
+El trasfondo de los hechos históricos en que se desarrolla la novela Aquitania nos ubica en la Edad Media, siglo XII. Eleanor de Aquitania es el centro de este thriller, es la duquesa de Aquitania, hija de Guilhem
 X, soberano del ducado de Aquitania, una región fértil muy rica, y más
 próspera y extensa que la de su rey, Luis VI de Francia. Los Capetos son
 la familia gobernante en Francia y los Poitiers en Aquitania. Familias

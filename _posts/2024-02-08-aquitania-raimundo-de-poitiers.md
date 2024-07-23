@@ -5,7 +5,7 @@ date: 2024-02-08 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-<div align="justify">Era poitevino, de cabello negro, ojos azules claros y rasgados, piel
+Era poitevino, de cabello negro, ojos azules claros y rasgados, piel
 bronceada por el eterno sol aquitano, afable y de conversación
 encantadora. Tiene gran protagonismo al inicio del libro y al final, en
 las Cruzadas.
@@ -24,12 +24,13 @@ silencios. Otro cercenó sus hombrías, venganza por lo que nos
 arrebataron a mí y a mi primer amor´´. Pág. 19. *Aquitania* de Eva
 García Sáenz de Urturi.
 
-![Raimundo da la bienvenida a Luis VII](/assets/img/8f8e875e-7d99-4ecc-90d7-131695b6841d.jpg) 
+![Raimundo da la bienvenida a Luis VII](/assets/img/ 8f8e875e-7d99-4ecc-90d7-131695b6841d.jpg){:width="200" style="float: right; padding:10px"}  
+ 
 ---
 Durante mucho tiempo se murmuraba que
 tiene relaciones con su sobrina Eleanor, de la cual solo lo separaban
 nueve años. Desde que ella tenía trece años y el veintiuno. En la obra,
-Eleanor misma dice: "---Mentira\... ---renegó entre susurros Rai,
+Eleanor misma dice: "---Mentira.. ---renegó entre susurros Rai,
 mi tío, mi amante. Me miró cómplice, lo miré lento. Intuía ya que había
 llegado, abruptamente, el final de una etapa. Supe que me estaba
 despidiendo de él y atesoré en mi memoria aquellas últimas horas´´. 
