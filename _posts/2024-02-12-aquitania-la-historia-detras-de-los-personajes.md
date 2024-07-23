@@ -188,8 +188,12 @@ Vermandois. El tío paterno de Ralph era Felipe I de Francia, lo que lo
 convertía en primo hermano del rey Luis VI de Francia y un primo segundo
 de Luis VII de Francia. Ralph sirvió como el senescal de Francia durante
 el reinado de Luis VII. Presionado por la reina, Leonor de Aquitania,
-Luis ![image](https://github.com/user-attachments/assets/efeee192-1390-4c2c-86e5-3e41643baaaf)
-{:width="200" style="float: right"} permitió a Ralph repudiar a su esposa,
+
+
+![image](https://github.com/user-attachments/assets/efeee192-1390-4c2c-86e5-3e41643baaaf)
+{:width="200" style="float: right; padding:10px"} 
+
+Luis permitió a Ralph repudiar a su esposa,
 Leonor de Champagne, hermana de Esteban de Inglaterra, a favor de la
 hermana de Leonor de Aquitania, Petronila,​ lo que llevó a una guerra
 con Teobaldo II de Champagne, que era hermano de la primera esposa. La
