@@ -4,8 +4,8 @@ title: "Aquitania: Personajes secundarios"
 date: 2024-02-09 12:00:01 +0100
 categories: 
     - Aquitania
-
-![Ducado de Aquitania](/assets/img/673e6ed3-3bad-4c3d-b9e9-d95cbc322f79.png){:width="200" style="float: right; padding:10px"} 
+---
+![Ducado de Aquitania](/assets/img/673e6ed3-3bad-4c3d-b9e9-d95cbc322f79.png){:width="200" style="float: right; padding:10px"}  
 
 ---
 **Guilhem X:**
