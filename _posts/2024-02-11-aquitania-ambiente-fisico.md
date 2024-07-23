@@ -5,9 +5,9 @@ date: 2024-02-11 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-![image](https://github.com/user-attachments/assets/1164088a-477e-4cd6-8cdb-9af0d69fabba)
+![image](https://github.com/user-attachments/assets/1164088a-477e-4cd6-8cdb-9af0d69fabba){:width="200" style="float: right; padding:10px"} 
 
-<div align="justify">Fue una antigua región de Francia, tenía
+Fue una antigua región de Francia, tenía
 una superficie de 41.400 km². Limitaba al suroeste con el río Bidasoa
 que la separa del País Vasco y el mar Cantábrico, al oeste con el océano
 Atlántico desde la desembocadura del río Adur hasta el estuario de la
@@ -20,7 +20,7 @@ Garona y los Pirineos Atlánticos.
 **La provincia romana de Galia Aquitania**
 
 ---
-![image](https://github.com/user-attachments/assets/d95f100f-39a3-45ff-b19b-b93c36bf77a0)
+![image](https://github.com/user-attachments/assets/d95f100f-39a3-45ff-b19b-b93c36bf77a0){:width="200" style="float: right; padding:10px"} 
 
 ---
 Durante la conquista romana de la Galia
@@ -31,7 +31,7 @@ también a la región entre el Garona y el Loira, por estar celtizada.
 Antes de la romanización se hablaba una lengua, hoy muerta**:** aquitano
 o euskera arcaico.
 
-![image](https://github.com/user-attachments/assets/ccfeb020-869d-4bd7-9a4a-bdcc4006f044)
+![image](https://github.com/user-attachments/assets/ccfeb020-869d-4bd7-9a4a-bdcc4006f044){:width="200" style="float: right; padding:10px"} 
 
 ---
 En la Alta Edad Media fue el territorio
