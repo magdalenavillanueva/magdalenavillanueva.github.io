@@ -22,8 +22,8 @@ estatura regular. Su rostro es de forma ovalada con una nariz larga y
 delgada. De extensa melena rubia. Es una noble medieval francesa miembro
 de la casa de Poitiers, desde 1137, llega a convertirse en heredera del
 ducado de Aquitania y Guyena y condesa de Gascuña, tras la muerte de su
-hermano Aigret. Su abuelo decidió llamarla Alia Aenor, Eleanor: **la otra
-Aenor** para diferenciarla de su madre.<p/>
+hermano Aigret. Su abuelo decidió llamarla Alia Aenor, Eleanor: *la otra
+Aenor* para diferenciarla de su madre.<p/>
 
 
 ![Eleanor/Lía de Aquitania](/assets/img/6cae66b9-7406-4a6f-9b26-acd51e78e097.jpg){:width="200" style="float: right; padding:10px"}
@@ -40,7 +40,7 @@ una hija con Luy a la que considera una poitevina: ´´Añoraba
 Aquitania, pero María y los cuidados que demandaba me mantenían ocupada
 en asuntos vacuos e inmediatos, nada de planes políticos. Y adoraba que
 mi hija fuera una diminuta morena aquitana de fieros ojos azules y
-rasgados. Pág. 244. *Aquitania* de Eva García Sáenz de Urturi.</p>
+rasgados. Pág. 244. **Aquitania** de Eva García Sáenz de Urturi.</p>
 
 
 **Eleanor y Luy VII**
