@@ -5,12 +5,13 @@ date: 2024-02-05 12:00:01 +0100
 categories: 
     - Aquitania
 ---
-![image](https://github.com/user-attachments/assets/bd623636-f152-4473-813e-53ad61b117af)
----
+![image](https://github.com/user-attachments/assets/bd623636-f152-4473-813e-53ad61b117af){:width = "200" style = "float: right; padding: 10px"}
 
-![Luy VII](/assets/img/0ce42735-1e39-44fd-84e8-269604c95fca.jpg)
----
-<div align="justify">El primer heredero del rey Luy VI el Gordo, había muerto años 
+
+![Luy VII](/assets/img/0ce42735-1e39-44fd-84e8-269604c95fca.jpg){:width = "200" style = "float: right; padding: 10px"}
+
+
+El primer heredero del rey Luy VI el Gordo, había muerto años 
 atrás en un accidente mientras volvía a París: un cerdo 
 se le cruzó por el camino y Felipe salió volando de
 la cabalgadura. Se rompió el cuello, apenas sobrevivió unos minutos a su
@@ -19,7 +20,8 @@ enseguida a su segundo hijo, Luy el niño, un crío débil y enclenque. El
 padre de Eleanor estuvo presente, como todos los demás vasallos que se
 vieron obligados a rendirle homenaje.
 
-<div align="justify">Luy tenía once años, era delgado, huesudo de cuerpo, pelo rubio, de
+
+Luy tenía once años, era delgado, huesudo de cuerpo, pelo rubio, de
 carácter asustadizo, influenciable y manipulable, débil y pusilánime,
 que no fue educado para rey, una situación a la que llegó por la muerte
 de su hermano mayor. Pero tampoco era el hombre manejable y blandengue
@@ -28,9 +30,11 @@ prefiere los consejos del templario eunuco Thierry de Galerán. El propio
 Galerán, la reina madre y el abad Suger cercaban a Luy y tomaban las
 decisiones del reino por él, sin dejarle apenas iniciativa.
 
-![Luy VII](/assets/img/ca849c85-dfef-4589-979a-5efba23d76d1.jpg)
----
-<div align="justify">Luy es un joven sensible, introvertido, recto y con un 
+
+![Luy VII](/assets/img/ca849c85-dfef-4589-979a-5efba23d76d1.jpg){:width = "200" style = "float: right; padding: 10px"}
+
+
+Luy es un joven sensible, introvertido, recto y con un 
 gran sentido del deber que hubiese querido dedicarse a la
 iglesia pero la muerte de su hermano mayor lo ha convertido en heredero
 al trono. No desea casarse con Leonor, una joven con fama de aguerrida y
@@ -46,7 +50,8 @@ débil, pero lo vi firme en Poitiers. Una nueva fuerza, sospecho que ni
 él creyó que la tenía´´ Pág. 179. *Aquitania* de Eva García Sáenz
 de Urturi.
 
-<div align="justify">Más adelante, nos enteramos que estuvo presente el día en que los dos
+
+Más adelante, nos enteramos que estuvo presente el día en que los dos
 Capetos forzaron a la heredera de Aquitania. El rey indolente no hizo
 nada para evitarlo, como él mismo le dijo a Eleanor y ella recuerda
 Y más me dolía la nueva muralla de silencio que iba a tener que
@@ -54,7 +59,8 @@ erigir entre ambos. Si él me había ocultado que fue testigo de la
 infamia de mi estupro´´. Pág. 260. *Aquitania* de Eva García Sáenz
 de Urturi.
 
-<div align="justify">En 1144 en un arrebato, Luis VII ordenó la quema de una iglesia con
+
+En 1144 en un arrebato, Luis VII ordenó la quema de una iglesia con
 trescientas personas dentro, donde todas fallecieron; el abad Suger,
 recomendó entonces a modo de penitencia, la marcha inminente a la
 Segunda Cruzada. Luis se llevó a Leonor al viaje porque era celoso, y
