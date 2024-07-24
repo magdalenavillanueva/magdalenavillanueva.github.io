@@ -24,7 +24,7 @@ silencios. Otro cercenó sus hombrías, venganza por lo que nos
 arrebataron a mí y a mi primer amor´´. Pág. 19. *Aquitania* de Eva
 García Sáenz de Urturi.
 
-![Raimundo da la bienvenida a Luis VII](/assets/img/ 8f8e875e-7d99-4ecc-90d7-131695b6841d.jpg){:width="200" style="float: right; padding:10px"}  
+!![alt text](image-1.png){:width="200" style="float: right; padding:10px"}  
  
 ---
 Durante mucho tiempo se murmuraba que
