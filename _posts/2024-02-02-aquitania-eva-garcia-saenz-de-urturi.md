@@ -84,7 +84,7 @@ medios como «El Cultural», «Qué Leer», «El País», «El Mundo», «ABC»,
 «Woman», «Telva» y las principales emisoras de radio del país y de
 Latinoamérica.
 
-![image](https://github.com/user-attachments/assets/9cf90d70-f38a-416b-8b0a-dce1c6ae12b8)
+![<img src="](https://github.com/user-attachments/assets/9cf90d70-f38a-416b-8b0a-dce1c6ae12b8)
 {:width="200" style="float: right"} 
 
 En el 2023, publica su nueva novela, El Ángel de la Ciudad. Es una
