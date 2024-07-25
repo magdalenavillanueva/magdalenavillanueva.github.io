@@ -30,7 +30,7 @@ prefiere los consejos del templario eunuco Thierry de Galerán. El propio
 Galerán, la reina madre y el abad Suger cercaban a Luy y tomaban las
 decisiones del reino por él, sin dejarle apenas iniciativa.
 
-
+---
 ![Luy VII](/assets/img/ca849c85-dfef-4589-979a-5efba23d76d1.jpg){:width = "200" style = "float: right; padding: 10px"}
 
 
