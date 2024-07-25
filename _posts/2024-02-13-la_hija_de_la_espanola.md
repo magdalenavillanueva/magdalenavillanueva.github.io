@@ -3,7 +3,7 @@ layout: single
 title: "La hija del panadero"
 date: 2024-02-13 12:00:01 +0100
 categories: 
-    - LaHijaDeLaEspanola
+    - la-hija-del-panadero
 ---
 Leonor de Aquitania sigue encarnando uno de los destinos de mujer más fascinantes de todos los tiempos, es protagonista de muchas obras porque dejó su huella de mujer longeva, inteligente, intrépida, culta e insumisa en la historia de las monarquías europeas. Leonor defendía ante todo su poder sobre Aquitania frente a sus maridos. Aparte de Aquitania de Eva García Sáenz de Urturi, publicada en 2020, mencionaremos algunas obras actuales inspiradas en este personaje histórico:
 
