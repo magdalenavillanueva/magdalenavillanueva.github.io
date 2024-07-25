@@ -8,7 +8,7 @@ categories:
 ![image](https://github.com/user-attachments/assets/4064175e-7d02-43b3-859c-a9851bb3dc5c)
 {:width="200" style="float: right"}
 ---
-<div align="justify">Es una escritora española nacida en Vitoria, 
+Es una escritora española nacida en Vitoria, 
 Álava, el 20 de agosto de 1972. Estudió Óptica y Optometría, 
 trabajó como bibliotecaria y acudió a diversos talleres de escritura,
 como el de Fuentetaja, en Madrid. Entre sus autores favoritos se
