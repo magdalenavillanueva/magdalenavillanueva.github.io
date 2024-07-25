@@ -8,10 +8,10 @@ categories:
 ![Eleanor/Lía de Aquitania](/assets/img/2dda041b-57f9-460f-bb9d-26e46dab4de9.png)
 
 
-![Eleanor/Lía de Aquitania](/assets/img/c5c82a96-ef21-46ee-a3c8-5e62167984b5.jpg){:width="200" style="float: right; padding:10px"}
+![Eleanor/Lía de Aquitania](/assets/img/c5c82a96-ef21-46ee-a3c8-5e62167984b5.jpg){:width="200"style="float:right; padding:10px"}
   
 
-<p>Se conoce como una niña precoz, que
+Se conoce como una niña precoz, que
 dominaba el latín, el inglés, la lengua de oc y la lengua de oíl que
 hablaban en la corte francesa de París. Era la mejor cetrera de su edad,
 gustaba de ir de caza y las siete artes del conocimiento no eran ningún
@@ -23,13 +23,13 @@ delgada. De extensa melena rubia. Es una noble medieval francesa miembro
 de la casa de Poitiers, desde 1137, llega a convertirse en heredera del
 ducado de Aquitania y Guyena y condesa de Gascuña, tras la muerte de su
 hermano Aigret. Su abuelo decidió llamarla Alia Aenor, Eleanor: *la otra
-Aenor* para diferenciarla de su madre.<p/>
+Aenor* para diferenciarla de su madre.
 
 
-![Eleanor/Lía de Aquitania](/assets/img/6cae66b9-7406-4a6f-9b26-acd51e78e097.jpg){:width="200" style="float: right; padding:10px"}
+![Eleanor/Lía de Aquitania](/assets/img/6cae66b9-7406-4a6f-9b26-acd51e78e097.jpg){:width="200"style="float:right; padding:10px"}
  
 
-<p>Es hija de Guillermo X, duque de Aquitania,
+Es hija de Guillermo X, duque de Aquitania,
 y de Leonor de Châtellerault. Su padre le enseñó desde los ocho años a
 tomar decisiones que favorecieran la fortuna y el patrimonio de los
 aquitanos. En Burdeos, el 4 de julio de 1137, contrajo matrimonio a los
@@ -40,24 +40,24 @@ una hija con Luy a la que considera una poitevina: ´´Añoraba
 Aquitania, pero María y los cuidados que demandaba me mantenían ocupada
 en asuntos vacuos e inmediatos, nada de planes políticos. Y adoraba que
 mi hija fuera una diminuta morena aquitana de fieros ojos azules y
-rasgados. Pág. 244. **Aquitania** de Eva García Sáenz de Urturi.</p>
+rasgados. Pág. 244. **Aquitania** de Eva García Sáenz de Urturi.
 
 
 **Eleanor y Luy VII**
 
-<p>Las tensiones entre la pareja empezaron, cuando la reina apoyó el matrimonio
+Las tensiones entre la pareja empezaron, cuando la reina apoyó el matrimonio
 ilegítimo de su hermana Aelith con el conde Ralf de Vermandois. Eleanor
 es insumisa, audaz, intrépida y valiente. Además, su comportamiento
 emancipado y liberal fue duramente criticado por la curia eclesiástica,
 especialmente por Bernardo de Claraval y el abad Suger y, al parecer,
 por su propia suegra, Adelaida de Saboya. Sin embargo, nada de esto le
 importó al soberano francés, que estaba locamente enamorado de su
-esposa.</p>
+esposa.
 
 
-![Segunda cruzada](/assets/img/e9e63f6d-e233-4be6-a653-bff976feacfa.jpg){:width="200" style="float: right; padding:10px"}
+![Segunda cruzada](/assets/img/e9e63f6d-e233-4be6-a653-bff976feacfa.jpg){:width="200"style="float:right; padding:10px"}
 
-<p>En 1147, los jóvenes esposos marcharon a la 
+En 1147, los jóvenes esposos marcharon a la 
 Segunda Cruzada, movidos por la predicación de Bernardo de Claraval. El
 rey no permitió de buen grado que Leonor lo acompañara, pero ella, con
 su carácter voluntarioso e indómito, rompe con las normas y costumbres y
@@ -67,4 +67,4 @@ privadas mantenidas entre Eleanor y su tío Raimundo, entonces príncipe
 de Antioquía, dio lugar a murmuraciones, que provocaron el
 distanciamiento final en la pareja real. Estas habladurías forjaron la
 fama de libertina, que posteriormente se consolidó, de la joven
-soberana.</p>
+soberana.
