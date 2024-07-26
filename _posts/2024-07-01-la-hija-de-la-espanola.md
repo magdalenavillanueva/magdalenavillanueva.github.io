@@ -5,7 +5,7 @@ date: 2024-07-01 12:00:01 +0100
 categories: 
     - La Hija de la Española
 ---
-<center>EL TERCER PAIS</center>
+<center>**EL TERCER PAIS**</center>
 
     "La vida fue aquello que pasó. Aquello que hicimos y nos hicieron. 
     La bandeja donde nos abrieron por la 
@@ -13,12 +13,13 @@ categories:
                          Karina Sainz Borgo
 
 
-**El Tercer País:**
+
 
 Después de leer La hija de la española nos adentramos en  El Tercer País una nueva novela de Karina Sainz Borgo, cuya temática nos vuelve a sorprender como la anterior. Aquí las protagonistas también son dos mujeres, fuertes, valientes, luchando para salir adelante contra políticos corruptos, mafiosos, guerrilleros, plantándole cara a la muerte. Hay huida, éxodo, en este caso a causa de una epidemia que está arrasando con todo, abusadores de poder, traficantes de personas. Y ambos libros comparten la dificultad de poder enterrar a los muertos para poder cerrar los ciclos de la vida.  
  
 ---
-![El tercer pais](image/png){:width="200" style="float: right; padding:10px"}
+![El tercer pais](img/jpg){:width="200" style="float: right; padding:10px"}
+
 
 Todo ocurre en una frontera, la que separa la sierra oriental de la  occidental. Angustias Romero huye de la peste con su marido y sus dos  hijos atados a la espalda. Los gemelos sietemesinos, mueren en el  trayecto, y, tras guardarlos en sendas cajas de zapatos, el matrimonio  se dirige a enterrarlos en El Tercer País, el cementerio ilegal  regentado por la legendaria Visitación Salazar
 
