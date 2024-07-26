@@ -7,7 +7,8 @@ categories:
 ---
 <center>**EL TERCER PAIS**</center>
 
-    "La vida fue aquello que pasó. Aquello que hicimos y nos hicieron. 
+    "La vida fue aquello que pasó. 
+    Aquello que hicimos y nos hicieron. 
     La bandeja donde nos abrieron por la 
     mitad como un pan a punto de crecer"
                          Karina Sainz Borgo
