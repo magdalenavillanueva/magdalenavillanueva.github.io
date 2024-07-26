@@ -5,7 +5,7 @@ date: 2024-07-01 12:00:01 +0100
 categories: 
     - La Hija de la Española
 ---
-<center><h2>EL TERCER PAIS</h2></center>
+<h2>EL TERCER PAIS</h2>
 ---
 
 
@@ -31,7 +31,7 @@ poder  cerrar los ciclos de la vida.
  
 
 ![el tercer pais](assets/img/el tercer pais.jpg){:width="200" style="float: 
-right; padding:10px"}
+right"}
 
 
 Todo ocurre en una frontera, la que separa la sierra oriental de 
