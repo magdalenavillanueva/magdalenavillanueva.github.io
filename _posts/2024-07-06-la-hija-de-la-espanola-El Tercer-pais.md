@@ -15,7 +15,7 @@ La bandeja donde nos abrieron por la   mitad como un pan a punto de crecer"**
          Karina Sainz Borgo.
 
 
-Después de leer La hija de la española nos adentramos en  El TercerPaís 
+Después de leer La hija de la española nos adentramos en  El Tercer País 
 una nueva novela de
 Karina Sainz Borgo, cuya temática nos vuelve a sorprender como la 
 anterior. Aquí las  protagonistas también son dos mujeres, fuertes, 
