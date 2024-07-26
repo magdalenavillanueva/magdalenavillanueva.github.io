@@ -26,7 +26,7 @@ poder  cerrar los ciclos de la vida.
 
  
 ---
-![el tercer pais](_posts/image-3.png){:width="200" style="float: 
+![el tercer pais](assets/img/el tercer pais.jpg){:width="200" style="float: 
 right; padding:10px"}
 
 
