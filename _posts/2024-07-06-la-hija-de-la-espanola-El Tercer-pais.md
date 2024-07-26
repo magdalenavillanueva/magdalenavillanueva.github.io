@@ -5,13 +5,14 @@ date: 2024-07-01 12:00:01 +0100
 categories: 
     - La Hija de la Española
 ---
-<center> EL TERCER PAIS</center>
+<center>**EL TERCER PAIS**</center>
+---
 
 
 
 **"La vida fue aquello que pasó.  Aquello que hicimos y nos hicieron. 
 La bandeja donde nos abrieron por la   mitad como un pan a punto de crecer"**
-    Karina Sainz Borgo.
+         Karina Sainz Borgo.
 
 
 Después de leer La hija de la española nos adentramos en  El TercerPaís 
@@ -27,7 +28,7 @@ comparten la dificultad de poder enterrar a los muertos para
 poder  cerrar los ciclos de la vida. 
 
  
----
+
 ![el tercer pais](assets/img/el tercer pais.jpg){:width="200" style="float: 
 right; padding:10px"}
 
