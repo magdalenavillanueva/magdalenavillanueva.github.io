@@ -2,9 +2,9 @@ layout: single
 title: "La Hija de la Española"
 date: 2024-07-01 12:00:01 +0100
 categories: 
-    - La Hija de la Española
+   - La Hija de la Española
 
-   <h2>LITERATURA, MÚSICA Y LUGARES</h2>
+<h2>LITERATURA, MÚSICA Y LUGARES</h2>
 
 
 
@@ -86,50 +86,50 @@ y el centro cultural formado por el Teatro Teresa Carreño, el Ateneo
 y los museos de Bellas Artes y Ciencias Naturales.
 
 Helados en Crema Paraíso:
- Marca venezolana de helados, concentrados de limón y cremas de cocina 
- con más de  70 años en Venezuela. 
+Marca venezolana de helados, concentrados de limón y cremas de cocina 
+con más de  70 años en Venezuela. 
 
- Cementerio La Guairita (parte vieja)
- También conocido como el Cementerio del Este, se sitúa en la avenida 
- principal de la Guairita en el Municipio El Hatillo, al sureste del 
- área metropolitana de Caracas.
+Cementerio La Guairita (parte vieja)
+También conocido como el Cementerio del Este, se sitúa en la avenida 
+principal de la Guairita en el Municipio El Hatillo, al sureste del 
+área metropolitana de Caracas.
 
- Ocumare de la Costa
- Este es uno de los municipios más turísticos por ser parte de la costa, 
- además su belleza se debe también a que está rodeado del Parque Nacional 
- Henri Pittier y está ubicado al noreste del estado Aragua y a 15 metros 
- sobre el nivel del mar.
+Ocumare de la Costa
+Este es uno de los municipios más turísticos por ser parte de la costa, 
+además su belleza se debe también a que está rodeado del Parque Nacional 
+Henri Pittier y está ubicado al noreste del estado Aragua y a 15 metros 
+sobre el nivel del mar.
 
- AMBIENTE: VIABILIDAD
+AMBIENTE: VIABILIDAD
 
- La Encrucijada
- Entre Turmero y Palo Negro edo. Aragua.
+La Encrucijada
+Entre Turmero y Palo Negro edo. Aragua.
 
- Parada de autobús
- Olía a butano, gasolina, aceite de motor, y fritura de  cerdo.
+Parada de autobús
+Olía a butano, gasolina, aceite de motor, y fritura de  cerdo.
 
- COMIDAS
+COMIDAS
 
- Caña de azúcar: es una gramínea tropical de tallos macizos y 
- robustos que se caracteriza por la acumulación de sacarosa y 
- por lo tanto es importante en la producción de azúcar a nivel mundial.
+Caña de azúcar: es una gramínea tropical de tallos macizos y 
+robustos que se caracteriza por la acumulación de sacarosa y 
+por lo tanto es importante en la producción de azúcar a nivel mundial.
 
- Pollo en brasas: se sazona un pollo entero y se le atraviesa una
- varilla metálica para que gire lentamente sobre las brasas.
+Pollo en brasas: se sazona un pollo entero y se le atraviesa una
+varilla metálica para que gire lentamente sobre las brasas.
 
- Hallaquitas de maíz: los ingredientes principales son la masa de maíz, 
- agua, aceite y sal. Se trabaja la masa igual que a las arepas, se le 
- da forma alargada y se envuelve en hojas de maíz. Se cocinan en agua.
+Hallaquitas de maíz: los ingredientes principales son la masa de maíz, 
+agua, aceite y sal. Se trabaja la masa igual que a las arepas, se le 
+da forma alargada y se envuelve en hojas de maíz. Se cocinan en agua.
 
- Melcocha: su ingrediente principal es el melado de panela, se forma una 
- pasta porosa y maleable, elástica. Es uno de los dulces más tradicionales 
- de Venezuela.
+Melcocha: su ingrediente principal es el melado de panela, se forma una 
+pasta porosa y maleable, elástica. Es uno de los dulces más tradicionales 
+de Venezuela.
 
- Bocadito de coco: conserva de coco, dulce muy popular que se elabora con 
- coco rallado, azúcar o papelón. Y se vende libremente en las calles de 
- cualquier ciudad o pueblo, playas, autopistas.
+Bocadito de coco: conserva de coco, dulce muy popular que se elabora con 
+coco rallado, azúcar o papelón. Y se vende libremente en las calles de 
+cualquier ciudad o pueblo, playas, autopistas.
 
- Bollos: elaborados con harina rellenos de picadillo de cochino frito.
+Bollos: elaborados con harina rellenos de picadillo de cochino frito.
 
 Ciruela de huesitos: (comerlos era un acto de perseverancia), en dulce.
 
