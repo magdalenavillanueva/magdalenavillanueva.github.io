@@ -94,7 +94,7 @@ costa, además su belleza se debe también a que está rodeado
 del Parque Nacional Henri Pittier y está ubicado al noreste 
 del estado Aragua y a 15 metros sobre el nivel del mar.
 
-<h3>AMBIENTE: VIABILIDAD<</h3>
+<h3>AMBIENTE: VIABILIDAD</h3>
 
 <h4>La Encrucijada</h4>
 Situado entre Turmero y Palo Negro edo. Aragua.
