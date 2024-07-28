@@ -257,7 +257,7 @@ Ballet clásico tradicional más conocido en el mundo.
 
 <h4>Arturo Michelena: La joven madre</h4>
 
-![Arturo Michelena](</>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Arturo Michelena](</e:\Isabel\Documents\libros\maria\la hija de la española\Nueva carpeta\Arturi Michelena.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 (1863-1898), Maestro del dibujo, retratista y de obras religiosas, 
 en su estadía por París obtuvo la medalla de oro en la Exposición
