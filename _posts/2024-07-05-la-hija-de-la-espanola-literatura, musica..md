@@ -28,7 +28,7 @@ dispersaba y ensuciaba la esencia del venezolano.
 <h3>COMERCIAL</h3>
 
 <h4>Sears</h4>
-
+![sears](</assets/img/Sears.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 Sears Roebuck de Venezuela, tiendas por departamento que inició sus operaciones el 19 de 
 marzo de 1950 en Caracas, Venezuela. Su primera tienda fue inaugurada en la urbanización 
 Colinas de Bello Monte.
