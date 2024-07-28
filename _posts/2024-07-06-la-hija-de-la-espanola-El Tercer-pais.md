@@ -30,7 +30,7 @@ poder  cerrar los ciclos de la vida.
 
  
 
-![el tercer pais](</assets/img/el tercer pais.jpg>){:width="200" style ="float: right"padding:10px"}
+![el tercer pais](</assets/img/el tercer pais.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 
 Todo ocurre en una frontera, la que separa la sierra oriental de 
