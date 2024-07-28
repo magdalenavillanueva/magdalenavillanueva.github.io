@@ -28,12 +28,16 @@ dispersaba y ensuciaba la esencia del venezolano.
 <h3>COMERCIAL</h3>
 
 <h4>Sears</h4>
+
 ![sears](</assets/img/Sears.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 Sears Roebuck de Venezuela, tiendas por departamento que inició sus operaciones el 19 de 
 marzo de 1950 en Caracas, Venezuela. Su primera tienda fue inaugurada en la urbanización 
 Colinas de Bello Monte.
 
 <h4>Remavenca</h4>
+
+![remavenca](</assets/img/Remavenca.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 Es una  planta refinadora de maíz (olor a cervezas, recuerdos de los versos de
 l pilón).
@@ -42,12 +46,15 @@ l pilón).
 
 <h4>El Nacional</h4>
 
+![el nacional](</assets/img/El Nacional.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 En 1942 Henrique Otero Vizcarrondo compra la rotativa de un periódico arruinado de Boston, 
 con esta imprenta funda el 3 de agosto de 1943 el diario El Nacional, junto con  Miguel 
 Otero Silva su hijo. Este periódico es considerado el primero en el país.
 
 <h4>Sábado Sensacional</h4>
 
+![Sabado Sensacional](</assets/img/Sábado Sensacional.png>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 Programa de televisión con más de 50 años en el aire, fue un programa de entretenimiento y 
 Amador Bendayán fue su primer presentador. Era transmitido por el canal de Venevisión.
@@ -56,6 +63,8 @@ Sábado sensacional (1972-1988, 2018-2019)
 <h3>AMBIENTE: EDUCATIVO</h3>
 
 <h4>Block Caribe</h4>
+
+![Block caribe](</assets/img/Block Caribe.png>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 Un block para dibuajar, fabricado por Caracas Paper Company y era la herramienta de los 
 estudiantes de primaria y secundaria para las actividades de dibujo y artes plásticas.
