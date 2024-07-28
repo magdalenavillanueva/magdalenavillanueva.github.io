@@ -201,16 +201,22 @@ Composición sinfónica de Serguéi Prokófiev (Op. 67) escrita en 1936. La obra
 una historia para niños, con música y texto adaptado por él, con un narrador acompañado por la 
 orquesta.
 
-<center>Érase una vez un pastorcito llamado Pedro, que se pasaba la mayor
-parte del día cuidando a sus ovejas en un prado cercano al pueblo donde
-vivía. Todas las mañanas salía con las primeras luces del alba con su rebaño,
+<center>Érase una vez un pastorcito llamado Pedro, 
+que se pasaba la mayor
+parte del día cuidando a sus ovejas en un prado 
+cercano al pueblo donde
+vivía. Todas las mañanas salía con las primeras 
+luces del alba con su rebaño,
 y no regresaba hasta caída la tarde.
-El pastorcito se aburría de lo lindo viendo cómo pasaba el tiempo, y
+El pastorcito se aburría de lo lindo viendo cómo 
+pasaba el tiempo, y
 pensaba en todas las cosas que podía hacer para divertirse.
-Hasta que un día, echado bajo la sombra de un árbol, tuvo una idea.
-Decidió que era hora de pasar un buen rato a costa de la gente del pueblo
-que había cerca de allí. Dispuesto a hacerles una broma, se acercó y comenzó
-a gritar:
+Hasta que un día, echado bajo la sombra de un árbol, 
+tuvo una idea.
+Decidió que era hora de pasar un buen rato a costa de 
+la gente del pueblo
+que había cerca de allí. Dispuesto a hacerles una broma, 
+se acercó y comenzó a gritar:
 –¡Socorro, el lobo! ¡Que viene el lobo!
 Los aldeanos de inmediato agarraron las herramientas que tenían a
 mano: palas, azadas, martillos, y corrieron a auxiliar al pobre pastor. Pero
@@ -252,7 +258,9 @@ y de la tonta manera en que había engañado a la gente del pueblo.
 En lo adelante nunca más repetiría una broma como esta.
 Pero las ovejas que había perdido, perdidas estaban.</center>
 
+
 **Carlos Cruz-Diez**: (1923-2019), artista plástico del arte cinético.
+
 
 **Penetrables de Soto**: Jesús Soto (1923-2005), artista plástico dedicado a la 
 escultura como los penetrables donde se invita al público a deambular 
