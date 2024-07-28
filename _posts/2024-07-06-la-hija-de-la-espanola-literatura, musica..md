@@ -23,11 +23,11 @@ farándula; que gustaba de leer, de conocer, de saber sobre el mundo.  Un pasado
 significativo que todavía era respetado, celebrado y un presente caótico que disgregaba, 
 dispersaba y ensuciaba la esencia del venezolano.  
 
-AMBIENTES:
+<center><h2>AMBIENTES</h2></center>
 
-AMBIENTE: COMERCIAL
+<h3>COMERCIAL</h3>
 
-Sears:
+**Sears**
 
 Sears Roebuck de Venezuela, tiendas por departamento que inició sus operaciones el 19 de 
 marzo de 1950 en Caracas, Venezuela. Su primera tienda fue inaugurada en la urbanización 
