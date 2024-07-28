@@ -37,7 +37,7 @@ Colinas de Bello Monte.
 
 <h4>Remavenca</h4>
 
-![remavenca](</assets/img/Remavenca.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![remavenca](</assets/img/Remavenca.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
 Es una  planta refinadora de maíz (olor a cervezas, recuerdos de los versos de
 l pilón).
@@ -54,7 +54,7 @@ Otero Silva su hijo. Este periódico es considerado el primero en el país.
 
 <h4>Sábado Sensacional</h4>
 
-![Sabado Sensacional](</assets/img/Sábado Sensacional.png>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Sabado Sensacional](</assets/img/Sábado Sensacional.png>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
 Programa de televisión con más de 50 años en el aire, fue un programa de entretenimiento y 
 Amador Bendayán fue su primer presentador. Era transmitido por el canal de Venevisión.
@@ -64,12 +64,14 @@ Sábado sensacional (1972-1988, 2018-2019)
 
 <h4>Block Caribe</h4>
 
-![Block caribe](</assets/img/Block Caribe.png>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Block caribe](</assets/img/Block Caribe.png>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
 Un block para dibuajar, fabricado por Caracas Paper Company y era la herramienta de los 
 estudiantes de primaria y secundaria para las actividades de dibujo y artes plásticas.
 
 <h4>Círculo de lectores</h4>
+
+![Circulo de lectores](</assets/img/Círculo de lectores.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 Fue un club de lectura y ventas de libros creado en España en 1962 que luego fue adquirido 
 por el Grupo Planeta en el 2014. En Venezuela fue un gran medio para la difusión de la 
@@ -78,26 +80,42 @@ lectura.
 <h3>AMBIENTE FÍSICO</h3>
 
 <h4>Galería de Arte Nacional</h4>
+
+![Galeria de artes](</assets/img/Galería de Arte Nacional.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+
 Se encuentra ubicada en la Av. México, frente a Puente Brión. 
 Desde el 6 de abril de 1976 se inauguró como un organismo
 público para realzar el arte prehispánico, pinturas 
 coloniales, esculturas y obras venezolanas.
 
 <h4>Paseo Los Caobos (parte vieja)</h4>
+
+![Paseo los caobos](</assets/img/Paseo Los Caobos.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 Está ubicado en todo el centro de Caracas, entre la Plaza Venezuela
 y el centro cultural formado por el Teatro Teresa 
 Carreño, el Ateneo y los museos de Bellas Artes y Ciencias Naturales.
 
 <h4>Helados en Crema Paraíso</h4>
+
+![helados de crema](</assets/img/Helados en Crema Paraíso.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+
 Marca venezolana de helados, concentrados de limón y cremas 
 de cocina con más de  70 años en Venezuela. 
 
 <h4>Cementerio La Guairita (parte vieja)</h4>
+
+![Cementerio la guarita](</assets/img/Cementerio La Guairita.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 También conocido como el Cementerio del Este, se sitúa en la 
 avenida principal de la Guairita en el Municipio El 
 Hatillo, al sureste del área metropolitana de Caracas.
 
 <h4>Ocumare de la Costa</h4>
+
+![Ocumare de la Costa](</assets/img/Ocumare de la Costa.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+
+
 Este es uno de los municipios más turísticos por ser parte de la 
 costa, además su belleza se debe también a que está rodeado 
 del Parque Nacional Henri Pittier y está ubicado al noreste 
@@ -106,45 +124,75 @@ del estado Aragua y a 15 metros sobre el nivel del mar.
 <h3>AMBIENTE: VIABILIDAD</h3>
 
 <h4>La Encrucijada</h4>
+
+![La Encrucijada](</assets/img/La Encrucijada.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 Situado entre Turmero y Palo Negro edo. Aragua.
 
 <h4>Parada de autobús</h4>
+
+![Parada de autobus](</assets/img/Parada de autobús.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+
 Ubicado en la via, donde los transeutes se concentran para poder trasladarse. 
 Es un sitio con olor a butano, gasolina, aceite de motor, y fritura de  cerdo.
 
 <h3>COMIDAS</h3>
 
 <h4>Caña de azúcar</h4>
+
+![Caña de azucar](</assets/img/Caña de azúcar.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 Es una gramínea tropical de tallos macizos y robustos que se caracteriza 
 por la acumulación de sacarosa y por lo tanto es importante en la producción
 de azúcar a nivel mundial.
 
 <h4>Pollo en brasas</h4>
+
+![Pollo en braza](</assets/img/Pollo en brasas.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+
 Se sazona un pollo entero y se le atraviesa una varilla metálica 
 para que gire lentamente sobre las brasas. 
 
 <h4>Hallaquitas de maíz</h4>
+
+![hallaquita de maiz](</assets/img/Hallaquitas de maíz.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 Los ingredientes principales son la masa de maíz, agua, aceite y sal. 
 Se trabaja la masa igual que a las arepas, se le da forma alargada 
 y se envuelve en hojas de maíz. Se cocinan en agua.
 
 <h4>Melcocha</h4>
+
+![Melcocha](</assets/img/Melcocha.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+
 Su ingrediente principal es el melado de panela, se forma 
 una pasta porosa y maleable, elástica. Es uno de 
 los dulces más tradicionales de Venezuela.
 
 <h4>Bocadito de coco</h4>
+
+![Bocadito de coco](</assets/img/Bocadito de coco.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 Conserva de coco, dulce muy popular que se elabora con coco rallado, 
 azúcar o papelón. Y se vende libremente en las calles de cualquier ciudad 
 o pueblo, playas, autopistas.
 
 <h4>Bollos</h4>
+
+![Bollos](</assets/img/Bollos.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+
 Elaborados con harina rellenos de picadillo de cochino frito.
 
 <h4>Ciruela de huesitos</h4>
+
+![Ciruela de huesitos](</assets/img/Ciruela de huesitos.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 (comerlos era un acto de perseverancia), en dulce.
 
 <h4>Desayunos</h4>
+
+![Desayunos](</assets/img/Desayunos.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+
 Son menus que contiene Carne mechada, chicharrón frito, 
 tomate, aguacate, café de guarapo (brebaje con 
 canela y papelón).
@@ -202,9 +250,15 @@ Y papá lo sabe hacer.</center>
 <h3>ARTE</h3>
 
 <h4>El lago de los cisnes</h4>
+
+![el lago de los cisnes](</assets/img/El lago de los cisnes.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+
 Ballet clásico tradicional más conocido en el mundo.
 
 <h4>Arturo Michelena: La joven madre</h4>
+
+![Arturo Michelena](</>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+
 (1863-1898), Maestro del dibujo, retratista y de obras religiosas, 
 en su estadía por París obtuvo la medalla de oro en la Exposición
 Universal de París y en 1887 la medalla de segunda clase en el Salón 
