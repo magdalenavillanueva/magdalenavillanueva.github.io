@@ -265,6 +265,8 @@ Universal de París y en 1887 la medalla de segunda clase en el Salón
 de Artes Francesas.
 
 <h4>Pedro y el lobo en el Teresa Carreño</h4>
+
+
 Composición sinfónica de Serguéi Prokófiev (Op. 67) escrita en 1936. 
 La obra de Prokófiev es una historia para niños, con música 
 y texto adaptado por él, con un narrador acompañado por la orquesta.
@@ -285,7 +287,8 @@ tuvo una idea. Decidió que era hora de pasar un buen
 rato a costa de la gente del pueblo
 que había cerca de allí. Dispuesto a 
 hacerles una broma, se acercó y comenzó
-a gritar.
+a gritar:
+
 –¡Socorro, el lobo! ¡Que viene el lobo!
 Los aldeanos de inmediato agarraron las herramientas 
 que tenían a mano palas, azadas, martillos, y corrieron 
@@ -297,7 +300,8 @@ sus trabajos, molestos por la interrupción.
 A Pedro le había hecho tanta gracia la broma que se dispuso
 a repetirla. Un par de días después se volvieron a escuchar 
 en toda la comarca los
-gritos alarmantes de Pedro.
+gritos alarmantes de Pedro:
+
 –¡Socorro, socorro el lobo! ¡Viene el lobo!
 Al volver a oír los gritos del pastor, la gente del pueblo 
 creyó que en esta ocasión sí se trataba verdaderamente de 
@@ -321,7 +325,8 @@ ya no parecían escucharlo.
 Hacían oídos sordos ante los gritos de auxilio, pensando que 
 se trataba de otra broma.
 El pastor no sabía qué más hacer, por lo que seguía pidiendo ayuda,
-gritando desesperado y sin entender por qué nadie acudía.
+gritando desesperado y sin entender por qué nadie acudía:
+
 –¡Socorro, el lobo, el lobo, que se come mis ovejas! ¡Por favor, auxilio!
 Pero ya era muy tarde para convencer a los aldeanos de que esta vez
 era verdad.
@@ -335,9 +340,15 @@ Pero las ovejas que había perdido, perdidas estaban.</center>
 
 
 <h4>Carlos Cruz-Diez</h4>
+
+![Carlos Cruz](</assets/img/Carlos Cruz-Diez.jpg>){:width="200" style ="float: left"padding:10px"}
+
 (1923-2019), artista plástico del arte cinético.
 
-<h4>Penetrables de Soto</h4>
+<h4>Penetrables de Soto</h4>}
+
+![Penetrables](</assets/img/Penetrables de Soto.jpg>){:width="200" style ="float: left"padding:10px"}
+
 Jesús Soto (1923-2005), artista plástico dedicado a la
 escultura como los penetrables donde se invita al público a deambular 
 libremente entre los materiales verticales con que se construyen.
