@@ -11,8 +11,9 @@ categories:
 
 
 <h3>"La vida fue aquello que pasó.  Aquello que hicimos y nos hicieron. 
-La bandeja donde nos abrieron por la   mitad como un pan a punto de crecer"</h3> <h3>Karina Sainz Borgo.</h3>
-
+La bandeja donde nos abrieron por la   mitad como un pan a punto de crecer"</h3> 
+<h3>Karina Sainz Borgo.</h3>
+---
 
 
 Después de leer La hija de la española nos adentramos en  El Tercer País 
@@ -29,7 +30,7 @@ poder  cerrar los ciclos de la vida.
 
  
 
-![](<../assets/img/el tercer pais.jpg>){:width="200" style ="float: right"padding:10px"}
+![el tercer pais](<../assets/img/el tercer pais.jpg>){:width="200" style ="float: right"padding:10px"}
 
 
 Todo ocurre en una frontera, la que separa la sierra oriental de 
