@@ -27,13 +27,13 @@ dispersaba y ensuciaba la esencia del venezolano.
 
 <h3>COMERCIAL</h3>
 
-**Sears**
+<h4>Sears</h4>
 
 Sears Roebuck de Venezuela, tiendas por departamento que inició sus operaciones el 19 de 
 marzo de 1950 en Caracas, Venezuela. Su primera tienda fue inaugurada en la urbanización 
 Colinas de Bello Monte.
 
-**Remavenca**
+<h4>Remavenca</h4>
 
 Es una  planta refinadora de maíz (olor a cervezas, recuerdos de los versos de
 l pilón).
