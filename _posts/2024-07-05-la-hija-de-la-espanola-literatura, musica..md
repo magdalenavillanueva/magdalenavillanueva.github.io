@@ -345,7 +345,7 @@ Pero las ovejas que había perdido, perdidas estaban.</center>
 
 (1923-2019), artista plástico del arte cinético.
 
-<h4>Penetrables de Soto</h4>}
+<h4>Penetrables de Soto</h4>
 
 ![Penetrables](</assets/img/Penetrables de Soto.jpg>){:width="200" style ="float: left"padding:10px"}
 
