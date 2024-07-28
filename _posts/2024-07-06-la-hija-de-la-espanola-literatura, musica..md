@@ -33,12 +33,12 @@ Sears Roebuck de Venezuela, tiendas por departamento que inició sus operaciones
 marzo de 1950 en Caracas, Venezuela. Su primera tienda fue inaugurada en la urbanización 
 Colinas de Bello Monte.
 
-Remavenca:
+**Remavenca**
 
-Fábrica de Remavenca: planta refinadora de maíz (olor a cervezas, recuerdos de los versos de
+Es una  planta refinadora de maíz (olor a cervezas, recuerdos de los versos de
 l pilón).
 
-AMBIENTE: MEDIOS DE COMUNICACIÓN
+<h3>AMBIENTE: MEDIOS DE COMUNICACIÓN</h3>
 
 El Nacional:
 En 1942 Henrique Otero Vizcarrondo compra la rotativa de un periódico arruinado de Boston, 
