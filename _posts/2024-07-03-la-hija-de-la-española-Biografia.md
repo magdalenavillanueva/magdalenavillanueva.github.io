@@ -5,11 +5,11 @@ date: 2024-07-01 12:00:01 +0100
 categories: 
     - La Hija de la Española
 ---
-<h2>Biografía de Karina Sainz Borgo</h2>
+<center><h2>Biografía de Karina Sainz Borgo</h2></center>
 
 
 
-![el tercer pais](</assets/img/el tercer pais.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Karina](</assets/img/Karina Borgo.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 
 Karina Sainz Borgo nació en una Caracas de 1982, cuando todo estaba a  punto de incendiarse. 
@@ -23,6 +23,7 @@ lectores, obtuvo el Grand Prix de Héroïne Madame Figaro y el International Lit
 finalista del Kulturhuset Stadsteatern Stockholm y fue nominada al LiBeraturpreis. Considerado 
 como uno de los mejores libros del año por NPR y por Time, está siendo traducido en veintiséis idiomas y se han vendido sus derechos para una película.
  
+ ![Karina](</assets/img/la hija de la española.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 En 2019, Karina Sainz Borgo fue escogida como una de las cien personas más creativas en la 
 revista Forbes. El Tercer País es su segunda novela. donde revisa el mito de Antígona y el 
 derecho fundamental que tienen los seres humanos de enterrar a sus muertos. Como en La hija de la 
