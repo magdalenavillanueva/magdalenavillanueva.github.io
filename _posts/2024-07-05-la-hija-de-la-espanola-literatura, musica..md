@@ -257,7 +257,7 @@ Ballet clásico tradicional más conocido en el mundo.
 
 <h4>Arturo Michelena: La joven madre</h4>
 
-![Arturo Michelena](</e:\Isabel\Documents\libros\maria\la hija de la española\Nueva carpeta\Arturi Michelena.jpg>){:width="200" style ="float: right"padding:10px"}
+![Arturo Michelena](</assets/img/Arturi Michelena.jpg>){:width="200" style ="float: right"padding:10px"}
 
 (1863-1898), Maestro del dibujo, retratista y de obras religiosas, 
 en su estadía por París obtuvo la medalla de oro en la Exposición
@@ -359,6 +359,8 @@ libremente entre los materiales verticales con que se construyen.
 
 <h3>LIBROS NOMBRADOS</h3>
 
+![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style ="float: left"padding:10px"}
+
 <h4>A sangre fría</h4>
 Fecha de publicación original: 1965
 Autor: Truman Capote
@@ -367,10 +369,14 @@ Géneros: Novela, Crímenes reales, Novela de no ficción
 Ambientada en: Kansas
 Artista de la cubierta: S. Neil Fujita
 
+![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="200" style ="float: left"padding:10px"}
+
 <h4>El otoño del patriarca</h4>
 Fecha de publicación original: 1975
 Autor: Gabriel García Márquez
 Géneros: Novela, Ficción, Realismo mágico.
+
+![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="200" style ="float: left"padding:10px"}
 
 <h4>Por quién doblan las campanas</h4>
 Fecha de publicación original: 21 de octubre de 1940
@@ -381,6 +387,8 @@ Adaptaciones:  (1943), (1965),
 Tema(s): Guerra civil española
 
 
+![La casa verdes](</assets/img/La casa verde.jpg>){:width="200" style ="float: left"padding:10px"}
+
 <h4>La casa verde</h4>
 Fecha de publicación original: 1966
 Autor: Mario Vargas Llosa
@@ -389,20 +397,28 @@ Premios: Premio Rómulo Gallegos
 Ambientada en: Piura, Santa María de Nieva, Iquitos y Borja (Datem del Marañón)
 Editorial: Seix Barral S.A
 
+![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="200" style ="float: left"padding:10px"}
+
 <h4>Los Hijos del limo</h4>
 Fecha de publicación original: 1974
 Autor: Octavio Paz
 Del Romanticismo a la Vanguardia
 
+![Aires de familia](</assets/img/Aires de familia.jpg>){:width="200" style ="float: left"padding:10px"}
+
 <h4>Aires de familia</h4>
 Fecha de publicación original: 2000
 Autor:  Carlos Monsiváis
+
+![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="200" style ="float: left"padding:10px"}
 
 <h4>Pregúntale al polvo</h4>
 Fecha de publicación original: 1939
 Autor: John Fante
 Géneros: Novela, Ficción, Novela en clave
 Adaptaciones: Pregúntale al viento (2006)
+
+![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="200" style ="float: left"padding:10px"}
 
 <h4>El sótano y Tala.</h4> 
 Fecha de publicación original: 1984
@@ -411,11 +427,15 @@ Novelista, dramaturgo y poeta
 austríaco
 Géneros: Literatura contemporánea
 
+![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="200" style ="float: left"padding:10px"}
+
 <h4>Órdenes del corazón</h4> 
 Fecha de publicación original: 2001
 Autor: Miyó Vestrini
 Periodista, poeta 
 Géneros: Narrativa
+
+![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="200" style ="float: left"padding:10px"}
 
 <h4>Casa o lobo</h4>
 Fecha de publicación original: 1981
@@ -423,11 +443,15 @@ Autor: Yolanda Pantin
 Poeta Venezolana
 Géneros:  literatura infantil, el teatro y el ensayo.
 
+![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style ="float: left"padding:10px"}
+
 <h4>Carriel para la fiesta</h4>
 Fecha de publicación original: 1983
 Autor: Elisa Lerner
 Escritora
 Géneros:  Teatro, humor y ensayo
+
+![Ifigenia](</assets/img/Ifigenia.jpg>){:width="200" style ="float: left"padding:10px"}
 
 <h4>Ifigenia</h4> 
 Fecha de publicación original: 1924
@@ -435,11 +459,15 @@ Autor: Teresa de la Parra
 Novelista
 Géneros:  Ficción doméstica, Diario ficcional
 
+![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="200" style ="float: left"padding:10px"}
+
 <h4>Madame Bovary</h4>
 Fecha de publicación original: 1856
 Autor: Gustave Flaubert
 Escritor 
 Géneros: Novelas
+
+![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="200" style ="float: left"padding:10px"}
 
 <h4>Ana Karenina</h4> 
 Fecha de publicación original: 1878
