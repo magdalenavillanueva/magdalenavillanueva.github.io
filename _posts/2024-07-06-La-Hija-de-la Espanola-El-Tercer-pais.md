@@ -16,7 +16,7 @@ La bandeja donde nos abrieron por la mitad como un pan a punto de crecer.
 <center><h3>Karina Sainz  Borgo.</h3></center>
 ---
 
-Después de leer La hija de la española nos adentramos en **El Tercer País** 
+Después de leer La hija de la española nos adentramos en <h4>El Tercer País</h4>
 una nueva novela de Karina Sainz Borgo, cuya temática nos vuelve a sorprender como la anterior. Aquí las protagonistas también son dos mujeres, fuertes, valientes, luchando para salir adelante contra políticos corruptos, mafiosos, guerrilleros, plantándole cara a la muerte. Hay huida, éxodo, en este caso a causa de una epidemia que está arrasando con todo, abusadores de poder, traficantes de personas. Y ambos libros comparten la dificultad de poder enterrar a los muertos para poder cerrar los ciclos de la vida. 
 
 
