@@ -29,7 +29,7 @@ obra.
 5.	El tercer país, su nueva novela.
 
 
-![sears](</>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![sears](</assets/img/portada hija de la española.jpeg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
 
 
 
