@@ -9,6 +9,8 @@ categories:
 
 
 
+
+
 ![Karina](</assets/img/Karina Borgo.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 
@@ -23,9 +25,9 @@ lectores, obtuvo el Grand Prix de Héroïne Madame Figaro y el International Lit
 finalista del Kulturhuset Stadsteatern Stockholm y fue nominada al LiBeraturpreis. Considerado 
 como uno de los mejores libros del año por NPR y por Time, está siendo traducido en veintiséis idiomas y se han vendido sus derechos para una película.
  
- ![Karina](</assets/img/la hija de la española.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Karina](</assets/img/la hija de la española.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
- 
+
 En 2019, Karina Sainz Borgo fue escogida como una de las cien personas más creativas en la 
 revista Forbes. El Tercer País es su segunda novela. donde revisa el mito de Antígona y el 
 derecho fundamental que tienen los seres humanos de enterrar a sus muertos. Como en La hija de la 
