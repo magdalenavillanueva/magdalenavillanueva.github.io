@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "La Hija de la Española"
-date: 2024-07-01 12:00:01 +0100
+title: "La Hija de la Española: Literarura, Música, comidas y lugares"
+date: 2024-07-05 12:00:01 +0100
 categories: 
     La Hija de la Española
 
-<center><h2>LITERATURA, MÚSICA Y LUGARES</h2></center>
+<center><h2>LITERATURA, MÚSICA, Comidas Y LUGARES</h2></center>
 
 
 Uno de los aspectos resaltantes de la novela es la visión que refleja desde diversos 
