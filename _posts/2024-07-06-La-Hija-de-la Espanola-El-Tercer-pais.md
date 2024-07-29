@@ -29,5 +29,5 @@ sepulturera contra un entorno hostil donde, la única ley la dictan quienes van 
 
 
 
-![EL TERCER PAIS](</assets/img/el tercer pais.jpg>){:width = "200" style = "float: right; padding: 10px"}
+![EL TERCER PAIS](</assets/img/el tercer pais.jpg>)
 
