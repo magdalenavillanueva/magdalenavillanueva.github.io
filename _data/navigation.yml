@@ -12,8 +12,8 @@ main:
     url: /la-centuria
   - title: "Aquitania"
     url: /aquitania
-  # - title: "La Hija de la Española"
-  #   url: /La Hija de la Española
+  - title: "La Hija de la Española"
+    url: /La Hija de la Española
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
