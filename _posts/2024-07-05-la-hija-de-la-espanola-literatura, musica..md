@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "La Hija de la Española: Literarura, Música, comidas y lugares"
+title: "La Hija de la Española:Literarura, Música, comidas y lugares"
 date: 2024-07-05 12:00:01 +0100
 categories: 
     La Hija de la Española
@@ -10,18 +10,17 @@ categories:
 
 Uno de los aspectos resaltantes de la novela es la visión que refleja desde diversos 
 aspectos culturales; se observa el panorama artístico, literario, el folklore…, artistas 
-plásticos, escritores que se sembraron en la cotidianidad, en la rutina del ir y venir.  La 
-herencia que se inculcaba con el sentido de pertenencia. No solo era un cuadro de Michelena, 
-era una mirada a un mundo del pasado para entender el presente. Eran escritores que 
-reflejaban la vida a través de la poesía, de la novela. Era las costumbres de las familias 
-donde las canciones tenían su tema tópico para no olvidar, y que todos conocían y 
-reconocían; sus comidas para unir, recordar.
+plásticos, escritores que se sembraron en la cotidianidad, en la rutina del ir y venir.  
+La herencia que se inculcaba con el sentido de pertenencia. No solo era un cuadro de 
+Michelena, era una mirada a un mundo del pasado para entender el presente. Eran escritores que reflejaban la vida a través de la poesía, de la novela. Era las costumbres de las familias donde las canciones tenían su tema tópico para no olvidar, y que todos conocían y reconocían; sus comidas para unir, recordar.
+
 
 Es la herencia que dejó una generación, que les dio importancia a los propios valores 
 nacidos en el país, le dio trascendencia a sus artistas plásticos, escritores, a su 
 farándula; que gustaba de leer, de conocer, de saber sobre el mundo.  Un pasado 
 significativo que todavía era respetado, celebrado y un presente caótico que disgregaba, 
 dispersaba y ensuciaba la esencia del venezolano.  
+
 
 <center><h2>AMBIENTES</h2></center>
 
@@ -48,16 +47,16 @@ l pilón).
 
 ![el nacional](</assets/img/El Nacional.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
-En 1942 Henrique Otero Vizcarrondo compra la rotativa de un periódico arruinado de Boston, 
-con esta imprenta funda el 3 de agosto de 1943 el diario El Nacional, junto con  Miguel 
-Otero Silva su hijo. Este periódico es considerado el primero en el país.
+En 1942 Henrique Otero Vizcarrondo compra la rotativa de un periódico arruinado de 
+Boston, con esta imprenta funda el 3 de agosto de 1943 el diario El Nacional, junto con  
+Miguel Otero Silva su hijo. Este periódico es considerado el primero en el país.
 
 <h4>Sábado Sensacional</h4>
 
 ![Sabado Sensacional](</assets/img/Sábado Sensacional.png>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
-Programa de televisión con más de 50 años en el aire, fue un programa de entretenimiento y 
-Amador Bendayán fue su primer presentador. Era transmitido por el canal de Venevisión.
+Programa de televisión con más de 50 años en el aire, fue un programa de entretenimiento 
+y Amador Bendayán fue su primer presentador. Era transmitido por el canal de Venevisión.
 Sábado sensacional (1972-1988, 2018-2019)
 
 <h3>AMBIENTE: EDUCATIVO</h3>
@@ -73,9 +72,9 @@ estudiantes de primaria y secundaria para las actividades de dibujo y artes plá
 
 ![Circulo de lectores](</assets/img/Círculo de lectores.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
-Fue un club de lectura y ventas de libros creado en España en 1962 que luego fue adquirido 
-por el Grupo Planeta en el 2014. En Venezuela fue un gran medio para la difusión de la 
-lectura.
+Fue un club de lectura y ventas de libros creado en España en 1962 que luego fue 
+adquirido por el Grupo Planeta en el 2014. En Venezuela fue un gran medio para la 
+difusión de la lectura.
 
 <h3>AMBIENTE FÍSICO</h3>
 
@@ -443,7 +442,7 @@ Autor: Yolanda Pantin
 Poeta Venezolana
 Géneros:  literatura infantil, el teatro y el ensayo.
 
-![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style ="float: left"padding:10px"}
+![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style ="float: left"}
 
 <h4>Carriel para la fiesta</h4>
 Fecha de publicación original: 1983
