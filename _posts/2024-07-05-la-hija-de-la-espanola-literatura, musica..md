@@ -5,22 +5,22 @@ date: 2024-07-05 12:00:01 +0100
 categories: 
  -   La Hija de la Española
 ---
-<center><h2>LITERATURA, MÚSICA, Comidas Y LUGARES</h2></center>
+<center><h2>LITERATURA, MÚSICA, COMIDAS  Y LUGARES</h2></center>
 
 
 Uno de los aspectos resaltantes de la novela es la visión que refleja desde 
 diversos aspectos culturales; se observa el panorama artístico, literario, el 
-folklore…, artistas plásticos, escritores que se sembraron en la cotidianidad, en 
+folklore, artistas plásticos, escritores que se sembraron en la cotidianidad, en 
 la rutina del ir y venir.  
 La herencia que se inculcaba con el sentido de pertenencia. No solo era un cuadro 
 de Michelena, era una mirada a un mundo del pasado para entender el presente. Eran 
-escritores que reflejaban la vida a través de la poesía, de la novela. Era las 
-costumbres de las familias donde las canciones tenían su tema tópico para no 
-olvidar, y que todos conocían y reconocían; sus comidas para unir, recordar.
+escritores que reflejaban la vida a través de la poesía, de la novela. Fueron las 
+costumbres de las familias, donde las canciones tenían su tema típico para no 
+olvidar, y que todos conocían, reconocíendo sus comidas para unir y recordar.
 
 
-Es la herencia que dejó una generación, que les dio importancia a los propios 
-valores nacidos en el país, le dio trascendencia a sus artistas plásticos, 
+Es la herencia que dejó una generación, dendole importancia a los propios 
+valores nacidos en el país, le dió trascendencia a sus artistas plásticos, 
 escritores, a su farándula; que gustaba de leer, de conocer, de saber sobre el 
 mundo.  Un pasado significativo que todavía era respetado, celebrado y un presente 
 caótico que disgregaba, dispersaba y ensuciaba la esencia del venezolano.  
@@ -34,8 +34,8 @@ caótico que disgregaba, dispersaba y ensuciaba la esencia del venezolano.
 
 ![sears](</assets/img/Sears.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
-Sears Roebuck de Venezuela, tiendas por departamento que inició sus operaciones el 1
-9 de marzo de 1950 en Caracas, Venezuela. Su primera tienda fue inaugurada en la 
+Sears Roebuck de Venezuela, tiendas por departamento que inició sus operaciones el 
+19 de marzo de 1950 en Caracas, Venezuela. Su primera tienda fue inaugurada en la 
 urbanización Colinas de Bello Monte.
 
 <h4>Remavenca</h4>
@@ -99,15 +99,15 @@ coloniales, esculturas y obras venezolanas.
 ![Paseo los caobos](</assets/img/Paseo Los Caobos.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 Está ubicado en todo el centro de Caracas, entre la Plaza Venezuela
-y el centro cultural formado por el Teatro Teresa 
+y el centro cultural, formado por el Teatro Teresa 
 Carreño, el Ateneo y los museos de Bellas Artes y Ciencias Naturales.
 
 <h4>Helados en Crema Paraíso</h4>
 
 ![helados de crema](</assets/img/Helados en Crema Paraíso.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
-Marca venezolana de helados, concentrados de limón y cremas 
-de cocina con más de  70 años en Venezuela. 
+Marca venezolana de helados, concentrado de limón y crema. Con 
+más de  70 años en Venezuela. 
 
 <h4>Cementerio La Guairita (parte vieja)</h4>
 
@@ -179,7 +179,7 @@ los dulces más tradicionales de Venezuela.
 
 ![Bocadito de coco](</assets/img/Bocadito de coco.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
-Conserva de coco, dulce muy popular que se elabora con coco rallado, 
+Un dulce muy popular que se elabora con coco rallado, 
 azúcar o papelón. Y se vende libremente en las calles de cualquier ciudad 
 o pueblo, playas, autopistas.
 
@@ -187,20 +187,20 @@ o pueblo, playas, autopistas.
 
 ![Bollos](</assets/img/Bollos.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
-Elaborados con harina rellenos de picadillo de cochino frito.
+Elaborados de harina de maiz con rellenos de picadillo de cochino frito.
 
 <h4>Ciruela de huesitos</h4>
 
 ![Ciruela de huesitos](</assets/img/Ciruela de huesitos.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
-(comerlos era un acto de perseverancia), en dulce.
+Un fruta pequeña, semi redonda con semilla, tropical y agridulce.
 
 <h4>Desayunos</h4>
 
 ![Desayunos](</assets/img/Desayunos.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
-Son menus que contiene Carne mechada, chicharrón frito, 
-tomate, aguacate, café de guarapo (brebaje con 
+En un menu que contiene Carne mechada, chicharrón frito, 
+tomate, aguacate y café de guarapo (brebaje con 
 canela y papelón).
 
 <h3>MÚSICA</h3>
@@ -305,8 +305,7 @@ Los aldeanos se enfadaron con el pastor y regresaron a
 sus trabajos, molestos por la interrupción.
 A Pedro le había hecho tanta gracia la broma que se dispuso
 a repetirla. Un par de días después se volvieron a escuchar 
-en toda la comarca los
-gritos alarmantes de Pedro:
+en toda la comarca los gritos alarmantes de Pedro:
 
 –¡Socorro, socorro el lobo! ¡Viene el lobo!
 Al volver a oír los gritos del pastor, la gente del pueblo 
@@ -349,13 +348,13 @@ Pero las ovejas que había perdido, perdidas estaban.</center>
 
 ![Carlos Cruz](</assets/img/Carlos Cruz-Diez.jpg>){:width="200" style ="float: left"padding:10px"}
 
-(1923-2019), artista plástico del arte cinético.
+(1923-2019), artista plástico venezolano del arte cinético.Propuso el uso del color como una ayuda para transmitir el mensaje.
 
 <h4>Penetrables de Soto</h4>
 
 ![Penetrables](</assets/img/Penetrables de Soto.jpg>){:width="200" style ="float: left"padding:10px"}
 
-Jesús Soto (1923-2005), artista plástico dedicado a la
+Jesús Rafael Soto (1923-2005), artista plástico venezolano dedicado a la
 escultura como los penetrables donde se invita al público a deambular 
 libremente entre los materiales verticales con que se construyen.
 
