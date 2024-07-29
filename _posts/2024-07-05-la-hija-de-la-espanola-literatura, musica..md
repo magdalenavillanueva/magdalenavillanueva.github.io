@@ -34,7 +34,7 @@ caótico que disgregaba, dispersaba y ensuciaba la esencia del venezolano.
 
 <h4>Sears</h4>
 
-![sears](</assets/img/Sears.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![sears](</assets/img/Sears.jpg>){:width="200" style="float: right"}
 
 Sears Roebuck de Venezuela, tiendas por departamento que inició sus operaciones el 
 19 de marzo de 1950 en Caracas, Venezuela. Su primera tienda fue inaugurada en la 
@@ -42,7 +42,7 @@ urbanización Colinas de Bello Monte.
 
 <h4>Remavenca</h4>
 
-![remavenca](</assets/img/Remavenca.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![remavenca](</assets/img/Remavenca.jpg>){:width="200" style="float: right"}
 
 Es una  planta refinadora de maíz (olor a cervezas, recuerdos de los versos del pilón).
 
@@ -50,7 +50,7 @@ Es una  planta refinadora de maíz (olor a cervezas, recuerdos de los versos del
 
 <h4>El Nacional</h4>
 
-![el nacional](</assets/img/El Nacional.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![el nacional](</assets/img/El Nacional.jpg>){:width="200" style="float: right"}
 
 En 1942 Henrique Otero Vizcarrondo compra la rotativa de un periódico arruinado de 
 Boston, con esta imprenta funda el 3 de agosto de 1943 el diario El Nacional, junto 
@@ -58,7 +58,7 @@ con Miguel Otero Silva su hijo. Este periódico es considerado el primero en el 
 
 <h4>Sábado Sensacional</h4>
 
-![Sabado Sensacional](</assets/img/Sábado Sensacional.png>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![Sabado Sensacional](</assets/img/Sábado Sensacional.png>){:width="200" style="float: right"}
 
 Programa de televisión con más de 50 años en el aire, fue un programa de 
 entretenimiento  y Amador Bendayán fue su primer presentador. Era transmitido por 
@@ -70,7 +70,7 @@ Sábado sensacional (1972-1988, 2018-2019)
 
 <h4>Block Caribe</h4>
 
-![Block caribe](</assets/img/Block Caribe.png>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![Block caribe](</assets/img/Block Caribe.png>){:width="200" style="float: right"}
 
 Un block para dibuajar, fabricado por Caracas Paper Company y era la herramienta de 
 los estudiantes de primaria y secundaria para las actividades de dibujo y artes 
@@ -78,7 +78,7 @@ plásticas.
 
 <h4>Círculo de lectores</h4>
 
-![Circulo de lectores](</assets/img/Círculo de lectores.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Circulo de lectores](</assets/img/Círculo de lectores.jpg>){:width="200" style="float: right"}
 
 Fue un club de lectura y ventas de libros creado en España en 1962 que luego fue 
 adquirido por el Grupo Planeta en el 2014. En Venezuela fue un gran medio para la 
@@ -88,7 +88,7 @@ difusión de la lectura.
 
 <h4>Galería de Arte Nacional</h4>
 
-![Galeria de artes](</assets/img/Galería de Arte Nacional.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![Galeria de artes](</assets/img/Galería de Arte Nacional.jpg>){:width="200" style="float: right"}
 
 Se encuentra ubicada en la Av. México, frente a Puente Brión. 
 Desde el 6 de abril de 1976 se inauguró como un organismo
@@ -97,7 +97,7 @@ coloniales, esculturas y obras venezolanas.
 
 <h4>Paseo Los Caobos (parte vieja)</h4>
 
-![Paseo los caobos](</assets/img/Paseo Los Caobos.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Paseo los caobos](</assets/img/Paseo Los Caobos.jpg>){:width="200" style="float: right"}
 
 Está ubicado en todo el centro de Caracas, entre la Plaza Venezuela
 y el centro cultural, formado por el Teatro Teresa 
@@ -105,14 +105,14 @@ Carreño, el Ateneo y los museos de Bellas Artes y Ciencias Naturales.
 
 <h4>Helados en Crema Paraíso</h4>
 
-![helados de crema](</assets/img/Helados en Crema Paraíso.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![helados de crema](</assets/img/Helados en Crema Paraíso.jpg>){:width="200" style="float: right"}
 
 Marca venezolana de helados, concentrado de limón y crema. Con 
 más de  70 años en Venezuela. 
 
 <h4>Cementerio La Guairita (parte vieja)</h4>
 
-![Cementerio la guarita](</assets/img/Cementerio La Guairita.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Cementerio la guarita](</assets/img/Cementerio La Guairita.jpg>){:width="200" style="float: right"}
 
 También conocido como el Cementerio del Este, se sitúa en la 
 avenida principal de la Guairita en el Municipio El 
@@ -120,7 +120,7 @@ Hatillo, al sureste del área metropolitana de Caracas.
 
 <h4>Ocumare de la Costa</h4>
 
-![Ocumare de la Costa](</assets/img/Ocumare de la Costa.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![Ocumare de la Costa](</assets/img/Ocumare de la Costa.jpg>){:width="200" style="float: right"}
 
 
 Este es uno de los municipios más turísticos por ser parte de la 
@@ -132,13 +132,13 @@ del Estado Aragua y a 15 metros sobre el nivel del mar.
 
 <h4>La Encrucijada</h4>
 
-![La Encrucijada](</assets/img/La Encrucijada.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![La Encrucijada](</assets/img/La Encrucijada.jpg>){:width="200" style="float: right"}
 
 Situado entre Turmero y Palo Negro Edo. Aragua. Es un sitio donde convergen varias vias de transito que comunica a los Estados Guarico y Aragua.
 
 <h4>Parada de autobús</h4>
 
-![Parada de autobus](</assets/img/Parada de autobús.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![Parada de autobus](</assets/img/Parada de autobús.jpg>){:width="200" style="float: right"}
 
 Ubicado en la via, donde los transeutes se concentran para poder trasladarse. 
 Es un sitio que se convirtió en un deposito de basura con olor a butano, gasolina, 
