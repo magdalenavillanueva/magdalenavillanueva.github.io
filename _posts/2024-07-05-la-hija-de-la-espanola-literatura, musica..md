@@ -12,6 +12,8 @@ Uno de los aspectos resaltantes de la novela es la visión que refleja desde
 diversos aspectos culturales; se observa el panorama artístico, literario, el 
 folklore, artistas plásticos, escritores que se sembraron en la cotidianidad, en 
 la rutina del ir y venir.  
+
+
 La herencia que se inculcaba con el sentido de pertenencia. No solo era un cuadro 
 de Michelena, era una mirada a un mundo del pasado para entender el presente. Eran 
 escritores que reflejaban la vida a través de la poesía, de la novela. Fueron las 
@@ -42,8 +44,7 @@ urbanización Colinas de Bello Monte.
 
 ![remavenca](</assets/img/Remavenca.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
-Es una  planta refinadora de maíz (olor a cervezas, recuerdos de los versos de
-l pilón).
+Es una  planta refinadora de maíz (olor a cervezas, recuerdos de los versos del pilón).
 
 <h3>MEDIOS DE COMUNICACIÓN</h3>
 
@@ -125,7 +126,7 @@ Hatillo, al sureste del área metropolitana de Caracas.
 Este es uno de los municipios más turísticos por ser parte de la 
 costa, además su belleza se debe también a que está rodeado 
 del Parque Nacional Henri Pittier y está ubicado al noreste 
-del estado Aragua y a 15 metros sobre el nivel del mar.
+del Estado Aragua y a 15 metros sobre el nivel del mar.
 
 <h3>AMBIENTE: VIABILIDAD</h3>
 
@@ -133,14 +134,15 @@ del estado Aragua y a 15 metros sobre el nivel del mar.
 
 ![La Encrucijada](</assets/img/La Encrucijada.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
-Situado entre Turmero y Palo Negro edo. Aragua.
+Situado entre Turmero y Palo Negro Edo. Aragua. Es un sitio donde convergen varias vias de transito que comunica a los Estados Guarico y Aragua.
 
 <h4>Parada de autobús</h4>
 
 ![Parada de autobus](</assets/img/Parada de autobús.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
 Ubicado en la via, donde los transeutes se concentran para poder trasladarse. 
-Es un sitio con olor a butano, gasolina, aceite de motor, y fritura de  cerdo.
+Es un sitio que se convirtió en un deposito de basura con olor a butano, gasolina, 
+aceite de motor, y fritura de  cerdo.
 
 <h3>COMIDAS</h3>
 
@@ -199,7 +201,7 @@ Un fruta pequeña, semi redonda con semilla, tropical y agridulce.
 
 ![Desayunos](</assets/img/Desayunos.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
 
-En un menu que contiene Carne mechada, chicharrón frito, 
+En un menu que contiene Carne mechada, chicharrón frito, huevo frito,
 tomate, aguacate y café de guarapo (brebaje con 
 canela y papelón).
 
