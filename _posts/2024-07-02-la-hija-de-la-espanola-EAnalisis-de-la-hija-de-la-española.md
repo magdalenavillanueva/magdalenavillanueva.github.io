@@ -99,6 +99,6 @@ cotidianeidad, y  su identidad y de todo lo que había heredado éticamente de s
 
 
 
-![LA HIJA DE LA ESPAÑOLA](</https://migravenezuela.com/wp-content/uploads/2023/08/15763423921.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![LA HIJA DE LA ESPAÑOLA](</![alt text](image-5.png)>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 
