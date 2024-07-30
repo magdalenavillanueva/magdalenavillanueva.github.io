@@ -389,7 +389,7 @@ libremente entre los materiales verticales con que se construyen.
 
 <h3>LIBROS NOMBRADOS</h3>
 
-![A sangre fia](</assets/img/A sangre fría.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>A sangre fría</h4>
 Fecha de publicación original: 1965
@@ -401,7 +401,7 @@ Artista de la cubierta: S. Neil Fujita
 
 
 
-![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>El otoño del patriarca</h4>
 Fecha de publicación original: 1975
@@ -410,7 +410,7 @@ Géneros: Novela, Ficción, Realismo mágico.
 
 
 
-![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>Por quién doblan las campanas</h4>
 Fecha de publicación original: 21 de octubre de 1940
@@ -423,7 +423,7 @@ Tema(s): Guerra civil española
 
 
 
-![La casa verdes](</assets/img/La casa verde.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![La casa verdes](</assets/img/La casa verde.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>La casa verde</h4>
 Fecha de publicación original: 1966
@@ -435,7 +435,7 @@ Editorial: Seix Barral S.A
 
 
 
-![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>Los Hijos del limo</h4>
 Fecha de publicación original: 1974
@@ -444,7 +444,7 @@ Del Romanticismo a la Vanguardia
 
 
 
-![Aires de familia](</assets/img/Aires de familia.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![Aires de familia](</assets/img/Aires de familia.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>Aires de familia</h4>
 Fecha de publicación original: 2000
@@ -452,7 +452,7 @@ Autor:  Carlos Monsiváis
 
 
 
-![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>Pregúntale al polvo</h4>
 Fecha de publicación original: 1939
@@ -462,7 +462,7 @@ Adaptaciones: Pregúntale al viento (2006)
 
 
 
-![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>El sótano y Tala.</h4> 
 Fecha de publicación original: 1984
@@ -473,7 +473,7 @@ Géneros: Literatura contemporánea
 
 
 
-![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>Órdenes del corazón</h4> 
 Fecha de publicación original: 2001
@@ -483,7 +483,7 @@ Géneros: Narrativa
 
 
 
-![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 <h4>Casa o lobo</h4>
 Fecha de publicación original: 1981
 Autor: Yolanda Pantin
@@ -492,7 +492,7 @@ Géneros:  literatura infantil, el teatro y el ensayo.
 
 
 
-![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>Carriel para la fiesta</h4>
 Fecha de publicación original: 1983
@@ -502,7 +502,7 @@ Géneros:  Teatro, humor y ensayo
 
 
 
-![Ifigenia](</assets/img/Ifigenia.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![Ifigenia](</assets/img/Ifigenia.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 <h4>Ifigenia</h4> 
 Fecha de publicación original: 1924
@@ -512,7 +512,7 @@ Géneros:  Ficción doméstica, Diario ficcional
 
 
 
-![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 <h4>Madame Bovary</h4>
 Fecha de publicación original: 1856
 Autor: Gustave Flaubert
@@ -521,7 +521,7 @@ Géneros: Novelas
 
 
 
-![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 <h4>Ana Karenina</h4> 
 Fecha de publicación original: 1878
 Autor: León Tolstói
