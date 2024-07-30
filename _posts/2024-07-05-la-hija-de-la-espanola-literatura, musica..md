@@ -78,7 +78,7 @@ plásticas.
 
 <h4>Círculo de lectores</h4>
 
-![Circulo de lectores](</assets/img/Círculo de lectores.jpg>){:width="200" style="float: right"}
+![Circulo de lectores](</assets/img/Círculo de lectores.jpg>){:width="100" style="float: right"}
 
 Fue un club de lectura y ventas de libros creado en España en 1962 que luego fue 
 adquirido por el Grupo Planeta en el 2014. En Venezuela fue un gran medio para la 
