@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "La Hija de la Española:Literarura, Música, comidas y lugares"
+title: "La Hija de la Española: Literarura, Música, comidas y lugares"
 date: 2024-07-05 12:00:01 +0100
 categories: 
  -   La Hija de la Española
