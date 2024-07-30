@@ -277,14 +277,18 @@ Y papá lo sabe hacer.</center>
 
 Ballet clásico tradicional más conocido en el mundo.
 
+
+
 <h4>Arturo Michelena: La joven madre</h4>
 
-![Arturo Michelena](</assets/img/Arturi Michelena.jpg>){:width="200" style="float: right"}
+![Arturo Michelena](</assets/img/Arturi Michelena.jpg>){:width="150" style="float: right"}
 
 (1863-1898), Maestro del dibujo, retratista y de obras religiosas, 
 en su estadía por París obtuvo la medalla de oro en la Exposición
 Universal de París y en 1887 la medalla de segunda clase en el Salón 
 de Artes Francesas.
+
+
 
 <h4>Pedro y el lobo en el Teresa Carreño</h4>
 
@@ -395,12 +399,16 @@ Géneros: Novela, Crímenes reales, Novela de no ficción
 Ambientada en: Kansas
 Artista de la cubierta: S. Neil Fujita
 
+
+
 ![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="200" style="float: right"}
 
 <h4>El otoño del patriarca</h4>
 Fecha de publicación original: 1975
 Autor: Gabriel García Márquez
 Géneros: Novela, Ficción, Realismo mágico.
+
+
 
 ![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="200" style="float: right"}
 
@@ -413,6 +421,8 @@ Adaptaciones:  (1943), (1965),
 Tema(s): Guerra civil española
 
 
+
+
 ![La casa verdes](</assets/img/La casa verde.jpg>){:width="200" style="float: right"}
 
 <h4>La casa verde</h4>
@@ -423,6 +433,8 @@ Premios: Premio Rómulo Gallegos
 Ambientada en: Piura, Santa María de Nieva, Iquitos y Borja (Datem del Marañón)
 Editorial: Seix Barral S.A
 
+
+
 ![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="200" style="float: right"}
 
 <h4>Los Hijos del limo</h4>
@@ -430,11 +442,15 @@ Fecha de publicación original: 1974
 Autor: Octavio Paz
 Del Romanticismo a la Vanguardia
 
+
+
 ![Aires de familia](</assets/img/Aires de familia.jpg>){:width="200" style="float: right"}
 
 <h4>Aires de familia</h4>
 Fecha de publicación original: 2000
 Autor:  Carlos Monsiváis
+
+
 
 ![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="200" style="float: right"}
 
@@ -443,6 +459,8 @@ Fecha de publicación original: 1939
 Autor: John Fante
 Géneros: Novela, Ficción, Novela en clave
 Adaptaciones: Pregúntale al viento (2006)
+
+
 
 ![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="200" style="float: right"}
 
@@ -453,6 +471,8 @@ Novelista, dramaturgo y poeta
 austríaco
 Géneros: Literatura contemporánea
 
+
+
 ![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="200" style="float: right"}
 
 <h4>Órdenes del corazón</h4> 
@@ -460,6 +480,8 @@ Fecha de publicación original: 2001
 Autor: Miyó Vestrini
 Periodista, poeta 
 Géneros: Narrativa
+
+
 
 ![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="200" style ="float: left"}
 
@@ -469,6 +491,8 @@ Autor: Yolanda Pantin
 Poeta Venezolana
 Géneros:  literatura infantil, el teatro y el ensayo.
 
+
+
 ![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style="float: right"}
 
 <h4>Carriel para la fiesta</h4>
@@ -476,6 +500,8 @@ Fecha de publicación original: 1983
 Autor: Elisa Lerner
 Escritora
 Géneros:  Teatro, humor y ensayo
+
+
 
 ![Ifigenia](</assets/img/Ifigenia.jpg>){:width="200" style="float: right"}
 
@@ -485,6 +511,8 @@ Autor: Teresa de la Parra
 Novelista
 Géneros:  Ficción doméstica, Diario ficcional
 
+
+
 ![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="200" style="float: right"}
 
 <h4>Madame Bovary</h4>
@@ -492,6 +520,8 @@ Fecha de publicación original: 1856
 Autor: Gustave Flaubert
 Escritor 
 Géneros: Novelas
+
+
 
 ![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="200" style="float: right"}
 
