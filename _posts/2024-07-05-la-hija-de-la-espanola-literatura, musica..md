@@ -84,6 +84,9 @@ Fue un club de lectura y ventas de libros creado en España en 1962 que luego fu
 adquirido por el Grupo Planeta en el 2014. En Venezuela fue un gran medio para la 
 difusión de la lectura.
 
+
+
+
 <h3>AMBIENTE FÍSICO</h3>
 
 <h4>Galería de Arte Nacional</h4>
@@ -128,6 +131,9 @@ costa, además su belleza se debe también a que está rodeado
 del Parque Nacional Henri Pittier y está ubicado al noreste 
 del Estado Aragua y a 15 metros sobre el nivel del mar.
 
+
+
+
 <h3>AMBIENTE: VIABILIDAD</h3>
 
 <h4>La Encrucijada</h4>
@@ -144,11 +150,13 @@ Ubicado en la via, donde los transeutes se concentran para poder trasladarse.
 Es un sitio que se convirtió en un deposito de basura con olor a butano, gasolina, 
 aceite de motor, y fritura de  cerdo.
 
-<h3>COMIDAS</h3>
+
+
+<h3>AMBIENTE: COMIDAS</h3>
 
 <h4>Caña de azúcar</h4>
 
-![Caña de azucar](</assets/img/Caña de azúcar.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Caña de azucar](</assets/img/Caña de azúcar.jpg>){:width="200" style="float: right"}
 
 Es una gramínea tropical de tallos macizos y robustos que se caracteriza 
 por la acumulación de sacarosa y por lo tanto es importante en la producción
@@ -156,14 +164,14 @@ de azúcar a nivel mundial.
 
 <h4>Pollo en brasas</h4>
 
-![Pollo en braza](</assets/img/Pollo en brasas.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![Pollo en braza](</assets/img/Pollo en brasas.jpg>){:width="200" style="float: right"}
 
 Se sazona un pollo entero y se le atraviesa una varilla metálica 
 para que gire lentamente sobre las brasas. 
 
 <h4>Hallaquitas de maíz</h4>
 
-![hallaquita de maiz](</assets/img/Hallaquitas de maíz.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![hallaquita de maiz](</assets/img/Hallaquitas de maíz.jpg>){:width="200" style="float: right"}
 
 Los ingredientes principales son la masa de maíz, agua, aceite y sal. 
 Se trabaja la masa igual que a las arepas, se le da forma alargada 
@@ -171,7 +179,7 @@ y se envuelve en hojas de maíz. Se cocinan en agua.
 
 <h4>Melcocha</h4>
 
-![Melcocha](</assets/img/Melcocha.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![Melcocha](</assets/img/Melcocha.jpg>){:width="200" style="float: right"}
 
 Su ingrediente principal es el melado de panela, se forma 
 una pasta porosa y maleable, elástica. Es uno de 
@@ -179,7 +187,7 @@ los dulces más tradicionales de Venezuela.
 
 <h4>Bocadito de coco</h4>
 
-![Bocadito de coco](</assets/img/Bocadito de coco.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Bocadito de coco](</assets/img/Bocadito de coco.jpg>){:width="200" style="float: right"}
 
 Un dulce muy popular que se elabora con coco rallado, 
 azúcar o papelón. Y se vende libremente en las calles de cualquier ciudad 
@@ -187,25 +195,28 @@ o pueblo, playas, autopistas.
 
 <h4>Bollos</h4>
 
-![Bollos](</assets/img/Bollos.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![Bollos](</assets/img/Bollos.jpg>){:width="200" style="float: right"}
 
 Elaborados de harina de maiz con rellenos de picadillo de cochino frito.
 
 <h4>Ciruela de huesitos</h4>
 
-![Ciruela de huesitos](</assets/img/Ciruela de huesitos.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Ciruela de huesitos](</assets/img/Ciruela de huesitos.jpg>){:width="200" style="float: right"}
 
 Un fruta pequeña, semi redonda con semilla, tropical y agridulce.
 
 <h4>Desayunos</h4>
 
-![Desayunos](</assets/img/Desayunos.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![Desayunos](</assets/img/Desayunos.jpg>){:width="200" style="float: right"}
 
 En un menu que contiene Carne mechada, chicharrón frito, huevo frito,
 tomate, aguacate y café de guarapo (brebaje con 
 canela y papelón).
 
+
+
 <h3>MÚSICA</h3>
+
 
 <h4>La canción del pilón / recuerdos de Remavenca- P- 79-80-81</h4>
 Letra de El Pilón (Canto de Trabajo) 
@@ -255,17 +266,20 @@ Que se acabe de romper
 Que en el monte hay mucho palo′ 
 Y papá lo sabe hacer.</center>
 
+
+
 <h3>ARTE</h3>
+
 
 <h4>El lago de los cisnes</h4>
 
-![el lago de los cisnes](</assets/img/El lago de los cisnes.jpg>){:width="200" style ="float: left"padding:10px" border - radus: 25px"}
+![el lago de los cisnes](</assets/img/El lago de los cisnes.jpg>){:width="200" style="float: right"}
 
 Ballet clásico tradicional más conocido en el mundo.
 
 <h4>Arturo Michelena: La joven madre</h4>
 
-![Arturo Michelena](</assets/img/Arturi Michelena.jpg>){:width="200" style ="float: right"padding:10px"}
+![Arturo Michelena](</assets/img/Arturi Michelena.jpg>){:width="200" style="float: right"}
 
 (1863-1898), Maestro del dibujo, retratista y de obras religiosas, 
 en su estadía por París obtuvo la medalla de oro en la Exposición
@@ -348,25 +362,30 @@ Pero las ovejas que había perdido, perdidas estaban.</center>
 
 <h4>Carlos Cruz-Diez</h4>
 
-![Carlos Cruz](</assets/img/Carlos Cruz-Diez.jpg>){:width="200" style ="float: left"padding:10px"}
+![Carlos Cruz](</assets/img/Carlos Cruz-Diez.jpg>){:width="200" style="float: right"}
 
 (1923-2019), artista plástico venezolano del arte cinético.Propuso el uso del color como una ayuda para transmitir el mensaje.
 
 <h4>Penetrables de Soto</h4>
 
-![Penetrables](</assets/img/Penetrables de Soto.jpg>){:width="200" style ="float: left"padding:10px"}
+![Penetrables](</assets/img/Penetrables de Soto.jpg>){:width="200" style="float: right"}
 
 Jesús Rafael Soto (1923-2005), artista plástico venezolano dedicado a la
 escultura como los penetrables donde se invita al público a deambular 
 libremente entre los materiales verticales con que se construyen.
 
+
+
 <h3>EXPRESIONES</h3>
+
 
 <h4>Mi amorseo</h4> mi reina, mi amor, mi vida. Expresiones de “cariño” entre la población.
 
+
+
 <h3>LIBROS NOMBRADOS</h3>
 
-![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style ="float: left"padding:10px"}
+![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style="float: right"}
 
 <h4>A sangre fría</h4>
 Fecha de publicación original: 1965
@@ -376,14 +395,14 @@ Géneros: Novela, Crímenes reales, Novela de no ficción
 Ambientada en: Kansas
 Artista de la cubierta: S. Neil Fujita
 
-![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="200" style ="float: left"padding:10px"}
+![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="200" style="float: right"}
 
 <h4>El otoño del patriarca</h4>
 Fecha de publicación original: 1975
 Autor: Gabriel García Márquez
 Géneros: Novela, Ficción, Realismo mágico.
 
-![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="200" style ="float: left"padding:10px"}
+![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="200" style="float: right"}
 
 <h4>Por quién doblan las campanas</h4>
 Fecha de publicación original: 21 de octubre de 1940
@@ -394,7 +413,7 @@ Adaptaciones:  (1943), (1965),
 Tema(s): Guerra civil española
 
 
-![La casa verdes](</assets/img/La casa verde.jpg>){:width="200" style ="float: left"padding:10px"}
+![La casa verdes](</assets/img/La casa verde.jpg>){:width="200" style="float: right"}
 
 <h4>La casa verde</h4>
 Fecha de publicación original: 1966
@@ -404,20 +423,20 @@ Premios: Premio Rómulo Gallegos
 Ambientada en: Piura, Santa María de Nieva, Iquitos y Borja (Datem del Marañón)
 Editorial: Seix Barral S.A
 
-![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="200" style ="float: left"padding:10px"}
+![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="200" style="float: right"}
 
 <h4>Los Hijos del limo</h4>
 Fecha de publicación original: 1974
 Autor: Octavio Paz
 Del Romanticismo a la Vanguardia
 
-![Aires de familia](</assets/img/Aires de familia.jpg>){:width="200" style ="float: left"padding:10px"}
+![Aires de familia](</assets/img/Aires de familia.jpg>){:width="200" style="float: right"}
 
 <h4>Aires de familia</h4>
 Fecha de publicación original: 2000
 Autor:  Carlos Monsiváis
 
-![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="200" style ="float: left"padding:10px"}
+![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="200" style="float: right"}
 
 <h4>Pregúntale al polvo</h4>
 Fecha de publicación original: 1939
@@ -425,7 +444,7 @@ Autor: John Fante
 Géneros: Novela, Ficción, Novela en clave
 Adaptaciones: Pregúntale al viento (2006)
 
-![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="200" style ="float: left"padding:10px"}
+![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="200" style="float: right"}
 
 <h4>El sótano y Tala.</h4> 
 Fecha de publicación original: 1984
@@ -434,7 +453,7 @@ Novelista, dramaturgo y poeta
 austríaco
 Géneros: Literatura contemporánea
 
-![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="200" style ="float: left"padding:10px"}
+![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="200" style="float: right"}
 
 <h4>Órdenes del corazón</h4> 
 Fecha de publicación original: 2001
@@ -442,7 +461,7 @@ Autor: Miyó Vestrini
 Periodista, poeta 
 Géneros: Narrativa
 
-![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="200" style ="float: left"padding:10px"}
+![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="200" style ="float: left"}
 
 <h4>Casa o lobo</h4>
 Fecha de publicación original: 1981
@@ -450,7 +469,7 @@ Autor: Yolanda Pantin
 Poeta Venezolana
 Géneros:  literatura infantil, el teatro y el ensayo.
 
-![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style ="float: left"}
+![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style="float: right"}
 
 <h4>Carriel para la fiesta</h4>
 Fecha de publicación original: 1983
@@ -458,7 +477,7 @@ Autor: Elisa Lerner
 Escritora
 Géneros:  Teatro, humor y ensayo
 
-![Ifigenia](</assets/img/Ifigenia.jpg>){:width="200" style ="float: left"padding:10px"}
+![Ifigenia](</assets/img/Ifigenia.jpg>){:width="200" style="float: right"}
 
 <h4>Ifigenia</h4> 
 Fecha de publicación original: 1924
@@ -466,7 +485,7 @@ Autor: Teresa de la Parra
 Novelista
 Géneros:  Ficción doméstica, Diario ficcional
 
-![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="200" style ="float: left"padding:10px"}
+![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="200" style="float: right"}
 
 <h4>Madame Bovary</h4>
 Fecha de publicación original: 1856
@@ -474,7 +493,7 @@ Autor: Gustave Flaubert
 Escritor 
 Géneros: Novelas
 
-![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="200" style ="float: left"padding:10px"}
+![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="200" style="float: right"}
 
 <h4>Ana Karenina</h4> 
 Fecha de publicación original: 1878
