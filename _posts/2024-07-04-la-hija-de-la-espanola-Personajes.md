@@ -19,7 +19,8 @@ contra. Nace en la costa aragüeña,
 Ocumare de la Costa, un pueblito pobre 
 que no ofrece ningún incentivo para el
 futuro, decide estudiar para ser maestra
-y lo logra.   
+y lo logra.  
+
 A pesar de ser madre soltera sigue 
 adelante con sus sueños y cría a su hija
 con las comodidades que se podía 
@@ -100,6 +101,7 @@ revolucionario. Es atrapado  y torturado, por los “hijos de la
 Revolución” en La Tumba,  obligado hacer actos delictivos y 
 luego perseguido hasta que le dan muerte.
 
+
 <h3>Francisco Salazar Solano</h3>
 
 Prometido de Adelaida, periodista de sucesos políticos, lo 
@@ -157,5 +159,5 @@ Presidente…"
 …"Las llamábamos «bachaqueras», porque actuaban con la precisión 
 de aquellos insectos. Iban en grupo, eran rápidas y nunca dejaban nada a su paso…"
 
-
+![alt text](<../assets/img/LA HIJA DE LA ESPAÑOLA INST.jpg>)
 
