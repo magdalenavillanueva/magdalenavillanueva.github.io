@@ -159,5 +159,5 @@ Presidente…"
 …"Las llamábamos «bachaqueras», porque actuaban con la precisión 
 de aquellos insectos. Iban en grupo, eran rápidas y nunca dejaban nada a su paso…"
 
-![alt text](<../assets/img/LA HIJA DE LA ESPAÑOLA INST.jpg>)
+![alt text](</assets/img/LA HIJA DE LA ESPAÑOLA INST.jpg>)
 
