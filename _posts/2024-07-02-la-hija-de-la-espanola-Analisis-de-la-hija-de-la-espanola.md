@@ -161,6 +161,6 @@ desarraigaron de su historia, su
 cotidianeidad, y  su identidad y de todo lo que había heredado 
 éticamente de su madre.
 
-![LA HIJA DE LA ESPAÑOLA](</assets/img/caratula de la hija.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![LA HIJA DE LA ESPAÑOLA](</assets/img/caratula de la hija.jpeg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 
