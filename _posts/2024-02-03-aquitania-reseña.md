@@ -13,8 +13,7 @@ histórica que tiene como personaje principal a Eleonor de Aquitania
 donde trasluce un momento crucial en su vida. El contenido está
 salpicado con una pizca de thriller, algo de condición humana, de
 romance, un fondo histórico lleno de licencias que nos ubica en el 
-siglo
-XII, entre Aquitania y Francia.
+siglo XII, entre Aquitania y Francia.
 
 ![Catedral de Santiago de Compostela](/assets/img/4e88c1d1-c11c-4a44-98a2-89c3025a8cd7.jpg){:width="200" style="float: right, padding:10px"}
 ---
@@ -22,11 +21,9 @@ El duque de Aquitania, Guilhem X, ha muerto de forma trágica, frente
 al altar mayor de la Catedral de Santiago de Compostela durante su 
 peregrinaje a esa ciudad. El cuerpo
 queda de color azul y con la marca del águila de sangre, una 
-ancestral
-tortura normanda. Lo observamos a través de la siguiente cita: ´´Y
+ancestral tortura normanda. Lo observamos a través de la siguiente cita: ´´Y
 estos últimos mensajeros hablaban de creer? Todos coincidían, 
-empero, en
-señalar entre atónitos y turbados que el cuerpo de padre quedó de un
+empero, en señalar entre atónitos y turbados que el cuerpo de padre quedó de un
 inusual color azul oscuro´´. Pág. 18. *Aquitania de* Eva García
 Sáenz de Urturi.
 
@@ -45,7 +42,7 @@ durante el cortejo fúnebre que volvía de la catedral de San Andrés. En un
 descuido es atacada y ella lo oculta para evitar el matrimonio por
 afrenta. Estuvo cinco años sin hablar. Fue un acto de guerra. En este
 caso, para que entregará Aquitania a los reyes de la Isla de 
-Francia. En este ejemplo, Eleanor lo recuerda: Envió a varios de sus hermanos
+Francia. En este ejemplo, Eleanor lo recuerda: "Envió a varios de sus hermanos
 a la infame misión, dos de ellos me raptaron en un descuido de Rai y
 pretendieron hacerse a la fuerza con Aquitania. Era costumbre 
 estuprar a las herederas y obligarlas después al matrimonio para conseguir la
