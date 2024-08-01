@@ -40,7 +40,7 @@ una hija con Luy a la que considera una poitevina: ´´Añoraba
 Aquitania, pero María y los cuidados que demandaba me mantenían ocupada
 en asuntos vacuos e inmediatos, nada de planes políticos. Y adoraba que
 mi hija fuera una diminuta morena aquitana de fieros ojos azules y
-rasgados. Pág. 244. **Aquitania** de Eva García Sáenz de Urturi.
+rasgados. Pág. 244. *Aquitania* de Eva García Sáenz de Urturi.
 
 
 **Eleanor y Luy VII**
