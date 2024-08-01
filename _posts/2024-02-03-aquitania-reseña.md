@@ -76,7 +76,7 @@ Pág. 258. *Aquitania de* Eva García Sáenz de Urturi.
 Pero también Felipa de Tolosa deseaba proteger a una Eleanor 
 demasiado joven de un heredero dominado por su padre. Luy el Gordo 
 habría saqueado las riquezas de Aquitania en pocos meses. En la cita 
-Eleanor se lo dice a su abuela:Me habéis protegido de la codicia del Rey Gordo de la peor manera, pero entiendo que era necesario. Pág. 259. *Aquitania
+Eleanor se lo dice a su abuela: me habéis protegido de la codicia del Rey Gordo de la peor manera, pero entiendo que era necesario. Pág. 259. *Aquitania
 de* Eva García Sáenz de Urturi.
 
 
