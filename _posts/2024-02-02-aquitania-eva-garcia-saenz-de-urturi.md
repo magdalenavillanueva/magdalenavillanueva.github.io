@@ -38,8 +38,8 @@ eterna juventud de los longevos. Fue publicada en dos entregas: en 2012,
 Dos años después, en 2016 publicó nuevamente con la editorial 
 Planeta *El silencio de la ciudad blanca* un thriller
 ambientado en Vitoria.
-En 2018 publicó *Los ritos del agua*, la >segunda entrega
-de la trilogía >de la ciudad blanca y en 2018 su tercera
+En 2018 publicó *Los ritos del agua*, la segunda entrega
+de la trilogía de la ciudad blanca y en 2018 su tercera
 entrega *Los señores del tiempo*. En 2019, A Media Cine realiza la
 adaptación cinematográfica de *El silencio de la ciudad blanca.* La
 trilogía de la ciudad blanca se convirtió en un fenómeno con más de dos
