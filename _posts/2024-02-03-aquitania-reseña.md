@@ -35,45 +35,34 @@ Sáenz de Urturi.
 ---
 
 Eleanor de 13 años heredera de Aquitania, es una niña por edad, pero 
-en
-esa época la infancia duraba mucho menos que ahora, y las mujeres
+en esa época la infancia duraba mucho menos que ahora, y las mujeres
 privilegiadas conocían su destino, el matrimonio por conveniencia. El
 Rey Gordo, Luy VI de Francia, había enviado familiares a las 
 exequias.
 El monarca codiciaba la floreciente Aquitania y mandó a dos Capetos 
-que
-la raptaran y tomaran a la fuerza bajo un puente del río Garona, 
-durante
-el cortejo fúnebre que volvía de la catedral de San Andrés. En un
+que la raptaran y tomaran a la fuerza bajo un puente del río Garona, 
+durante el cortejo fúnebre que volvía de la catedral de San Andrés. En un
 descuido es atacada y ella lo oculta para evitar el matrimonio por
 afrenta. Estuvo cinco años sin hablar. Fue un acto de guerra. En este
 caso, para que entregará Aquitania a los reyes de la Isla de 
-Francia. En
-este ejemplo, Eleanor lo recuerda: Envió a varios de sus hermanos
+Francia. En este ejemplo, Eleanor lo recuerda: Envió a varios de sus hermanos
 a la infame misión, dos de ellos me raptaron en un descuido de Rai y
 pretendieron hacerse a la fuerza con Aquitania. Era costumbre 
-estuprar a
-las herederas y obligarlas después al matrimonio para conseguir la
+estuprar a las herederas y obligarlas después al matrimonio para conseguir la
 dote´´. Pág. 19. *Aquitania de* Eva García Sáenz de Urturi.
 
 
 Desarrollados los hechos anteriores, Eleanor junto a su tío Raimond 
-de
-21 años, que es su amante, inician una investigación de su muerte. A
+de 21 años, que es su amante, inician una investigación de su muerte. A
 partir de este asesinato, Eleanor planea una venganza contra los
 Capetos, representados por Luis VI el Gordo, y sus descendientes, a 
-los
-que siempre han detestado los Duques de Aquitania, ya que los Capetos
+los que siempre han detestado los Duques de Aquitania, ya que los Capetos
 mandan desde la Isla de París, y siempre han sentido envidia de los
 aquitanos, de su tierra y riquezas. Para ello, urden la falsificación
 del testamento de su padre, en este documento se dispone su 
-matrimonio
-con Luy VII, hijo del rey de Francia Luy VI, conocido como el Rey 
-Gordo,
-al cual se señalaba como el asesino de su padre. Pero el día de la 
-
-boda
-es asesinado el rey de Francia. Luy VI de Francia en idénticas
+matrimonio con Luy VII, hijo del rey de Francia Luy VI, conocido como el Rey 
+Gordo,al cual se señalaba como el asesino de su padre. Pero el día de la 
+boda es asesinado el rey de Francia. Luy VI de Francia en idénticas
 circunstancias: ---El Rey Gordo dejó el cuerpo similar, y murió
 aquí, en su palacio´´ Pág. 105. *Aquitania de* Eva García Sáenz de
 Urturi.
@@ -81,8 +70,7 @@ Urturi.
 
 La muerte del Rey Gordo no fue la segunda parte de ningún plan. Fue 
 una reacción a la primera muerte. Una venganza. Como le dice Eleanor 
-a
-Felipa: ---Vengasteis la muerte de vuestro hijo matando al Rey
+a Felipa: ---Vengasteis la muerte de vuestro hijo matando al Rey
 Gordo con el mismo veneno, el extraído a unas poco comunes ranas
 amarillas. Astrolabio fue quien identificó la ponzoña, imagino.
 Pág. 258. *Aquitania de* Eva García Sáenz de Urturi.
@@ -91,9 +79,7 @@ Pág. 258. *Aquitania de* Eva García Sáenz de Urturi.
 Pero también Felipa de Tolosa deseaba proteger a una Eleanor 
 demasiado joven de un heredero dominado por su padre. Luy el Gordo 
 habría saqueado las riquezas de Aquitania en pocos meses. En la cita 
-Eleanor se lo dice
-a su abuela:Me habéis protegido de la codicia del Rey Gordo de la
-peor manera, pero entiendo que era necesario. Pág. 259. *Aquitania
+Eleanor se lo dice a su abuela:Me habéis protegido de la codicia del Rey Gordo de la peor manera, pero entiendo que era necesario. Pág. 259. *Aquitania
 de* Eva García Sáenz de Urturi.
 
 
@@ -106,16 +92,12 @@ relacionando y conociendo intentan convivir en paz, llegan a tener
 cierta empatía. Ambos están llenos de incertidumbres personales y
 enemigos crueles. Después de lo de Vitry, Luy quiere ir quiere ir a
 Jerusalén a expiar su culpa por la Quemada. Van a la II cruzada y 
-llegan
-a Antioquia, donde el encuentro con Rai, despierta los rumores que el
+llegan a Antioquia, donde el encuentro con Rai, despierta los rumores que el
 mismo Luy le dice a Eleanor; ---Es difícil mantener la dignidad
 real cuando todos los barones me lanzan sus miradas burlonas, para 
-ellos
-soy un simple cornudo. Siempre he preferido desoír las historias que 
-se
-contaban del amor entre tío y sobrina, pero ahora es Galerán quien 
-habla
-de lo que ha visto. Galerán. Él, que jamás ha participado en ningún
+ellos soy un simple cornudo. Siempre he preferido desoír las historias que 
+se contaban del amor entre tío y sobrina, pero ahora es Galerán quien 
+habla de lo que ha visto. Galerán. Él, que jamás ha participado en ningún
 rumor´´. Pág. 272. *Aquitania de* Eva García Sáenz de Urturi.
 
 
