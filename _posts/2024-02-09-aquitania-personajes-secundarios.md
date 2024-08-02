@@ -56,7 +56,7 @@ cadáver la dignidad que siempre tuvo en vida. Sus manos estaban tibias,
 no hacía mucho que la habían torturado y asesinado´´. Pág. 127.
 *Aquitania* de Eva García Sáenz de Urturi.
 
----
+
 **Lui VI de Francia:** 
 
 De larga melena rubia, llamado el rey gordo.
@@ -105,8 +105,8 @@ rama de la Orden de San Benito. En la obra lo describen así:
 ´´Bernardo, siempre de blanco cegador, por una vez se había colocado un
 ligero sayal rojo que le llegaba a los pies y aguardaba sereno varios
 pasos detrás de la comitiva real, en un lugar en el que la muchedumbre
-no podía verlo desde abajo´´. Pág. 247. *Aquitania* de Eva García Sáenz
-de Urturi.
+no podía verlo desde abajo´´. 
+Pág. 247. *Aquitania* de Eva García Sáenz de Urturi.
 
 ---
 **Maud:** 
@@ -174,8 +174,8 @@ sangre:´´ ---Era poco agradable de ver. Tomaba al prisionero boca
 abajo, y muy hábil y cruelmente le sacaba los pulmones por la espalda.
 El desgraciado moría durante el tormento, y parecía que le habían
 crecido unas alas sangrientas, de ahí el nombre. Había que partir
-costillas, desde luego: ese era el procedimiento de los normandos:
-. Pág. 289. *Aquitania* de Eva García Sáenz de Urturi.
+costillas, desde luego: ese era el procedimiento de los normandos.
+ Pág. 289. *Aquitania* de Eva García Sáenz de Urturi.
 
 ---
 **Gatos aquitanos:** 
@@ -187,5 +187,5 @@ complicadas. De esta forma, los describen en la obra: ´´Comenzaré
 por reconocer que en toda la cristiandad se contaban fábulas frente al
 fuego acerca de la existencia de los gatos aquitanos, pocos las creían,
 y esa era precisamente nuestra fuerza. Su mayor virtud era que no
-existían más que en esas leyendas´´. *Pág. 72. Aquitania de* Eva García
+existían más que en esas leyendas´´. *Pág. 72. *Aquitania* de Eva García
 Sáenz de Urturi.
