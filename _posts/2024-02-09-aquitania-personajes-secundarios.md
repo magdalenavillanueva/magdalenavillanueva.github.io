@@ -105,9 +105,9 @@ consejero de pontífices y maestro espiritual de la Orden del Císter,
 rama de la Orden de San Benito. En la obra lo describen así:
 ´´Bernardo, siempre de blanco cegador, por una vez se había colocado 
 un ligero sayal rojo que le llegaba a los pies y aguardaba 
-sereno varios pasos detrás de la comitiva real, en un 
-lugar en el que la muchedumbre no podía verlo desde abajo´´.  
-Pág. 247. *Aquitania* de Eva García Sáenz de Urturi.
+sereno varios pasos detrás de la comitiva real, en un lugar 
+en el que la muchedumbre no podía verlo desde abajo´´. Pág. 247.
+ *Aquitania* de Eva García Sáenz de Urturi.
 
 ---
 **Maud:** 
