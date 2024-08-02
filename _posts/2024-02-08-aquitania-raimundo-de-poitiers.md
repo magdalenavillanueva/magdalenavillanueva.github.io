@@ -19,7 +19,7 @@ silencios. Otro cercenó sus hombrías, venganza por lo que nos
 arrebataron a mí y a mi primer amor´´. Pág. 19. *Aquitania* de Eva
 García Sáenz de Urturi.
 
-![alt text](../assets/img/Raimundo.jpg){:width="200" style="float: right"} 
+![alt text](/assets/img/Raimundo.jpg){:width="200" style="float: right"} 
  
 
 Durante mucho tiempo se murmuraba que
