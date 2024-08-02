@@ -10,7 +10,7 @@ categories:
 ---
 **Guilhem X:**
 
-Ägil, de hombros anchos, conde de Poitiers y duque de Aquitania. Era carismático, muy persuasivo, encantador, noble, justo y sensato. Era hijo de Guillermo el Trovador, pero mucho más peligroso, y su sucesor, y
+Agil, de hombros anchos, conde de Poitiers y duque de Aquitania. Era carismático, muy persuasivo, encantador, noble, justo y sensato. Era hijo de Guillermo el Trovador, pero mucho más peligroso, y su sucesor, y
 de Felipa, condesa de Tolosa. Fue forzado por su padre a casarse con
 Aenor de Châtellerault, bella y fría, hija de la Maubergeona y tuvieron
 por hijos a Eleanor, Alix y Aigret de Aquitania. Fue excomulgado por
@@ -98,8 +98,9 @@ Pág. 118. *Aquitania* de Eva García Sáenz de Urturi.
 ---
 **Bernardo de Claraval:** 
 
-Tenía canas en las sienes, demacrado por los ayunos, alto. Lo llamaban Doctor
-Mellifluus. Era uno de los hombres más célebres de la cristiandad. Fue
+Tenía canas en las sienes, demacrado por los ayunos, alto. 
+Lo llamaban Doctor Mellifluus. Era uno de los hombres 
+más célebres de la cristiandad. Fue
 consejero de pontífices y maestro espiritual de la Orden del Císter,
 rama de la Orden de San Benito. En la obra lo describen así:
 ´´Bernardo, siempre de blanco cegador, por una vez se había colocado 
