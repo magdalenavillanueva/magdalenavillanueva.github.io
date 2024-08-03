@@ -19,24 +19,14 @@ y creciste, porque eso que llegaste a amar ya está muerto
 ---
 
 Caracas está inmersa en una vorágine de violencia producto de los 
-desafueros de 
-un grupo de poder que espera mandar en el país sin ningún tipo de 
-restricciones. 
-Un grupo de jóvenes protestan ante las injusticias y la pérdida de 
-un futuro viable.
- Estos jóvenes están siendo masacrados 
+desafueros de un grupo de poder que espera mandar en el país sin ningún tipo de restricciones. Un grupo de jóvenes protestan ante las injusticias y la pérdida de un futuro viable.  Estos jóvenes están siendo masacrados 
 inmisericordemente, las fuerzas públicas aliadas con grupos armados 
-llenos de odio y 
-resentimiento persiguen y asesinan a los que se atreven a oponerse.  
-El 2014 es el año en que el 
-país se desangró y cambió, ¿para bien o para mal?, el tiempo lo 
-dirá. 
+llenos de odio y resentimiento persiguen y asesinan a los que se atreven a oponerse.  El 2014 es el año en que el país se desangró y cambió, 
+¿para bien o para mal?, el tiempo lo dirá. 
 
 
 La novela La hija de la española de Karina Sainz Borgo, venezolana 
-radicada en España, está 
-ambientada en esta época aciaga. Es una obra que no pasa 
-desapercibida, los que han vivido una 
+radicada en España, está ambientada en esta época aciaga. Es una obra que no pasa desapercibida, los que han vivido una 
 cuota de violencia gratuita entenderán los recovecos de lo que 
 cuenta. 
 
@@ -45,36 +35,22 @@ cuenta.
 
 
 Es el 2014 y las calles de Caracas son el escenario de 
-enfrenamientos entre estudiantes,
-el  orden público y afectos al gobierno revolucionario. Adelaida 
-Falcón muere después de una 
+enfrenamientos entre estudiantes, el  orden público y afectos al gobierno revolucionario. Adelaida Falcón muere después de una 
 larga enfermedad. Su hija emprende los trámites funerarios que ha de 
-realizar en ese momento. 
-Con ansiedad, logra sepultar a su madre, donde su rutina familiar 
-dará un vuelco cuando es 
+realizar en ese momento. Con ansiedad, logra sepultar a su madre, donde su rutina familiar dará un vuelco cuando es 
 desalojada por mujeres revolucionarias dispuestas a cumplir el 
-propósito de allanar para 
-apropiarse de viviendas.  Ella busca ayuda en los apartamentos 
-cercanos al suyo, logrando entrar 
+propósito de allanar para apropiarse de viviendas.  Ella busca ayuda en los apartamentos cercanos al suyo, logrando entrar 
 al de Aurora Peralta, su vecina y la encuentra muerta. Igual se 
-esconde en él, y ante las 
-circunstancias que se le presentan: la invasión de su apartamento, 
-la muerte de su vecina, la 
+esconde en él, y ante las circunstancias que se le presentan: la invasión de su apartamento, la muerte de su vecina, la 
 carta de la embajada española concediéndole un pasaporte español, 
-toma una decisión 
-trascendental que le hará dar una vuelta de 60 grados en lo que fue 
-su vida. Mientras se narran 
+toma una decisión trascendental que le hará dar una vuelta de 60 grados en lo que fue su vida. Mientras se narran 
 esos cambios significativos ella va recordando su pasado y muestra 
-una realidad, la historia 
-venezolana, las tradiciones y costumbres heredadas entre las 
-generaciones.
+una realidad, la historia venezolana, las tradiciones y costumbres heredadas entre las generaciones.
 
 <center><H3>ANÁLISIS</H3></center>
 
 Describe la historia de las Falcón, madre e hija, con el mismo 
-nombre y apellidos, dos 
-generaciones donde se narra las circunstancias que les tocó vivir en 
-la azarosa historia del 
+nombre y apellidos, dos generaciones donde se narra las circunstancias que les tocó vivir en la azarosa historia del 
 país, en el antes y después del quehacer político venezolano 
 contemporáneo. Ante la enfermedad y 
 muerte de su madre Adelaida Falcón, va presentando una serie de 
