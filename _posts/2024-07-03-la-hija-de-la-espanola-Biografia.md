@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "La Hija de la Española: Biografia de Karina Sainz Borgo"
+title: "La Hija de la Española: Biografía de Karina Sainz Borgo"
 date: 2024-07-03 12:00:01 +0100
 categories: 
     - La Hija de la Española
