@@ -11,6 +11,7 @@ Leonor de Aquitania sigue encarnando uno de los destinos de mujer más fascinant
 ![Leonor de Aquitania](/assets/img/166753c1-5451-491a-a524-ed02786b6421.jpg){:width="200" style="float: right; padding:10px"}
 Pamela Kaufman en 1997, escribe **Leonor de Aquitania** quien teniéndolo todo para ser feliz: inteligencia, preparación, belleza, fortuna y alianzas con los poderosos, nunca logró su objetivo de ser independiente para gobernar como duquesa ni como reina. Kaufman escribió otros libros sobre el tema: El escudo de los tres leones y Banderas de oro, que abordan la existencia de Ricardo, Corazón de León, hijo favorito de Leonor de Aquitania.
 
+![alt text](</assets/img/vida y leyenda de leonor.jpg>){:width="200" style="float: right; padding:10px"}
 
 En 2013, Miguel Gorosabel Suárez realiza un ensayo biográfico de este personaje histórico que, por ser mujer, en un mundo de hombres, se le ha dado menos importancia de la que realmente tuvo. En el siglo XI, la historia era contada por los cronistas, casi siempre eclesiásticos, para los que, el mero hecho de ser mujer, venía a ser poco menos que la encarnación del mal. En una ardua síntesis de
 lectura y estudio, Miguel Gorosabel, haciendo un profundo análisis del
@@ -41,9 +42,10 @@ indómita, que rompe con los usos y costumbres de su tiempo, lo cual
 desde una perspectiva actual resulta sumamente interesante. Flori
 analiza además hasta que punto su figura influyó en la literatura y fue
 tomada como modelo para algunos de los personajes literarios.
+![alt text](</assets/img/Leonor en la abadía de Fontevrault.jpg>){:width="200" style="float: left; padding:10px"}
 
 Leonor fue protectora y mecenas de la Abadía de Fontevrault,
-que se convirtió en el sepulcro de los Plantagenet y dirigió de forma significativa la creación de las esculturas de las tumbas. Llevó su singularidad hasta la efigie de su tumba, en la que yace leyendo un libro.
+que se convirtió en el sepulcro de los Plantagenet y dirigió de forma significativa la creación de las esculturas de las tumbas. ![alt text](</assets/img/Abadía de Fontevrault.jpg>){:width="200" style="float: left; padding:10px"}.Llevó su singularidad hasta la efigie de su tumba, en la que yace leyendo un libro.
 
 ---
 ![Katharine Hepburn como Leonor](/assets/img/aa45c8d3-916e-451a-bdb0-1539a971b871.jpg){:width="200" style="float: left; padding:10px"}
