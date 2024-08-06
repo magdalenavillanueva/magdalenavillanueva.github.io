@@ -249,7 +249,7 @@ lX, más conocido como San Luis.
 ---
 Poitiers fue fundada por
 la tribu celta de los pictones como el oppidum Lemono (en latín, Lemonum
-antes de la influencia romana. Se dice que el nombre venía de la palabra
+antes de la influencia romana). Se dice que el nombre venía de la palabra
 celta para olmo, Lemo. Su nombre definitivo, Poitiers, tenía relación
 con el pueblo de los pictones. Fue una familia franca que dio origen a
 una dinastía francesa que gobernó el condado de Poitou (o Poitiers) y el
