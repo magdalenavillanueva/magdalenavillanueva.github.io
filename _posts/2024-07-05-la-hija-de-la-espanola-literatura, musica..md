@@ -16,12 +16,12 @@ la rutina del ir y venir.
 
 La herencia que se inculcaba con el sentido de pertenencia. No solo era un cuadro 
 de Michelena, era una mirada a un mundo del pasado para entender el presente. Eran 
-escritores que reflejaban la vida a través de la poesía, de la novela. Fueron las 
+escritores que reflejaban la vida a través de la poesía y la novela. Fueron las 
 costumbres de las familias, donde las canciones tenían su tema típico para no 
 olvidar, y que todos conocían, reconocíendo sus comidas para unir y recordar.
 
 
-Es la herencia que dejó una generación, dendole importancia a los propios 
+Es la herencia que dejó una generación, dandole importancia a los propios 
 valores nacidos en el país, le dió trascendencia a sus artistas plásticos, 
 escritores, a su farándula; que gustaba de leer, de conocer, de saber sobre el 
 mundo.  Un pasado significativo que todavía era respetado, celebrado y un presente 
