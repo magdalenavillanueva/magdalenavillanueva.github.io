@@ -139,11 +139,11 @@ venezolano, su madre era bailarina de ballet clásico, trabajaba
 en el ballet de Marjorie Flores de Sábado Sensacional. Su padre 
 argentino, era editor y periodista.
 
-Los hijos de la revolución/Los motorizados de la Patria y  La 
-Mariscala y sus mujeres revolucionarias: 
+<h3>Los hijos de la revolución/Los motorizados de la Patria y  La 
+Mariscala y sus mujeres revolucionarias</h3>: 
 Nacieron como proyectos revolucionarios para consolidar un poder 
 que de momentos se hacía endeble, creados con espurios 
-propósitos para lograr el vasallaje total y completa entre los 
+propósitos para lograr el vasallaje total y completo entre los 
 propios y el pueblo que todavía creía en la libertad. 
 
 … "consiguieron llegar lo suficientemente lejos. Nos separaron a 
