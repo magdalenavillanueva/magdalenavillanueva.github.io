@@ -33,8 +33,8 @@ categories:
 
 7.  Análisis de la Familia Williams: David Williams, Cara Williams:
     Abuelo, Ethel Williams, Billy Williams.
-
->8.  Análisis de la Familia Dvorkin: Grigori Peshkov, Katarina,
+    
+8.  Análisis de la Familia Dvorkin: Grigori Peshkov, Katarina,
     Vladimir Peshkov, Zoya Vorotsintsev, Anya Peshkov, Tania Dvórkina,
     Dimitri Iliich/Dimka Dvorkin,
 
@@ -51,7 +51,7 @@ categories:
 
 12. Análisis de los personajes históricos que aparecen en La Centuria.
 
->13. Ambiente histórico. Los principales acontecimientos acaecidos en el
+13. Ambiente histórico. Los principales acontecimientos acaecidos en el
     siglo XX a través de las historias de las cinco familias.
 
 14. Ambiente Físico
