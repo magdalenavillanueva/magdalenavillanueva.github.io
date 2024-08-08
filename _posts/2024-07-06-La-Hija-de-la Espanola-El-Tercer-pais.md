@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "La Hija de la Española: El Tercer Pais"
+title: "La Hija de la Española: El Tercer País"
 date: 2024-07-02 12:00:01 +0100
 categories: 
     - La Hija de la Española
 ---
-<center><h2>EL TERCER PAIS</h2></center>
+<center><h2>EL TERCER PAÍS</h2></center>
 
 
 
