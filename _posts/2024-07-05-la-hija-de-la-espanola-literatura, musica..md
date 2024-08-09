@@ -226,25 +226,25 @@ https://youtu.be/brOjE8BbeWk
 <center>Adiós, que te voy diciendo manita, oh</center>
 <center>Y, ¿por qué no me contestas manita, oh?</center>
 
-Dale duro a este pilón 
-Que se acabe de romper 
-Que en el monte hay muchos palos 
-Y papá los sabe hacer 
+<center>Dale duro a este pilón</center> 
+<center>Que se acabe de romper</center>
+<center>Que en el monte hay muchos palos</center>
+<center>Y papá los sabe hacer.</center>
 
-Ya me duele la cabeza 
-De tanto darle al pilón 
-Para engordar un cochino 
-Y comprarme un camisón 
+<center>Ya me duele la cabeza</center>
+<center>De tanto darle al pilón</center>
+<center>Para engordar un cochino</center> 
+<center>Y comprarme un camisón.</center>
 
-Allá arriba en aquel cerro, ioh-ioh 
-Va un matrimonio civil, ioh-ioh 
-Se casa la bemba ′e burro 
-Con el pescuezo 'e violín, ioh-ioh 
+<center>Allá arriba en aquel cerro, ioh-ioh</center>
+<center>Va un matrimonio civil, ioh-ioh</center>
+<center>Se casa la bemba ′e burro</center>
+<center>Con el pescuezo 'e violín, ioh-ioh.</center>
 
-Si por tu marido es, ioh-ioh 
+<center>Si por tu marido es, ioh-ioh</center> 
 Cójelo que allá te vas, ioh-ioh 
 Tu camisón de cretona 
-No me lo ha llegado a dar, ioh-ioh 
+No me lo ha llegado a dar, ioh-ioh</center>
 
 Yo no quiero hombre casa′o, ioh-ioh 
 Porque hiede a mata dura, ioh-ioh 
@@ -261,10 +261,10 @@ Que todo se lo merece, ioh-ioh
 Y vive en un peazo 'e rancho 
 Que el viento se lo estremece, ioh-ioh 
 
-Dale duro a este pilón 
-Que se acabe de romper 
-Que en el monte hay mucho palo′ 
-Y papá lo sabe hacer.</center>
+<center>Dale duro a este pilón</center>
+<center>Que se acabe de romper</center>
+<center>Que en el monte hay mucho palo′<center>
+<center>Y papá lo sabe hacer.</center>
 
 
 
@@ -392,139 +392,140 @@ libremente entre los materiales verticales con que se construyen.
 ![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style="float: right"}
 
 <h4>A sangre fría</h4>
-Fecha de publicación original: 1965
-Autor: Truman Capote
-Adaptaciones: A sangre fría (1967), A Sangre Fría (1996)
-Géneros: Novela, Crímenes reales, Novela de no ficción
-Ambientada en: Kansas
-Artista de la cubierta: S. Neil Fujita
+<center>Fecha de publicación original: 1965
+Autor: Truman Capote.
+Adaptaciones: A sangre fría (1967), A Sangre Fría (1996).
+Géneros: Novela, Crímenes reales, Novela de no ficción.
+Ambientada en: Kansas.
+Artista de la cubierta: S. Neil Fujita.</center>
 
 
 
-![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="200" style="float: right"}
 
 <h4>El otoño del patriarca</h4>
-Fecha de publicación original: 1975
-Autor: Gabriel García Márquez
+Fecha de publicación original: 1975.
+Autor: Gabriel García Márquez.
 Géneros: Novela, Ficción, Realismo mágico.
 
 
 
-![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
-
+![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="200" style="float: right"}
 <h4>Por quién doblan las campanas</h4>
-Fecha de publicación original: 21 de octubre de 1940
-Autor: Ernest Hemingway
-Géneros: Novela, Ficción, Novela bélica
+Fecha de publicación original: 21 de octubre de 1940.
+Autor: Ernest Hemingway.
+Géneros: Novela, Ficción, Novela bélica.
 Adaptaciones:  (1943), (1965), 
-(1959)
-Tema(s): Guerra civil española
+(1959).
+Tema(s): Guerra civil española.
 
 
 
 
-![La casa verdes](</assets/img/La casa verde.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![La casa verdes](</assets/img/La casa verde.jpg>){:width="200" style="float: right"}
 
 <h4>La casa verde</h4>
-Fecha de publicación original: 1966
-Autor: Mario Vargas Llosa
-Géneros: Novela, Ficción
-Premios: Premio Rómulo Gallegos
+Fecha de publicación original: 1966.
+Autor: Mario Vargas Llosa.
+Géneros: Novela, Ficción.
+Premios: Premio Rómulo Gallegos.
 Ambientada en: Piura, Santa María de Nieva, Iquitos y Borja (Datem del Marañón)
-Editorial: Seix Barral S.A
+Editorial: Seix Barral S.A.
 
 
 
-![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="200" style="float: right"}
 
 <h4>Los Hijos del limo</h4>
-Fecha de publicación original: 1974
-Autor: Octavio Paz
-Del Romanticismo a la Vanguardia
+Fecha de publicación original: 1974.
+Autor: Octavio Paz.
+Del Romanticismo a la Vanguardia.
 
 
 
-![Aires de familia](</assets/img/Aires de familia.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Aires de familia](</assets/img/Aires de familia.jpg>){:width="200" style="float: right"}
 
 <h4>Aires de familia</h4>
-Fecha de publicación original: 2000
-Autor:  Carlos Monsiváis
+Fecha de publicación original: 2000.
+Autor:  Carlos Monsiváis.
 
 
 
-![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="200" style="float: right"}
 
 <h4>Pregúntale al polvo</h4>
-Fecha de publicación original: 1939
-Autor: John Fante
-Géneros: Novela, Ficción, Novela en clave
-Adaptaciones: Pregúntale al viento (2006)
+Fecha de publicación original: 1939.
+Autor: John Fante.
+Géneros: Novela, Ficción, Novela en clave.
+Adaptaciones: Pregúntale al viento (2006).
 
 
 
-![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="200" style="float: right"}
 
 <h4>El sótano y Tala.</h4> 
-Fecha de publicación original: 1984
-Autor: Thomas Bernhard
+Fecha de publicación original: 1984.
+Autor: Thomas Bernhard.
 Novelista, dramaturgo y poeta 
-austríaco
-Géneros: Literatura contemporánea
+austríaco.
+Géneros: Literatura contemporánea.
 
 
 
-![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="200" style="float: right"}
 
 <h4>Órdenes del corazón</h4> 
-Fecha de publicación original: 2001
-Autor: Miyó Vestrini
-Periodista, poeta 
-Géneros: Narrativa
+Fecha de publicación original: 2001.
+Autor: Miyó Vestrini.
+Periodista, poeta.
+Géneros: Narrativa.
 
 
 
-![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="200" style="float: right"}
 <h4>Casa o lobo</h4>
-Fecha de publicación original: 1981
-Autor: Yolanda Pantin
-Poeta Venezolana
+Fecha de publicación original: 1981.
+Autor: Yolanda Pantin.
+Poeta Venezolana.
 Géneros:  literatura infantil, el teatro y el ensayo.
 
 
 
-![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style="float: right"}
 
 <h4>Carriel para la fiesta</h4>
-Fecha de publicación original: 1983
-Autor: Elisa Lerner
-Escritora
-Géneros:  Teatro, humor y ensayo
+Fecha de publicación original: 1983.
+Autor: Elisa Lerner.
+Escritora.
+Géneros:  Teatro, humor y ensayo.
 
 
 
-![Ifigenia](</assets/img/Ifigenia.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Ifigenia](</assets/img/Ifigenia.jpg>){:width="200" style="float: right"}
 
 <h4>Ifigenia</h4> 
-Fecha de publicación original: 1924
-Autor: Teresa de la Parra
-Novelista
-Géneros:  Ficción doméstica, Diario ficcional
+Fecha de publicación original: 1924.
+Autor: Teresa de la Parra.
+Novelista.
+Géneros:  Ficción doméstica, Diario ficcional.
 
 
 
-![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="200" style="float: right"}
+
 <h4>Madame Bovary</h4>
-Fecha de publicación original: 1856
-Autor: Gustave Flaubert
-Escritor 
-Géneros: Novelas
+Fecha de publicación original: 1856.
+Autor: Gustave Flaubert.
+Escritor. 
+Géneros: Novelas.
 
 
 
-![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="200" style="float: right"}
+
 <h4>Ana Karenina</h4> 
-Fecha de publicación original: 1878
-Autor: León Tolstói
-Escritor 
-Géneros: Novelas, ficción, realismo literario
+Fecha de publicación original: 1878.
+Autor: León Tolstói.
+Escritor. 
+Géneros: Novelas, ficción, realismo literario.
 
