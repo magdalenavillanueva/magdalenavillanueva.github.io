@@ -72,7 +72,7 @@ Sábado sensacional (1972-1988, 2018-2019)
 
 ![Block caribe](</assets/img/Block Caribe.png>){:width="200" style="float: right"}
 
-Un block para dibuajar, fabricado por Caracas Paper Company y era la herramienta de 
+Un block para dibujar, fabricado por Caracas Paper Company y era la herramienta de 
 los estudiantes de primaria y secundaria para las actividades de dibujo y artes 
 plásticas.
 
@@ -80,7 +80,7 @@ plásticas.
 
 ![Circulo de lectores](</assets/img/Círculo de lectores.jpg>){:width="100" style="float: right"}
 
-Fue un club de lectura y ventas de libros creado en España en 1962 que luego fue 
+Fue un club de lectura y ventas de libros, creado en España en 1962 que luego fue 
 adquirido por el Grupo Planeta en el 2014. En Venezuela fue un gran medio para la 
 difusión de la lectura.
 
@@ -140,14 +140,14 @@ del Estado Aragua y a 15 metros sobre el nivel del mar.
 
 ![La Encrucijada](</assets/img/La Encrucijada.jpg>){:width="200" style="float: right"}
 
-Situado entre Turmero y Palo Negro Edo. Aragua. Es un sitio donde convergen varias vias de transito que comunica a los Estados Guarico y Aragua.
+Situado entre Turmero y Palo Negro Edo. Aragua. Es un sitio donde convergen varias vías de tránsito que comunica a los Estados Guarico y Aragua.
 
 <h4>Parada de autobús</h4>
 
 ![Parada de autobus](</assets/img/Parada de autobús.jpg>){:width="200" style="float: right"}
 
-Ubicado en la via, donde los transeutes se concentran para poder trasladarse. 
-Es un sitio que se convirtió en un deposito de basura con olor a butano, gasolina, 
+Ubicada en la vía, donde los transeúntes se concentran para poder trasladarse. 
+Es un sitio que se convirtió en un depósito de basura con olor a butano, gasolina, 
 aceite de motor, y fritura de  cerdo.
 
 
@@ -222,9 +222,9 @@ canela y papelón).
 Letra de El Pilón (Canto de Trabajo) 
 https://youtu.be/brOjE8BbeWk
 
-<center>Adiós, manita querida, adiós 
-Adiós, que te voy diciendo manita, oh 
-Y, ¿por qué no me contestas manita, oh?
+<center>Adiós, manita querida, adiós </center>
+<center>Adiós, que te voy diciendo manita, oh</center>
+<center>Y, ¿por qué no me contestas manita, oh?</center>
 
 Dale duro a este pilón 
 Que se acabe de romper 
@@ -389,7 +389,7 @@ libremente entre los materiales verticales con que se construyen.
 
 <h3>LIBROS NOMBRADOS</h3>
 
-![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
+![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style="float: right"}
 
 <h4>A sangre fría</h4>
 Fecha de publicación original: 1965
