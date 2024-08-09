@@ -540,6 +540,8 @@ Géneros:  Ficción doméstica, Diario ficcional.
 
 
 
+
+
 ![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="100" style="float: right"}
 
 <h4>Madame Bovary</h4>
@@ -556,10 +558,7 @@ Géneros: Novelas.
 <h4>Ana Karenina</h4> 
 
 Fecha de publicación original: 1878.
-
 Autor: León Tolstói.
-
 Escritor. 
-
 Géneros: Novelas, ficción, realismo literario.
 
