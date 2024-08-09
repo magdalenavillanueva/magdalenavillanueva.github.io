@@ -242,24 +242,24 @@ https://youtu.be/brOjE8BbeWk
 <center>Con el pescuezo 'e violín, ioh-ioh.</center>
 
 <center>Si por tu marido es, ioh-ioh</center> 
-Cójelo que allá te vas, ioh-ioh 
-Tu camisón de cretona 
-No me lo ha llegado a dar, ioh-ioh</center>
+<center>Cójelo que allá te vas, ioh-ioh</center>
+<center>Tu camisón de cretona</center>
+<center>No me lo ha llegado a dar, ioh-ioh</center>
 
-Yo no quiero hombre casa′o, ioh-ioh 
-Porque hiede a mata dura, ioh-ioh 
-Yo lo quiero solterito 
-Que huele a piña madura, ioh-ioh 
+<center>Yo no quiero hombre casa′o, ioh-ioh</center> 
+<center>Porque hiede a mata dura, ioh-ioh</center>
+<center>Yo lo quiero solterito</center> 
+<center>Que huele a piña madura, ioh-ioh.</center>
 
-Allá va la cara 'e diablo, ioh-ioh 
-De corazón de demonio, ioh-ioh 
-Que tiene la lengua negra 
-De levantar testimonio, ioh-ioh 
+<center>Allá va la cara 'e diablo, ioh-ioh</center> 
+<center>De corazón de demonio, ioh-ioh</center> 
+<center>Que tiene la lengua negra</center>
+<center>De levantar testimonio, ioh-ioh.</center> 
 
-Y la zoqueta se cree, ioh-ioh 
-Que todo se lo merece, ioh-ioh 
-Y vive en un peazo 'e rancho 
-Que el viento se lo estremece, ioh-ioh 
+<center>Y la zoqueta se cree, ioh-ioh</center> 
+<center>Que todo se lo merece, ioh-ioh</center> 
+<center>Y vive en un peazo 'e rancho</center>
+<center>Que el viento se lo estremece, ioh-ioh.</center> 
 
 <center>Dale duro a este pilón</center>
 <center>Que se acabe de romper</center>
@@ -392,12 +392,12 @@ libremente entre los materiales verticales con que se construyen.
 ![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style="float: right"}
 
 <h4>A sangre fría</h4>
-<center>Fecha de publicación original: 1965
+Fecha de publicación original: 1965
 Autor: Truman Capote.
 Adaptaciones: A sangre fría (1967), A Sangre Fría (1996).
 Géneros: Novela, Crímenes reales, Novela de no ficción.
 Ambientada en: Kansas.
-Artista de la cubierta: S. Neil Fujita.</center>
+Artista de la cubierta: S. Neil Fujita.
 
 
 
