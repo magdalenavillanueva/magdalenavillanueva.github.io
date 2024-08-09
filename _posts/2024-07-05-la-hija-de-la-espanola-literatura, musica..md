@@ -441,7 +441,7 @@ Tema(s): Guerra civil española.
 
 
 
-![La casa verdes](</assets/img/La casa verde.jpg>){:width="200" style="float: right"}
+![La casa verdes](</assets/img/La casa verde.jpg>){:width="100" style="float: right"}
 
 <h4>La casa verde</h4>
 
@@ -454,7 +454,7 @@ Editorial: Seix Barral S.A.
 
 
 
-![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="200" style="float: right"}
+![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="100" style="float: right"}
 
 <h4>Los Hijos del limo</h4>
 
@@ -464,7 +464,7 @@ Del Romanticismo a la Vanguardia.
 
 
 
-![Aires de familia](</assets/img/Aires de familia.jpg>){:width="200" style="float: right"}
+![Aires de familia](</assets/img/Aires de familia.jpg>){:width="100" style="float: right"}
 
 <h4>Aires de familia</h4>
 
@@ -473,7 +473,7 @@ Autor:  Carlos Monsiváis.
 
 
 
-![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="200" style="float: right"}
+![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="100" style="float: right"}
 
 <h4>Pregúntale al polvo</h4>
 
@@ -484,7 +484,7 @@ Adaptaciones: Pregúntale al viento (2006).
 
 
 
-![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="200" style="float: right"}
+![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="100" style="float: right"}
 
 <h4>El sótano y Tala.</h4> 
 
@@ -496,7 +496,7 @@ Géneros: Literatura contemporánea.
 
 
 
-![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="200" style="float: right"}
+![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="100" style="float: right"}
 
 <h4>Órdenes del corazón</h4> 
 
@@ -507,7 +507,7 @@ Géneros: Narrativa.
 
 
 
-![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="200" style="float: right"}
+![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="100" style="float: right"}
 
 <h4>Casa o lobo</h4>
 
@@ -518,7 +518,7 @@ Géneros:  literatura infantil, el teatro y el ensayo.
 
 
 
-![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style="float: right"}
+![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="100" style="float: right"}
 
 <h4>Carriel para la fiesta</h4>
 
@@ -529,7 +529,7 @@ Géneros:  Teatro, humor y ensayo.
 
 
 
-![Ifigenia](</assets/img/Ifigenia.jpg>){:width="200" style="float: right"}
+![Ifigenia](</assets/img/Ifigenia.jpg>){:width="100" style="float: right"}
 
 <h4>Ifigenia</h4> 
 
@@ -540,7 +540,7 @@ Géneros:  Ficción doméstica, Diario ficcional.
 
 
 
-![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="200" style="float: right"}
+![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="100" style="float: right"}
 
 <h4>Madame Bovary</h4>
 
@@ -551,12 +551,15 @@ Géneros: Novelas.
 
 
 
-![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="200" style="float: right"}
+![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="100" style="float: right"}
 
 <h4>Ana Karenina</h4> 
 
 Fecha de publicación original: 1878.
+
 Autor: León Tolstói.
+
 Escritor. 
+
 Géneros: Novelas, ficción, realismo literario.
 
