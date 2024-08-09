@@ -324,7 +324,8 @@ que había cerca de allí. Dispuesto a
 hacerles una broma, se acercó y comenzó
 a gritar:</center>
 
-–¡Socorro, el lobo! ¡Que viene el lobo!
+–¡Socorro, el lobo! ¡Que viene el lobo!.
+
 Los aldeanos de inmediato agarraron las herramientas 
 que tenían a mano palas, azadas, martillos, y corrieron 
 a auxiliar al pobre pastor. Pero al llegar a la pradera 
@@ -337,6 +338,7 @@ a repetirla. Un par de días después se volvieron a escuchar
 en toda la comarca los gritos alarmantes de Pedro:
 
 –¡Socorro, socorro el lobo! ¡Viene el lobo!
+
 Al volver a oír los gritos del pastor, la gente del pueblo 
 creyó que en esta ocasión sí se trataba verdaderamente de 
 un lobo feroz que se sabía que andaba por bosques y montañas 
@@ -353,8 +355,11 @@ hasta que lo tuvo muy cerca. Entonces
 de repente lo vio y ahí sí que sintió muchísimo miedo, e 
 impotencia, porque el animal se acercaba sigilosamente a sus ovejas.
 Entonces comenzó a gritar como nunca antes.
+
 –¡Socorro, que aquí está el lobo! ¡El lobo! ¡Ayuden a mis ovejas! 
-¡Auxilio! Gritaba y gritaba, una y otra vez, pero los aldeanos 
+¡Auxilio! 
+
+Gritaba y gritaba, una y otra vez, pero los aldeanos 
 ya no parecían escucharlo.
 Hacían oídos sordos ante los gritos de auxilio, pensando que 
 se trataba de otra broma.
@@ -362,6 +367,7 @@ El pastor no sabía qué más hacer, por lo que seguía pidiendo ayuda,
 gritando desesperado y sin entender por qué nadie acudía:
 
 –¡Socorro, el lobo, el lobo, que se come mis ovejas! ¡Por favor, auxilio!
+
 Pero ya era muy tarde para convencer a los aldeanos de que esta vez
 era verdad.
 Y fue así como Pedro, el pastor, tuvo que ver con dolor cómo el lobo
@@ -401,7 +407,8 @@ libremente entre los materiales verticales con que se construyen.
 ![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style="float: right"}
 
 <h4>A sangre fría</h4>
-Fecha de publicación original: 1965
+
+Fecha de publicación original: 1965.
 Autor: Truman Capote.
 Adaptaciones: A sangre fría (1967), A Sangre Fría (1996).
 Géneros: Novela, Crímenes reales, Novela de no ficción.
@@ -413,6 +420,7 @@ Artista de la cubierta: S. Neil Fujita.
 ![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="200" style="float: right"}
 
 <h4>El otoño del patriarca</h4>
+
 Fecha de publicación original: 1975.
 Autor: Gabriel García Márquez.
 Géneros: Novela, Ficción, Realismo mágico.
@@ -420,7 +428,9 @@ Géneros: Novela, Ficción, Realismo mágico.
 
 
 ![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="200" style="float: right"}
+
 <h4>Por quién doblan las campanas</h4>
+
 Fecha de publicación original: 21 de octubre de 1940.
 Autor: Ernest Hemingway.
 Géneros: Novela, Ficción, Novela bélica.
@@ -434,6 +444,7 @@ Tema(s): Guerra civil española.
 ![La casa verdes](</assets/img/La casa verde.jpg>){:width="200" style="float: right"}
 
 <h4>La casa verde</h4>
+
 Fecha de publicación original: 1966.
 Autor: Mario Vargas Llosa.
 Géneros: Novela, Ficción.
@@ -446,6 +457,7 @@ Editorial: Seix Barral S.A.
 ![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="200" style="float: right"}
 
 <h4>Los Hijos del limo</h4>
+
 Fecha de publicación original: 1974.
 Autor: Octavio Paz.
 Del Romanticismo a la Vanguardia.
@@ -455,6 +467,7 @@ Del Romanticismo a la Vanguardia.
 ![Aires de familia](</assets/img/Aires de familia.jpg>){:width="200" style="float: right"}
 
 <h4>Aires de familia</h4>
+
 Fecha de publicación original: 2000.
 Autor:  Carlos Monsiváis.
 
@@ -463,6 +476,7 @@ Autor:  Carlos Monsiváis.
 ![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="200" style="float: right"}
 
 <h4>Pregúntale al polvo</h4>
+
 Fecha de publicación original: 1939.
 Autor: John Fante.
 Géneros: Novela, Ficción, Novela en clave.
@@ -473,6 +487,7 @@ Adaptaciones: Pregúntale al viento (2006).
 ![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="200" style="float: right"}
 
 <h4>El sótano y Tala.</h4> 
+
 Fecha de publicación original: 1984.
 Autor: Thomas Bernhard.
 Novelista, dramaturgo y poeta 
@@ -484,6 +499,7 @@ Géneros: Literatura contemporánea.
 ![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="200" style="float: right"}
 
 <h4>Órdenes del corazón</h4> 
+
 Fecha de publicación original: 2001.
 Autor: Miyó Vestrini.
 Periodista, poeta.
@@ -492,7 +508,9 @@ Géneros: Narrativa.
 
 
 ![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="200" style="float: right"}
+
 <h4>Casa o lobo</h4>
+
 Fecha de publicación original: 1981.
 Autor: Yolanda Pantin.
 Poeta Venezolana.
@@ -503,6 +521,7 @@ Géneros:  literatura infantil, el teatro y el ensayo.
 ![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="200" style="float: right"}
 
 <h4>Carriel para la fiesta</h4>
+
 Fecha de publicación original: 1983.
 Autor: Elisa Lerner.
 Escritora.
@@ -513,6 +532,7 @@ Géneros:  Teatro, humor y ensayo.
 ![Ifigenia](</assets/img/Ifigenia.jpg>){:width="200" style="float: right"}
 
 <h4>Ifigenia</h4> 
+
 Fecha de publicación original: 1924.
 Autor: Teresa de la Parra.
 Novelista.
@@ -523,6 +543,7 @@ Géneros:  Ficción doméstica, Diario ficcional.
 ![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="200" style="float: right"}
 
 <h4>Madame Bovary</h4>
+
 Fecha de publicación original: 1856.
 Autor: Gustave Flaubert.
 Escritor. 
@@ -533,6 +554,7 @@ Géneros: Novelas.
 ![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="200" style="float: right"}
 
 <h4>Ana Karenina</h4> 
+
 Fecha de publicación original: 1878.
 Autor: León Tolstói.
 Escritor. 
