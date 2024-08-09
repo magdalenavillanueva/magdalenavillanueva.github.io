@@ -271,18 +271,18 @@ https://youtu.be/brOjE8BbeWk
 
 <center>Dale duro a este pilón</center>
 <center>Que se acabe de romper</center>
-<center>Que en el monte hay mucho palo′<center>
+<center>Que en el monte hay mucho palo′</center>
 <center>Y papá lo sabe hacer.</center>
 
 
 
----
+
 <h3>ARTE</h3>
 
 
 <h4>El lago de los cisnes</h4>
 
-![el lago de los cisnes](</assets/img/El lago de los cisnes.jpg>){:width="200" style="float: right"}
+![el lago de los cisnes](</assets/img/El lago de los cisnes.jpg>)
 
 Ballet clásico tradicional más conocido en el mundo.
 
@@ -290,7 +290,7 @@ Ballet clásico tradicional más conocido en el mundo.
 
 <h4>Arturo Michelena: La joven madre</h4>
 
-![Arturo Michelena](</assets/img/Arturi Michelena.jpg>){:width="150" style="float: right"}
+![Arturo Michelena](</assets/img/Arturi Michelena.jpg>)
 
 (1863-1898), Maestro del dibujo, retratista y de obras religiosas, 
 en su estadía por París obtuvo la medalla de oro en la Exposición
