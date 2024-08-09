@@ -226,40 +226,48 @@ https://youtu.be/brOjE8BbeWk
 <center>Adiós, que te voy diciendo manita, oh</center>
 <center>Y, ¿por qué no me contestas manita, oh?</center>
 
+
 <center>Dale duro a este pilón</center> 
 <center>Que se acabe de romper</center>
 <center>Que en el monte hay muchos palos</center>
 <center>Y papá los sabe hacer.</center>
+
 
 <center>Ya me duele la cabeza</center>
 <center>De tanto darle al pilón</center>
 <center>Para engordar un cochino</center> 
 <center>Y comprarme un camisón.</center>
 
+
 <center>Allá arriba en aquel cerro, ioh-ioh</center>
 <center>Va un matrimonio civil, ioh-ioh</center>
 <center>Se casa la bemba ′e burro</center>
 <center>Con el pescuezo 'e violín, ioh-ioh.</center>
+
 
 <center>Si por tu marido es, ioh-ioh</center> 
 <center>Cójelo que allá te vas, ioh-ioh</center>
 <center>Tu camisón de cretona</center>
 <center>No me lo ha llegado a dar, ioh-ioh</center>
 
+
 <center>Yo no quiero hombre casa′o, ioh-ioh</center> 
 <center>Porque hiede a mata dura, ioh-ioh</center>
 <center>Yo lo quiero solterito</center> 
 <center>Que huele a piña madura, ioh-ioh.</center>
+
 
 <center>Allá va la cara 'e diablo, ioh-ioh</center> 
 <center>De corazón de demonio, ioh-ioh</center> 
 <center>Que tiene la lengua negra</center>
 <center>De levantar testimonio, ioh-ioh.</center> 
 
+
 <center>Y la zoqueta se cree, ioh-ioh</center> 
 <center>Que todo se lo merece, ioh-ioh</center> 
 <center>Y vive en un peazo 'e rancho</center>
 <center>Que el viento se lo estremece, ioh-ioh.</center> 
+
 
 <center>Dale duro a este pilón</center>
 <center>Que se acabe de romper</center>
@@ -268,6 +276,7 @@ https://youtu.be/brOjE8BbeWk
 
 
 
+---
 <h3>ARTE</h3>
 
 
