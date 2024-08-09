@@ -404,7 +404,7 @@ libremente entre los materiales verticales con que se construyen.
 
 <h3>LIBROS NOMBRADOS</h3>
 
-![A sangre fia](</assets/img/A sangre fría.jpg>){:width="200" style="float: right"}
+![A sangre fia](</assets/img/A sangre fría.jpg>){:width="100" style="float: right"}
 
 <h4>A sangre fría</h4>
 
@@ -417,7 +417,7 @@ Artista de la cubierta: S. Neil Fujita.
 
 
 
-![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="200" style="float: right"}
+![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="100" style="float: right"}
 
 <h4>El otoño del patriarca</h4>
 
@@ -427,7 +427,7 @@ Géneros: Novela, Ficción, Realismo mágico.
 
 
 
-![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="200" style="float: right"}
+![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="100" style="float: right"}
 
 <h4>Por quién doblan las campanas</h4>
 
