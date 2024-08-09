@@ -290,7 +290,7 @@ Ballet clásico tradicional más conocido en el mundo.
 
 <h4>Arturo Michelena: La joven madre</h4>
 
-![Arturo Michelena](</assets/img/Arturi Michelena.jpg>)
+![Arturo Michelena](</assets/img/Arturi Michelena.jpg>){:width="200" style="float: right"}
 
 (1863-1898), Maestro del dibujo, retratista y de obras religiosas, 
 en su estadía por París obtuvo la medalla de oro en la Exposición
@@ -312,9 +312,9 @@ que se pasaba la mayor parte del día cuidando a
 sus ovejas en un prado cercano al pueblo donde
 vivía. Todas las mañanas salía con las primeras 
 luces del alba con su rebaño,
-y no regresaba hasta caída la tarde.
+y no regresaba hasta caída la tarde.</center>
 
-El pastorcito se aburría de lo lindo viendo 
+<center>El pastorcito se aburría de lo lindo viendo 
 cómo pasaba el tiempo, y pensaba en todas las 
 cosas que podía hacer para divertirse.
 Hasta que un día, echado bajo la sombra de un árbol,
@@ -322,7 +322,7 @@ tuvo una idea. Decidió que era hora de pasar un buen
 rato a costa de la gente del pueblo
 que había cerca de allí. Dispuesto a 
 hacerles una broma, se acercó y comenzó
-a gritar:
+a gritar:</center>
 
 –¡Socorro, el lobo! ¡Que viene el lobo!
 Los aldeanos de inmediato agarraron las herramientas 
