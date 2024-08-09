@@ -282,7 +282,7 @@ https://youtu.be/brOjE8BbeWk
 
 <h4>El lago de los cisnes</h4>
 
-![el lago de los cisnes](</assets/img/El lago de los cisnes.jpg>)
+![el lago de los cisnes](</assets/img/El lago de los cisnes.jpg>){:width="200" style="float: right"}
 
 Ballet clásico tradicional más conocido en el mundo.
 
