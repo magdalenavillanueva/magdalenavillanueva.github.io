@@ -507,7 +507,7 @@ Géneros: Narrativa.
 
 
 
-![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="100" style="float: right"}
+![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="100" style="float: Left"}
 
 <h4>Casa o lobo</h4>
 
@@ -529,7 +529,7 @@ Géneros:  Teatro, humor y ensayo.
 
 
 
-![Ifigenia](</assets/img/Ifigenia.jpg>){:width="100" style="float: right"}
+![Ifigenia](</assets/img/Ifigenia.jpg>){:width="100" style="float: Leftt"}
 
 <h4>Ifigenia</h4> 
 
@@ -553,7 +553,8 @@ Géneros: Novelas.
 
 
 
-![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="100" style="float: right"}
+
+![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="100" style="float: Left"}
 
 <h4>Ana Karenina</h4> 
 
