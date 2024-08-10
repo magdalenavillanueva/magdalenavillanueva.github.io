@@ -421,9 +421,9 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>El otoño del patriarca</h4>
 
-Fecha de publicación original: 1975.
-Autor: Gabriel García Márquez.
-Géneros: Novela, Ficción, Realismo mágico.
+- Fecha de publicación original: 1975.
+- Autor: Gabriel García Márquez.
+- Géneros: Novela, Ficción, Realismo mágico.
 
 
 
@@ -431,12 +431,12 @@ Géneros: Novela, Ficción, Realismo mágico.
 
 <h4>Por quién doblan las campanas</h4>
 
-Fecha de publicación original: 21 de octubre de 1940.
-Autor: Ernest Hemingway.
-Géneros: Novela, Ficción, Novela bélica.
-Adaptaciones:  (1943), (1965), 
+- Fecha de publicación original: 21 de octubre de 1940.
+- Autor: Ernest Hemingway.
+- Géneros: Novela, Ficción, Novela bélica.
+- Adaptaciones:  (1943), (1965), 
 (1959).
-Tema(s): Guerra civil española.
+- Tema(s): Guerra civil española.
 
 
 
@@ -445,12 +445,12 @@ Tema(s): Guerra civil española.
 
 <h4>La casa verde</h4>
 
-Fecha de publicación original: 1966.
-Autor: Mario Vargas Llosa.
-Géneros: Novela, Ficción.
-Premios: Premio Rómulo Gallegos.
-Ambientada en: Piura, Santa María de Nieva, Iquitos y Borja (Datem del Marañón)
-Editorial: Seix Barral S.A.
+- Fecha de publicación original: 1966.
+- Autor: Mario Vargas Llosa.
+- Géneros: Novela, Ficción.
+- Premios: Premio Rómulo Gallegos.
+- Ambientada en: Piura, Santa María de Nieva, Iquitos y Borja (Datem del Marañón)
+- Editorial: Seix Barral S.A.
 
 
 
@@ -458,9 +458,9 @@ Editorial: Seix Barral S.A.
 
 <h4>Los Hijos del limo</h4>
 
-Fecha de publicación original: 1974.
-Autor: Octavio Paz.
-Del Romanticismo a la Vanguardia.
+- Fecha de publicación original: 1974.
+- Autor: Octavio Paz.
+- Del Romanticismo a la Vanguardia.
 
 
 
@@ -468,8 +468,8 @@ Del Romanticismo a la Vanguardia.
 
 <h4>Aires de familia</h4>
 
-Fecha de publicación original: 2000.
-Autor:  Carlos Monsiváis.
+- Fecha de publicación original: 2000.
+- Autor:  Carlos Monsiváis.
 
 
 
@@ -479,10 +479,10 @@ Autor:  Carlos Monsiváis.
 
 <h4>Pregúntale al polvo</h4>
 
-Fecha de publicación original: 1939.
-Autor: John Fante.
-Géneros: Novela, Ficción, Novela en clave.
-Adaptaciones: Pregúntale al viento (2006).
+- Fecha de publicación original: 1939.
+- Autor: John Fante.
+- Géneros: Novela, Ficción, Novela en clave.
+- Adaptaciones: Pregúntale al viento (2006).
 
 
 
@@ -490,11 +490,11 @@ Adaptaciones: Pregúntale al viento (2006).
 
 <h4>El sótano y Tala.</h4> 
 
-Fecha de publicación original: 1984.
-Autor: Thomas Bernhard.
-Novelista, dramaturgo y poeta 
+- Fecha de publicación original: 1984.
+- Autor: Thomas Bernhard.
+- Novelista, dramaturgo y poeta 
 austríaco.
-Géneros: Literatura contemporánea.
+- Géneros: Literatura contemporánea.
 
 
 
@@ -502,10 +502,10 @@ Géneros: Literatura contemporánea.
 
 <h4>Órdenes del corazón</h4> 
 
-Fecha de publicación original: 2001.
-Autor: Miyó Vestrini.
-Periodista, poeta.
-Géneros: Narrativa.
+- Fecha de publicación original: 2001.
+- Autor: Miyó Vestrini.
+- Periodista, poeta.
+- Géneros: Narrativa.
 
 
 
@@ -513,10 +513,10 @@ Géneros: Narrativa.
 
 <h4>Casa o lobo</h4>
 
-Fecha de publicación original: 1981.
-Autor: Yolanda Pantin.
-Poeta Venezolana.
-Géneros:  literatura infantil, el teatro y el ensayo.
+- Fecha de publicación original: 1981.
+- Autor: Yolanda Pantin.
+- Poeta Venezolana.
+- Géneros:  literatura infantil, el teatro y el ensayo.
 
 
 
@@ -524,10 +524,10 @@ Géneros:  literatura infantil, el teatro y el ensayo.
 
 <h4>Carriel para la fiesta</h4>
 
-Fecha de publicación original: 1983.
-Autor: Elisa Lerner.
-Escritora.
-Géneros:  Teatro, humor y ensayo.
+- Fecha de publicación original: 1983.
+- Autor: Elisa Lerner.
+- Escritora.
+- Géneros:  Teatro, humor y ensayo.
 
 
 
@@ -535,10 +535,10 @@ Géneros:  Teatro, humor y ensayo.
 
 <h4>Ifigenia</h4> 
 
-Fecha de publicación original: 1924.
-Autor: Teresa de la Parra.
-Novelista.
-Géneros:  Ficción doméstica, Diario ficcional.
+- Fecha de publicación original: 1924.
+- Autor: Teresa de la Parra.
+- Novelista.
+- Géneros:  Ficción doméstica, Diario ficcional.
 
 
 
@@ -548,10 +548,10 @@ Géneros:  Ficción doméstica, Diario ficcional.
 
 <h4>Madame Bovary</h4>
 
-Fecha de publicación original: 1856.
-Autor: Gustave Flaubert.
-Escritor. 
-Géneros: Novelas.
+- Fecha de publicación original: 1856.
+- Autor: Gustave Flaubert.
+- Escritor. 
+- Géneros: Novelas.
 
 
 
@@ -560,8 +560,8 @@ Géneros: Novelas.
 
 <h4>Ana Karenina</h4> 
 
-Fecha de publicación original: 1878.
-Autor: León Tolstói.
-Escritor. 
-Géneros: Novelas, ficción, realismo literario.
+- Fecha de publicación original: 1878.
+- Autor: León Tolstói.
+- Escritor. 
+- Géneros: Novelas, ficción, realismo literario.
 
