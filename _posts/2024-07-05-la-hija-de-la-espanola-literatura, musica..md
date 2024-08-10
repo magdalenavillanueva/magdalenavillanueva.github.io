@@ -474,7 +474,7 @@ Autor:  Carlos Monsiváis.
 
 
 
-![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="100" style="float: right"}
+![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="100" style="float: Left"}
 
 
 <h4>Pregúntale al polvo</h4>
