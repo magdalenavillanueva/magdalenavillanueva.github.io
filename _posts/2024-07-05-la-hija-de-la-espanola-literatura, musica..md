@@ -417,7 +417,7 @@ libremente entre los materiales verticales con que se construyen.
 
 
 
-![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="100" style="float: Left"}
+![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="100" style="float: right"}
 
 <h4>El otoño del patriarca</h4>
 
@@ -441,7 +441,7 @@ libremente entre los materiales verticales con que se construyen.
 
 
 
-![La casa verdes](</assets/img/La casa verde.jpg>){:width="100" style="float: Left"}
+![La casa verdes](</assets/img/La casa verde.jpg>){:width="100" style="float: right"}
 
 <h4>La casa verde</h4>
 
@@ -464,7 +464,7 @@ libremente entre los materiales verticales con que se construyen.
 
 
 
-![Aires de familia](</assets/img/Aires de familia.jpg>){:width="100" style="float: Left"}
+![Aires de familia](</assets/img/Aires de familia.jpg>){:width="100" style="float: right"}
 
 <h4>Aires de familia</h4>
 
@@ -474,7 +474,7 @@ libremente entre los materiales verticales con que se construyen.
 
 
 
-![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="100" style="float: Left"}
+![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="100" style="float: right"}
 
 
 <h4>Pregúntale al polvo</h4>
@@ -486,7 +486,7 @@ libremente entre los materiales verticales con que se construyen.
 
 
 
-![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="100" style="float: Left"}
+![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="100" style="float: right"}
 
 <h4>El sótano y Tala.</h4> 
 
@@ -509,7 +509,7 @@ austríaco.
 
 
 
-![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="100" style="float: Left"}
+![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="100" style="float: right"}
 
 <h4>Casa o lobo</h4>
 
@@ -531,7 +531,7 @@ austríaco.
 
 
 
-![Ifigenia](</assets/img/Ifigenia.jpg>){:width="100" style="float: Leftt"}
+![Ifigenia](</assets/img/Ifigenia.jpg>){:width="100" style="float: right"}
 
 <h4>Ifigenia</h4> 
 
@@ -556,7 +556,7 @@ austríaco.
 
 
 
-![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="100" style="float: Left"}
+![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="100" style="float: right"}
 
 <h4>Ana Karenina</h4> 
 
