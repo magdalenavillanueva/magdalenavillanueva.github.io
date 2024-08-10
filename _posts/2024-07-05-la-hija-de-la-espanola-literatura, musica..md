@@ -417,7 +417,7 @@ Artista de la cubierta: S. Neil Fujita.
 
 
 
-![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="100" style="float: right"}
+![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="100" style="float: Left"}
 
 <h4>El otoño del patriarca</h4>
 
@@ -441,7 +441,7 @@ Tema(s): Guerra civil española.
 
 
 
-![La casa verdes](</assets/img/La casa verde.jpg>){:width="100" style="float: right"}
+![La casa verdes](</assets/img/La casa verde.jpg>){:width="100" style="float: Left"}
 
 <h4>La casa verde</h4>
 
@@ -464,7 +464,7 @@ Del Romanticismo a la Vanguardia.
 
 
 
-![Aires de familia](</assets/img/Aires de familia.jpg>){:width="100" style="float: right"}
+![Aires de familia](</assets/img/Aires de familia.jpg>){:width="100" style="float: Left"}
 
 <h4>Aires de familia</h4>
 
@@ -484,7 +484,7 @@ Adaptaciones: Pregúntale al viento (2006).
 
 
 
-![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="100" style="float: right"}
+![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="100" style="float: Left"}
 
 <h4>El sótano y Tala.</h4> 
 
