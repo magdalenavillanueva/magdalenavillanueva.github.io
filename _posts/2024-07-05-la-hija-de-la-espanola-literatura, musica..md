@@ -408,12 +408,12 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>A sangre fría</h4>
 
-<h6>Fecha de publicación original: 1965.</h6>
-<h6>Autor: Truman Capote.</h6>
-<h6>Adaptaciones: A sangre fría (1967), A Sangre Fría (1996).</h6>
-<h6>Géneros: Novela, Crímenes reales, Novela de no ficción.</h6>
-<h6>Ambientada en: Kansas.</h6>
-<h6>Artista de la cubierta: S. Neil Fujita.</h6>
+>Fecha de publicación original: 1965.
+>Autor: Truman Capote.
+>Adaptaciones: A sangre fría (1967), A Sangre Fría (1996).
+>Géneros: Novela, Crímenes reales, Novela de no ficción.
+>Ambientada en: Kansas.
+>Artista de la cubierta: S. Neil Fujita.
 
 
 
