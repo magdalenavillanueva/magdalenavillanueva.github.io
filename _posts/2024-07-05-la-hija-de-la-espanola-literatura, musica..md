@@ -474,6 +474,7 @@ libremente entre los materiales verticales con que se construyen.
 
 
 
+
 ![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="100" style="float: right"}
 
 
