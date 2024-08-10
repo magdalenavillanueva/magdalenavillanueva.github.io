@@ -80,7 +80,7 @@ plásticas.
 
 ![Circulo de lectores](</assets/img/Círculo de lectores.jpg>){:width="100" style="float: right"}
 
-Fue un club de lectura y ventas de libros, creado en España en 1962 que luego fue 
+Fue un club de lectura y venta de libros, creado en España en 1962 que luego fue 
 adquirido por el Grupo Planeta en el 2014. En Venezuela fue un gran medio para la 
 difusión de la lectura.
 
@@ -326,7 +326,7 @@ a gritar:</center>
 
 –¡Socorro, el lobo! ¡Que viene el lobo!.
 
-Los aldeanos de inmediato agarraron las herramientas 
+<center>Los aldeanos de inmediato agarraron las herramientas 
 que tenían a mano palas, azadas, martillos, y corrieron 
 a auxiliar al pobre pastor. Pero al llegar a la pradera 
 lo encontraron deshaciéndose de risas en el suelo, y
@@ -335,11 +335,11 @@ Los aldeanos se enfadaron con el pastor y regresaron a
 sus trabajos, molestos por la interrupción.
 A Pedro le había hecho tanta gracia la broma que se dispuso
 a repetirla. Un par de días después se volvieron a escuchar 
-en toda la comarca los gritos alarmantes de Pedro:
+en toda la comarca los gritos alarmantes de Pedro:</center>
 
 –¡Socorro, socorro el lobo! ¡Viene el lobo!
 
-Al volver a oír los gritos del pastor, la gente del pueblo 
+<center>Al volver a oír los gritos del pastor, la gente del pueblo 
 creyó que en esta ocasión sí se trataba verdaderamente de 
 un lobo feroz que se sabía que andaba por bosques y montañas 
 cercanas. Y volviendo a correr para ayudarlo.
@@ -354,21 +354,21 @@ estaba tan entretenido, que no vio acercarse al lobo feroz
 hasta que lo tuvo muy cerca. Entonces
 de repente lo vio y ahí sí que sintió muchísimo miedo, e 
 impotencia, porque el animal se acercaba sigilosamente a sus ovejas.
-Entonces comenzó a gritar como nunca antes.
+Entonces comenzó a gritar como nunca antes.</center>
 
 –¡Socorro, que aquí está el lobo! ¡El lobo! ¡Ayuden a mis ovejas! 
 ¡Auxilio! 
 
-Gritaba y gritaba, una y otra vez, pero los aldeanos 
+<center>Gritaba y gritaba, una y otra vez, pero los aldeanos 
 ya no parecían escucharlo.
 Hacían oídos sordos ante los gritos de auxilio, pensando que 
 se trataba de otra broma.
 El pastor no sabía qué más hacer, por lo que seguía pidiendo ayuda,
-gritando desesperado y sin entender por qué nadie acudía:
+gritando desesperado y sin entender por qué nadie acudía:</center>
 
 –¡Socorro, el lobo, el lobo, que se come mis ovejas! ¡Por favor, auxilio!
 
-Pero ya era muy tarde para convencer a los aldeanos de que esta vez
+<center>Pero ya era muy tarde para convencer a los aldeanos de que esta vez
 era verdad.
 Y fue así como Pedro, el pastor, tuvo que ver con dolor cómo el lobo
 devoraba una tras otra sus ovejas, hasta quedar saciado.
@@ -408,8 +408,8 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>A sangre fría</h4>
 
-Fecha de publicación original: 1965.
-Autor: Truman Capote.
+<p>Fecha de publicación original: 1965.</p>
+<p>Autor: Truman Capote.</p>
 Adaptaciones: A sangre fría (1967), A Sangre Fría (1996).
 Géneros: Novela, Crímenes reales, Novela de no ficción.
 Ambientada en: Kansas.
