@@ -454,7 +454,7 @@ libremente entre los materiales verticales con que se construyen.
 
 
 
-![los hijos del limbo](</assets/img/Los Hijos del limo.jpg>){:width="100" style="float: right"}
+![los hijos del limo](</assets/img/Los Hijos del limo.jpg>){:width="100" style="float: right"}
 
 <h4>Los Hijos del limo</h4>
 
@@ -492,7 +492,7 @@ libremente entre los materiales verticales con que se construyen.
 <h4>El sótano y Tala.</h4> 
 
 - Fecha de publicación original: 1984.
-- Autor: Thomas Bernhard.
+- Autor: Thomas Bernhard
 - Novelista, dramaturgo y poeta 
 austríaco.
 - Géneros: Literatura contemporánea.
@@ -504,7 +504,7 @@ austríaco.
 <h4>Órdenes del corazón</h4> 
 
 - Fecha de publicación original: 2001.
-- Autor: Miyó Vestrini.
+- Autor: Miyó Vestrini
 - Periodista, poeta.
 - Géneros: Narrativa.
 
@@ -515,7 +515,7 @@ austríaco.
 <h4>Casa o lobo</h4>
 
 - Fecha de publicación original: 1981.
-- Autor: Yolanda Pantin.
+- Autor: Yolanda Pantin
 - Poeta Venezolana.
 - Géneros:  literatura infantil, el teatro y el ensayo.
 
@@ -526,7 +526,7 @@ austríaco.
 <h4>Carriel para la fiesta</h4>
 
 - Fecha de publicación original: 1983.
-- Autor: Elisa Lerner.
+- Autor: Elisa Lerner
 - Escritora.
 - Géneros:  Teatro, humor y ensayo.
 
@@ -537,7 +537,7 @@ austríaco.
 <h4>Ifigenia</h4> 
 
 - Fecha de publicación original: 1924.
-- Autor: Teresa de la Parra.
+- Autor: Teresa de la Parra
 - Novelista.
 - Géneros:  Ficción doméstica, Diario ficcional.
 
@@ -550,7 +550,7 @@ austríaco.
 <h4>Madame Bovary</h4>
 
 - Fecha de publicación original: 1856.
-- Autor: Gustave Flaubert.
+- Autor: Gustave Flaubert
 - Escritor. 
 - Géneros: Novelas.
 
@@ -562,7 +562,7 @@ austríaco.
 <h4>Ana Karenina</h4> 
 
 - Fecha de publicación original: 1878.
-- Autor: León Tolstói.
+- Autor: León Tolstói
 - Escritor. 
 - Géneros: Novelas, ficción, realismo literario.
 
