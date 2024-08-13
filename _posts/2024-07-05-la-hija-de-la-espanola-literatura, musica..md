@@ -408,12 +408,12 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>A sangre fría</h4>
 
-- Fecha de publicación original: 1965.
-- Autor: Truman Capote.
-- Adaptaciones: A sangre fría (1967), A Sangre Fría (1996).
-- Géneros: Novela, Crímenes reales, Novela de no ficción.
-- Ambientada en: Kansas.
-- Artista de la cubierta: S. Neil Fujita.
+- <h4>Fecha de publicación original:</h4> 1965
+- <h4>Autor:</h4> Truman Capote
+- <h4>Adaptaciones:</h4> A sangre fría (1967), A Sangre Fría (1996)
+- <h4>Géneros:</h4> Novela, Crímenes reales, Novela de no ficción
+- <h4>Ambientada en:</h4> Kansas
+- <h4>Artista de la cubierta:</h4> S. Neil Fujita
 
 
 
@@ -421,9 +421,9 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>El otoño del patriarca</h4>
 
-- Fecha de publicación original: 1975.
-- Autor: Gabriel García Márquez.
-- Géneros: Novela, Ficción, Realismo mágico.
+- Fecha de publicación original: 1975
+- Autor: Gabriel García Márquez
+- Géneros: Novela, Ficción, Realismo mágico
 
 
 
@@ -431,12 +431,12 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>Por quién doblan las campanas</h4>
 
-- Fecha de publicación original: 21 de octubre de 1940.
-- Autor: Ernest Hemingway.
-- Géneros: Novela, Ficción, Novela bélica.
+- Fecha de publicación original: 21 de octubre de 1940
+- Autor: Ernest Hemingway
+- Géneros: Novela, Ficción, Novela bélica
 - Adaptaciones:  (1943), (1965), 
-(1959).
-- Tema(s): Guerra civil española.
+(1959)
+- Tema(s): Guerra civil española
 
 
 
@@ -445,12 +445,12 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>La casa verde</h4>
 
-- Fecha de publicación original: 1966.
-- Autor: Mario Vargas Llosa.
-- Géneros: Novela, Ficción.
-- Premios: Premio Rómulo Gallegos.
+- Fecha de publicación original: 1966
+- Autor: Mario Vargas Llosa
+- Géneros: Novela, Ficción
+- Premios: Premio Rómulo Gallegos
 - Ambientada en: Piura, Santa María de Nieva, Iquitos y Borja (Datem del Marañón)
-- Editorial: Seix Barral S.A.
+- Editorial: Seix Barral S.A
 
 
 
@@ -458,9 +458,9 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>Los Hijos del limo</h4>
 
-- Fecha de publicación original: 1974.
-- Autor: Octavio Paz.
-- Del Romanticismo a la Vanguardia.
+- Fecha de publicación original: 1974
+- Autor: Octavio Paz
+- Del Romanticismo a la Vanguardia
 
 
 
@@ -468,8 +468,8 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>Aires de familia</h4>
 
-- Fecha de publicación original: 2000.
-- Autor:  Carlos Monsiváis.
+- Fecha de publicación original: 2000
+- Autor:  Carlos Monsiváis
 
 
 
@@ -480,10 +480,10 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>Pregúntale al polvo</h4>
 
-- Fecha de publicación original: 1939.
-- Autor: John Fante.
-- Géneros: Novela, Ficción, Novela en clave.
-- Adaptaciones: Pregúntale al viento (2006).
+- Fecha de publicación original: 1939
+- Autor: John Fante
+- Géneros: Novela, Ficción, Novela en clave
+- Adaptaciones: Pregúntale al viento (2006)
 
 
 
@@ -491,11 +491,11 @@ libremente entre los materiales verticales con que se construyen.
 
 <h4>El sótano y Tala.</h4> 
 
-- Fecha de publicación original: 1984.
+- Fecha de publicación original: 1984
 - Autor: Thomas Bernhard
 - Novelista, dramaturgo y poeta 
 austríaco.
-- Géneros: Literatura contemporánea.
+- Géneros: Literatura contemporánea
 
 
 
@@ -503,10 +503,10 @@ austríaco.
 
 <h4>Órdenes del corazón</h4> 
 
-- Fecha de publicación original: 2001.
+- Fecha de publicación original: 2001
 - Autor: Miyó Vestrini
-- Periodista, poeta.
-- Géneros: Narrativa.
+- Periodista, poeta
+- Géneros: Narrativa
 
 
 
@@ -514,10 +514,10 @@ austríaco.
 
 <h4>Casa o lobo</h4>
 
-- Fecha de publicación original: 1981.
+- Fecha de publicación original: 1981
 - Autor: Yolanda Pantin
-- Poeta Venezolana.
-- Géneros:  literatura infantil, el teatro y el ensayo.
+- Poeta Venezolana
+- Géneros:  literatura infantil, el teatro y el ensayo
 
 
 
@@ -525,10 +525,10 @@ austríaco.
 
 <h4>Carriel para la fiesta</h4>
 
-- Fecha de publicación original: 1983.
+- Fecha de publicación original: 1983
 - Autor: Elisa Lerner
-- Escritora.
-- Géneros:  Teatro, humor y ensayo.
+- Escritora
+- Géneros:  Teatro, humor y ensayo
 
 
 
@@ -536,10 +536,10 @@ austríaco.
 
 <h4>Ifigenia</h4> 
 
-- Fecha de publicación original: 1924.
+- Fecha de publicación original: 1924
 - Autor: Teresa de la Parra
-- Novelista.
-- Géneros:  Ficción doméstica, Diario ficcional.
+- Novelista
+- Géneros:  Ficción doméstica, Diario ficcional
 
 
 
@@ -549,10 +549,10 @@ austríaco.
 
 <h4>Madame Bovary</h4>
 
-- Fecha de publicación original: 1856.
+- Fecha de publicación original: 1856
 - Autor: Gustave Flaubert
-- Escritor. 
-- Géneros: Novelas.
+- Escritor 
+- Géneros: Novelas
 
 
 
@@ -561,8 +561,8 @@ austríaco.
 
 <h4>Ana Karenina</h4> 
 
-- Fecha de publicación original: 1878.
+- Fecha de publicación original: 1878
 - Autor: León Tolstói
-- Escritor. 
-- Géneros: Novelas, ficción, realismo literario.
+- Escritor 
+- Géneros: Novelas, ficción, realismo literario
 
