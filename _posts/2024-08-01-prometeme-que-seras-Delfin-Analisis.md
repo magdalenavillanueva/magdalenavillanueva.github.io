@@ -5,48 +5,22 @@ date: 2024-08-01 12:00:01 +0100
 categories: 
  -   Prométeme que serás Delfin
 ---
-<center><h2>LITERATURA, MÚSICA, COMIDAS  Y LUGARES</h2></center>
+<center><h2>PROMÉTEME QUE SERÁS DELFÍN</h2></center>
+<center><h2>AMELIA NOGUERA. 2013</h2></center>
+
+<h3>Semblanza</h3>
 
 
-Uno de los aspectos resaltantes de la novela es la visión que refleja desde 
-diversos aspectos culturales; se observa el panorama artístico, literario, el 
-folklore, artistas plásticos, escritores que se sembraron en la cotidianidad, en 
-la rutina del ir y venir.  
 
 
-La herencia que se inculcaba con el sentido de pertenencia. No solo era un cuadro 
-de Michelena, era una mirada a un mundo del pasado para entender el presente. Eran 
-escritores que reflejaban la vida a través de la poesía y la novela. Fueron las 
-costumbres de las familias, donde las canciones tenían su tema típico para no 
-olvidar, y que todos conocían, reconocíendo sus comidas para unir y recordar.
 
 
-Es la herencia que dejó una generación, dandole importancia a los propios 
-valores nacidos en el país, le dió trascendencia a sus artistas plásticos, 
-escritores, a su farándula; que gustaba de leer, de conocer, de saber sobre el 
-mundo.  Un pasado significativo que todavía era respetado, celebrado y un presente 
-caótico que disgregaba, dispersaba y ensuciaba la esencia del venezolano.  
 
 
-<center><h2>AMBIENTES</h2></center>
 
-<h3>COMERCIAL</h3>
 
-<h4>Sears</h4>
 
-![sears](</assets/img/Sears.jpg>){:width="200" style="float: right"}
 
-Sears Roebuck de Venezuela, tiendas por departamento que inició sus operaciones el 
-19 de marzo de 1950 en Caracas, Venezuela. Su primera tienda fue inaugurada en la 
-urbanización Colinas de Bello Monte.
-
-<h4>Remavenca</h4>
-
-![remavenca](</assets/img/Remavenca.jpg>){:width="200" style="float: right"}
-
-Es una  planta refinadora de maíz (olor a cervezas, recuerdos de los versos del pilón).
-
-<h3>MEDIOS DE COMUNICACIÓN</h3>
 
 <h4>El Nacional</h4>
 
