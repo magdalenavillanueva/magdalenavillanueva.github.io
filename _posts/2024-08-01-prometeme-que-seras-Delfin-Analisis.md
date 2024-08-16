@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Prometeme que serás Delfin: Análisis"
+title: "Prométeme que serás Delfin: Análisis"
 date: 2024-08-01 12:00:01 +0100
 categories: 
- -   Prometeme que serás Delfin
+ -   Prométeme que serás Delfin
 ---
 <center><h2>LITERATURA, MÚSICA, COMIDAS  Y LUGARES</h2></center>
 
