@@ -18,510 +18,292 @@ Estudió Humanidades en la Universidad Carlos III de Madrid. Auto publicaba sus 
 digitalmente en 2012 en la plataforma Amazon, alcanzando el número uno en ventas en la 
 novela La pintora de las estrellas.
 
+![alt text](</assets/img/2 libro.jpg>){:width="200" style="float: left; padding:10px"}
+
+**Algunas novelas:** La marca de la luna (2014), La pintora de estrellas (2015), Escrita en tu nombre (2017), Prométeme que serás delfín (2013), El paseo de los canadienses (2020).  Y en breve publicará La bruja de la luna plateada y La pintora de la luna.
+
+
+<h4>EXTRACTO: </h4>
+
+![alt text](../assets/img/3.jpg){:width="200" style="float: left; padding:10px"}
+
+Es una novela detectivesca, autobiográfica, social, educativa, psicológica y realista. Se 
+estructura en diez partes y diez capítulos.  Los personajes principales son María y la 
+estudiante. Cada una describe su situación ante el asesinato de la profesora Adela, donde 
+la trama se desarrolla en dos tiempos. María, como madre, médico, hija, esposa y 
+representante legal ante el colegio en tiempo presente y la estudiante lo hace en pasado, 
+matriculada en un periodo escolar inexistente en el texto. Dos narraciones contadas en 
+primera persona en un contexto, donde Sofía, la hija y la compañera es el objeto de enlace 
+sin contacto, manteniendo cada protagonista en su cuadro o en su pintura. Ambas describen 
+sus sentimientos y su percepción ante los acontecimientos, dejando interrogantes sin 
+respuestas. Son autobiográficas, cada una observó, pensó y actuó.
+
+<center><h2>PERSONAJES PRIMARIOS:</h2></center>
+
+<h4>MARIA:</h4>
+
+Casada con Manuel y su única hija con diagnostico TDA/TDAH (Trastorno por difícil de 
+atención/hiperactividad). Profesión médica en un hospital público, hace presente la 
+injusticia tanto en un ambiente escolar de niños y adolescentes.  A su vez, el padre se fue 
+a trabajar a Alemania ya que, no aceptaba tanto su rol de padre como la atención de María 
+hacia Sofía. Él se siente desplazado por su hija y abandona el hogar por sentimientos de 
+culpas por tener una hija TDA.
+
+La madre, sola con Sofía y representante legal en el colegio vivió los enfrentamientos con 
+la profesora Adela y la directora por el comportamiento de su hija en clase, la cual la 
+llevaron a visitar especialistas y el equipo de orientación. Esa travesía, la lleva a 
+comprender sobre el TDA y su tratamiento medicinal en niños, pero, sin que el padre de la 
+niña lo apruebe, siguió las orientaciones para medicar bajo supervisión. El vivir como mamá 
+y doctora fue una explosión de sentimientos de empatía hacia las madres con hijos TDA. Se 
+compara; antes y después como médico y madre. De una indiferencia hacia un despertar en 
+ella a la defensora por dar mejor atención y oportunidad de calidad de vida a sus pacientes 
+mayores con diagnósticos terminales ante el recorte del presupuesto gubernamental. 
+
+Ahora bien, posiciones encontradas entre las orientaciones del equipo y especialistas con 
+los que recomienda la docente y la directora del colegio. Ambas opinan que no tiene ninguna 
+enfermedad o discapacidad. Sofía lo que necesita es la  autoridad del hogar para que pueda 
+copiar y cumplir con sus obligaciones en el colegio, sin embargo, en casa María se sienta 
+con Sofía a copiar y hacer lo no realizado en el salón de clase, la inscribe en un 
+tratamiento psicopedagógico y hace todo lo posible para que Sofía pueda demostrar el 
+conocimiento. 
 
+Con la muerte de la profesora Adela, María fue a la cárcel convirtiéndose en presunta 
+homicida por haber amenazado a la profesora, pero al ocurrir un segundo asesinato del 
+docente suplente llamada Celia, la dejan en libertad.
+
+
+
+<h3>LA ESTUDIANTE:</h3>
 
+El segundo personaje principal es la estudiante que describe un hecho pasado en un colegio 
+donde asesinaron a dos profesoras. Narra todo lo ocurrido, analiza a los involucrados, 
+describe su participación y nos lleva a vivir la enseñanza en un colegio público ubicado en 
+Madrid, España, pero en ningún capítulo nos dice su nombre, ni el de su familia, solamente 
+están dentro de la trama. Nos describe a los profesores, directora y los compañeros de su 
+clase. La estudiante cuenta su experiencia desde que la matricularon en educación inicial 
+conjuntamente con Sofía. En este ambiente educativo se describen a padres preocupados, 
+estudiantes callados y profesores y directivo cómplices.
 
+La estudiante nos habla de la profesora Adela. Ella no dejaba a los estudiantes ser 
+creativos, ni participativos, solamente quería a estudiantes copiadores y cumplidores de 
+las actividades y tareas asignadas. El incumplimiento en las asignaciones y comportamiento 
+hacia que fuesen castigados todos sin derecho, llamado por la estudiante “castigo 
+colectivo”.  La constancia en aplicar la misma estrategia daba una respuesta condicionada: 
+niños callados cumpliendo con sus obligaciones. Ella conjuntamente con sus compañeras 
+Blanca, Ana y Sofía vieron a la profesora Adela muerta en el armario. Los padres de la 
+estudiante estuvieron preocupados por la impresión emocional, pero ella se sentía bien y 
+feliz,  su preocupación estaba en torno a que quieren cambiarla de la escuela y dejar a sus 
+amigas. Ella lo llamó: la catástrofe
 
+La suplente de Adela se llamaba Celia, asignada por el Consejo de Educación. La nueva 
+profesora de primaria es psicóloga y terapeuta. Aplicaba diferentes estrategias con el 
+propósito que los estudiantes hablaran sobre lo sucedido con la profesora Adela. La 
+estudiante expresa la aceptación y agrado que la llevó a sentir amor por la lectura. El 
+ambiente escolar cambió, pero continuaban niños callados que no querían ni recordar ni 
+hablar de la profesora Adela.
 
+La policía busca al asesino de Adela, comienzan rondas de vigilancias en los alrededores 
+del colegio, visita a los padres que tuvieron inconvenientes con la profesora Adela. Así 
+fueron descartando hasta llegar a la casa de María, encontrando entre las cosas de Sofía el 
+pañuelo que usaba Adela. 
 
+Transcurridos más de diez días con María en la cárcel, la profesora Celia es asesinada. Una 
+segunda profesora sin pruebas. No hay huellas, solamente la flor para da a entender que fue 
+el mismo que mató a la profesora Adela.
+Ahora los psicólogos de la EOEP comienzan a hacer entrevistas a los estudiantes con apoyo 
+de los padres, sin ningún resultado, solamente aclarando que los niños menores de catorce 
+años no pueden ser privados de libertad,  aunque se demuestre su culpabilidad.
 
 
-<h4>El Nacional</h4>
+El asesino fue Jorge, compañero  de escuela, motivado por la injusticia de la profesora con 
+su amiga Sofía.  Luego mata a la segunda profesora Celia para sacar a la mamá de Sofía de 
+la cárcel como presunta asesina. Ese crimen quedó en silencio, ningún estudiante dio 
+información y siempre decían que se sentían agradados por su profesora Adela. 
 
+Para concluir, Jorge muere en un enfrentamiento con Gonzalo. El año escolar terminó y la 
+estudiante ya no le preocupaba que le cambiaran de colegio, así pasó el tiempo y continúo 
+recordando lo que decía la abuela de Blanca:  ´´No seáis borregos; sed delfines.  Aprended 
+mucho y no dejéis que os engañen´´.   Pág.   40.  Prométeme que serás delfín de Amelia  
+Noguera.
 
+Para la estudiante, Blanca y Ana se convirtió en el gran secreto
 
-<h4>Sábado Sensacional</h4>
 
+<center><h2>PERSONAJES SECUNDARIOS:</h2></center>
 
 
+<h3>SOFÍA:</h3>
 
+Es una niña con diagnostico TDA y medicada. Ojos de color verde, delgada. Estudia ballet. 
+Es la tercera mejor amiga de la estudiante. Desde educación inicial, lloraba, gritaba, era 
+impulsiva, la mirada era evasiva, no se sentaba y no acataba órdenes. El llanto podía tener 
+varios significados: impotencia, angustia o reconciliación, eso la llevaba a aislarse y 
+salir del túnel como decía la estudiante. Sofía solamente tenía a Blanca, Ana, Jorge, Lucas 
+y la estudiante. Fue una estudiante excluida por la profesora y los compañeros de clase, lo 
+que llevaba a consolidar el silencio y a no defenderse.  La niña era víctima de agresiones 
+y burlas de manera repetida y prolongada, tanto por parte de una figura adulta (la 
+profesora Adela) como de sus compañeros (Gonzalo y otros).
 
+Sofía fue la que encontró a la profesora Adela muerta en el armario, exclamando “Esto es un 
+milagro”, saliendo tranquila.  Desde ese día, su comportamiento cambió, pasando del llanto 
+a la pasividad de llegar a sentarse a escuchar a la nueva profesora. 
 
-<h3>AMBIENTE: EDUCATIVO</h3>
+En relación al contexto familiar, la separación de sus padres la llevó a manifestar llanto 
+como único recurso de expresar,  tanto ver a sus padres separados, como el distanciamiento 
+de su padre hacia ella.
 
 
+<h4>MANUEL:</h4>
 
+Esposo de María y el padre de Sofía. Era un profesional exitoso, inteligente y atractivo. 
+Pensaba que María estaba obsesionada con la profesora Adela y que Sofía no tenía nada.
 
 
+<h4>JORGE:</h4>
 
+Tiene ojos claros y cabellos rubios. El primer amigo de Sofía y en el colegio no la dejaba 
+sola, defendiéndola ante cualquier agresión de sus compañeros. Su animal preferido es el 
+delfín. Estaba cursando desde Semana Santa el año escolar, Jorge venía de otro colegio. Su 
+padre se fue a trabajar a Brasil. 
 
+Desde que comenzó a estudiar en el nuevo colegio se aisló y no cumplía con las actividades 
+diarias ocasionando que la profesora Adela castigara a todos. En el auditorio donde Sofía 
+estaba bailando, Gonzalo se burla y Jorge lo enfrenta. Entre golpes con rabia y en la 
+escalera de la zona de butacas, Jorge pierde el equilibrio por un golpe que le propina 
+Gonzalo, cayendo por las escaleras hasta llegar al suelo sin vida.
 
-<h3>AMBIENTE FÍSICO</h3>
 
-<h4>Galería de Arte Nacional</h4>
+<h4>ADELA:</h4>
 
-![Galeria de artes](</assets/img/Galería de Arte Nacional.jpg>){:width="200" style="float: right"}
+Profesora titular. Discutía con todas las profesoras y directora. Faltaba a su trabajo por 
+lo menos una vez al mes. La encontraron muerta en el armario del salón de clases.
 
-Se encuentra ubicada en la Av. México, frente a Puente Brión. 
-Desde el 6 de abril de 1976 se inauguró como un organismo
-público para realzar el arte prehispánico, pinturas 
-coloniales, esculturas y obras venezolanas.
 
-<h4>Paseo Los Caobos (parte vieja)</h4>
+<h4>ABUELA DE BLANCA:</h4>
 
-![Paseo los caobos](</assets/img/Paseo Los Caobos.jpg>){:width="200" style="float: right"}
+Era la abuela bibliotecaria. En su casa por todos lados había libros y tuvo problemas con 
+la profesora Adela. Era profesora jubilada universitaria y vivía sola.
 
-Está ubicado en todo el centro de Caracas, entre la Plaza Venezuela
-y el centro cultural, formado por el Teatro Teresa 
-Carreño, el Ateneo y los museos de Bellas Artes y Ciencias Naturales.
 
-<h4>Helados en Crema Paraíso</h4>
+<h4>ANA:</h4>
 
-![helados de crema](</assets/img/Helados en Crema Paraíso.jpg>){:width="200" style="float: right"}
+Amiga y compañera de clase
 
-Marca venezolana de helados, concentrado de limón y crema. Con 
-más de  70 años en Venezuela. 
 
-<h4>Cementerio La Guairita (parte vieja)</h4>
+<h4>BLANCA:</h4>
 
-![Cementerio la guarita](</assets/img/Cementerio La Guairita.jpg>){:width="200" style="float: right"}
+Amiga y compañera de clase, nieta de la abuela bibliotecaria.
 
-También conocido como el Cementerio del Este, se sitúa en la 
-avenida principal de la Guairita en el Municipio El 
-Hatillo, al sureste del área metropolitana de Caracas.
+<h4>MARCOS:</h4>
 
-<h4>Ocumare de la Costa</h4>
+Ex esposo de Adela y profesor de Educa.
 
-![Ocumare de la Costa](</assets/img/Ocumare de la Costa.jpg>){:width="200" style="float: right"}
+<h4>RODRIGO:</h4>
 
+Profesor contratado. Orientaba a María y lograba que Sofía realizara sus actividades en 
+clase.
 
-Este es uno de los municipios más turísticos por ser parte de la 
-costa, además su belleza se debe también a que está rodeado 
-del Parque Nacional Henri Pittier y está ubicado al noreste 
-del Estado Aragua y a 15 metros sobre el nivel del mar.
 
+<h4>CELIA:</h4>
 
+Psicóloga y terapeuta. Profesora suplente de la profesora Adela. Fue la segunda docente 
+asesinada.
 
+<h4>JUANA, LA CONSERJE:</h4>
 
-<h3>AMBIENTE: VIABILIDAD</h3>
+Era la que hacía suplencia cuando faltaba la profesora Adela. El contenido programático era 
+de chistes.
 
-<h4>La Encrucijada</h4>
 
-![La Encrucijada](</assets/img/La Encrucijada.jpg>){:width="200" style="float: right"}
+<h4>DIRECTORA JACINTA: </h4>
 
-Situado entre Turmero y Palo Negro Edo. Aragua. Es un sitio donde convergen varias vías de tránsito que comunica a los Estados Guarico y Aragua.
+Era mayor, alta con ojos azules juntos y gritona.
 
-<h4>Parada de autobús</h4>
+<h4>PAPÁ DE LA ESTUDIANTE:</h4>
 
-![Parada de autobus](</assets/img/Parada de autobús.jpg>){:width="200" style="float: right"}
+No trabajaba.
 
-Ubicada en la vía, donde los transeúntes se concentran para poder trasladarse. 
-Es un sitio que se convirtió en un depósito de basura con olor a butano, gasolina, 
-aceite de motor, y fritura de  cerdo.
+<h4>PSICÓLOGOS DE LA EOEP:</h4>
 
+Son dos profesionales que se encargaron de realizar preguntas a los estudiantes y orientar 
+a los padres.
 
 
-<h3>AMBIENTE: COMIDAS</h3>
+<center><h2>CANCIONES:</h2></center>
 
-<h4>Caña de azúcar</h4>
+El colegio para anunciar el inicio de regreso utilizaba la música. Los estudiantes por 
+grados seleccionaban la canción que querían escuchar.  Se mencionan las canciones de 
+Bisbal;  Shakira y la canción de El Chocolatero. Son nombradas sin dar información sobre 
+los nombres y letras.  Como se observa en el ejemplo siguiente:   ´´Pasamos los siguientes 
+minutos hasta que suena la canción de Bisbal, que esta vez han elegido los chulitos de 
+sexto A, con el corazón en vilo, esperando ansiosas para saber qué le habrá ocurrido que le 
+hace tener esa cara  de limón´´.   Pág. 53.  Prométeme que serás delfín de Amelia  Noguera.
 
-![Caña de azucar](</assets/img/Caña de azúcar.jpg>){:width="200" style="float: right"}
 
-Es una gramínea tropical de tallos macizos y robustos que se caracteriza 
-por la acumulación de sacarosa y por lo tanto es importante en la producción
-de azúcar a nivel mundial.
 
-<h4>Pollo en brasas</h4>
+<h4>David Bisbal</h4>                          <h4>Shakira</h4>
 
-![Pollo en braza](</assets/img/Pollo en brasas.jpg>){:width="200" style="float: right"}
 
-Se sazona un pollo entero y se le atraviesa una varilla metálica 
-para que gire lentamente sobre las brasas. 
+![alt text](/assets/img/4.jpg)      ![alt text](/assets/img/5.jpg)
 
-<h4>Hallaquitas de maíz</h4>
 
-![hallaquita de maiz](</assets/img/Hallaquitas de maíz.jpg>){:width="200" style="float: right"}
 
-Los ingredientes principales son la masa de maíz, agua, aceite y sal. 
-Se trabaja la masa igual que a las arepas, se le da forma alargada 
-y se envuelve en hojas de maíz. Se cocinan en agua.
+<h4>Canción del Chocolatero</h4>
 
-<h4>Melcocha</h4>
+Le llamaban Paquito el Chocolatero a una canción de pasodoble español del compositor  
+español Gustavo Pascual Falcó   en el año de  1937.
 
-![Melcocha](</assets/img/Melcocha.jpg>){:width="200" style="float: right"}
+![alt text](/assets/img/11.jpg){:width="200" style="float: left; padding:10px"}
 
-Su ingrediente principal es el melado de panela, se forma 
-una pasta porosa y maleable, elástica. Es uno de 
-los dulces más tradicionales de Venezuela.
 
-<h4>Bocadito de coco</h4>
+<center><h2>AFORISMOS EN LA NOVELA:</h2></center>
 
-![Bocadito de coco](</assets/img/Bocadito de coco.jpg>){:width="200" style="float: right"}
+Son frases u oraciones literarias breves que expresan ideas motivadoras y reflexivas que la 
+autora nos ofrece como parte de la trama.
 
-Un dulce muy popular que se elabora con coco rallado, 
-azúcar o papelón. Y se vende libremente en las calles de cualquier ciudad 
-o pueblo, playas, autopistas.
+![alt text](/assets/img/6.jpg)
 
-<h4>Bollos</h4>
 
-![Bollos](</assets/img/Bollos.jpg>){:width="200" style="float: right"}
 
-Elaborados de harina de maiz con rellenos de picadillo de cochino frito.
+![alt text](/assets/img/7.jpg)
 
-<h4>Ciruela de huesitos</h4>
 
-![Ciruela de huesitos](</assets/img/Ciruela de huesitos.jpg>){:width="200" style="float: right"}
 
-Un fruta pequeña, semi redonda con semilla, tropical y agridulce.
+![alt text](../assets/img/8.jpg)
 
-<h4>Desayunos</h4>
 
-![Desayunos](</assets/img/Desayunos.jpg>){:width="200" style="float: right"}
 
-En un menu que contiene Carne mechada, chicharrón frito, huevo frito,
-tomate, aguacate y café de guarapo (brebaje con 
-canela y papelón).
+![alt text](../assets/img/9.jpg)
 
 
 
-<h3>MÚSICA</h3>
 
+<center><h2>DISTINCIÓN DE LA NOVELA:</h2></center>
 
-<h4>La canción del pilón / recuerdos de Remavenca- P- 79-80-81</h4>
-Letra de El Pilón (Canto de Trabajo) 
-https://youtu.be/brOjE8BbeWk
 
-<center>Adiós, manita querida, adiós </center>
-<center>Adiós, que te voy diciendo manita, oh</center>
-<center>Y, ¿por qué no me contestas manita, oh?</center>
+a.- Para la estudiante la catástrofe no fue la muerte de la profesora Adela,  sino que la cambiaran de colegio y perdiera a sus amigas. Ver a la profesora muerta en el armario no le causó ninguna impresión a la estudiante. 
 
+![alt text](../assets/img/10.jpg){:width="200" style="float: left; padding:10px"}
 
-<center>Dale duro a este pilón</center> 
-<center>Que se acabe de romper</center>
-<center>Que en el monte hay muchos palos</center>
-<center>Y papá los sabe hacer.</center>
+b.- Sofía fue una estudiante excluida del sistema educativo a pesar que estuvo matriculada.
 
+c.- Jorge era el amigo de Sofía. La protegía de todos  y era el único amigo que podía tocarla. Ambos se entendían tan solo con mirarse, como dijo la estudiante. 
 
-<center>Ya me duele la cabeza</center>
-<center>De tanto darle al pilón</center>
-<center>Para engordar un cochino</center> 
-<center>Y comprarme un camisón.</center>
+d.-Jorge fue el asesino y Sofía la cómplice.  
 
+e.- Nos describen un sistema educativo que solamente garantiza lo cognitivo y se olvida de 
+las emociones. No hay información confiable de estadística sobre abusos por los profesores, 
+ni de niños con comportamiento psicosocial fuera de lo normal. Se sabe del Bullying y sus 
+implicaciones. Sin embargo, la novela recoge una realidad que ya no se puede ocultar. Ese 
+es un indicador del fracaso de la Educación tanto en el hogar como en el sistema educativo.
 
-<center>Allá arriba en aquel cerro, ioh-ioh</center>
-<center>Va un matrimonio civil, ioh-ioh</center>
-<center>Se casa la bemba ′e burro</center>
-<center>Con el pescuezo 'e violín, ioh-ioh.</center>
+**¿Quién o quiénes hemos sido encubridores?**  Lo cierto es que las cárceles y los centros 
+de salud, siguen cumpliendo su objetivo: ciudades de inadaptados, hospitales psiquiátricos 
+en hogares engañados. Salir a la calle es caminar con miedo a ser atracado, estudiar se 
+hace costoso y ha dejado de ser inversión. Ser una persona con condición es una travesía 
+sin camino o solo  sirve de propaganda de un gobierno que lo utiliza para seguir 
+domesticando a la humanidad.
 
-
-<center>Si por tu marido es, ioh-ioh</center> 
-<center>Cójelo que allá te vas, ioh-ioh</center>
-<center>Tu camisón de cretona</center>
-<center>No me lo ha llegado a dar, ioh-ioh</center>
-
-
-<center>Yo no quiero hombre casa′o, ioh-ioh</center> 
-<center>Porque hiede a mata dura, ioh-ioh</center>
-<center>Yo lo quiero solterito</center> 
-<center>Que huele a piña madura, ioh-ioh.</center>
-
-
-<center>Allá va la cara 'e diablo, ioh-ioh</center> 
-<center>De corazón de demonio, ioh-ioh</center> 
-<center>Que tiene la lengua negra</center>
-<center>De levantar testimonio, ioh-ioh.</center> 
-
-
-<center>Y la zoqueta se cree, ioh-ioh</center> 
-<center>Que todo se lo merece, ioh-ioh</center> 
-<center>Y vive en un peazo 'e rancho</center>
-<center>Que el viento se lo estremece, ioh-ioh.</center> 
-
-
-<center>Dale duro a este pilón</center>
-<center>Que se acabe de romper</center>
-<center>Que en el monte hay mucho palo′</center>
-<center>Y papá lo sabe hacer.</center>
-
-
-
-
-<h3>ARTE</h3>
-
-
-<h4>El lago de los cisnes</h4>
-
-![el lago de los cisnes](</assets/img/El lago de los cisnes.jpg>){:width="200" style="float: right"}
-
-Ballet clásico tradicional más conocido en el mundo.
-
-
-
-<h4>Arturo Michelena: La joven madre</h4>
-
-![Arturo Michelena](</assets/img/Arturi Michelena.jpg>){:width="200" style="float: right"}
-
-(1863-1898), Maestro del dibujo, retratista y de obras religiosas, 
-en su estadía por París obtuvo la medalla de oro en la Exposición
-Universal de París y en 1887 la medalla de segunda clase en el Salón 
-de Artes Francesas.
-
-
-
-<h4>Pedro y el lobo en el Teresa Carreño</h4>
-
-
-Composición sinfónica de Serguéi Prokófiev (Op. 67) escrita en 1936. 
-La obra de Prokófiev es una historia para niños, con música 
-y texto adaptado por él, con un narrador acompañado por la orquesta.
-https://youtu.be/aisZ5sw0ggM.
-
-<center>Érase una vez un pastorcito llamado Pedro, 
-que se pasaba la mayor parte del día cuidando a 
-sus ovejas en un prado cercano al pueblo donde
-vivía. Todas las mañanas salía con las primeras 
-luces del alba con su rebaño,
-y no regresaba hasta caída la tarde.</center>
-
-<center>El pastorcito se aburría de lo lindo viendo 
-cómo pasaba el tiempo, y pensaba en todas las 
-cosas que podía hacer para divertirse.
-Hasta que un día, echado bajo la sombra de un árbol,
-tuvo una idea. Decidió que era hora de pasar un buen 
-rato a costa de la gente del pueblo
-que había cerca de allí. Dispuesto a 
-hacerles una broma, se acercó y comenzó
-a gritar:</center>
-
-–¡Socorro, el lobo! ¡Que viene el lobo!.
-
-<center>Los aldeanos de inmediato agarraron las herramientas 
-que tenían a mano palas, azadas, martillos, y corrieron 
-a auxiliar al pobre pastor. Pero al llegar a la pradera 
-lo encontraron deshaciéndose de risas en el suelo, y
-descubrieron que todo había sido una broma de mal gusto.
-Los aldeanos se enfadaron con el pastor y regresaron a 
-sus trabajos, molestos por la interrupción.
-A Pedro le había hecho tanta gracia la broma que se dispuso
-a repetirla. Un par de días después se volvieron a escuchar 
-en toda la comarca los gritos alarmantes de Pedro:</center>
-
-–¡Socorro, socorro el lobo! ¡Viene el lobo!
-
-<center>Al volver a oír los gritos del pastor, la gente del pueblo 
-creyó que en esta ocasión sí se trataba verdaderamente de 
-un lobo feroz que se sabía que andaba por bosques y montañas 
-cercanas. Y volviendo a correr para ayudarlo.
-Pero otra vez se encontraron que el pastor no necesitaba ninguna
-ayuda y se divertía viendo cómo habían vuelto a caer en su broma.
-Esta vez los aldeanos se enfadaron muchísimo más, por la actitud del
-pastor, y juraron no dejarse engañar más por él.
-Al día siguiente Pedro volvió al prado para que sus ovejas pastaran. 
-Aún recordaba con risas lo bien que se lo había pasado el día anterior, 
-cuando había hecho correr a los aldeanos con sus gritos. Y 
-estaba tan entretenido, que no vio acercarse al lobo feroz 
-hasta que lo tuvo muy cerca. Entonces
-de repente lo vio y ahí sí que sintió muchísimo miedo, e 
-impotencia, porque el animal se acercaba sigilosamente a sus ovejas.
-Entonces comenzó a gritar como nunca antes.</center>
-
-–¡Socorro, que aquí está el lobo! ¡El lobo! ¡Ayuden a mis ovejas! 
-¡Auxilio! 
-
-<center>Gritaba y gritaba, una y otra vez, pero los aldeanos 
-ya no parecían escucharlo.
-Hacían oídos sordos ante los gritos de auxilio, pensando que 
-se trataba de otra broma.
-El pastor no sabía qué más hacer, por lo que seguía pidiendo ayuda,
-gritando desesperado y sin entender por qué nadie acudía:</center>
-
-–¡Socorro, el lobo, el lobo, que se come mis ovejas! ¡Por favor, auxilio!
-
-<center>Pero ya era muy tarde para convencer a los aldeanos de que esta vez
-era verdad.
-Y fue así como Pedro, el pastor, tuvo que ver con dolor cómo el lobo
-devoraba una tras otra sus ovejas, hasta quedar saciado.
-Sólo después de esta lección, Pedro supo arrepentirse de su 
-necio comportamiento y de la tonta manera en que había engañado 
-a la gente del pueblo.
-En lo adelante nunca más repetiría una broma como esta.
-Pero las ovejas que había perdido, perdidas estaban.</center>
-
-
-<h4>Carlos Cruz-Diez</h4>
-
-![Carlos Cruz](</assets/img/Carlos Cruz-Diez.jpg>){:width="200" style="float: right"}
-
-(1923-2019), artista plástico venezolano del arte cinético.Propuso el uso del color como una ayuda para transmitir el mensaje.
-
-<h4>Penetrables de Soto</h4>
-
-![Penetrables](</assets/img/Penetrables de Soto.jpg>){:width="200" style="float: right"}
-
-Jesús Rafael Soto (1923-2005), artista plástico venezolano dedicado a la
-escultura como los penetrables donde se invita al público a deambular 
-libremente entre los materiales verticales con que se construyen.
-
-
-
-<h3>EXPRESIONES</h3>
-
-
-<h4>Mi amorseo</h4> mi reina, mi amor, mi vida. Expresiones de “cariño” entre la población.
-
-
-
-<h3>LIBROS NOMBRADOS</h3>
-
-![A sangre fia](</assets/img/A sangre fría.jpg>){:width="100" style="float: right"}
-
-<h4>A sangre fría</h4>
-
-- Fecha de publicación original: 1965
-- Autor: Truman Capote
-- Adaptaciones: A sangre fría (1967), A Sangre Fría (1996)
-- Géneros: Novela, Crímenes reales, Novela de no ficción
-- Ambientada en: Kansas
-- Artista de la cubierta: S. Neil Fujita
-
-
-
-![el otoño del patriarca](</assets/img/El otoño del patriarca.jpg>){:width="100" style="float: right"}
-
-<h4>El otoño del patriarca</h4>
-
-- Fecha de publicación original: 1975
-- Autor: Gabriel García Márquez
-- Géneros: Novela, Ficción, Realismo mágico
-
-
-
-![por quien doblan](</assets/img/Por quién doblan las campanas.jpg>){:width="100" style="float: right"}
-
-<h4>Por quién doblan las campanas</h4>
-
-- Fecha de publicación original: 21 de octubre de 1940
-- Autor: Ernest Hemingway
-- Géneros: Novela, Ficción, Novela bélica
-- Adaptaciones:  (1943), (1965), 
-(1959)
-- Tema(s): Guerra civil española
-
-
-
-
-![La casa verdes](</assets/img/La casa verde.jpg>){:width="100" style="float: right"}
-
-<h4>La casa verde</h4>
-
-- Fecha de publicación original: 1966
-- Autor: Mario Vargas Llosa
-- Géneros: Novela, Ficción
-- Premios: Premio Rómulo Gallegos
-- Ambientada en: Piura, Santa María de Nieva, Iquitos y Borja (Datem del Marañón)
-- Editorial: Seix Barral S.A
-
-
-
-![los hijos del limo](</assets/img/Los Hijos del limo.jpg>){:width="100" style="float: right"}
-
-<h4>Los Hijos del limo</h4>
-
-- Fecha de publicación original: 1974
-- Autor: Octavio Paz
-- Del Romanticismo a la Vanguardia
-
-
-
-![Aires de familia](</assets/img/Aires de familia.jpg>){:width="100" style="float: right"}
-
-<h4>Aires de familia</h4>
-
-- Fecha de publicación original: 2000
-- Autor:  Carlos Monsiváis
-
-
-
-
-
-![preguntale al polvo](</assets/img/Pregúntale al polvo.jpg>){:width="100" style="float: right"}
-
-
-<h4>Pregúntale al polvo</h4>
-
-- Fecha de publicación original: 1939
-- Autor: John Fante
-- Géneros: Novela, Ficción, Novela en clave
-- Adaptaciones: Pregúntale al viento (2006)
-
-
-
-![el sotano y la tala](</assets/img/El sótano y Tala.jpg>){:width="100" style="float: right"}
-
-<h4>El sótano y Tala.</h4> 
-
-- Fecha de publicación original: 1984
-- Autor: Thomas Bernhard
-- Novelista, dramaturgo y poeta 
-austríaco.
-- Géneros: Literatura contemporánea
-
-
-
-![Órdenes del corazón](</assets/img/Órdenes del corazón.jpg>){:width="100" style="float: right"}
-
-<h4>Órdenes del corazón</h4> 
-
-- Fecha de publicación original: 2001
-- Autor: Miyó Vestrini
-- Periodista, poeta
-- Géneros: Narrativa
-
-
-
-![Casa o lobo](</assets/img/Casa o lobo.jpg>){:width="100" style="float: right"}
-
-<h4>Casa o lobo</h4>
-
-- Fecha de publicación original: 1981
-- Autor: Yolanda Pantin
-- Poeta Venezolana
-- Géneros:  literatura infantil, el teatro y el ensayo
-
-
-
-![Carriel para la fiesta](</assets/img/Carriel para la fiesta.jpg>){:width="100" style="float: right"}
-
-<h4>Carriel para la fiesta</h4>
-
-- Fecha de publicación original: 1983
-- Autor: Elisa Lerner
-- Escritora
-- Géneros:  Teatro, humor y ensayo
-
-
-
-![Ifigenia](</assets/img/Ifigenia.jpg>){:width="100" style="float: right"}
-
-<h4>Ifigenia</h4> 
-
-- Fecha de publicación original: 1924
-- Autor: Teresa de la Parra
-- Novelista
-- Géneros:  Ficción doméstica, Diario ficcional
-
-
-
-
-
-![Madame Bovary](</assets/img/Madame Bovary.jpg>){:width="100" style="float: right"}
-
-<h4>Madame Bovary</h4>
-
-- Fecha de publicación original: 1856
-- Autor: Gustave Flaubert
-- Escritor 
-- Géneros: Novelas
-
-
-
-
-![Ana Karenina](</assets/img/Ana Karenina.jpg>){:width="100" style="float: right"}
-
-<h4>Ana Karenina</h4> 
-
-- Fecha de publicación original: 1878
-- Autor: León Tolstói
-- Escritor 
-- Géneros: Novelas, ficción, realismo literario
-
+La novela no deja de sorprender lo que nuestros corazones van negando. Una realidad 
+planteada para actuar como madre, docente y ciudadanos de un mundo donde se escucha que 
+vamos hacia la destrucción para empezar de nuevo. ¿Para eso vinimos?
