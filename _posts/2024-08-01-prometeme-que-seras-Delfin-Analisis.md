@@ -262,10 +262,11 @@ Noguera.
 
 
 
-<h4>David Bisbal</h4>                          <h4>Shakira</h4>
+<h4>David Bisbal</h4>                         
 
 
 ![alt text](/assets/img/4.jpg){:width="200" style="float: left; padding:10px"}     ![alt text](/assets/img/5.jpg){:width="200" style="float: right; padding:10px"}
+ <h4>Shakira</h4>
 
 
 
@@ -284,20 +285,18 @@ Son frases u oraciones literarias breves que expresan ideas motivadoras y
 reflexivas que la autora nos ofrece como parte de la trama.
 
 
-![alt text](/assets/img/6.jpg)" width="480" height="380" />
+![alt text](/assets/img/6.jpg){:width="200" style=" padding:10px"}
+
+
+![alt text](/assets/img/7.jpg){:width="200" style=" padding:10px"}
 
 
 
-![alt text](/assets/img/7.jpg)" width="480" height="380" />
+![alt text](/assets/img/8.jpg){:width="200" style=" padding:10px"}
 
 
 
-![alt text](../assets/img/8.jpg)" width="480" height="380" />
-
-
-
-![alt text](../assets/img/9.jpg)" width="480" height="380" />
-
+![alt text](/assets/img/9.jpg){:width="200" style=" padding:10px"}
 
 
 
