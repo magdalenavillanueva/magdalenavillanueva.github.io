@@ -33,7 +33,7 @@ en tu nombre (2017), Prométeme que serás delfín (2013), El paseo de los canad
 
 
 
-![alt text](/assets/img/big.jpg){:width="200" style="float: left; padding:10px"}
+![alt text](/assets/img/big.jpg){:width="200" style="float: right; padding:10px"}
 
 
 
@@ -266,7 +266,8 @@ Noguera.
 
 
 ![alt text](/assets/img/4.jpg){:width="200" style="float: left; padding:10px"}     ![alt text](/assets/img/5.jpg){:width="200" style="float: right; padding:10px"}
- <h4>Shakira</h4>
+<h4>Shakira</h4>
+
 
 
 
