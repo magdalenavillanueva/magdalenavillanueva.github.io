@@ -22,7 +22,6 @@ novela La pintora de las estrellas.
 ![alt text](</assets/img/2 libro.jpg>){:width="150" style="float: left; padding:10px"}
 
 
-
 **Algunas novelas:** La marca de la luna (2014), La pintora de estrellas (2015), Escrita 
 en tu nombre (2017), Prométeme que serás delfín (2013), El paseo de los canadienses (2020). Y en breve publicará La bruja de la luna plateada y La pintora de la luna.
 
