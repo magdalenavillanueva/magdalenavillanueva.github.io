@@ -7,7 +7,7 @@ categories:
 ---
 
 
-![alt text](</assets/img/portada  de prometeme.jpg>){:width="300" style ="float: right"padding:10px" border - radus: 25px"}
+![alt text](</assets/img/portada  de prometeme.jpg>){:width="300" style ="float: left"padding:10px" border - radus: 25px"}
 
 1.	Biografía de Amelia Noguera.
 
@@ -30,6 +30,8 @@ categories:
 8.	Distinción de la novela.
 
 9.	¿Quién o quienes hemos sido encubridores?  
+
+
 
 
 
