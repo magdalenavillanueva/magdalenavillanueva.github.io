@@ -87,7 +87,9 @@ docente suplente llamada Celia, la dejan en libertad.
 
 
 
-<h3>LA ESTUDIANTE:</h3>    
+<h3>LA ESTUDIANTE:</h3>  
+
+![alt text](/assets/img/ElementarySchool_Girl-1-removebg-preview.png){:width="200" style="float: right; padding:10px"}
 
 El segundo personaje principal es la estudiante que describe un hecho pasado en un colegio 
 donde asesinaron a dos profesoras. Narra todo lo ocurrido, analiza a los involucrados, 
@@ -151,6 +153,8 @@ Para la estudiante, Blanca y Ana se convirtió en el gran secreto
 
 
 <h3>SOFÍA:</h3>
+
+![alt text](/assets/img/images-removebg-preview.png){:width="200" style="float: right; padding:10px"}
 
 Es una niña con diagnostico TDA y medicada. Ojos de color verde, delgada. Estudia ballet. 
 Es la tercera mejor amiga de la estudiante. Desde educación inicial, lloraba, gritaba, era 
@@ -270,7 +274,11 @@ Noguera.
 ![alt text](/assets/img/5.jpg){:width="200" style="float: right"}
 
 
+
 <h4>Shakira</h4>
+
+
+
 
 
 
@@ -291,18 +299,18 @@ Son frases u oraciones literarias breves que expresan ideas motivadoras y
 reflexivas que la autora nos ofrece como parte de la trama.
 
 
-<center>![alt text](/assets/img/6.jpg){:width="400" style=" padding:10px"}</center>
+![alt text](/assets/img/6.jpg){:width="400" style="}
 
 
-<center>![alt text](/assets/img/7.jpg){:width="400" style=" padding:10px"}</center>
-
-
-
-<center>![alt text](/assets/img/8.jpg){:width="400" style=" padding:10px"}</center>
+![alt text](/assets/img/7.jpg){:width="400" style="}
 
 
 
-<center>![alt text](/assets/img/9.jpg){:width="400" style=" padding:10px"}</center>
+![alt text](/assets/img/8.jpg){:width="400" style="}
+
+
+
+![alt text](/assets/img/9.jpg){:width="400" style="}
 
 
 
