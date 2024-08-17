@@ -22,6 +22,7 @@ novela La pintora de las estrellas.
 ![alt text](</assets/img/2 libro.jpg>){:width="200" style="float: left; padding:10px"}
 
 
+
 **Algunas novelas:** La marca de la luna (2014), La pintora de estrellas (2015), Escrita 
 en tu nombre (2017), Prométeme que serás delfín (2013), El paseo de los canadienses (2020). Y en breve publicará La bruja de la luna plateada y La pintora de la luna.
 
@@ -89,7 +90,7 @@ docente suplente llamada Celia, la dejan en libertad.
 
 <h3>LA ESTUDIANTE:</h3>  
 
-![alt text](/assets/img/ElementarySchool_Girl-1-removebg-preview.png){:width="200" style="float: right; padding:10px"}
+![alt text](/assets/img/ElementarySchool_Girl-1-removebg-preview.png){:width="250" style="float: right; padding:10px"}
 
 El segundo personaje principal es la estudiante que describe un hecho pasado en un colegio 
 donde asesinaron a dos profesoras. Narra todo lo ocurrido, analiza a los involucrados, 
@@ -154,7 +155,7 @@ Para la estudiante, Blanca y Ana se convirtió en el gran secreto
 
 <h3>SOFÍA:</h3>
 
-![alt text](/assets/img/images-removebg-preview.png){:width="200" style="float: right; padding:10px"}
+![alt text](/assets/img/images-removebg-preview.png){:width="250" style="float: right; padding:10px"}
 
 Es una niña con diagnostico TDA y medicada. Ojos de color verde, delgada. Estudia ballet. 
 Es la tercera mejor amiga de la estudiante. Desde educación inicial, lloraba, gritaba, era 
@@ -264,27 +265,16 @@ sexto A, con el corazón en vilo, esperando ansiosas para saber qué le habrá o
 le hace tener esa cara  de limón´´.   Pág. 53.  Prométeme que serás delfín de Amelia  
 Noguera.
 
+                
 
-
-
-<h4>David Bisbal</h4>                         
-
-
-![alt text](/assets/img/4.jpg){:width="200" style="float: left"}  
-![alt text](/assets/img/5.jpg){:width="200" style="float: right"}
-
-
-
-<h4>Shakira</h4>
-
-
-
+![alt text](<../assets/img/David y Shakira.jpg>)
 
 
 
 
 
 <h4>Canción del Chocolatero</h4>
+
 
 ![alt text](/assets/img/11.jpg){:width="200" style="float: left; padding:10px"}
 
