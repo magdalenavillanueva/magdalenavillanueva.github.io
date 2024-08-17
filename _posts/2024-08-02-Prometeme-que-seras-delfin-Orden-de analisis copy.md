@@ -7,7 +7,7 @@ categories:
 ---
 
 
-![alt text](</assets/img/portada  de prometeme.jpg>){:width="200" style="float: right"}
+![alt text](</assets/img/portada  de prometeme.jpg>){:width="400" style="float: right"}
 
 1.	Biografía de Amelia Noguera.
 
