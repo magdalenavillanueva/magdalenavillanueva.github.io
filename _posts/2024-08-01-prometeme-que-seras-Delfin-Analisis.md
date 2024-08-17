@@ -10,7 +10,7 @@ categories:
 
 <h3>Semblanza</h3>
 
-![alt text](</assets/img/1 Amalia.jpg>){:width="200" style="float: right; padding:10px"}
+![alt text](</assets/img/1 Amalia.jpg>){:width="250" style="float: right; padding:10px"}
 
 
 Ingeniero Informático. Escritora y traductora española. Directora de revistas técnicas. 
@@ -19,7 +19,7 @@ digitalmente en 2012 en la plataforma Amazon, alcanzando el número uno en venta
 novela La pintora de las estrellas.
 
 
-![alt text](</assets/img/2 libro.jpg>){:width="200" style="float: left; padding:10px"}
+![alt text](</assets/img/2 libro.jpg>){:width="150" style="float: left; padding:10px"}
 
 
 
@@ -283,6 +283,8 @@ Noguera.
 
 Le llamaban Paquito el Chocolatero a una canción de pasodoble español del compositor  
 español Gustavo Pascual Falcó   en el año de  1937.
+
+
 
 
 <center><h2>AFORISMOS EN LA NOVELA:</h2></center>
