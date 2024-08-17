@@ -18,14 +18,22 @@ Estudió Humanidades en la Universidad Carlos III de Madrid. Auto publicaba sus 
 digitalmente en 2012 en la plataforma Amazon, alcanzando el número uno en ventas en la 
 novela La pintora de las estrellas.
 
+
 ![alt text](</assets/img/2 libro.jpg>){:width="200" style="float: left; padding:10px"}
 
-**Algunas novelas:** La marca de la luna (2014), La pintora de estrellas (2015), Escrita en tu nombre (2017), Prométeme que serás delfín (2013), El paseo de los canadienses (2020).  Y en breve publicará La bruja de la luna plateada y La pintora de la luna.
+
+**Algunas novelas:** La marca de la luna (2014), La pintora de estrellas (2015), Escrita en 
+tu nombre (2017), Prométeme que serás delfín (2013), El paseo de los canadienses (2020).  Y 
+en breve publicará La bruja de la luna plateada y La pintora de la luna.
+
+
 
 
 <h4>EXTRACTO: </h4>
 
-![alt text](../assets/img/3.jpg){:width="200" style="float: left; padding:10px"}
+
+![alt text](/assets/img/3.jpg){:width="200" style="float: left; padding:10px"}
+
 
 Es una novela detectivesca, autobiográfica, social, educativa, psicológica y realista. Se 
 estructura en diez partes y diez capítulos.  Los personajes principales son María y la 
@@ -38,7 +46,9 @@ sin contacto, manteniendo cada protagonista en su cuadro o en su pintura. Ambas 
 sus sentimientos y su percepción ante los acontecimientos, dejando interrogantes sin 
 respuestas. Son autobiográficas, cada una observó, pensó y actuó.
 
+
 <center><h2>PERSONAJES PRIMARIOS:</h2></center>
+
 
 <h4>MARIA:</h4>
 
@@ -93,7 +103,7 @@ niños callados cumpliendo con sus obligaciones. Ella conjuntamente con sus comp
 Blanca, Ana y Sofía vieron a la profesora Adela muerta en el armario. Los padres de la 
 estudiante estuvieron preocupados por la impresión emocional, pero ella se sentía bien y 
 feliz,  su preocupación estaba en torno a que quieren cambiarla de la escuela y dejar a sus 
-amigas. Ella lo llamó: la catástrofe
+amigas. Ella lo llamó: la catástrofe.
 
 La suplente de Adela se llamaba Celia, asignada por el Consejo de Educación. La nueva 
 profesora de primaria es psicóloga y terapeuta. Aplicaba diferentes estrategias con el 
@@ -123,8 +133,8 @@ información y siempre decían que se sentían agradados por su profesora Adela.
 Para concluir, Jorge muere en un enfrentamiento con Gonzalo. El año escolar terminó y la 
 estudiante ya no le preocupaba que le cambiaran de colegio, así pasó el tiempo y continúo 
 recordando lo que decía la abuela de Blanca:  ´´No seáis borregos; sed delfines.  Aprended 
-mucho y no dejéis que os engañen´´.   Pág.   40.  Prométeme que serás delfín de Amelia  
-Noguera.
+mucho y no dejéis que os engañen´´. Pág. 40. Prométeme que serás delfín de Amelia Noguera.
+
 
 Para la estudiante, Blanca y Ana se convirtió en el gran secreto
 
@@ -229,7 +239,9 @@ Son dos profesionales que se encargaron de realizar preguntas a los estudiantes 
 a los padres.
 
 
+
 <center><h2>CANCIONES:</h2></center>
+
 
 El colegio para anunciar el inicio de regreso utilizaba la música. Los estudiantes por 
 grados seleccionaban la canción que querían escuchar.  Se mencionan las canciones de 
@@ -241,39 +253,42 @@ hace tener esa cara  de limón´´.   Pág. 53.  Prométeme que serás delfín d
 
 
 
+
 <h4>David Bisbal</h4>                          <h4>Shakira</h4>
 
 
-![alt text](/assets/img/4.jpg)      ![alt text](/assets/img/5.jpg)
+![alt text](/assets/img/4.jpg)" width="480" height="380" />      ![alt text](/assets/img/5.jpg)" width="480" height="380" />
 
 
 
 <h4>Canción del Chocolatero</h4>
 
+![alt text](/assets/img/11.jpg){:width="200" style="float: left; padding:10px"}
+
+
 Le llamaban Paquito el Chocolatero a una canción de pasodoble español del compositor  
 español Gustavo Pascual Falcó   en el año de  1937.
-
-![alt text](/assets/img/11.jpg){:width="200" style="float: left; padding:10px"}
 
 
 <center><h2>AFORISMOS EN LA NOVELA:</h2></center>
 
-Son frases u oraciones literarias breves que expresan ideas motivadoras y reflexivas que la 
-autora nos ofrece como parte de la trama.
-
-![alt text](/assets/img/6.jpg)
+Son frases u oraciones literarias breves que expresan ideas motivadoras y 
+reflexivas que la autora nos ofrece como parte de la trama.
 
 
-
-![alt text](/assets/img/7.jpg)
+![alt text](/assets/img/6.jpg)" width="480" height="380" />
 
 
 
-![alt text](../assets/img/8.jpg)
+![alt text](/assets/img/7.jpg)" width="480" height="380" />
 
 
 
-![alt text](../assets/img/9.jpg)
+![alt text](../assets/img/8.jpg)" width="480" height="380" />
+
+
+
+![alt text](../assets/img/9.jpg)" width="480" height="380" />
 
 
 
@@ -283,27 +298,33 @@ autora nos ofrece como parte de la trama.
 
 a.- Para la estudiante la catástrofe no fue la muerte de la profesora Adela,  sino que la cambiaran de colegio y perdiera a sus amigas. Ver a la profesora muerta en el armario no le causó ninguna impresión a la estudiante. 
 
-![alt text](../assets/img/10.jpg){:width="200" style="float: left; padding:10px"}
+![alt text](/assets/img/10.jpg){:width="200" style="float: left; padding:10px"}
 
-b.- Sofía fue una estudiante excluida del sistema educativo a pesar que estuvo matriculada.
+b.- Sofía fue una estudiante excluida del sistema educativo a pesar que estuvo 
+matriculada.
 
-c.- Jorge era el amigo de Sofía. La protegía de todos  y era el único amigo que podía tocarla. Ambos se entendían tan solo con mirarse, como dijo la estudiante. 
+c.- Jorge era el amigo de Sofía. La protegía de todos  y era el único amigo que 
+podía tocarla. Ambos se entendían tan solo con mirarse, como dijo la 
+estudiante. 
 
 d.-Jorge fue el asesino y Sofía la cómplice.  
 
-e.- Nos describen un sistema educativo que solamente garantiza lo cognitivo y se olvida de 
-las emociones. No hay información confiable de estadística sobre abusos por los profesores, 
-ni de niños con comportamiento psicosocial fuera de lo normal. Se sabe del Bullying y sus 
-implicaciones. Sin embargo, la novela recoge una realidad que ya no se puede ocultar. Ese 
-es un indicador del fracaso de la Educación tanto en el hogar como en el sistema educativo.
+e.- Nos describen un sistema educativo que solamente garantiza lo cognitivo y 
+se olvida de las emociones. No hay información confiable de estadística sobre 
+abusos por los profesores, ni de niños con comportamiento psicosocial fuera de 
+lo normal. Se sabe del Bullying y sus implicaciones. Sin embargo, la novela 
+recoge una realidad que ya no se puede ocultar. Ese es un indicador del fracaso 
+de la Educación tanto en el hogar como en el sistema educativo.
 
-**¿Quién o quiénes hemos sido encubridores?**  Lo cierto es que las cárceles y los centros 
-de salud, siguen cumpliendo su objetivo: ciudades de inadaptados, hospitales psiquiátricos 
-en hogares engañados. Salir a la calle es caminar con miedo a ser atracado, estudiar se 
-hace costoso y ha dejado de ser inversión. Ser una persona con condición es una travesía 
-sin camino o solo  sirve de propaganda de un gobierno que lo utiliza para seguir 
-domesticando a la humanidad.
+**¿Quién o quiénes hemos sido encubridores?**  Lo cierto es que las cárceles y 
+los centros de salud, siguen cumpliendo su objetivo: ciudades de inadaptados, 
+hospitales psiquiátricos en hogares engañados. Salir a la calle es caminar con 
+miedo a ser atracado, estudiar se hace costoso y ha dejado de ser inversión. 
+Ser una persona con condición es una travesía sin camino o solo  sirve de 
+propaganda de un gobierno que lo utiliza para seguir domesticando a la 
+humanidad.
 
-La novela no deja de sorprender lo que nuestros corazones van negando. Una realidad 
-planteada para actuar como madre, docente y ciudadanos de un mundo donde se escucha que 
-vamos hacia la destrucción para empezar de nuevo. ¿Para eso vinimos?
+La novela no deja de sorprender lo que nuestros corazones van negando. Una 
+realidad planteada para actuar como madre, docente y ciudadanos de un mundo 
+donde se escucha que vamos hacia la destrucción para empezar de nuevo. ¿Para 
+eso vinimos?
