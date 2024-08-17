@@ -56,6 +56,8 @@ respuestas. Son autobiográficas, cada una observó, pensó y actuó.
 
 <h4>MARIA:</h4>
 
+![alt text](/assets/img/sad-female-doctor-photo.jpg){:width="250" style="float: right; padding:10px"}
+
 Casada con Manuel y su única hija con diagnostico TDA/TDAH (Trastorno por difícil de 
 atención/hiperactividad). Profesión médica en un hospital público, hace presente la 
 injusticia tanto en un ambiente escolar de niños y adolescentes.  A su vez, el padre se 
@@ -267,7 +269,7 @@ Noguera.
 
                 
 
-![alt text](<../assets/img/David y Shakira.jpg>)
+![alt text](</assets/img/David y Shakira.jpg>)
 
 
 
