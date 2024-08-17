@@ -29,6 +29,7 @@ en tu nombre (2017), Prométeme que serás delfín (2013), El paseo de los canad
 
 
 
+
 <h4>EXTRACTO: </h4>
 
 
@@ -86,7 +87,7 @@ docente suplente llamada Celia, la dejan en libertad.
 
 
 
-<h3>LA ESTUDIANTE:</h3>
+<h3>LA ESTUDIANTE:</h3>    
 
 El segundo personaje principal es la estudiante que describe un hecho pasado en un colegio 
 donde asesinaron a dos profesoras. Narra todo lo ocurrido, analiza a los involucrados, 
@@ -274,6 +275,7 @@ Noguera.
 
 
 
+
 <h4>Canción del Chocolatero</h4>
 
 ![alt text](/assets/img/11.jpg){:width="200" style="float: left; padding:10px"}
@@ -289,18 +291,18 @@ Son frases u oraciones literarias breves que expresan ideas motivadoras y
 reflexivas que la autora nos ofrece como parte de la trama.
 
 
-![alt text](/assets/img/6.jpg){:width="400" style=" padding:10px"}
+<center>![alt text](/assets/img/6.jpg){:width="400" style=" padding:10px"}</center>
 
 
-![alt text](/assets/img/7.jpg){:width="400" style=" padding:10px"}
-
-
-
-![alt text](/assets/img/8.jpg){:width="400" style=" padding:10px"}
+<center>![alt text](/assets/img/7.jpg){:width="400" style=" padding:10px"}</center>
 
 
 
-![alt text](/assets/img/9.jpg){:width="400" style=" padding:10px"}
+<center>![alt text](/assets/img/8.jpg){:width="400" style=" padding:10px"}</center>
+
+
+
+<center>![alt text](/assets/img/9.jpg){:width="400" style=" padding:10px"}</center>
 
 
 
