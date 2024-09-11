@@ -18,7 +18,7 @@ años de la vida del caballero castellano Rodrigo Díaz
 de Vivar, desde el inicio de su primer destierro en 
 1081 hasta su muerte en 1099.
 
-
+![alt text](<../assets/img/La niña de nueve años  ante el Cid.jpg>){:width="400" style="float: right"}
 La actualización del Poema del Cid comienza, a 
 principios del siglo XX, con los escritores del 
 Modernismo y los de la Generación del 98. Dentro de los 
@@ -31,8 +31,126 @@ del destierro, le sirve a Machado para contraponer, a
 través del diálogo que es casi monólogo, la delicadeza 
 de la niña y el valor del héroe
 
+También habría que destacar la recreación 
+intrahistórica, mítica e ideal, en clave unamuniana, 
+que hace Menéndez Pidal en La España del Cid (1929), 
+donde la visión humana del héroe, ligada a la aventura 
+misma de la lengua, se impone sobre el elemento bélico: 
+la vida del Cid nunca tuvo como principal ese aspecto 
+guerrero que alguien puede creer único en ella, y   que 
+si lo es en la vida de otros héroes análogos, como, por 
+ejemplo, Roldán. El Cid ofreció siempre un mayor 
+interés humano, palpitante en su gran obra.
+
+La Generación del 27, en su intento de fundir tradición 
+y novedad, se preocupó por la figura del héroe 
+castellano. Dentro de ella destacan tres autores: Pedro 
+Salinas, que escribió tres ensayos: El Poema de Mío Cid 
+y un romance viejo”, (1940), “El Cantar de Mío Cid, 
+Poema de la honra”, de 1945, y “La vuelta al esposo: 
+ensayo sobre estructura y sensibilidad en el Cantar de 
+Mío Cid”, de 1947; Dámaso Alonso, “Estilo y creación en 
+el Poema del Cid”, de 1941; y Gerardo Diego, “El ritmo 
+en el Poema del Cid”, de 1943. 
+
+Rafael Alberti en 1939 hace una recreación del héroe 
+castellano en Entre el clavel y la espada (1939-1940), 
+que titula “Como leales vasallos” y en la que el 
+recuerdo se viste de esperanza (“Amarga ha de ser la 
+vuelta, / pero sin sabor amargo”), y culmina con el 
+proyecto de la inacabada cantata “Cantar del Mío Cid”, 
+entre finales de los cuarenta y mediados de los 
+cincuenta, con el que pretende, ayudado por la música 
+de Julián Bautista, hacer un proceso de reescritura de 
+la tradición. 
+
+La presencia del héroe como protagonista de la 
+historia, llena de expresión y de vida, sigue firme en 
+los próximos años.  En su libro Mío Cid, publicado en 
+México en 1944, Eduardo de Ontañón se había esforzado 
+por dar verosimilitud histórica a Rodrigo Díaz, 
+arrancándolo de la leyenda, ese mismo ejemplo vital de 
+su figura es el que guía los pasos de otros escritores, 
+como sucede con María Teresa León en sus dos 
+biografías, Rodrigo Díaz de Vivar. El Cid Campeador, 
+publicada en 1954, y Doña Jimena Díaz de Vivar, gran 
+señora de todos los deberes, en 1960.
 
 
+El estudio biográfico de Agustín Palau Claveras, El Cid 
+Campeador (1944), que en plena posguerra, no sólo 
+continúa la exposición del “héroe nacional”, basada en 
+los estudios sobre el Cid de Menéndez Pidal, sino que 
+además lo convierte en figura pública, manteniendo con 
+brillantez los motivos convencionales de la piedad 
+filial y el motivo de la honra. 
+
+La visión moderna del Cid cambia con la película de 
+Anthony Mann en 1961, pues abarca toda la vida adulta 
+del héroe castellano, apareciendo éste como reflejo de 
+la época histórica que le tocó vivir. El director, 
+asesorado literariamente por Ramón Menéndez Pidal, 
+combina diversos motivos tradicionales, como el odio de 
+Urraca por el Cid en su juventud, que subyace en el 
+Cantar de Sancho II, el carácter arrogante del joven 
+Rodrigo, según aparece en las Mocedades, la exaltación 
+política del héroe en los últimos años, que nos cuenta 
+el Cantar de Mío Cid, el amor apasionado entre Rodrigo 
+y Jimena, que debe bastante a Le Cid de Corneille, y 
+utiliza la técnica de la unión de contrastes extremos, 
+como el de la felicidad privada frente a la misión 
+nacional, con el objeto de subrayar la interdependencia 
+entre lo público y lo privado. Se destaca el proceso 
+sicológico de Jimena, que se mueve desde la 
+insubordinación causada por la venganza hasta el 
+reconocimiento de la grandeza histórica del Cid, 
+pasando por el encuentro amoroso en el granero. 
+
+Le Cid de Corneille:   es una tragicomedia de Pierre 
+Corneille estrenada  en 1636. Es una de las obras más 
+conocidas dentro del mundo de la cultura francesa y 
+responsable en gran parte de la leyenda caballeresca 
+española en Francia.  El argumento está basado en la 
+obra de Guillén de Castro Las mocedades del Cid y 
+también en los romances del Cid
+
+Don Diego y Don Gómez, conde de Gormaz, han decidido 
+unir en matrimonio a sus hijos Rodrigo y Jimena. Pero 
+cuando el rey elige como preceptor del príncipe a Don 
+Diego, el conde se pone celoso y ofende a este último 
+abofeteándolo. Don Diego, demasiado viejo para luchar, 
+deja la venganza en manos de su hijo. Rodrigo, dividido 
+entre su amor por Jimena y su deber por vengar el honor 
+de su padre, opta por la necesidad de restaurar el 
+honor familiar que a sus sentimientos por Jimena. Aún 
+sin negar su amor, Jimena pide al rey la cabeza de 
+Rodrigo.
+
+A pesar de estar más enamorada que nunca de Rodrigo, 
+convertido en un héroe nacional, Jimena mantiene su 
+postura y pide al rey que uno de sus caballeros luche 
+por ella con el fin de que le entregue la cabeza de 
+Rodrigo. El elegido es Don Sancho, que también ama a 
+Jimena, y aunque ella no le corresponde, promete 
+desposarse con quien quiera que resulte vencedor del 
+duelo a muerte. El rey accede, aunque a disgusto, pues 
+no le agrada la idea de arriesgarse a perder a Rodrigo. 
+Antes del duelo, Rodrigo habla en privado con Jimena y 
+le dice que no se defenderá contra lo que 
+simbólicamente es la mano de ella. Jimena finalmente lo 
+persuade para que lo haga lo mejor posible, porque si 
+vence se casarán.
+
+Tras el duelo, el campeón de Jimena, portando una 
+espada ensangrentada, se acerca a donde ella está 
+esperando. Al verlo, Jimena se teme lo peor, sin darle 
+oportunidad de hablar. Acude ante el rey y finalmente 
+se siente libre para confesar su amor por Rodrigo al 
+creerlo muerto. Don Sancho explica entonces que Rodrigo 
+lo venció, aunque le perdonó la vida. Rodrigo por su 
+parte, al acabar el duelo había acudido directamente 
+junto al rey, dándole su propia espada a Don Sancho 
+para que se la entregara a Jimena.
 
 
 ![alt text]{:width="400" style="float: right"}
