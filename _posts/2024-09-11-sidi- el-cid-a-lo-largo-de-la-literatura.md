@@ -77,7 +77,7 @@ publicada en 1954, y Doña Jimena Díaz de Vivar, gran
 señora de todos los deberes, en 1960.
 
 
-El estudio biográfico de Agustín Palau Claveras, El Cid 
+![alt text](<../assets/img/El cid.JPG>){:width="400" style="float: right"} El estudio biográfico de Agustín Palau Claveras, El Cid 
 Campeador (1944), que en plena posguerra, no sólo 
 continúa la exposición del “héroe nacional”, basada en 
 los estudios sobre el Cid de Menéndez Pidal, sino que 
@@ -106,7 +106,7 @@ insubordinación causada por la venganza hasta el
 reconocimiento de la grandeza histórica del Cid, 
 pasando por el encuentro amoroso en el granero. 
 
-Le Cid de Corneille:   es una tragicomedia de Pierre 
+![alt text](<../assets/img/Le cid.JPG>){:width="400" style="float: right"}Le Cid de Corneille:   es una tragicomedia de Pierre 
 Corneille estrenada  en 1636. Es una de las obras más 
 conocidas dentro del mundo de la cultura francesa y 
 responsable en gran parte de la leyenda caballeresca 
@@ -151,6 +151,15 @@ lo venció, aunque le perdonó la vida. Rodrigo por su
 parte, al acabar el duelo había acudido directamente 
 junto al rey, dándole su propia espada a Don Sancho 
 para que se la entregara a Jimena.
+
+
+![alt text](<../assets/img/el gigante.JPG>){:width="400" style="float: right"}Aunque se aman, Jimena y Rodrigo son reticentes a 
+casarse a causa de lo sucedido, aunque, las 
+circunstancias han demostrado que están hechos el uno 
+para el otro. No obstante, necesitan un tiempo para 
+adaptarse. Jimena fija la boda para un año más tarde. 
+Entre tanto, Rodrigo conducirá una guerra contra los 
+moros en su propio territorio
 
 
 ![alt text]{:width="400" style="float: right"}
