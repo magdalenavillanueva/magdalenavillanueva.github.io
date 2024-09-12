@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sidi: El Cid a lo largo de la Literatura"
-date: 2024-08-02 12:00:01 +0100
+date: 2024-09-11  12:00:01 +0100
 categories: 
     - Sidi
 ---
