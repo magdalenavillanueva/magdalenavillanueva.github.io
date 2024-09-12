@@ -162,7 +162,7 @@ Entre tanto, Rodrigo conducirá una guerra contra los
 moros en su propio territorio
 
 
-![alt text]{:width="400" style="float: right"}
+
 
 
 
