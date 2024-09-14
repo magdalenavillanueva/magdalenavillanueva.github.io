@@ -21,7 +21,7 @@ El Cid deja las tierras castellanas al ser desterrado por su rey Alfonso VI al s
      villanos, no caballeros.
   —Mucho me aprietas, Ruy Díaz.
   —Es que el lance es apretado“. </center>
-    Pág.  16.   Sidi  de Arturo Pérez Reverte.      
+Pág.  16.   Sidi  de Arturo Pérez Reverte.      
 
 
 
