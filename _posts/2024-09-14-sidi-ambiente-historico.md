@@ -35,8 +35,9 @@ y personajes forman parte de la historia. Cada personaje del poema tiene su
 referencia en la historia.
 
 
-![alt text](</assets/img/sidi 4.jpg>){:width="200" style="float: left"}
-El héroe Rodrigo Ruy Díaz de Vivar es el personaje de la novela  Sidi,
+
+![alt text](</assets/img/sidi 4.jpg>){:width="200" style="float: right"} El héroe Rodrigo Ruy 
+Díaz de Vivar es el personaje de la novela  Sidi,
 y el momento histórico que recoge la obra es el 
 resultado del convulso vivir de la época, los enfrentamientos entre moros y 
 cristianos, entre cristianos  y entre los mismos moros.  Alianzas 
