@@ -15,6 +15,7 @@ años de la vida del caballero castellano Rodrigo Díaz de Vivar, desde el inici
 destierro en 1081 hasta su muerte en 1099. 
 
 
+
 ![alt text](</assets/img/la niña.JPG>){:width="200" style="float: left"} La actualización del Poema del Cid comienza, a principios del siglo XX, con los escritores del 
 Modernismo y los de la Generación del 98. Dentro de los primeros, para quienes la literatura 
 medieval tuvo una especial consideración, destaca el poema Castilla de Manuel Machado, 
