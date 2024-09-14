@@ -8,6 +8,7 @@ categories:
 
 <center><h2>EL CANTAR DE MÍO CID: SU ORIGEN</h2></center>
 
+![alt text](</assets/img/el cantar.jpg>){:width="200" style="float: right"}
 
 Es un cantar de gesta anónimo que relata hazañas heroicas inspiradas 
 en los últimos años de la vida del caballero castellano Rodrigo Díaz 
@@ -36,7 +37,10 @@ considerable extensión, y es el hecho que toma Arturo Pérez Reverte
 para construir su  Sidi.
 
 
-Fecha y lugar de composición  del Cantar de mío Cid
+**Fecha y lugar de composición  del Cantar de mío Cid:**
+
+![alt text](</assets/img/el poder.jpeg>){:width="200" style="float: right"}
+
 El Cantar de Mío Cid arranca del primer destierro, Además, todo lo 
 relativo a los matrimonios entre las hijas del Cid y los infantes de 
 Carrión    La proporción de historia y poesía ha sido un importante 
