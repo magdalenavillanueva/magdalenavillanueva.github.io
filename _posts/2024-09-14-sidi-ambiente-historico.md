@@ -39,5 +39,26 @@ que  se daban un día y al siguiente ya eran olvidados y los amigos
 de ayer pasaban a ser los enemigos de hoy y viceversa. 
 
 
-![alt text](</assets/img/sidi 7 (1).jpg](<../assets/img/sidi 7 (3).jpg>)>){:width="200" style="float: right"}
+![alt text](</assets/img/sidi 5.jpg>){:width="200" style="float: right"} El destierro del Cid por parte del rey Alfonso VI se da 
+después que los nobles obligan al rey a jurar que no tuvo que ver 
+con la muerte de su  hermano  Sancho. Ante esta afrenta el rey se 
+ensaña con el Cid por ser el que dio la cara y ser de los nobles de 
+bajo rango.
+
+
+![alt text](</assets/img/sidi 6.jpg>){:width="200" style="float: right"}Después del destierro del Cid, su espada pasó a formar parte del que  pudiera pagarle, ya sea moro o cristiano. Hay que hacer 
+notar que el Cid a pesar del exilio por parte del rey Alfonso 
+mantuvo su fidelidad y lealtad al mismo, demostrando sus valores 
+morales, religiosos muy por encima de los egoísmos, resentimientos 
+propios del  ser humano.
+
+
+La contienda por la Reconquista era todavía una idea usada a 
+conveniencia para recuperar espacios geográficos. Duró 
+aproximadamente 780 años entre la conquista Omeya de Hispania en 711 
+y la caída del reino nazarí de Granada en 1492 ante los reinos 
+cristianos en expansión. El comienzo de la Reconquista se marca con 
+la batalla de Covadonga entre 718 o 722, y culmina con la conquista 
+completa de Granada.   Después de 1492 toda la península fue 
+controlada por gobernantes cristianos.![alt text](</assets/img/sidi 7.jpg>){:width="200" style="float: right"}
 
