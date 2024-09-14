@@ -8,6 +8,8 @@ categories:
 
 <center><h2>EL CANTAR DE MÍO CID: SU ORIGEN</h2></center>
 
+
+
 ![alt text](</assets/img/el cantar.jpg>){:width="200" style="float: right"}
 
 Es un cantar de gesta anónimo que relata hazañas heroicas inspiradas 
