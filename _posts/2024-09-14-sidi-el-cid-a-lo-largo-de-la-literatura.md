@@ -15,7 +15,7 @@ literatura española en una lengua romance. Relata las hazañas heroicas inspira
 años de la vida del caballero castellano Rodrigo Díaz de Vivar, desde el inicio de su primer 
 destierro en 1081 hasta su muerte en 1099. 
 
-![image](</assets/img/La niña de nueve años  ante el Cid.jpg>){:width="200" style="float: right; padding:10px"} La actualización del Poema del Cid comienza, a principios del siglo XX, con los escritores del 
+![image](</assets/img/La niña de nueve años  ante el Cid.jpg>){:width="400" style="float: right"} La actualización del Poema del Cid comienza, a principios del siglo XX, con los escritores del 
 Modernismo y los de la Generación del 98. Dentro de los primeros, para quienes la literatura 
 medieval tuvo una especial consideración, destaca el poema Castilla de Manuel Machado, 
 perteneciente a su libro Alma (1902), en el que la recreación del episodio de la “niña de nueve 
