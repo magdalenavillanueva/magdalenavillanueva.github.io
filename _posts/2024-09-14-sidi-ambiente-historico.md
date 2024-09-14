@@ -31,7 +31,7 @@ forman parte de la historia. Cada personaje del poema tiene su
 referencia en la historia.
 
 
-![alt text](</assets/img/sidi 4.jpg>){:width="200" style="float: right"}El héroe Rodrigo Ruy Díaz de Vivar es el personaje de la novela 
+![alt text](</assets/img/sidi 4.jpg>){:width="200" style="float: left"}El héroe Rodrigo Ruy Díaz de Vivar es el personaje de la novela 
 Sidi, y el momento histórico que recoge la obra es el resultado del 
 convulso vivir de la época, los enfrentamientos entre moros y 
 cristianos, entre cristianos  y entre los mismos moros.  Alianzas 
@@ -60,5 +60,6 @@ y la caída del reino nazarí de Granada en 1492 ante los reinos
 cristianos en expansión. El comienzo de la Reconquista se marca con 
 la batalla de Covadonga entre 718 o 722, y culmina con la conquista 
 completa de Granada.   Después de 1492 toda la península fue 
-controlada por gobernantes cristianos.![alt text](</assets/img/sidi 7.jpg>){:width="200" style="float: right"}
+controlada por gobernantes cristianos.
+![alt text](</assets/img/sidi 7.jpg>){:width="200" style="float: right"}
 
