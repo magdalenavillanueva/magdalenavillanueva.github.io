@@ -10,16 +10,18 @@ categories:
 
 
 
+
 El Cid deja las tierras castellanas al ser desterrado por su rey Alfonso VI al ser obligado a jurar en Santa Gadea de Burgos, que nada había tenido que ver en el asesinato de su hermano Sancho:
 
 
- “—Juráis no tener parte en el crimen contra vuestro hermano?
+ <center>“—Juráis no tener parte en el crimen contra vuestro hermano?
   —Sí, juro.
   —Si decís verdad, que Dios os lo premie. Y si perjuráis, que os lo
      demande. Y como al rey don Sancho, también os maten a traición   
      villanos, no caballeros.
   —Mucho me aprietas, Ruy Díaz.
-  —Es que el lance es apretado“.   Pág.  16.   Sidi  de Arturo Pérez Reverte.      
+  —Es que el lance es apretado“. </center>
+    Pág.  16.   Sidi  de Arturo Pérez Reverte.      
 
 
 
