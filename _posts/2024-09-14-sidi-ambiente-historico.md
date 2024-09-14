@@ -9,6 +9,7 @@ categories:
 <center><h2>AMBIENTE HISTORICO:</h2></center>
 
 
+
 ![alt text](</assets/img/sidi 1.jpg>){:width="300" style="float: right"}La historicidad del Poema del Mío Cid se encuadra en el siglo 
 XI cuando los árabes invaden la península ibérica casi en su 
 totalidad y la dividen en dos: la parte sur tomada por los 
@@ -17,12 +18,16 @@ durará hasta  mediados del siglo XII cuando el  reino de Castilla
 asume la Reconquista. 
 
 
-![alt text](</assets/img/sidi 2.jpg>){:width="300" style="float: right"} El desembarco del general bereber Táriq ibn Ziyad en 
+![alt text](</assets/img/sidi 2.jpg>){:width="300" style="float: right"} 
+El desembarco del general bereber Táriq ibn Ziyad en 
 Gibraltar, inició la conquista musulmana de la península ibérica al 
 vencer a Rodrigo, el  último rey visigodo,  y luego,   fue ocupada 
 en su totalidad hacia 718. Tras controlar  casi todo el territorio, 
 al que llamaron Al Ándalus, permanecieron ocho siglos en los que 
-influyeron en la economía, la ciencia, el arte y el lenguaje. ![alt text](</assets/img/sidi 3.jpg>){:width="300" style="float: right"}  
+influyeron en la economía, la ciencia, el arte y el lenguaje.
+ ![alt text](</assets/img/sidi 3.jpg>){:width="300" style="float: right"}  
+
+
 
 
 Los hechos que narra el poema no faltan a la realidad histórica y 
@@ -46,18 +51,20 @@ ensaña con el Cid por ser el que dio la cara y ser de los nobles de
 bajo rango.
 
 
-![alt text](</assets/img/sidi 6.jpg>){:width="300" style="float: left"}Después del destierro del Cid, su espada pasó a formar parte del que  pudiera pagarle, ya sea moro o cristiano. Hay que hacer notar que el Cid a pesar del exilio por parte del rey Alfonso 
+
+![alt text](</assets/img/sidi 6.jpg>){:width="300" style="float: left"}
+Después del destierro del Cid, su espada pasó a formar parte del que  pudiera pagarle, ya sea moro o cristiano. Hay que hacer notar que el Cid a pesar del exilio por parte del rey Alfonso 
 mantuvo su fidelidad y lealtad al mismo, demostrando sus valores 
 morales, religiosos muy por encima de los egoísmos, resentimientos 
 propios del  ser humano.
 
 
-La contienda por la Reconquista era todavía una idea usada a 
+ 
+![alt text](</assets/img/sidi 7.jpg>){:width="300" style="float: right"}La contienda por la Reconquista era todavía una idea usada a 
 conveniencia para recuperar espacios geográficos. Duró 
 aproximadamente 780 años entre la conquista Omeya de Hispania en 711 
 y la caída del reino nazarí de Granada en 1492 ante los reinos 
 cristianos en expansión. El comienzo de la Reconquista se marca con 
 la batalla de Covadonga entre 718 o 722, y culmina con la conquista 
 completa de Granada.   Después de 1492 toda la península fue 
-controlada por gobernantes cristianos. ![alt text](</assets/img/sidi 7.jpg>){:width="300" style="float: right"}
-
+controlada por gobernantes cristianos. 
