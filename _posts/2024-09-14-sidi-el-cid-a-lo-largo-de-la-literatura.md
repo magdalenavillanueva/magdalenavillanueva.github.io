@@ -59,7 +59,7 @@ reconocimiento de la grandeza histórica del Cid, pasando por el encuentro amoro
 
 
 **Le Cid de Corneille:**
-![alt text](</assets/img/Le cid.JPG>){:width="200" style="float: right"}
+![alt text](</assets/img/Le cid.JPG>){:width="200" style="float: left"}
 Es una tragicomedia de Pierre Corneille estrenada  en 1636. Es una de las obras más conocidas 
 dentro del mundo de la cultura francesa y responsable en gran parte de la leyenda caballeresca 
 española en Francia.  El argumento está basado en la obra de Guillén de Castro Las mocedades del 
