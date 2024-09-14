@@ -25,11 +25,9 @@ vencer a Rodrigo, el  último rey visigodo,  y luego,   fue ocupada
 en su totalidad hacia 718. Tras controlar  casi todo el territorio, 
 al que llamaron Al Ándalus, permanecieron ocho siglos en los que 
 influyeron en la economía, la ciencia, el arte y el lenguaje.
- ![alt text](</assets/img/sidi 3.jpg>){:width="300" style="float: right"}  
 
 
-
-
+ ![alt text](</assets/img/sidi 3.jpg>){:width="300" style="float: left"}  
 Los hechos que narra el poema no faltan a la realidad histórica y 
 geográfica. Tanto los lugares como los acontecimientos y personajes 
 forman parte de la historia. Cada personaje del poema tiene su 
@@ -52,8 +50,7 @@ bajo rango.
 
 
 
-![alt text](</assets/img/sidi 6.jpg>){:width="300" style="float: left"}
-Después del destierro del Cid, su espada pasó a formar parte del que  pudiera pagarle, ya sea moro o cristiano. Hay que hacer notar que el Cid a pesar del exilio por parte del rey Alfonso 
+![alt text](</assets/img/sidi 6.jpg>){:width="300" style="float: left"} Después del destierro del Cid, su espada pasó a formar parte del que  pudiera pagarle, ya sea moro o cristiano. Hay que hacer notar que el Cid a pesar del exilio por parte del rey Alfonso 
 mantuvo su fidelidad y lealtad al mismo, demostrando sus valores 
 morales, religiosos muy por encima de los egoísmos, resentimientos 
 propios del  ser humano.
