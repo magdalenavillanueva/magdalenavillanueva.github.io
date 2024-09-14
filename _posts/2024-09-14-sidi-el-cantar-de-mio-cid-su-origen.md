@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sidi: El Cantar de Mio Cid: Su Origen"
-date: 2024-09-15  12:00:01 +0100
+date: 2024-09-14  12:00:01 +0100
 categories: 
     - Sidi
 ---
