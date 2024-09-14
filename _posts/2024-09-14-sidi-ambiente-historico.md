@@ -27,19 +27,22 @@ al que llamaron Al Ándalus, permanecieron ocho siglos en los que
 influyeron en la economía, la ciencia, el arte y el lenguaje.
 
 
- ![alt text](</assets/img/sidi 3.jpg>){:width="200" style="float: left"} Los hechos que narra el poema no faltan a la realidad histórica y geográfica. Tanto los lugares como los acontecimientos y personajes forman parte de la historia. Cada personaje del poema tiene su 
+![alt text](</assets/img/sidi 3.jpg>){:width="200" style="float: left"} Los hechos que narra el 
+poema no faltan a la realidad histórica y geográfica. Tanto los lugares como los acontecimientos 
+y personajes forman parte de la historia. Cada personaje del poema tiene su 
 referencia en la historia.
 
 
-![alt text](</assets/img/sidi 4.jpg>){:width="200" style="float: righ"}El héroe Rodrigo Ruy Díaz de Vivar es el personaje de la novela 
-Sidi, y el momento histórico que recoge la obra es el resultado del 
-convulso vivir de la época, los enfrentamientos entre moros y 
+![alt text](</assets/img/sidi 4.jpg>){:width="200" style="float: righ"}El héroe Rodrigo Ruy Díaz 
+de Vivar es el personaje de la novela  Sidi, y el momento histórico que recoge la obra es el 
+resultado del convulso vivir de la época, los enfrentamientos entre moros y 
 cristianos, entre cristianos  y entre los mismos moros.  Alianzas 
 que  se daban un día y al siguiente ya eran olvidados y los amigos 
 de ayer pasaban a ser los enemigos de hoy y viceversa. 
 
 
-![alt text](</assets/img/sidi 5.jpg>){:width="200" style="float: right"} El destierro del Cid por parte del rey Alfonso VI se da 
+![alt text](</assets/img/sidi 5.jpg>){:width="200" style="float: right"} El destierro del Cid por 
+parte del rey Alfonso VI se da 
 después que los nobles obligan al rey a jurar que no tuvo que ver 
 con la muerte de su  hermano  Sancho. Ante esta afrenta el rey se 
 ensaña con el Cid por ser el que dio la cara y ser de los nobles de 
