@@ -25,7 +25,7 @@ Pág.  16.   Sidi  de Arturo Pérez Reverte.
 
 
 
-![alt text](</assets/img/San Pedro de Cardeña.jpg>){:width="250" style="float: right"}Este infanzón castellano, es el único que se atrevió a exigir 
+![alt text](</assets/img/San Pedro de Cardeña.jpg>){:width="300" style="float: right"}Este infanzón castellano, es el único que se atrevió a exigir 
 juramento al rey. Medio año más tarde de esto, estaba decretado su 
 destierro. El Cid sale de Vivar con la orden real de abandonar 
 Castilla  y dejar a sus hijas y a su mujer en el monasterio de San 
