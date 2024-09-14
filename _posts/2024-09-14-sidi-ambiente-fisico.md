@@ -9,6 +9,7 @@ categories:
 <center><h2>AMBIENTE FÍSICO:</h2></center>
 
 
+
 El Cid deja las tierras castellanas al ser desterrado por su rey Alfonso VI al ser obligado a jurar en Santa Gadea de Burgos, que nada había tenido que ver en el asesinato de su hermano Sancho:
 
 
@@ -22,7 +23,7 @@ El Cid deja las tierras castellanas al ser desterrado por su rey Alfonso VI al s
 
 
 
-![alt text](</assets/img/San Pedro de Cardeña.jpg>){:width="200" style="float: right"}Este infanzón castellano, es el único que se atrevió a exigir 
+![alt text](</assets/img/San Pedro de Cardeña.jpg>){:width="250" style="float: right"}Este infanzón castellano, es el único que se atrevió a exigir 
 juramento al rey. Medio año más tarde de esto, estaba decretado su 
 destierro. El Cid sale de Vivar con la orden real de abandonar 
 Castilla  y dejar a sus hijas y a su mujer en el monasterio de San 
@@ -30,7 +31,7 @@ Pedro de Cardeña, donde quedaban confiadas al amparo de los
 frailes.  
 
 
-![alt text](</assets/img/camino del cid.jpg>){:width="200" style="float: right"}Desterrado de Castilla, leal a su rey pese a todo, imposibilitado 
+![alt text](</assets/img/camino del cid.jpg>){:width="400" style="float: right"}Desterrado de Castilla, leal a su rey pese a todo, imposibilitado 
 para luchar contra éste o sus aliados mahometanos o cristianos, no 
 le  quedaba sino guerrear en tierra de moros. De ahí, se enrumbaron 
 camino a Zaragoza donde ofrece sus servicios como guerrero a Yusuf 
