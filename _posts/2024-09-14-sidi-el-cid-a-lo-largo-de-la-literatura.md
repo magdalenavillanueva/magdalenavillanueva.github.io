@@ -14,7 +14,9 @@ El cantar de gesta llamado Cantar del Mío Cid es la primera obra narrativa exte
 literatura española en una lengua romance. Relata las hazañas heroicas inspiradas en los últimos 
 años de la vida del caballero castellano Rodrigo Díaz de Vivar, desde el inicio de su primer 
 destierro en 1081 hasta su muerte en 1099. 
-![alt text](</assets/img/La niña de nueve años  ante el Cid.jpg>){:width="200" style="float: right"}{:width="200" style="float: right"} La actualización del Poema del Cid comienza, a principios del siglo XX, con los escritores del 
+
+
+![alt text](</assets/img/La niña de nueve años  ante el Cid.jpg>){:width="200" style="float: right"} La actualización del Poema del Cid comienza, a principios del siglo XX, con los escritores del 
 Modernismo y los de la Generación del 98. Dentro de los primeros, para quienes la literatura 
 medieval tuvo una especial consideración, destaca el poema Castilla de Manuel Machado, 
 perteneciente a su libro Alma (1902), en el que la recreación del episodio de la “niña de nueve 
@@ -57,7 +59,7 @@ sicológico de Jimena, que se mueve desde la insubordinación causada por la ven
 reconocimiento de la grandeza histórica del Cid, pasando por el encuentro amoroso en el granero. 
 
 
-Le Cid de Corneille:
+**Le Cid de Corneille:**
 ![alt text](</assets/img/Le cid.JPG>){:width="200" style="float: right"}
 Es una tragicomedia de Pierre Corneille estrenada  en 1636. Es una de las obras más conocidas 
 dentro del mundo de la cultura francesa y responsable en gran parte de la leyenda caballeresca 
