@@ -8,7 +8,6 @@ categories:
 
 <center><h2>EL CID A LO LARGO DE LA LITERATURA:</h2></center>
 
-
 ![alt text](</assets/img/Primer folio del manuscrito del Cantar de mío Cid.jpg>){:width="200" style="float: right"}
 El cantar de gesta llamado Cantar del Mío Cid es la primera obra narrativa extensa de la 
 literatura española en una lengua romance. Relata las hazañas heroicas inspiradas en los últimos 
