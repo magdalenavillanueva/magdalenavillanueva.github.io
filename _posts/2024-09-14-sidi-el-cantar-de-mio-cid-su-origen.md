@@ -93,5 +93,3 @@ Roldán, y en la que el arte juglaresco ha alcanzado una fina y sutil
 madurez sin perder el primitivismo, la naturalidad y el estilo 
 inmediato e improvisado que debió de revestir la gesta en sus viejas 
 y desconocidas formas anteriores.
-
-![alt text](</assets/img/primer folio.JPG>){:width="200" style="float: right"}
