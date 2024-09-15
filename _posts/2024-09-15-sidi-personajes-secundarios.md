@@ -36,7 +36,7 @@ heredar pero la muerte violenta de su hermano Sancho, que no dejó descendencia,
 permitió .
 
 
-![alt text](</assets/img/sidi 15.jpg>){:width="200" style="float: right"}
+![alt text](</assets/img/sidi 15.jpg>){:width="300" style="float: right"}
 **Rodrigo Díaz de Vivar:**
 Obligó a Alfonso VI, rey de León, Galicia y Castilla, a jurar en la iglesia de 
 Santa Gadea de Burgos, que no había tomado parte en el asesinato de su propio 
@@ -44,7 +44,7 @@ hermano, el rey Sancho II, quien fue asesinado ante los muros de la ciudad de
 Zamora. Después del juramento el Rey Alfonso destierra al Cid de Castilla.
 
 
-Berenguer Remont II: joven, altanero y demasiado seguro de sí mismo. Bien 
+**Berenguer Remont II:** joven, altanero y demasiado seguro de sí mismo. Bien 
 parecido, ojos claros, lucía una barba rubia rojiza con bigote rizado, alto de 
 cuerpo. Es conde de Barcelona, heredado de su hermano gemelo, Remont Berenguer, 
 al que en fecha reciente había hecho asesinar. De ahí, que lo llaman el 
@@ -52,9 +52,9 @@ fratricida, como se observa en este ejemplo cuando el Sidi le dice: ´´Os supon
 acostumbrado a que os degüellen gente y a degollar… Incluso en familia. 
 Palideció el otro con la alusión´´.  Pág. 281. Sidi  de Arturo Pérez Reverte.
 
-Alvar Ansúrez:  burgalés, siempre iba junto a Alvar Salvadórez.
+**Alvar Ansúrez:**  burgalés, siempre iba junto a Alvar Salvadórez.
 
-Alvar Salvadórez:  es el segundo de Martín Antolínez
+**Alvar Salvadórez:**  es el segundo de Martín Antolínez
 
 ![alt text](</assets/img/sidi 16.jpg>){:width="200" style="float: right"}
 **Martín Antolínez:** burgalés de pelo entrecano, amigo de Rodrigo y viejo 
@@ -134,7 +134,7 @@ eficaz luchador, segundo en el mando moro.
 
 **Yusuf al-Aftas:**  alcalde, era un hombre poco belicoso. 
 
-***Ali Taxufin:** un moro renegrido y silencioso, bajo de estatura pero muy 
+**Ali Taxufin:** un moro renegrido y silencioso, bajo de estatura pero muy 
 fuerte y compacto. Era el segundo de Yaqub al-Jatib.
 
 **Raxida:**  viuda de ojos verdes, labios bien dibujados, gruesos y sensuales, 
