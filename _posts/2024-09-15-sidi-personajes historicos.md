@@ -21,19 +21,19 @@ de Galicia (1071-1072) y de León (1072).
 
 
 **Alfonso VI:** 
-Hijo de Fernando I de León y de su esposa, la reina Sancha, fue rey de 
+![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: right"}Hijo de 
+Fernando I de León y de su esposa, la reina Sancha, fue rey de 
 León entre 1052 y 1072 en un primer reinado, y entre 1072 y 1109 en un segundo, de 
 Galicia entre 1071 y 1072 y también entre 1072 y 1109, y de Castilla entre
 1072 y 1109. Durante su reinado, se produjo la conquista de Toledo (1085) y tuvieron 
 lugar las batallas de Sagrajas y Uclés, que constituyeron sendas derrotas para las 
 mesnadas leonesas y castellanas. En la segunda falleció el heredero del rey, el 
-infante Sancho Alfónsez.![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: right"}
+infante Sancho Alfónsez.
 
 
 
 
 ![alt text](</assets/img/sidi 10.jpg>){:width="200" style="float: left"}
-
 **Berenguer Remont II:** 
 Fue conde de Barcelona (1076-1097). Era hijo de Ramón 
 Berenguer I y de Almodis de la Marca. Al principio gobernó junto a su hermano gemelo, 
@@ -62,7 +62,10 @@ posteriormente, lo apodaron el Fratricida
 
 
 **Abú Yaáfar Áhmad ibn Sulaymán al-Muqtádir bi-L·la:**  
-Rey de la taifa de Saraqusta entre 1046 y 1081. Abú Yaáfar al-Muqtádir, de la dinastía de los Banu Hud, llevó a la taifa de Zaragoza a su máximo apogeo político y cultural. Fue mecenas de las ciencias, de la filosofía y de las artes. Mandó construir el bello palacio de la  Aljafería donde se reunieron importantes intelectuales andalusíes.
+Rey de la taifa de Saraqusta entre 1046 y 1081. Abú Yaáfar al-Muqtádir, de la dinastía 
+de los Banu Hud, llevó a la taifa de Zaragoza a su máximo apogeo político y cultural. 
+Fue mecenas de las ciencias, de la filosofía y de las artes. Mandó construir el bello 
+palacio de la  Aljafería donde se reunieron importantes intelectuales andalusíes.
 
 
 Al-Muqtádir consiguió reunir bajo su mandato las tierras disgregadas tras el reparto 
@@ -84,7 +87,8 @@ más tarde como El Cid, apodo que deriva del árabe Sidi y significa Señor.
 Fue rey de la taifa de Zaragoza de la 
 dinastía hudí en su momento de máximo esplendor  entre 1081 y 1085, tras el pujante 
 reinado de su padre al-Muqtádir. Fue asimismo un rey erudito, protector de las 
-ciencias, de la filosofía y de las artes, conocedor de las matemáticas, la astrología y la filosofía, que continuó la labor de su padre al-Muqtádir creando una corte de 
+ciencias, de la filosofía y de las artes, conocedor de las matemáticas, la astrología 
+y la filosofía, que continuó la labor de su padre al-Muqtádir creando una corte de 
 sabios intelectuales que tenía como marco el bello palacio de la Aljafería.
 
 
@@ -93,16 +97,16 @@ que comprendía Zaragoza, Tudela, Huesca y Calatayud, quedando al-Múndir con la
 costera del reino: Lérida, Monzón, Tortosa y Denia.
 
 
-![alt text](</assets/img/sidi 13.jpg>){:width="200" style="float: left"}
+![alt text](</assets/img/sidi 13.jpg>){:width="300" style="float: left"}
 **Walida al-Mustaqfi:** 
 Fue una poetisa de Córdoba, Andalucía, hija de Muhammad 
 al-Mustakfi, del efímero undécimo califa de Córdoba. Era una mujer instruida y sabia, 
 segura y decidida, recordada por un papel activo en la sociedad a pesar de los 
 limitantes de su posición, el ser una mujer en un contexto árabe medieval:
 
-<center>´´Aunque las gentes admiren mi belleza,
-soy como las gacelas de La Meca
-cuya caza está prohibida´´.</center> 
+    <center>´´Aunque las gentes admiren mi belleza,
+    soy como las gacelas de La Meca
+    cuya caza está prohibida´´.</center> 
 Sidi  de Arturo Pérez Reverte.  Pág. 126.
 
 Walida se salía de las normas de la época, y no cumplía con los cánones habituales de 
