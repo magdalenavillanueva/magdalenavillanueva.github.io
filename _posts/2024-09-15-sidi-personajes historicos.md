@@ -54,8 +54,7 @@ posteriormente, lo apodaron el Fratricida
 
 **PERSONAJES MOROS:**
 
-![alt text](</assets/img/sidi 12.jpg>){:width="200" style="float: left"}**Abú Yaáfar 
-Áhmad ibn Sulaymán al-Muqtádir bi-L·la:**  
+**Abú Yaáfar Áhmad ibn Sulaymán al-Muqtádir bi-L·la:**  
 Rey de la taifa de Saraqusta entre 1046 y 1081. Abú Yaáfar al-Muqtádir, de la dinastía de los Banu Hud, llevó a la taifa de Zaragoza a su máximo apogeo político y cultural. Fue mecenas de las ciencias, de la filosofía y de las artes. Mandó construir el bello palacio de la  Aljafería donde se reunieron importantes intelectuales andalusíes.
 
 
