@@ -15,13 +15,13 @@ categories:
 
 Se clasifican en amigos y enemigos de Rodrigo Ruy Díaz.
 
-**Sancho II:**
+![alt text](</assets/img/sidi 8.jpg>){:width="100" style="float: left"}**Sancho II:**
 Generoso, arrogante y batallador, fue el primer rey de Castilla y, por 
 conquista, de Galicia  y de León. Consiguió reunificar la herencia de su padre 
 Fernando I de León. Sin embargo, no disfrutó mucho tiempo de ello, puesto que 
 murió meses después asesinado en el cerco de Zamora, heredando los tres reinos 
 unidos su hermano Alfonso VI
-![alt text](</assets/img/sidi 8.jpg>){:width="100" style="float: left"}
+
 
                                                                      
 
