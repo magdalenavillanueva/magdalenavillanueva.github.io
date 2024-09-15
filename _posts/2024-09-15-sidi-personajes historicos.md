@@ -6,97 +6,105 @@ categories:
     - Sidi
 ---
 
+
 <center><h2>PERSONAJES HISTÓRICOS:</h2></center>
 
 
 
-![alt text](</assets/img/primer folio.JPG>){:width="200" style="float: right"}
-El cantar de gesta llamado Cantar del Mío Cid es la primera obra narrativa extensa de la 
-literatura española en una lengua romance. Relata las hazañas heroicas inspiradas en los últimos 
-años de la vida del caballero castellano Rodrigo Díaz de Vivar, desde el inicio de su primer 
-destierro en 1081 hasta su muerte en 1099. 
+**PERSONAJES CRISTIANOS:**
+
+![alt text](</assets/img/sidi 8.jpg>){:width="200" style="float: right"}**Sancho 
+II:**  fue el primer rey de Castilla, entre 1065 y 1072, y, por conquista, de Galicia 
+(1071-1072) y de León 
+(1072).                                                                                
+
+**Alfonso VI:** hijo de Fernando I de León y de su esposa, la reina Sancha, fue rey de 
+León entre 1052 y 1072 en un primer reinado, y entre 1072 y 1109 en un segundo, de 
+Galicia entre 1071 y 1072 y también entre 1072 y 1109, y de Castilla entre 1072 y 
+1109. Durante su reinado, se produjo la conquista de Toledo (1085) y tuvieron lugar 
+las batallas de Sagrajas y Uclés, que constituyeron sendas derrotas para las mesnadas 
+leonesas y castellanas. En la segunda falleció el heredero del rey, el infante Sancho 
+Alfónsez. ![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: left"}
 
 
 
-![alt text](</assets/img/la niña.JPG>){:width="200" style="float: left"} La actualización del Poema del Cid comienza, a principios del siglo XX, con los escritores del 
-Modernismo y los de la Generación del 98. Dentro de los primeros, para quienes la literatura 
-medieval tuvo una especial consideración, destaca el poema Castilla de Manuel Machado, 
-perteneciente a su libro Alma (1902), en el que la recreación del episodio de la “niña de nueve 
-años”, que se hace oír en el poema como la voz del destierro, le sirve a Machado para 
-contraponer, a través del diálogo que es casi monólogo, la delicadeza de la niña y el valor del 
-héroe.
+![alt text](</aassets/img/sidi 10.jpg>){:width="200" style="float: right"}
+**Berenguer Remont II:** fue conde de Barcelona (1076-1097). Era hijo de Ramón 
+Berenguer I y de Almodis de la Marca. Al principio gobernó junto a su hermano gemelo, 
+Ramón Berenguer II. Nació en 1053 o 1054 y sucedió a su padre, Ramón Berenguer I, en 
+1076. Los gemelos no estaban de acuerdo, y dividieron sus posesiones contra la 
+voluntad de su padre. Ramón Berenguer II murió a manos de su hermano, Berenguer Ramón 
+II el 5 de diciembre de 1082. Su hermano, quien se hizo único conde de Barcelona, fue, 
+según la opinión popular,  el confabulador de su asesinato.
 
 
-También habría que destacar la recreación intrahistórica, mítica e ideal, en clave unamuniana, 
-que hace Menéndez Pidal en La España del Cid (1929), donde la visión humana del héroe, ligada a 
-la aventura misma de la lengua, se impone sobre el elemento bélico: la vida del Cid nunca tuvo 
-como principal ese aspecto guerrero que alguien puede creer único en ella, y   que si lo es en la 
-vida de otros héroes análogos, como, por ejemplo, Roldán. El Cid ofreció siempre un mayor interés 
-humano, palpitante en su gran obra.
+![alt text](</assets/img/sidi 11.jpg>){:width="200" style="float: left"}**Ramón Berenguer II:** llamado Cabeza de Estopa (en catalán Cap d'Estopes) en alusión 
+a su espesa cabellera de color rubio pajizo, fue conde de Barcelona, de Gerona, de 
+Osona, de Carcasona y de Rasez entre 1076 y 1082.  Ramón Berenguer se dirigía a 
+Barcelona atravesando el bosque de Perxa del Astor, actualmente dentro del término 
+municipal de Gualba. Unos desconocidos, tal vez sus propios acompañantes, le 
+asesinaron en ese bosque. Su cadáver fue trasladado a Gerona donde recibió sepultura. 
+Su hermano, Berenguer Ramón II, fue acusado de este asesinato, por lo que 
+posteriormente, lo apodaron el Fratricida
 
 
-La Generación del 27, en su intento de fundir tradición y novedad, se preocupó por la figura del 
-héroe castellano. Dentro de ella destacan tres autores: Pedro Salinas, que escribió tres ensayos: 
-El Poema de Mío Cid y un romance viejo”, (1940), “El Cantar de Mío Cid, Poema de la honra”, de 
-1945, y “La vuelta al esposo: ensayo sobre estructura y sensibilidad en el Cantar de Mío Cid”, de 
-1947; Dámaso Alonso, “Estilo y creación en el Poema del Cid”, de 1941; y Gerardo Diego, “El ritmo 
-en el Poema del Cid”, de 1943. 
+**PERSONAJES MOROS:**
+
+![alt text](</assets/img/sidi 12.jpg>){:width="200" style="float: left"}**Abú Yaáfar 
+Áhmad ibn Sulaymán al-Muqtádir bi-L·la:**  rey de la taifa de Saraqusta entre 1046 y 
+1081. Abú Yaáfar al-Muqtádir, de la dinastía de los Banu Hud, llevó a la taifa de 
+Zaragoza a su máximo apogeo político y cultural. Fue mecenas de las ciencias, de la 
+filosofía y de las artes. Mandó construir el bello palacio de la  Aljafería donde se 
+reunieron importantes intelectuales andalusíes.
 
 
-![alt text](</assets/img/El cid.JPG>){:width="200" style="float: right"}El estudio biográfico de Agustín Palau Claveras, El Cid Campeador (1944), que en plena posguerra, 
-no sólo continúa la exposición del “héroe nacional”, basada en los estudios sobre el Cid de 
-Menéndez Pidal, sino que además lo convierte en figura pública, manteniendo con brillantez los 
-motivos convencionales de la piedad filial y el motivo de la honra.
-
-La visión moderna del Cid cambia con la película de Anthony Mann en 1961, pues abarca toda la 
-vida adulta del héroe castellano, apareciendo éste como reflejo de la época histórica que le tocó 
-vivir. El director, asesorado literariamente por Ramón Menéndez Pidal, combina diversos motivos 
-tradicionales, como el odio de Urraca por el Cid en su juventud, que subyace en el Cantar de 
-Sancho II, el carácter arrogante del joven Rodrigo, según aparece en las Mocedades, la exaltación 
-política del héroe en los últimos años, que nos cuenta el Cantar de Mío Cid, el amor apasionado 
-entre Rodrigo y Jimena, que debe bastante a Le Cid de Corneille, y utiliza la técnica de la unión 
-de contrastes extremos, como el de la felicidad privada frente a la misión nacional, con el 
-objeto de subrayar la interdependencia entre lo público y lo privado. Se destaca el proceso 
-sicológico de Jimena, que se mueve desde la insubordinación causada por la venganza hasta el 
-reconocimiento de la grandeza histórica del Cid, pasando por el encuentro amoroso en el granero. 
+Al-Muqtádir consiguió reunir bajo su mandato las tierras disgregadas tras el reparto 
+de los dominios de Zaragoza entre sus hermanos hecha por su padre Sulaymán ibn Hud 
+al-Musta'in. Solo Yúsuf, gobernador de Lérida, resistió durante más de treinta años 
+los intentos de integración de su hermano, hasta que fue hecho prisionero en 1078.  
 
 
-**Le Cid de Corneille:**
-![alt text](</assets/img/Le cid.JPG>){:width="200" style="float: left"}
-Es una tragicomedia de Pierre Corneille estrenada  en 1636. Es una de las obras más conocidas 
-dentro del mundo de la cultura francesa y responsable en gran parte de la leyenda caballeresca 
-española en Francia.  El argumento está basado en la obra de Guillén de Castro Las mocedades del 
-Cid y también en los romances del Cid.
+La difícil situación de Zaragoza, amenazada por el reino de Aragón de Ramiro I y 
+Sancho Ramírez y en constante litigio fronterizo por las tierras de la extremadura 
+navarra y castellana (Tudela, Soria, Guadalajara), obligaban tanto a Al-Muqtádir como 
+a Yúsuf de Lérida a pagar parias a sus vecinos cristianos, en especial al poderoso 
+Alfonso VI de León. Hasta el punto de que, en 1081, su sucesor, Al-Mutaman hubo de 
+contratar los servicios de un mercenario castellano, Rodrigo Díaz de Vivar, conocido 
+más tarde como El Cid, apodo que deriva del árabe Sidi y significa Señor.
 
 
-Don Diego y Don Gómez, conde de Gormaz, han decidido unir en matrimonio a sus hijos Rodrigo y 
-Jimena. Pero cuando el rey elige como preceptor del príncipe a Don Diego, el conde se pone celoso 
-y ofende a este último abofeteándolo. Don Diego, demasiado viejo para luchar, deja la venganza en 
-manos de su hijo. Rodrigo, dividido entre su amor por Jimena y su deber por vengar el honor de su 
-padre, opta por la necesidad de restaurar el honor familiar que a sus sentimientos por Jimena. 
-Aún sin negar su amor, Jimena pide al rey la cabeza de Rodrigo.
-
-A pesar de estar más enamorada que nunca de Rodrigo, convertido en un héroe nacional, Jimena 
-mantiene su postura y pide al rey que uno de sus caballeros luche por ella con el fin de que le 
-entregue la cabeza de Rodrigo. El elegido es Don Sancho, que también ama a Jimena, y aunque ella 
-no le corresponde, promete desposarse con quien quiera que resulte vencedor del duelo a muerte. 
-El rey accede, aunque a disgusto, pues no le agrada la idea de arriesgarse a perder a Rodrigo. 
-Antes del duelo, Rodrigo habla en privado con Jimena y le dice que no se defenderá contra lo que 
-simbólicamente es la mano de ella. Jimena finalmente lo persuade para que lo haga lo mejor 
-posible, porque si vence se casarán.
+**Yúsuf al-Mutaman o Al-Mutamin o Almutaman:**   fue rey de la taifa de Zaragoza de la 
+dinastía hudí en su momento de máximo esplendor  entre 1081 y 1085, tras el pujante 
+reinado de su padre al-Muqtádir. Fue asimismo un rey erudito, protector de las 
+ciencias, de la filosofía y de las artes, conocedor de las matemáticas, la astrología y la filosofía, que continuó la labor de su padre al-Muqtádir creando una corte de 
+sabios intelectuales que tenía como marco el bello palacio de la Aljafería.
 
 
-Tras el duelo, el campeón de Jimena, portando una espada ensangrentada, se acerca a donde ella 
-está esperando. Al verlo, Jimena se teme lo peor, sin darle oportunidad de hablar. Acude ante el 
-rey y finalmente se siente libre para confesar su amor por Rodrigo al creerlo muerto. Don Sancho 
-explica entonces que Rodrigo lo venció, aunque le perdonó la vida. Rodrigo por su parte, al 
-acabar el duelo había acudido directamente junto al rey, dándole su propia espada a Don Sancho 
-para que se la entregara a Jimena.
+Al-Mutaman heredó de al-Muqtádir en 1081 la parte occidental de la taifa de Zaragoza, 
+que comprendía Zaragoza, Tudela, Huesca y Calatayud, quedando al-Múndir con la zona 
+costera del reino: Lérida, Monzón, Tortosa y Denia.
 
-![alt text](</assets/img/el gigante.JPG>){:width="200" style="float: right"}Aunque se aman, Jimena y Rodrigo son reticentes a casarse a causa de lo sucedido, aunque, las 
-circunstancias han demostrado que están hechos el uno para el otro. No obstante, necesitan un 
-tiempo para adaptarse. Jimena fija la boda para un año más tarde. Entre tanto, Rodrigo conducirá 
-una guerra contra los moros en su propio territorio.
+
+![alt text](</assets/img/sidi 13.jpg>){:width="200" style="float: left"}**Walida al-Mustaqfi:** fue una poetisa de Córdoba, Andalucía, hija de Muhammad 
+al-Mustakfi, del efímero undécimo califa de Córdoba. Era una mujer instruida y sabia, 
+segura y decidida, recordada por un papel activo en la sociedad a pesar de los 
+limitantes de su posición, el ser una mujer en un contexto árabe medieval:
+
+<center>***´´Aunque las gentes admiren mi belleza,
+soy como las gacelas de La Meca
+cuya caza está prohibida´´.*** </center> 
+Sidi  de Arturo Pérez Reverte.  Pág. 126.
+
+Walida se salía de las normas de la época, y no cumplía con los cánones habituales de 
+la mujer musulmana. Era una mujer a la que se le buscaba por su agradable compañía y 
+su inteligencia, además era admirada por su belleza y nobleza. Sin embargo, su 
+desprecio por las conveniencias dio lugar a numerosas habladurías acerca de su 
+conducta, de ahí también que se afirmara que carecía del decoro propio de su nobleza.
+
+
+
+
+
 
 
 
