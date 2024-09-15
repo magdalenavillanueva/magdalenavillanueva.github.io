@@ -14,6 +14,7 @@ categories:
 **PERSONAJES CRISTIANOS:**
 
 ![alt text](</assets/img/sidi 8.jpg>){:width="100" style="float: left"}
+
 **Sancho II:** 
 Fue el primer rey de Castilla, entre 1065 y 1072, y, por conquista, 
 de Galicia (1071-1072) y de León (1072).                                                                               
@@ -104,9 +105,8 @@ al-Mustakfi, del efímero undécimo califa de Córdoba. Era una mujer instruida 
 segura y decidida, recordada por un papel activo en la sociedad a pesar de los 
 limitantes de su posición, el ser una mujer en un contexto árabe medieval:
 
-    <center>´´Aunque las gentes admiren mi belleza,
-    soy como las gacelas de La Meca
-    cuya caza está prohibida´´.</center> 
+<center>´´Aunque las gentes admiren mi belleza, soy como las gacelas de La Meca
+cuya caza está prohibida´´.</center> 
 Sidi  de Arturo Pérez Reverte.  Pág. 126.
 
 Walida se salía de las normas de la época, y no cumplía con los cánones habituales de 
