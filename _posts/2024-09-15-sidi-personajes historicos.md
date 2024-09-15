@@ -13,7 +13,7 @@ categories:
 
 **PERSONAJES CRISTIANOS:**
 
-![alt text](</assets/img/sidi 8.jpg>){:width="200" style="float: right"}**Sancho 
+![alt text](</assets/img/sidi 8.jpg>){:width="100" style="float: right"}**Sancho 
 II:** 
 Fue el primer rey de Castilla, entre 1065 y 1072, y, por conquista, 
 de Galicia (1071-1072) y de León (1072) .                                                                               
@@ -26,12 +26,11 @@ Galicia entre 1071 y 1072 y también entre 1072 y 1109, y de Castilla entre
 1072 y 1109. Durante su reinado, se produjo la conquista de Toledo (1085) y tuvieron 
 lugar las batallas de Sagrajas y Uclés, que constituyeron sendas derrotas para las 
 mesnadas leonesas y castellanas. En la segunda falleció el heredero del rey, el 
-infante Sancho Alfónsez.
-![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: left"}
+infante Sancho Alfónsez.![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: left"}
 
 
 
-![alt text](</aassets/img/sidi 10.jpg>){:width="200" style="float: right"}
+![alt text](</assets/img/sidi 10.jpg>){:width="200" style="float: right"}
 **Berenguer Remont II:** 
 Fue conde de Barcelona (1076-1097). Era hijo de Ramón 
 Berenguer I y de Almodis de la Marca. Al principio gobernó junto a su hermano gemelo, 
@@ -56,11 +55,8 @@ posteriormente, lo apodaron el Fratricida
 **PERSONAJES MOROS:**
 
 ![alt text](</assets/img/sidi 12.jpg>){:width="200" style="float: left"}**Abú Yaáfar 
-Áhmad ibn Sulaymán al-Muqtádir bi-L·la:**  rey de la taifa de Saraqusta entre 1046 y 
-1081. Abú Yaáfar al-Muqtádir, de la dinastía de los Banu Hud, llevó a la taifa de 
-Zaragoza a su máximo apogeo político y cultural. Fue mecenas de las ciencias, de la 
-filosofía y de las artes. Mandó construir el bello palacio de la  Aljafería donde se 
-reunieron importantes intelectuales andalusíes.
+Áhmad ibn Sulaymán al-Muqtádir bi-L·la:**  
+Rey de la taifa de Saraqusta entre 1046 y 1081. Abú Yaáfar al-Muqtádir, de la dinastía de los Banu Hud, llevó a la taifa de Zaragoza a su máximo apogeo político y cultural. Fue mecenas de las ciencias, de la filosofía y de las artes. Mandó construir el bello palacio de la  Aljafería donde se reunieron importantes intelectuales andalusíes.
 
 
 Al-Muqtádir consiguió reunir bajo su mandato las tierras disgregadas tras el reparto 
