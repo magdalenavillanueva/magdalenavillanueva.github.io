@@ -13,10 +13,10 @@ categories:
 
 **PERSONAJES CRISTIANOS:**
 
-![alt text](</assets/img/sidi 8.jpg>){:width="100" style="float: right"}**Sancho 
-II:** 
+![alt text](</assets/img/sidi 8.jpg>){:width="100" style="float: left"}
+**Sancho II:** 
 Fue el primer rey de Castilla, entre 1065 y 1072, y, por conquista, 
-de Galicia (1071-1072) y de León (1072) .                                                                               
+de Galicia (1071-1072) y de León (1072).                                                                               
 
 
 **Alfonso VI:** 
@@ -26,11 +26,11 @@ Galicia entre 1071 y 1072 y también entre 1072 y 1109, y de Castilla entre
 1072 y 1109. Durante su reinado, se produjo la conquista de Toledo (1085) y tuvieron 
 lugar las batallas de Sagrajas y Uclés, que constituyeron sendas derrotas para las 
 mesnadas leonesas y castellanas. En la segunda falleció el heredero del rey, el 
-infante Sancho Alfónsez.![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: left"}
+infante Sancho Alfónsez.![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: right"}
 
 
 
-![alt text](</assets/img/sidi 10.jpg>){:width="200" style="float: right"}
+![alt text](</assets/img/sidi 10.jpg>){:width="200" style="float: left"}
 **Berenguer Remont II:** 
 Fue conde de Barcelona (1076-1097). Era hijo de Ramón 
 Berenguer I y de Almodis de la Marca. Al principio gobernó junto a su hermano gemelo, 
@@ -94,7 +94,7 @@ limitantes de su posición, el ser una mujer en un contexto árabe medieval:
 
 <center>´´Aunque las gentes admiren mi belleza,
 soy como las gacelas de La Meca
-cuya caza está prohibida´´. </center> 
+cuya caza está prohibida´´.</center> 
 Sidi  de Arturo Pérez Reverte.  Pág. 126.
 
 Walida se salía de las normas de la época, y no cumplía con los cánones habituales de 
