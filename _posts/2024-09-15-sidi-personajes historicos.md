@@ -14,31 +14,36 @@ categories:
 **PERSONAJES CRISTIANOS:**
 
 ![alt text](</assets/img/sidi 8.jpg>){:width="200" style="float: right"}**Sancho 
-II:**  fue el primer rey de Castilla, entre 1065 y 1072, y, por conquista, de Galicia 
-(1071-1072) y de León 
-(1072).                                                                                
+II:** 
+Fue el primer rey de Castilla, entre 1065 y 1072, y, por conquista, 
+de Galicia (1071-1072) y de León (1072) .                                                                               
 
-**Alfonso VI:** hijo de Fernando I de León y de su esposa, la reina Sancha, fue rey de 
+
+**Alfonso VI:** 
+Hijo de Fernando I de León y de su esposa, la reina Sancha, fue rey de 
 León entre 1052 y 1072 en un primer reinado, y entre 1072 y 1109 en un segundo, de 
-Galicia entre 1071 y 1072 y también entre 1072 y 1109, y de Castilla entre 1072 y 
-1109. Durante su reinado, se produjo la conquista de Toledo (1085) y tuvieron lugar 
-las batallas de Sagrajas y Uclés, que constituyeron sendas derrotas para las mesnadas 
-leonesas y castellanas. En la segunda falleció el heredero del rey, el infante Sancho 
-Alfónsez. ![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: left"}
+Galicia entre 1071 y 1072 y también entre 1072 y 1109, y de Castilla entre
+1072 y 1109. Durante su reinado, se produjo la conquista de Toledo (1085) y tuvieron 
+lugar las batallas de Sagrajas y Uclés, que constituyeron sendas derrotas para las 
+mesnadas leonesas y castellanas. En la segunda falleció el heredero del rey, el 
+infante Sancho Alfónsez.
+![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: left"}
 
 
 
 ![alt text](</aassets/img/sidi 10.jpg>){:width="200" style="float: right"}
-**Berenguer Remont II:** fue conde de Barcelona (1076-1097). Era hijo de Ramón 
+**Berenguer Remont II:** 
+Fue conde de Barcelona (1076-1097). Era hijo de Ramón 
 Berenguer I y de Almodis de la Marca. Al principio gobernó junto a su hermano gemelo, 
-Ramón Berenguer II. Nació en 1053 o 1054 y sucedió a su padre, Ramón Berenguer I, en 
-1076. Los gemelos no estaban de acuerdo, y dividieron sus posesiones contra la 
+Ramón Berenguer II. Nació en 1053 o 1054 y sucedió a su padre, Ramón Berenguer I, 
+en 1076. Los gemelos no estaban de acuerdo, y dividieron sus posesiones contra la 
 voluntad de su padre. Ramón Berenguer II murió a manos de su hermano, Berenguer Ramón 
 II el 5 de diciembre de 1082. Su hermano, quien se hizo único conde de Barcelona, fue, 
 según la opinión popular,  el confabulador de su asesinato.
 
 
-![alt text](</assets/img/sidi 11.jpg>){:width="200" style="float: left"}**Ramón Berenguer II:** llamado Cabeza de Estopa (en catalán Cap d'Estopes) en alusión 
+![alt text](</assets/img/sidi 11.jpg>){:width="200" style="float: left"}**Ramón Berenguer II:** 
+Llamado Cabeza de Estopa (en catalán Cap d'Estopes) en alusión 
 a su espesa cabellera de color rubio pajizo, fue conde de Barcelona, de Gerona, de 
 Osona, de Carcasona y de Rasez entre 1076 y 1082.  Ramón Berenguer se dirigía a 
 Barcelona atravesando el bosque de Perxa del Astor, actualmente dentro del término 
@@ -85,14 +90,15 @@ que comprendía Zaragoza, Tudela, Huesca y Calatayud, quedando al-Múndir con la
 costera del reino: Lérida, Monzón, Tortosa y Denia.
 
 
-![alt text](</assets/img/sidi 13.jpg>){:width="200" style="float: left"}**Walida al-Mustaqfi:** fue una poetisa de Córdoba, Andalucía, hija de Muhammad 
+![alt text](</assets/img/sidi 13.jpg>){:width="200" style="float: left"}**Walida al-Mustaqfi:** 
+Fue una poetisa de Córdoba, Andalucía, hija de Muhammad 
 al-Mustakfi, del efímero undécimo califa de Córdoba. Era una mujer instruida y sabia, 
 segura y decidida, recordada por un papel activo en la sociedad a pesar de los 
 limitantes de su posición, el ser una mujer en un contexto árabe medieval:
 
-<center>***´´Aunque las gentes admiren mi belleza,
+<center>´´Aunque las gentes admiren mi belleza,
 soy como las gacelas de La Meca
-cuya caza está prohibida´´.*** </center> 
+cuya caza está prohibida´´. </center> 
 Sidi  de Arturo Pérez Reverte.  Pág. 126.
 
 Walida se salía de las normas de la época, y no cumplía con los cánones habituales de 
