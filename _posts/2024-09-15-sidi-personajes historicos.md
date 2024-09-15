@@ -105,7 +105,8 @@ al-Mustakfi, del efímero undécimo califa de Córdoba. Era una mujer instruida 
 segura y decidida, recordada por un papel activo en la sociedad a pesar de los 
 limitantes de su posición, el ser una mujer en un contexto árabe medieval:
 
-<center>´´Aunque las gentes admiren mi belleza, soy como las gacelas de La Meca
+<center>´´Aunque las gentes admiren mi belleza, 
+soy como las gacelas de La Meca
 cuya caza está prohibida´´.</center> 
 Sidi  de Arturo Pérez Reverte.  Pág. 126.
 
