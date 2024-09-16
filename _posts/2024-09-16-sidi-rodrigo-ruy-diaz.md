@@ -10,16 +10,18 @@ categories:
 <center><h2>RODRIGO RUY DÍAZ:</h2></center>
 
 
-<center><h3>Hay muchos cid en la tradición española. Yo también         tengo el mío. Es también una reflexión sobre 
+<center><h3>Hay muchos cid en la tradición española. Yo también tengo el mío. 
+Es también una reflexión sobre 
 el liderazgo en momentos críticos. </h3></center> 
-Arturo Pérez Reverte.
+<center>Arturo Pérez Reverte.</center> 
 
-Es un personaje muy revertiano, testarudo y arrogante como le define 
+![alt text](</assets/img/sidi 19.jpg>)
+{:width="200" style="float: right"}Es un personaje muy revertiano, 
+testarudo y arrogante como le define 
 Minaya Alvar Fáñez, uno de sus lugartenientes, que no le importa 
 enfrentarse a su rey en la famosa jura de Santa Gadea, pero que, pese a 
 todo, le sigue siendo leal y reserva para él un quinto de los botines que 
-va conquistando en sus correrías.![alt text](</assets/img/sidi 19.jpg>)
-{:width="200" style="float: right"}
+va conquistando en sus correrías.
                                                                   
 
 
@@ -36,7 +38,8 @@ Pérez Reverte.
 
 
 Porque la España del siglo XI no era un lugar de guerra solo entre moros 
-y cristianos, sino más bien una lucha de todos contra todos: cristianos![alt text](<../assets/img/sidi 20.jpg>) 
+y cristianos, sino más bien una lucha de todos contra todos: cristianos
+![alt text](</assets/img/sidi 20.jpg>){:width="200" style="float: right"}
 contra cristianos, moros contra moros y cristianos contra moros, en la 
 que los aliados de hoy podían ser los enemigos de mañana, pero en el que 
 la religión no era lo principal a la hora de buscar un enemigo, sino toda 
@@ -101,7 +104,7 @@ religiosa un poco al estilo del sincretismo renacentista, por más que la
 España de la época acogiera un mestizaje racial y cultural notable.   
 
 
-Doña Jimena:   asturiana, es la esposa de El Cid. De piel blanca, ojos 
+**Doña Jimena:**   asturiana, es la esposa de El Cid. De piel blanca, ojos 
 grises, grandes y almendrados, religiosa hasta el recato. Había tardado 
 en perdonar la muerte de su padre en manos de Rodrigo y este le dice:  
 ´´Maté a tu padre cara a cara, no como villano. Hombre te quité, pero ![alt text](</assets/img/sido 21.jpg>){:width="200" style="float: right"}
