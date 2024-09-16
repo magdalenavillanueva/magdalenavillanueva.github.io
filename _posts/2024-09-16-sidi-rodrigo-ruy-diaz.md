@@ -15,6 +15,9 @@ Es también una reflexión sobre
 el liderazgo en momentos críticos. </h3></center> 
 <center>Arturo Pérez Reverte.</center> 
 
+
+
+
 ![alt text](</assets/img/sidi 19.jpg>){:width="200" style="float: right"}
 Es un personaje muy revertiano, 
 testarudo y arrogante como le define 
