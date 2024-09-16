@@ -15,13 +15,16 @@ categories:
 
 
 
-
+---
 Cuadro del pintor Augusto Ferrer Dalmau realizado para la 
-![alt text](</assets/img/sidi 22.jpg>){:width="200" style="float: right"}                 
+![alt text](</assets/img/sidi 22.jpg>){:width="300" style="float: right"}                 
 portada de la novela de Arturo Pérez - Reverte Sidi. 
 Un relato de frontera.   
-
+---
      
+
+
+
 
 Burgos es la localidad donde Ruy Díaz de Vivar le exigió al rey de León y Castilla, Alfonso VI que jure sobre su inocencia en la muerte de su hermano, el rey Sancho II. A raíz de estos hechos Ruy Díaz es desterrado a la frontera e inicia una cruzada personal, con vistas en primer lugar de conseguir lo necesario para sobrevivir en esas tierras tan inhóspitas, tanto él como todos aquellos que le siguieron fielmente; y en segundo lugar, conseguir el perdón del rey a través de las riquezas que fuera despojando a los grupos árabes que se dedicaban al pillaje y la violencia.
 
