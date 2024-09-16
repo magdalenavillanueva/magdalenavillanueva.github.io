@@ -15,12 +15,13 @@ categories:
 
 
 
----
+
+
 Cuadro del pintor Augusto Ferrer Dalmau realizado para la 
 ![alt text](</assets/img/sidi 22.jpg>){:width="300" style="float: right"}                 
 portada de la novela de Arturo Pérez - Reverte Sidi. 
 Un relato de frontera.   
----
+-----------------
      
 
 
