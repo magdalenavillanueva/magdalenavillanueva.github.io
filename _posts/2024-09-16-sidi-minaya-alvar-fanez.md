@@ -14,7 +14,7 @@ Fue el conquistador de Toledo e históricamente un héroe casi tan grande como e
 Cid. Tenía en la cara, marcas de viruela. Era primo hermano del Cid. Es valiente, 
 prudente y un guerrero diestro. Minaya es macizo y segundo de la hueste y la mano 
 derecha de Rodrigo Ruy Díaz, como lo expresa el Cid: ´´—Él es Minaya Alvar Fáñez, mi 
-segundo´´   Pág.  128.  Sidi  de Arturo Pérez Reverte. ![alt text](</assets/img/sidi 8.jpg>){:width="100" style="float: left"}
+segundo´´   Pág.  128.  Sidi  de Arturo Pérez Reverte. ![alt text](</aassets/img/sidi 17.jpg>){:width="100" style="float: left"}
 
 
 El Cid confía en él.   Después del Cid y de Alfonso, Minaya es el personaje más 
