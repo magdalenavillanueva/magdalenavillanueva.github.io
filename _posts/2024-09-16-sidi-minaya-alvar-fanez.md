@@ -30,7 +30,7 @@ matar moros desde que tenían seis o siete años.
 Luego habían ido juntos a batallar siendo apenas pajes, primero contra los aragoneses 
 y luego contra la taifa de Zaragoza, compartiendo desde entonces azares de la vida y 
 de la guerra. El ascenso de Ruy Díaz en la estima  de Sancho II había elevado con él 
-![alt text](<sidi 18.jpg>)a Minaya, igual que ahora lo arrastraba en su caída con Alfonso VI. Una desgracia que 
+![alt text](<sidi 18.jpg>){:width="200" style="float: left"}a Minaya, igual que ahora lo arrastraba en su caída con Alfonso VI. Una desgracia que 
 el segundo de la hueste encaraba con flema natural en gente como ellos, hidalgos sin 
 otro patrimonio que el arrebatado a los moros. Es un amigo leal que acompaña al héroe 
 desde el momento inicial de su destierro. En la obra lo describen así:  ´´Era hombre 
