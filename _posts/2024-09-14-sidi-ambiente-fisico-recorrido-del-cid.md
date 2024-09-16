@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Sidi: Ambiente Físico"
+title: "Sidi: Ambiente Físico: Recorrido del Cid"
 date: 2024-09-14  12:00:01 +0100
 categories: 
     - Sidi
 ---
 
-<center><h2>AMBIENTE FÍSICO:</h2></center>
+<center><h2>AMBIENTE FÍSICO: RECORRIDO DEL CID</h2></center>
 
 
 
