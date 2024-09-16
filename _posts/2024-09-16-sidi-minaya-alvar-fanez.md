@@ -7,7 +7,7 @@ categories:
 ---
 
 
-<center><h2>MINAYA ALVAR FÁÑEZ:</h2></center>
+<center><h2>MINAYA ALVAR FAÑEZ:</h2></center>
 
 
 
