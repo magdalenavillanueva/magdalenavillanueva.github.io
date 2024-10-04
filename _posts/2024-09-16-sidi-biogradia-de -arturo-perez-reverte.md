@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sidi: Biogradia de Arturo Perez Reverte"
+title: "Sidi: Biografía de Arturo Pérez Reverte"
 date: 2024-09-16  12:00:01 +0100
 categories: 
     - Sidi
@@ -19,8 +19,8 @@ Sus primeros pasos los dio en el diario Pueblo, donde permaneció 12 años. Tras
 Sus obras han sido llevadas al cine, la televisión, el cómic,  ha hecho guiones para audioseries y recibido Premios y distinciones. Hasta el momento Ha publicado más de 30 novelas,  artículos, series, entre otros: 
 
 
-El húsar, 1986
-El maestro de esgrima, 1988
+<center>El húsar, 1986</center>
+<center>El maestro de esgrima, 1988</center>
 La tabla de Flandes, 1990
 El club Dumas o La sombra de Richelieu, 1993
 La sombra del águila, 1993
