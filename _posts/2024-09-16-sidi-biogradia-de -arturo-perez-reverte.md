@@ -56,6 +56,7 @@ Sus obras han sido llevadas al cine, la televisión, el cómic,  ha hecho guione
 <center>El problema final, 2023.</center>
 <center>La isla de la mujer dormida, 2024.</center>
 
+
 Igualmente, escribió la saga de Las aventuras del capitán Alatriste. Narra las aventuras de un soldado de los tercios de Flandes, espadachín a sueldo: Diego Alatriste y Tenorio y su paje Iñigo Balboa.
 <center>El capitán Alatriste, 1996.</center>
 <center>Limpieza de sangre, 1997.</center>
