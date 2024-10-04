@@ -14,7 +14,7 @@ categories:
 Es también una reflexión sobre 
 el liderazgo en momentos críticos. </h3></center> 
 <center>Arturo Pérez Reverte.</center> 
-<p>
+
 
 
 Es valiente, mesurado, prudente, leal, buen vasallo, agradecido, amable, generoso y justo. Habla comedidamente. Es, además, un guerrero invencible.     
@@ -25,8 +25,8 @@ Es un personaje muy revertiano,
 testarudo y arrogante como le define 
 Minaya Alvar Fáñez, uno de sus lugartenientes, que no le importa 
 enfrentarse a su rey en la famosa jura de Santa Gadea, pero que, pese a 
-todo, le sigue siendo leal y reserva para él un quinto de los botines que 
-va conquistando en sus correrías.
+todo, le sigue siendo leal y reserva para él un quinto de los botines 
+que va conquistando en sus correrías.
                                                                   
 
 
