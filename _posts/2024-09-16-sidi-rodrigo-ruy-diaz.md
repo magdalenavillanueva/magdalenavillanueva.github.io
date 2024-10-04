@@ -16,6 +16,7 @@ el liderazgo en momentos críticos. </h3></center>
 <center>Arturo Pérez Reverte.</center> 
 
 
+
 Es valiente, mesurado, prudente, leal, buen vasallo, agradecido, amable, generoso y justo. Habla comedidamente. Es, además, un guerrero invencible.     
 
 
