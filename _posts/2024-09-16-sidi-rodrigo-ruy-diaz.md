@@ -18,7 +18,7 @@ el liderazgo en momentos críticos. </h3></center>
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 
-Es valiente, mesurado, prudente, leal, buen vasallo, agradecido, amable, generoso y justo. Habla comedidamente. Es, además, un guerrero invencible.     
+**Rodrigo Ruy Díaz:** Es valiente, mesurado, prudente, leal, buen vasallo, agradecido, amable, generoso y justo. Habla comedidamente. Es, además, un guerrero invencible.     
 
 ![alt text](</assets/img/sidi 19.jpg>){:width="200" style="float: right"}
 Es un personaje muy revertiano, testarudo y arrogante como le define 
@@ -78,10 +78,7 @@ su carácter y la relación que, día a día, tiene con sus guerreros. En
 resumidas cuentas, es el primero en el campo de batalla, firme con quien 
 se salte las reglas, conocedor de su enemigo, y capaz de aguantar al 
 límite para no mostrar debilidades o dudas.  Eso se observa con Tello 
-Luengo, cuando tiene que hacer justicia: ´´de alzar brusco la mirada. 
-Había ahora un relámpago desafiante en ella. —Soy un soldado —protestó.  
-Ruy Díaz se mantuvo impasible. —Hoy sólo eres un asesino´´.   Pág.  141.  
-Sidi  de Arturo Pérez Reverte.  
+Luengo, cuando tiene que hacer justicia: ´´de alzar brusco la mirada. Había ahora un relámpago desafiante en ella. —Soy un soldado —protestó. Ruy Díaz se mantuvo impasible. —Hoy sólo eres un asesino´´.   Pág.  141.  Sidi  de Arturo Pérez Reverte.  
 
 
 Aunque solo recoge los primeros años del Cid tras ser desterrado de 
