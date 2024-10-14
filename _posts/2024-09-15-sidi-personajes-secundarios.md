@@ -37,11 +37,7 @@ permitió .
 
 
 ![alt text](</assets/img/sidi 15.jpg>){:width="300" style="float: right"}
-**Rodrigo Díaz de Vivar:**
-Obligó a Alfonso VI, rey de León, Galicia y Castilla, a jurar en la iglesia de 
-Santa Gadea de Burgos, que no había tomado parte en el asesinato de su propio 
-hermano, el rey Sancho II, quien fue asesinado ante los muros de la ciudad de 
-Zamora. Después del juramento el Rey Alfonso destierra al Cid de Castilla.
+Rodrigo Díaz de Vivar Obligó a Alfonso VI, rey de León, Galicia y Castilla, a jurar en la iglesia de Santa Gadea de Burgos, que no había tomado parte en el asesinato de su propio hermano, el rey Sancho II, quien fue asesinado ante los muros de la ciudad de Zamora. Después del juramento el Rey Alfonso destierra al Cid de Castilla.
 
 
 **Berenguer Remont II:** joven, altanero y demasiado seguro de sí mismo. Bien 
