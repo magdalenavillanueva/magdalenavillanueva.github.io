@@ -108,7 +108,7 @@ limitantes de su posición, el ser una mujer en un contexto árabe medieval:
 <center>´´Aunque las gentes admiren mi belleza, </center>
 <center>soy como las gacelas de La Meca</center>
 <center>cuya caza está prohibida´´.</center> 
-    Sidi  de Arturo Pérez Reverte.  Pág. 126.
+Sidi  de Arturo Pérez Reverte.  Pág. 126.
 
 Walida se salía de las normas de la época, y no cumplía con los cánones habituales de 
 la mujer musulmana. Era una mujer a la que se le buscaba por su agradable compañía y 
