@@ -43,12 +43,13 @@ El Poema de Mío Cid y un romance viejo”, (1940), “El Cantar de Mío Cid, Po
 en el Poema del Cid”, de 1943. 
 
 
-![alt text](</assets/img/El cid.JPG>){:width="200" style="float: right"}El estudio biográfico de Agustín Palau Claveras, El Cid Campeador (1944), que en plena posguerra, 
+El estudio biográfico de Agustín Palau Claveras, El Cid Campeador (1944), que en plena posguerra, 
 no sólo continúa la exposición del “héroe nacional”, basada en los estudios sobre el Cid de 
 Menéndez Pidal, sino que además lo convierte en figura pública, manteniendo con brillantez los 
 motivos convencionales de la piedad filial y el motivo de la honra.
 
-La visión moderna del Cid cambia con la película de Anthony Mann en 1961, pues abarca toda la 
+
+![alt text](</assets/img/El cid.JPG>){:width="200" style="float: right"}La visión moderna del Cid cambia con la película de Anthony Mann en 1961, pues abarca toda la 
 vida adulta del héroe castellano, apareciendo éste como reflejo de la época histórica que le tocó 
 vivir. El director, asesorado literariamente por Ramón Menéndez Pidal, combina diversos motivos 
 tradicionales, como el odio de Urraca por el Cid en su juventud, que subyace en el Cantar de 
