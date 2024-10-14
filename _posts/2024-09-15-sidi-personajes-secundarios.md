@@ -32,8 +32,7 @@ Alfonso VI: rey de León, Galicia y Castilla.  Hijo del rey Fernando I y de su
 esposa, la reina Sancha de León. La primogénita era Urraca, el segundo, Sancho, 
 la infanta Elvira  y el más pequeño de los hermanos, García. Como segundo hijo 
 varón del rey de León y conde de Castilla, a Alfonso no le habría correspondido 
-heredar pero la muerte violenta de su hermano Sancho, que no dejó descendencia, 
-permitió .
+heredar pero la muerte violenta de su hermano Sancho, que no dejó descendencia, permitió a Alfonso reclamar para sí Castilla y Galicia.                                                                                                             .
 
 
 ![alt text](</assets/img/sidi 15.jpg>){:width="300" style="float: right"}
