@@ -7,35 +7,39 @@ categories:
 ---
 
 
-<center><h2>RESEÑA DE SIDI DE ARTURO PÉREZ REVERTE:</h2></center>
+<center><h2>¿QUÉ ES OBJETIVISMO?</h2></center>
+
+Objetivismo es el nombre que Ayn Rand le dio a su filosofía, presentada inicialmente a través de los héroes de sus famosas novelas El Manantial (1943) y La Rebelión de Atlas (1957), y en otros libros y ensayos.
 
 
-<center><h3>Los novelistas abren puertas que permiten que después, el lector, se vuelva hacia el historiador para completar lo que ha descubierto en la novela </h3></center> 
-<center>Arturo Pérez Reverte.</center> 
+Filosofía donde la autora propone por medio de los términos conceptuales como la realidad objetiva, razón, egoísmo racional, capitalismo e individualismo, sumergir al lector en una reflexión constante sobre el comportamiento y el pensamiento. 
+
+
+Así es como la propia Ayn Rand describe Objetivismo en su artículo: Introduciendo Objetivismo, publicado en Los Angeles Times el 17 de junio de 1962:    
+
+<center><h3>La realidad existe como algo absoluto y objetivo, los hechos son los hechos, independientemente de las emociones, los deseos, las esperanzas o los miedos de los hombres. La razón (la facultad que identifica e integra el material provisto por los sentidos del hombre) es el único medio del hombre para percibir la realidad, su única fuente de conocimiento, su única guía para la acción, y su medio básico de supervivencia. </h3></center> 
+
+
+En sí, Objetivismo es un sistema filosófico completo e integrado; es un conjunto de ideas, de principios que definen cómo el hombre debe pensar y actuar si ha de vivir la vida propia de un hombre en una sociedad 
+
+**Sitios Oficiales y de Referencia:**
+
+Ayn Rand Institute: Enlace: https://www.aynrand.org/
+Ayn Rand Center Latin America: Enlace: https://www.aynrandlatam.org/
+Objetivismo.org: Enlace: https://objetivismo.org/
 
 
 
+**Otros Sitios de Interés:**
+
+The Atlas Society: Enlace: https://www.atlassociety.org/es¿QUÉ ES OBJETIVISMO?
 
 
-Cuadro del pintor Augusto Ferrer Dalmau realizado para la 
-![alt text](</assets/img/sidi 22.jpg>){:width="300" style="float: right"}                 
-portada de la novela de Arturo Pérez - Reverte Sidi. 
-Un relato de frontera.   
+![alt text](</assets/img/el objetivismo.jpeg>){:width="300" style="float: right"}                 
+
 -----------------
      
 
-
-
-
-Burgos es la localidad donde Ruy Díaz de Vivar le exigió al rey de León y Castilla, Alfonso VI que jure sobre su inocencia en la muerte de su hermano, el rey Sancho II. A raíz de estos hechos Ruy Díaz es desterrado a la frontera e inicia una cruzada personal, con vistas en primer lugar de conseguir lo necesario para sobrevivir en esas tierras tan inhóspitas, tanto él como todos aquellos que le siguieron fielmente; y en segundo lugar, conseguir el perdón del rey a través de las riquezas que fuera despojando a los grupos árabes que se dedicaban al pillaje y la violencia.
-
-La historia inicia con un Cid que ha sido contratado para acorralar y acabar con la amenaza de los grupos vandálicos que acosaban tanto árabes como peninsulares. Saqueaban, ![alt text](</assets/img/sidi 23.jpg>){:width="200" style="float: right"}asesinaban y esclavizaban sin distinción. En su búsqueda de estos grupos se observa el ataque a un monasterio, a una familia, poco a poco se dedicaron a perseguirlos y a esperar el momento más oportuno. 
-
-
-Como soldado sin jefe, intenta ser contratado por un noble que lo rechaza y humilla. Luego es contratado por un jefe árabe y parte de la historia se centra en los preparativos para la próxima batalla. En el territorio árabe conoce a la hermana del rey árabe. Mujer de gran carácter y con la que tiene un encuentro fugaz. Logra que los árabes y sus hombres trabajen y luchen juntos. Esta batalla es descrita con lujo de detalles.
-
-
-El personaje de Sidi, mío Cid, es un retrato entre la fidelidad histórica y la libertad del novelista. Es un personaje histórico envuelto en el aura de patriotismo, fiel a sus ideales donde el honor es el norte a seguir y la lealtad a lo que considera símbolo de sus creencias de estado, no deja de faltar a estas premisas. En la frontera es un mercenario que recibe paga, pero aun así mantiene su lealtad intacta al rey. 
 
 
 
