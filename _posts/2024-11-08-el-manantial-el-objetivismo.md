@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "El Manantial:¿Qué es el Objetivismo"
+title: "El Manantial:¿Qué es el Objetivismo?"
 date: 2024-11-08  12:00:01 +0100
 categories: 
     - El Manantial
@@ -15,7 +15,9 @@ Objetivismo es el nombre que Ayn Rand le dio a su filosofía, presentada inicial
 Filosofía donde la autora propone por medio de los términos conceptuales como la![alt text](</assets/img/el objetivismo.jpeg>){:width="300" style="float: right"}  realidad objetiva, razón, egoísmo racional, capitalismo e individualismo, sumergir al lector en una reflexión constante sobre el comportamiento y el pensamiento. 
 
 
-Así es como la propia Ayn Rand describe Objetivismo en su artículo: Introduciendo Objetivismo, publicado en Los Angeles Times el 17 de junio de 1962:    
+Así es como la propia Ayn Rand describe Objetivismo en su artículo: Introduciendo Objetivismo, publicado en Los Angeles Times el 17 de junio de 1962: 
+
+
 
 <center><h3>La realidad existe como algo absoluto y objetivo, los hechos son los hechos, independientemente de las emociones, los deseos, las esperanzas o los miedos de los hombres. La razón (la facultad que identifica e integra el material provisto por los sentidos del hombre) es el único medio del hombre para percibir la realidad, su única fuente de conocimiento, su única guía para la acción, y su medio básico de supervivencia. </h3></center> 
 
