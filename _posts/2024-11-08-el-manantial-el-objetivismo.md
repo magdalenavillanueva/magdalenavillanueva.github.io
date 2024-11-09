@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "El Manantial:¿Qué es el Objetivismo?"
+title: "El Manantial: ¿Qué es el Objetivismo?"
 date: 2024-11-08  12:00:01 +0100
 categories: 
     - El Manantial
@@ -16,6 +16,7 @@ Filosofía donde la autora propone por medio de los términos conceptuales como 
 
 
 Así es como la propia Ayn Rand describe Objetivismo en su artículo: Introduciendo Objetivismo, publicado en Los Angeles Times el 17 de junio de 1962: 
+
 
 
 
@@ -38,7 +39,7 @@ The Atlas Society: Enlace: https://www.atlassociety.org/es¿QUÉ ES OBJETIVISMO?
 
 
 
- [alt text](</assets/img/la caverna.jpg>){:width="300" style="float: right"}              
+ ![alt text](</assets/img/la caverna.jpg>){:width="300" style="float: right"}              
 
 -----------------
      
