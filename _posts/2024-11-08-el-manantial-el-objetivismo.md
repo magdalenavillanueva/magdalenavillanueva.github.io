@@ -28,7 +28,9 @@ En sí, Objetivismo es un sistema filosófico completo e integrado; es un conjun
 **Sitios Oficiales y de Referencia:**
 
 Ayn Rand Institute: Enlace: https://www.aynrand.org/
+
 Ayn Rand Center Latin America: Enlace: https://www.aynrandlatam.org/
+
 Objetivismo.org: Enlace: https://objetivismo.org/
 
 
