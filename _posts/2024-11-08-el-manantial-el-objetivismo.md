@@ -35,7 +35,8 @@ Objetivismo.org: Enlace: https://objetivismo.org/
 The Atlas Society: Enlace: https://www.atlassociety.org/es¿QUÉ ES OBJETIVISMO?
 
 
-               
+
+ [alt text](</assets/img/la caverna.jpg>){:width="300" style="float: right"}              
 
 -----------------
      
