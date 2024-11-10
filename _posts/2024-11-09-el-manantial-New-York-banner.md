@@ -19,7 +19,7 @@ Los  diarios de Wynand estaban contra el privilegio y a favor  del hombre común
 
 Conjuntamente organizaba campañas sobre problemas políticos, clases sociales, monopolios de poder en nombre de los oprimidos. A su vez, a las magnificencias de la alta sociedad le publicaba noticias sociales con cierto sarcasmo, logrando satisfacer al ciudadano sin capacidad pensante o razonamiento intermedio.
 
-Tenía entre sus articulistas a: Ellsworth Toohey, que  había comenzado en la sección de arte y  crítica, pero se había transformado en una tribuna  desde la cual Toohey pronunciaba veredictos en materia de arte, literatura, restaurantes de Nueva York, la crisis internacional y sociología. Dominique Françon, que hacia descripciones de los hogares neoyorquinos prominentes. Sus comentarios debían concretarse a la decoración de interiores; pero, en ocasiones, se habían aventurado a la crítica arquitectónica,  y por último, Alvah Scarret, manejaba los asuntos importantes de  política. 
+Tenía entre sus articulistas a: Ellsworth Toohey, que  había comenzado en la sección de arte y  crítica, pero se había transformado en una tribuna  desde la ![alt text](<assets/img/restaurantes.jpg>){:width="300" style="float: right"} cual Toohey pronunciaba veredictos en materia de arte, literatura, restaurantes de Nueva York, la crisis internacional y sociología. Dominique Françon, que hacia descripciones de los hogares neoyorquinos prominentes. Sus comentarios debían concretarse a la decoración de interiores; pero, en ocasiones, se habían aventurado a la crítica arquitectónica,  y por último, Alvah Scarret, manejaba los asuntos importantes de  política. 
 
 
 En resumidas cuentas, ellos ofrecían artículos que buscaban en su mayoría desprestigiar al que salía de la norma.
