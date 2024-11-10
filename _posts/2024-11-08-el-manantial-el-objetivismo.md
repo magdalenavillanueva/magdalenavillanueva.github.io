@@ -5,7 +5,7 @@ date: 2024-11-08  12:00:01 +0100
 categories: 
     - El Manantial
 ---
-![alt text](</assets/img/el manatial. banner.png>){:width="320"" height="100px"} 
+![alt text](</assets/img/el manatial. banner.png>){:width="620"" height="100px"} 
 
 <center><h2>¿QUÉ ES OBJETIVISMO?</h2></center>
 
