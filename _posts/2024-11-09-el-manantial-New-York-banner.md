@@ -9,12 +9,13 @@ categories:
 
 <center><h2>NEW YORK BANNER:</h2></center>
 
-Un periódico sensacionalista de New York,  nada refinado, ni especial en su lenguaje en un formato de cartelón. Fue construido en un barrio de Manhattan, su edificación no era elegante.  Era el diario más importante de la cadena Wynand. Sus principales publicaciones se relacionaban con crímenes, incendios, raptos, corrupciones, crónicas sobre muchachas caídas, divorcios aristocráticos, asilos de niños expósitos, prostíbulos, hospitales de caridad. Cada publicación se organizaba en tres columnas y una sobre la moral. Pero según Roark la publicación solo era: ´´un diario que hubiera esperado encontrar en una cocina, en una peluquería, en una sala de recibo de tercera clase, en el subterráneo, en cualquier parte menos en el estudio de Cameron´´.  Pág. 105.  El manantial I de Ayn Rand.
+Un periódico sensacionalista de New York,  nada refinado, ni especial en su lenguaje en un formato de cartelón. Fue construido en un barrio de Manhattan, su edificación no era elegante.  Era el diario más importante de la cadena Wynand. Sus principales publicaciones se relacionaban con crímenes, incendios, raptos, corrupciones, crónicas sobre muchachas caídas, divorcios aristocráticos, asilos de niños expósitos, prostíbulos, hospitales de caridad. Cada publicación se organizaba en tres columnas y una sobre la moral. ![alt text](</assets/img/periodicos.jpg>){:width="300" style="float: right"} Pero según Roark la publicación solo era: ´´un diario que hubiera esperado encontrar en una cocina, en una peluquería, en una sala de recibo de tercera clase, en el subterráneo, en cualquier parte menos en el estudio de Cameron´´.  Pág. 105.  El manantial I de Ayn Rand.
 
 A través del ejemplo vemos que el New York Banner  era considerado un periódico  que  no tenía  una política determinada, salvo la de reflejar los  prejuicios del mayor número  de  personas, y esto en la dirección de lo inconsistente, irresponsable, trivial, sensiblero. 
 
 Los  diarios de Wynand estaban contra el privilegio y a favor  del hombre común, pero de una manera amable, que no chocaba a nadie; descubrían los monopolios o  soportaban las huelgas cuando querían.  Era estridente y vocinglero.  
 
+![alt text](</assets/img/fotografos.jpg>){:width="300" style="float: right"} 
 
 Conjuntamente organizaba campañas sobre problemas políticos, clases sociales, monopolios de poder en nombre de los oprimidos. A su vez, a las magnificencias de la alta sociedad le publicaba noticias sociales con cierto sarcasmo, logrando satisfacer al ciudadano sin capacidad pensante o razonamiento intermedio.
 
