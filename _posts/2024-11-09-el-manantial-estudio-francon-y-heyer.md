@@ -16,6 +16,8 @@ Sus socios son  Lucio N. Heyer  y  Guy Françon.  Su personal estaba conformado 
 
 **Tim Davis:** era un muchacho alto, rubio, y el mejor amigo de Peter Keating,  trabajaba en la sala de dibujo y era el dibujante favorito de la oficina. Estaba enamorado de Elaine Duffy, y se ausentaba de su trabajo. 
 
+Davis perdió el puesto,  gracias a la estrategia de Peter  y  la mesa de Tim, su puesto y su remuneración fueron adjudicados a Keating. Después de que lo  despidieron de la firma el propio Keating le buscó otro trabajo.
+
 
 **Claude Stengel:** dibujante.  Stengel era reacio a la amistad. Los intentos de Keating se habían estrellado durante dos años contra la gelidez del dibujante hacia él.  En la sala de dibujo se murmuraba lo que Stengel pensaba de él.  Pero Stengel tenía un punto vulnerable: desde algún tiempo estaba haciendo planes para dejar a Françon y abrir un estudio propio. 
 ![alt text](</assets/img/estudio de arquitectura.jpg>){:width="300" style="float: right"} 
