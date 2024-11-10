@@ -22,7 +22,7 @@ Así es como la propia Ayn Rand describe Objetivismo en su artículo: Introducie
 
 <center><h3>La realidad existe como algo absoluto y objetivo, los hechos son los hechos, independientemente de las emociones, los deseos, las esperanzas o los miedos de los hombres. La razón (la facultad que identifica e integra el material provisto por los sentidos del hombre) es el único medio del hombre para percibir la realidad, su única fuente de conocimiento, su única guía para la acción, y su medio básico de supervivencia. </h3></center> 
 
-
+![alt text](</assets/img/linea azul.jpg>){:width="300" style="float: right"} 
 En sí, Objetivismo es un sistema filosófico completo e integrado; es un conjunto de ideas, de principios que definen cómo el hombre debe pensar y actuar si ha de vivir la vida propia de un hombre en una sociedad 
 
 **Sitios Oficiales y de Referencia:**
