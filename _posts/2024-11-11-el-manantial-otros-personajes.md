@@ -21,7 +21,7 @@ en Post Road.
 
 **Wayne Wilmont:**  señora interesada en la construcción de una casa, fanática de Austen Heller al que consideraba un oráculo de los progresistas e intelectuales. Desea hacer una casa con el arquitecto que hizo la casa de Heller sin haberla visto, solo por el prestigio que eso podría darle.
 Robert L. Mundy:  era un hombre atrapado en el pasado, que no sabe lo que quiere. Quiere una casa que sea la misma mansión a donde tenía que ir a llevar los pedidos. Howard se niega a construirla. 
-
+![alt text](</assets/img/edificios ny.png>){:width="300" style="float: right"} 
 
 **Nathaniel Janss:**  era franco y descortés, un empresario, dueño de una compañía de ventas de inmuebles, su empresa tiene el proyecto de un edificio de 30 pisos, llama a Howard para el proyecto, pero el directorio lo rechazó.
 Mary Watson:  aparentemente era una superviviente de un incendio en un taller  de costura. (Datos no comprobados)
@@ -33,7 +33,7 @@ Jim Ferris, de Ferris y Symes; Bill Shultz, de Vimo Flakes; Bud Harper, de Toddl
 
 **John Fargo:**  comerciante dueño de una tienda modesta en la sexta avenida, contrata a Howard para una nueva tienda, le da libertad para la construcción del edificio.
 
-
+![alt text](</assets/img/edificios2.jpg>){:width="300" style="float: right"} 
 **Sr. Fleming:**  tiene industrias en Nueva Jersey, Connecticut y Rhode Island, amigo de Heller.
 
 
@@ -53,7 +53,7 @@ Jim Ferris, de Ferris y Symes; Bill Shultz, de Vimo Flakes; Bud Harper, de Toddl
 
 
 **Sr. y sra. Dale Ainsworth:** vivían en residencia en Riverside Drive al estilo del Renacimiento, proyecto de Peter Keating.
-
+![alt text](</assets/img/edificios3.png>){:width="300" style="float: right"} 
 
 **Pat Mulligan:** era un hombre honesto, capitán de policía acusado injustamente. 
 
@@ -74,4 +74,4 @@ Jim Ferris, de Ferris y Symes; Bill Shultz, de Vimo Flakes; Bud Harper, de Toddl
 **Sra. Gillespia:**  personaje referencial.
 
 
- ![alt text](</assets/img/periodicos.jpg>){:width="300" style="float: right"} 
+ 
