@@ -5,7 +5,7 @@ date: 2024-11-09  12:00:01 +0100
 categories: 
     - El Manantial
 ---
-![alt text](</assets/img/el manatial. banner.png>){:width="300px" height= "1350px"} 
+![alt text](</assets/img/el manatial. banner.png>)
 
 <center><h2>ESTUDIO FRANÇON & HEYER:</h2></center>
 
