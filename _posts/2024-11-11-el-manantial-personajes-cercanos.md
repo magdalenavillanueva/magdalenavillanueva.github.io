@@ -41,7 +41,7 @@ categories:
 **Sally Brent:** periodista que trabaja para Banner. Mujer madura, presuntuosa, admirada por su vestir a la moda y sus artículos eran del arte de servir y de hostelería.  Fue echada por redactar un artículo sobre el matrimonio de Wynand, sin embargo, en Nuevas Fronteras, una revista liberal  le publicaron un artículo sobre la vida amorosa con un enfoque paradigmático sociológico: ´´Sally Brent escribió el artículo sobre la vida amorosa de Gail Wynand en tono alegre, intelectual, en los términos de un estudio sociológico, pero con tal material que ninguna revista importante lo habría aceptado´´.   Pág. 159.  El Manantial I I  de Ayn Rand.
 
 
-**CERCANOS A  ELLSWORTH MONKTON TOOHEY: ** es el antagonista de Roark. 
+**CERCANOS A  ELLSWORTH MONKTON TOOHEY:** es el antagonista de Roark. 
 
 
 ![alt text](</assets/img/Gail.png>){:width="300" style="float: right"} 
