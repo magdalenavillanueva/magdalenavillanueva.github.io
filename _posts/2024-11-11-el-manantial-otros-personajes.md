@@ -5,7 +5,7 @@ date: 2024-11-11  12:00:01 +0100
 categories: 
     - El Manantial
 ---
-![alt text](</assets/img/OTROS PERSONAJES.png>){:width="300px" height= "1350px"} 
+![alt text](</assets/img/OTROS PERSONAJES.png>)
 
 <center><h2>OTROS PERSONAJES:</h2></center>
 
