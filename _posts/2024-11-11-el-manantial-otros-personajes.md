@@ -7,7 +7,6 @@ categories:
 ---
 ![alt text](</assets/img/OTROS PERSONAJES.png>)
 
-<center><h2>OTROS PERSONAJES:</h2></center>
 
 
 **Joel Sutton:**  empresario que en un primer momento busca a Roark para que le construya un edificio, pero se deja convencer por Dominique y declina la oferta.
@@ -33,7 +32,7 @@ Jim Ferris, de Ferris y Symes; Bill Shultz, de Vimo Flakes; Bud Harper, de Toddl
 
 **John Fargo:**  comerciante dueño de una tienda modesta en la sexta avenida, contrata a Howard para una nueva tienda, le da libertad para la construcción del edificio.
 
-![alt text](</assets/img/edificios2.jpg>){:width="300" style="float: right"} 
+![alt text](</assets/img/edificio4.png>){:width="300" style="float: right"} 
 **Sr. Fleming:**  tiene industrias en Nueva Jersey, Connecticut y Rhode Island, amigo de Heller.
 
 
