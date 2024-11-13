@@ -51,7 +51,8 @@ Howard lo tenía como su némesis, su máximo ejemplo para seguir sus pasos en s
 
 
 **Louisa Keating:** 
-![alt text](</aassets/img/mama con hijo graduandose.jpg>){:width="300" style="float: right"} Madre de  Peter, era una dama graduada en la Escuela Superior, una mujer ambiciosa, entrometida, envidiosa, egoísta, maliciosa y mezquina. Después de la muerte de su esposo había trabajado duramente, y había admitido huéspedes en su casa, tenía una pensión vitalicia  procedente de una póliza que ella había procurado de mantener siempre en vigor. La renta era  modesta. De ahí que, es una mujer que ha depositado todas sus esperanzas de convertirse en alguien a través de su hijo Peter, a quien manipula
+![alt text](</assets/img/mama con hijo graduandose.jpg>){:width="300" style="float: right"} 
+Madre de  Peter, era una dama graduada en la Escuela Superior, una mujer ambiciosa, entrometida, envidiosa, egoísta, maliciosa y mezquina. Después de la muerte de su esposo había trabajado duramente, y había admitido huéspedes en su casa, tenía una pensión vitalicia  procedente de una póliza que ella había procurado de mantener siempre en vigor. La renta era  modesta. De ahí que, es una mujer que ha depositado todas sus esperanzas de convertirse en alguien a través de su hijo Peter, a quien manipula
 
 
 
