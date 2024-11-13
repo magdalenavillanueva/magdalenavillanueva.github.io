@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "El Manantial: Ellsworth Monkton Toohey"
-date: 2024-11-11  09:00:01 +0100
+date: 2024-11-12  09:00:01 +0100
 categories: 
     - El Manantial
 ---
