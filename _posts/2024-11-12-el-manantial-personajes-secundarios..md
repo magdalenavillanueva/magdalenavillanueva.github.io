@@ -8,101 +8,57 @@ categories:
 ![alt text](</assets/img/personajer secundarios.png>)
 
 
-**CERCANOS A HOWARD ROARK:**
+**Peter Keating:**
 
-![alt text](</assets/img/Roak.png>){:width="300" style="float: right"} 
-**Austen Heller:** proviene de una familia distinguida, se graduó en Oxford, crítico literario y con una  pasión vehemente en contra  de costumbres sociales elistescas que apoyaban la política autoritaria sin derecho a la libertad de los banqueros, clubes de mujeres y  organizadores de trabajo. Un fiel colaborador del Chronicle, un diario enemigo de Wynand. Le pide a Roark hacer su casa y la hace fuera de los parámetros establecidos. Escribió un artículo en defensa de Roark y lo recomendaba a sus amigos.
-
-
-**Steven Mallory:** con 24 años, artista plástico, muy creativo, original en sus obras, se convierte en el dibujante de Roark. Realiza exposiciones sin conseguir éxitos ya que sus obras eran transgresoras e inusuales para el público interesado en construcción. Fue juzgado recibiendo una condena de dos años por atentar contra Ellsworth  M. Toohey, aunque este no lo acusó. Posteriormente,  fue contratado por Roark para hacer una estatua de una mujer para colocarla en la construcción que dirigía. Dominique fue la modelo para hacer la estatua que se colocaría en el Templo.
+![alt text](</assets/img/arquitecto peter.jpg>){:width="300" style="float: right"} Era atractivo, de cabellos negros  y  ojos oscuros, compañero de Howard, con excelentes calificaciones, se graduó con altos honores, pero estaba vacío de contenido y sin principios,  es arquitecto, pero es la antítesis de Roark. Su madre lo presionó para que estudiara arquitectura, pero no poseía habilidades creativas ni intelectuales. 
 
 
-**Mike (Sean Javier Donnigan):** electricista de ojos azules, obrero de la construcción y disfrutaba optimizar sus herramientas y su vehículo para poder recorrer las construcciones.  Roark se gana su amistad al demostrarle sus habilidades en la construcción y se convierte en la mano derecha en los edificios dirigidos por él.
+Se traslada a Nueva York para tomar un trabajo en el estudio de arquitectura de Françon & Heyer, donde se congracia con el socio Guy Françon. Su capacidad de halagar le trae el éxito rápido y una asociación en la empresa. Lo vemos en este ejemplo: ´´Un año con la firma de "Françon y Heyer" le había dado a Keating el título, por el que tanto había suspirado, de príncipe heredero sin cartera. Pese a no ser más que un dibujante, era el favorito de Françon´´.  Pág. 97.  El manantial  I de Ayn Rand.
 
 
-**Roger Enrigh:** empresario, rey del petróleo, adinerado sin prejuicio, recto en su profesión y sin importar lo que pensaran de él y de sus acciones. Le encarga a Roark su proyecto de la Casa Enright y a la inauguración fueron  solamente invitados especiales y amigos cercanos.
+Tim Davis, Claude Stengel y el propio Lucio Heyer debían ser removidos para él poder ascender.  Y  lo logró: ´´Al enfrentarse con su primer proyecto Keating se acordó de Tim Davis, de Stengel, de muchos otros que habían querido, que habían luchado, que habían puesto manos a la obra y que habían sido vencidos por él.  Experimentaba una sensación de triunfo´´.  Pág. 88.  El manantial  I de Ayn Rand.
 
 
-**Ken Lansing:**  tenía 40 años, miembro de una sociedad para instituir un hotel al sur del Central Park. Fue un defensor de Roark ante la sociedad que conformaban los dueños del edificio Aquitania, como observamos en este ejemplo: ´´Le dije que lo haría ¿verdad? Me costó cinco años para desembarazarme de mis amigos y de mis hermanos, pero el «Aquitania» es ahora mío... y suyo. Venga a terminarlo. Kent Lansing´´.  Pág. 187.  El Manantial I.  de Ayn Rand.
+Así, Peter Keating  se convierte en la estrella del mundo de la arquitectura de Nueva York. Es rico y famoso. Pero es un fraude y un farsante sin principios. Diseña pobremente, pero con el estilo de la época. Es el némesis de Howard Roark.
 
 
-**CERCANOS A GAIL WYNARD:**
+La oferta de Keating de escapar con Catherine es su única oportunidad de actuar de acuerdo a lo que él cree que es su propio deseo. Pero Dominique llega en el momento preciso y se le ofrece en matrimonio por sus propias razones, y su aceptación de esto, hace que traicione  a Catherine y con ello a sí mismo. Con esto, termina la posibilidad de romance entre ellos. El acepta casarse con Dominique, dado que le ayudaría en su carrera mucho más que un matrimonio con Catherine. A su vez, demuestra su incapacidad de defender sus propias convicciones al  perder así, la única cosa sincera en su vida:   su amor por Catherine Halsey. Es lo mismo que hizo en su trabajo: desecha a Catherine como lo hará en un futuro  con Dominique.
 
-![alt text](</assets/img/Tooghey.png>){:width="300" style="float: right"} 
-**Lili Landau:** una de sus amantes, a la que le regaló el pueblo donde vivió en Austria  y lo transportó a orillas del Hudson. 
-
-
-**El Duque:** personaje referencial, era el apodo del padre de Wynand como fue  conocido en tierras ribereñas.
+**Catherine/Katie Halsey:** 
+![alt text](</assets/img/mujer sumisa.jpeg>){:width="300" style="float: right"}
+Se hacía llamar   Katie.  Es una joven sumisa, maleable, insegura de sí misma, manipulable, de veintiséis años. Tenía cabellos, castaños, ojos grises, sonrisa agradable, cuerpo delgado y sin curvas. Ella se fue a vivir con su tío cuando murieron sus padres y la mamá era la hermana de Ellsworth.  Hacía un año que  había conocido  a Peter en Boston, donde ella vivía con su madre. Estuvo comprometida con Keating, quien la deja para casarse con Dominique Françon. Su vida giraba en torno a su tío y su ideología sobre el bien y el mal, el altruismo y el egoísmo. Acompañaba y ayudaba sin esperar recompensa. Tenía momentos que se autoacusaba por pensar mal y darle participación al ego. Su tío la descalificaba y le cuestionaba el pensar egoísta e individualista. Al final, su llanto, su tristeza y su pensar se obviaron y el tío le dio el cargo de terapeuta de los niños y huésped permanente en el hogar que se creó después que Hopton cedió la construcción de la iglesia. Su comportamiento en ese trabajo era de una persona inconforme y triste. Luego se va a trabajar a Washington, permaneciendo soltera e indiferente al amor.
 
 
-**Cummings:** es el director del Herald de Wynand en Springville (Kansas). 
+**Guy Françon:** 
+![alt text](</assets/img/el yo de gail.jpeg>){:width="300" style="float: right"}
+Era de estatura  mediana y no demasiado grueso, de  cincuenta años. Se había graduado con distinción en la École des Beaux Arts. Arquitecto exitoso y con una gran fama,  pero poco creativo. Tiene un estudio lujoso lleno de empleados que hacen todo el trabajo. Su visión del arte arquitectónico es convencional, sigue a rajatabla las normas que en ese momento son considerados lo más plus ultra, las líneas clásicas que imitan el arte griego, o el romano. No hay creatividad, originalidad, nada fuera de lo que se considera clásico.
 
 
-**Sally Brent:** periodista que trabaja para Banner. Mujer madura, presuntuosa, admirada por su vestir a la moda y sus artículos eran del arte de servir y de hostelería.  Fue echada por redactar un artículo sobre el matrimonio de Wynand, sin embargo, en Nuevas Fronteras, una revista liberal  le publicaron un artículo sobre la vida amorosa con un enfoque paradigmático sociológico: ´´Sally Brent escribió el artículo sobre la vida amorosa de Gail Wynand en tono alegre, intelectual, en los términos de un estudio sociológico, pero con tal material que ninguna revista importante lo habría aceptado´´.   Pág. 159.  El Manantial I I  de Ayn Rand.
+Es un hombre adinerado, todo lo que tiene se lo debe a su profesión, él está consciente que ya no hay nada más que decir, pero no se aleja de lo convencional. Es un fraude del que está consciente, pero su entorno no acepta cambios y es su manera de mantener el statu quo.  Aparte de ser socio del  Estudio Françon & Heyer,   poseía una cantera de granito gris en Connecticut.
 
 
-**CERCANOS A  ELLSWORTH MONKTON TOOHEY:** es el antagonista de Roark. 
+Es encantador, amable, manipulador que lleva su vida de estrella como si fuera una consideración a los demás. Su relación con su hija es distante, pero cordial
 
 
-![alt text](</assets/img/Gail.png>){:width="300" style="float: right"} 
-**Lois Cook:** tenía 36 años, de contextura delgada, alta, espalda estrecha y anchas caderas, cara alargada con piel pálida. Es una mediocre escritora de poemas, publicó tres novelas. Para el público ella representaba una edad de 64 años, causando la impresión de la eterna juventud. Es amiga de Ellswoth M. Toohey  y,  la presidenta de la organización escritores jóvenes. En ese grupo, donde él fue el creador, la única preparada y con experiencia en lingüística era Lois, los demás eran principiantes o escritores sin nombre. Por medio de Ellsworth, Peter Keating, construye la vivienda de Lois. La construcción en general fue motivo de artículos, donde fue llamada:  la casa “chiste cósmico”.   Escribió la novela El cálculo biliar galante.
-Durkin: artista,  E.T. hace una crítica de su obra y lo destruye.
-Eugenio Pettingill:  descalificó la construcción de la casa de Heller comparándola con un castillo de naipes. 
+
+**Henry Cameron:** 
+![alt text](</assets/img/cameron.jpeg>){:width="300" style="float: right"}
+Arquitecto que en su momento de fama sus trabajos arquitectónicos estaban fuera de todo convencionalismo. Original, auténtico sus creaciones marcaban una gran diferencia con las especialidades que la sociedad consideraba artístico. En lo personal era de mal genio, testarudo, descortés, antipático, pero en cuanto a la proyección de sus trabajos era atrevido, dinámico, entusiasta, sobre todo apasionado. Lamentablemente, poco a poco fue perdiendo credibilidad y sus grandes trabajos fueron menos y, se tornaron más utilitarios.
 
 
-**Gordon L. Prescott:** tiene un estudio. Pretende mantener el arte establecido con visos de modernidad. “lo nuevo en lo eterno”. Forma parte del Consejo de Construcciones Estadounidenses, creado por E.T. (Pág. 359). Forma parte de la reconstrucción del templo. Escribe artículos de arquitectura.
+Howard lo tenía como su némesis, su máximo ejemplo para seguir sus pasos en su carrera.
 
 
-**Hopton Stodard:**  inversionista, excéntrico, débil de carácter, dependiente del que dirán. Manda a construir el templo donde E.T., aprovecha para destruir a Roark.
+**Louisa Keating:** 
+![alt text](</aassets/img/mama con hijo graduandose.jpg>){:width="300" style="float: right"} Madre de  Peter, era una dama graduada en la Escuela Superior, una mujer ambiciosa, entrometida, envidiosa, egoísta, maliciosa y mezquina. Después de la muerte de su esposo había trabajado duramente, y había admitido huéspedes en su casa, tenía una pensión vitalicia  procedente de una póliza que ella había procurado de mantener siempre en vigor. La renta era  modesta. De ahí que, es una mujer que ha depositado todas sus esperanzas de convertirse en alguien a través de su hijo Peter, a quien manipula
 
 
-**Gus Webb:**  un muchacho de veinticuatro años, al cual le agradaba decirles obscenidades a las mujeres distinguidas que pasaban por la calle, y que nunca había hecho ningún trabajo arquitectónico propio, como observamos en este ejemplo:  ´´ Tres de estos hombres tenían una buena reputación social y profesional: Gus Webb no tenía nada; por esta causa, Toohey lo incluyó entre los otros. Gus Webb hablaba a gritos y tenía excesiva confianza en sí mismo. Decía que no tenía miedo a nada y así lo hacía sentir. Todos eran miembros del Consejo de Constructores Estadounidenses´´.  Pág. 557.  El Manantial I de Ayn Rand.
+
+**Alvah Scarret:**  
+![alt text](</assets/img/editor.png>){:width="300" style="float: right"} Era soltero, perspicaz, competente y poco escrupuloso.  Era director de los diarios de Wynand, editor y único superviviente de la antigua Gazette. Tenía inclinaciones humanitarias y preocupaciones sociales. Demostraba en todo momento ser un profesional competente, astuto sin límites de ética para redactar y publicar. 
 
 
-**Jules Fougler:**   crítico teatral.
+Así como no odiaba, tampoco amaba, un frío y calculador periodista. Era tanto perspicaz como inescrupuloso.  Se encargó al igual que Ellsworth M. Toohey de publicar artículos que desacreditara la construcción de Roark. Cuando Wynand se retiró como director del Banner, Alvah Scarret queda responsable y busca realzar el nombre del anterior director por el abandono de su esposa.
 
-
-**Lancelot Clokey:**   escritor, publicó un libro sobre viajes. Se le considera un observador sensible.
-
-
-**Mitchell Layton:**   aparenta ser inteligente, seguro de sí mismo, expresa sus opiniones convencido de sus ideales, pero sin evidencias claras de que sean factibles. En el fondo es inseguro, inestable, influenciable. Recibe una herencia que lo hace millonario y no sabe qué hacer con ello, se vuelve yogui, vegetariano. Ellsworth M. Toohey logra manipularlo, como se observa en este ejemplo:   ´´La gente hace mucho ruido acerca de la libertad. Creo que es una palabra vaga, de la cual se ha abusado con exceso. No estoy seguro de que sea una bendición de Dios. Creo que la gente sería mucho más feliz en una sociedad regulada que tuviese un molde definitivo y una forma unificada, como una danza popular. Y también rítmica. Se necesitaron generaciones para desarrollarla y no se permite que ningún idiota pueda cambiarla. Eso es lo que necesitamos. Una forma y un ritmo. También belleza´´. Pág. 253  El Manantial II  de Ayn Rand. 
-Igualmente pensaba que:  ´´ Al tener que decidir, siempre hay que decidir partiendo de algún punto. Pero en una sociedad con un molde, un hombre se puede sentir seguro. Nadie podría venir a molestarlo para hacer nada, salvo trabajar, naturalmente, en beneficio de la comunidad´´. Pág. 253-254.  El Manantial II  de Ayn Rand.
-
-
-**Eve Layton:**  esposa de Mitchell Layton, era una mujer hermosa, de cabello negro y piel suave y tostada. Tenía el propósito de estar a la vanguardia, ser mejor que los demás. Parafraseaba su dicho favorito: «¿Yo? Soy el pasado mañana.» Era una experta jinete, una corredora de carrera de automóviles, piloto arrojado, campeona de natación. 
-
-
-**Ike:** escritor, escribe una obra de teatro llena de vulgaridades, criticando solapadamente al  New  York  Banner.
-
-
-**Homer Slottern:** de ojos somnolientos y cara grande. Se vestía con botones de rubíes y esmeraldas, ostentaba su riqueza.  Era  dueño de grandes tiendas.  Pág. 256-257  El Manantial II  de Ayn Rand.
-
-
-**Reneé Slottern:**  esposa de H. Slotter, era indiferente a todo lo que le rodeaba. 
-
-
-**Jessica Pratt:** soltera, su apellido es de abolengo. Se maquillaba exagerando el polvo blanco. El amor por su hermana Renée. la llevó a valerse de lo que sea para lograr sus metas, entre ellas casarla con Homer Slottern.  Pensaba que: ´´ el altruismo es el único principio moral —agregó Jessica Pratt—, el principio más noble, y un deber sagrado mucho más importante que la libertad. El desinterés es el único camino para llegar a la felicidad. Se debería fusilar a todo aquel que se negase a ser desinteresado. Ayudarlos a salir de su desgracia. No pueden ser felices´´. Pág.  254.  El Manantial II    de Ayn Rand.
-
-
-**Ralston Holcombe:**  no tenía cuello visible, pero su barbilla se encargaba de remplazarlo. Sus mejillas eran rosadas, de abundante pelo blanco, y enorme  cuerpo,  tenía sesenta y cinco años, presidente  de la Corporación  de Arquitectos de Norteamérica.  Era hombre de ideales.
-
-
-**Constance/Kiki  Holcombe:**  esposa de Ralston Holcombe, de diminuta estatura,  tenía cuarenta y dos años.
-
-
-**CERCANOS A PETER KEATING:**
-
-![alt text](</assets/img/Peter.png>){:width="300" style="float: right"} 
-**Neil Dumont:**  dibujante, mejor amigo de Peter y su adulador. Larguirucho y anémico, de familia distinguida y futuro socio de Peter.
-
-
-**Slotnick:** encargó una estatua para uno de los edificios de Peter Keating.
-Sr. Shupe: representante del Cosmo.
-
-
-**Bronso:**  un escultor que era amigo de la  señora Shupe, esposa del presidente del "Cosmo".
-
-
-**Huseby:**  posible cliente  de Keating, proyectaba la erección de una nueva fábrica de cosméticos por valor de cinco millones de dólares.
 
 
