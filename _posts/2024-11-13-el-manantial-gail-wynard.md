@@ -5,7 +5,7 @@ date: 2024-11-13  09:00:01 +0100
 categories: 
     - El Manantial
 ---
-![alt text](</assets/img/Gail Wynand1.png>)
+![alt text](</assets/img/gail banner.png>)
 
 
 Era alto pero raras veces estaba completamente erguido, demasiado delgado. Sus ojos eran de color azul pálido de boca grande y fina, sus cabellos eran grises. Tenía cincuenta y un años. Fue hijo único, su madre había muerto de ![alt text](</assets/img/gail2.png>){:width="300" style="float: right"} tuberculosis cuando él tenía dos años. La vida terminó para su padre cuando ella murió. Su padre era estibador, hombre alto, silencioso, ignorante, que nunca había ido a la escuela, aunque era conocido en tierras ribereñas como El Duque.
