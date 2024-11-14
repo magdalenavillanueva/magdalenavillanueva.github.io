@@ -8,9 +8,9 @@ categories:
 ![alt text](</assets/img/Dominique  Françon.png>)
 
 
-Tenía los ojos grises que no eran ovalados, sino demasiado largos, con  cortes regulares bordeados por líneas paralelas de pestañas, su cabello era de un oro pálido. Su fino cuerpo parecía fuera de toda proporción comparado con el cuerpo humano normal; sus líneas eran tan frágiles, tan exageradas, que semejaban un dibujo estilizado de una mujer. Es  hija de Guy Françon, es hermosa, apasionada pero  también ama la individualidad y todo lo que libere al hombre de la esclavitud de las ideas. Se casó con Peter Keating y luego con Gail Wynand. Se siente frustrada, insatisfecha y atormentada por no encontrar honestidad y belleza en este mundo.
+Tenía los ojos grises que no eran ovalados, sino demasiado largos, con  cortes regulares bordeados por líneas paralelas de pestañas, su cabello era de un oro pálido. Su fino cuerpo parecía fuera de toda proporción comparado con el cuerpo humano normal; ![alt text](</assets/img/dominique silueta.jpg>){:width="300" style="float: right"}sus líneas eran tan frágiles, tan exageradas, que semejaban un dibujo estilizado de una mujer. Es  hija de Guy Françon, es hermosa, apasionada pero  también ama la individualidad y todo lo que libere al hombre de la esclavitud de las ideas. Se casó con Peter Keating y luego con Gail Wynand. Se siente frustrada, insatisfecha y atormentada por no encontrar honestidad y belleza en este mundo.
 
- ![alt text](</assets/img/gail2.png>){:width="300" style="float: right"}
+
 
 Es la coprotagonista y es un personaje bastante complejo, su actitud en su entorno despierta en el lector sentimientos contradictorios. Para analizarla en su real dimensión hay que observar que las diferentes capas que se descubren  de su personalidad que dan referencias de una mujer muy segura de sí misma, inteligente, ingeniosa, conocedora de la sociedad elitista en la que se mueve. Ama la individualidad y todo lo que libere al hombre de la esclavitud de las ideas. Trabaja como columnista en el New York Banner, un periódico amarillista,  no por diversión, es su manera de sentirse útil y asume sus tareas con responsabilidad y se compromete a dar ella lo mejor, para con los que le toca trabajar. 
 
