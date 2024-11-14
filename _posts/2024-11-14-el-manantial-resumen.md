@@ -24,7 +24,7 @@ Dentro de lo convencional de la arquitectura, el ambiente donde se desarrolla la
 
 A su vez,  van construyéndose edificaciones para ayudar a los desvalidos o ciudadanos no pensantes como los etiqueta Gail Wynand, dueño del periódico New York Banner.   Ellsworth Monkton Toohey con sus amigos adinerados, va ganando almas por el altruismo  en una sociedad industrial con un enfoque de utilidad para un propósito. Ser un ciudadano que encaje en un sistema de clasificación o eneagrama social. Salirse es ir en contra.   
 
-
+![alt text](</assets/img/nueva york resumen.jpg>){:width="300" style="float: right"}
 La trama y desenvolvimiento de cada protagonista lleva a plantearse interrogantes por parte del lector. Howard y Dominique tienen una personalidad individualista, no dependen de las opiniones. Ambos indiferentes, uno se aísla y ella se mete en los grupos manteniendo su raciocinio. El padre de Dominique solo reconoce que es su hija sin sentirse comprometido a brindarle apoyo por su proceder calculador y arrogante. 
 
 
