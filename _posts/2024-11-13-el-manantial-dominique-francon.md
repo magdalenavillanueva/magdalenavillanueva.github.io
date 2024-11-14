@@ -40,4 +40,3 @@ El problema es que Gail no sabe que Howard representa todo eso para ella. Ignora
 
 
 
-![alt text](</assets/img/gail millonario.png>){:width="300" style="float: right"}
