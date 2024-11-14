@@ -5,30 +5,28 @@ date: 2024-11-14  14:00:01 +0100
 categories: 
     - El Manantial
 ---
-![alt text](</assets/img/Reseña de manantial.png>)
+![alt text](</assets/img/Biografía  de Ayn Rand.png>)
 
 
 
    
-Partiendo del mundo creado por A. Rand, la novela El manantial nos presenta la visión individualista del personaje principal, Howard Roark. Estudiante sobresaliente e incomprendido de arquitectura el cual es expulsado a pocos días de la graduación por sus ideas vanguardistas que no compartían algunos de sus profesores del instituto. El director intentó que dejara de lado sus impresiones para así graduarse y no aceptó.![alt text](</assets/img/manantial novela.png>){:width="300" style="float: right"}
+Ayn Rand, nació en San Petersburgo un 2 de febrero de 1905  y muere en Nueva York el 6 de marzo de 1982. Su verdadero nombre era  Alisa Zinóvievna Rosenbaum y su seudónimo fue tomado del sistema cirílico. Ayn Rand, desciende de una familia judía, que poseía un negocio farmacéutico, el cual es expropiado por las nuevas políticas del gobierno soviético.  Su infancia la vive a la par de la Revolución Bolchevique la que en su momento le toca coexistir con el hambre y la purga de clase y la religiosa.![alt text](</assets/img/ayn1.jpg>){:width="300" style="float: right"}
 
 
-Comienza su historia donde muestra una radicalidad en su posición ante la vida y lo que espera de ella. Su interés está centrado en que sus obras sean reflejo de su sentir, de sus ideas, de sus propósitos. Inicia una batalla contra lo convencional que se presentaba en la arquitectura, donde la originalidad, lo espontáneo estaba fuera de lugar. 
+Estudió Filosofía e Historia en el Universidad de San Petersburgo donde resaltaba en la Pedagogía Social y la Historia y  se interesó por la literatura y el cine.  Siendo una veinteañera, en 1921, viaja a Estados Unidos a visitar a la otra parte de su familia, pero con la intención de no regresar. Vivió un tiempo en Chicago para luego mudarse a Hollywood.
 
 
-En El Manantial, no solamente está Roark, como personaje principal, también participan varios personajes, cada uno tiene unas características propias que existen en una sociedad que cohesiona la libertad de participación, utilizando al mismo ciudadano para lograr su crecimiento. Es un juego que todos participan, entre manipular e invalidar se ve la lucha por sobrevivir. 
+Inicia estudios en el Instituto estatal de Artes Cinematográficas con el objetivo de escribir guiones. Aristóteles y Nietzsche son los filósofos que más han influenciado en su visión de mundo. 
 
 
-Dentro de lo convencional de la arquitectura, el ambiente donde se desarrolla la novela, se observa   la competencia por ganarse un sitial en una sociedad que busca complacencia de una clase social. Peter Keating compañero de estudio de Roark busca la aprobación de su madre y del estudio de arquitectura de Françon & Heyer, con el gerente Guy Françon, donde trabaja. Su fama lo condujo a sentirse importante, pero no satisfecho de sus logros. En él se observa el profesional exitoso en complacer obviando la creatividad. Un estudiante con calificaciones altas, un profesional a la altura de ser oprimido y sin libertad. 
+En Hollywood conoce a Cecil B. De Mille, un cineasta conocido del medio que le ofrece trabajo y consejos para la escritura de guiones. En su peregrinar trabajó como asistente de vestuarista, extra de películas, pero sin dejar de lado su interés principal: los guiones, ya para películas, ya para teatro. En ese medio conoce a su esposo Frank O`Connor, actor de cine, se casaron en 1929 y vivieron juntos hasta la muerte del actor en 1997. En 1931 adquiere la nacionalidad estadounidense.
 
 
-A su vez,  van construyéndose edificaciones para ayudar a los desvalidos o ciudadanos no pensantes como los etiqueta Gail Wynand, dueño del periódico New York Banner.   Ellsworth Monkton Toohey con sus amigos adinerados, va ganando almas por el altruismo  en una sociedad industrial con un enfoque de utilidad para un propósito. Ser un ciudadano que encaje en un sistema de clasificación o eneagrama social. Salirse es ir en contra.   
-
-![alt text](</assets/img/nueva york resumen.jpg>){:width="300" style="float: right"}
-La trama y desenvolvimiento de cada protagonista lleva a plantearse interrogantes por parte del lector. Howard y Dominique tienen una personalidad individualista, no dependen de las opiniones. Ambos indiferentes, uno se aísla y ella se mete en los grupos manteniendo su raciocinio. El padre de Dominique solo reconoce que es su hija sin sentirse comprometido a brindarle apoyo por su proceder calculador y arrogante. 
+![alt text](</assets/img/ayn2.jpg>){:width="300" style="float: right"}  En 1932, uno de sus guiones es comprado:  Red Pawn, y con su venta inicia un nuevo cambio de vida, se dedica totalmente a la escritura. Inicia su vida como escritora de novelas, historias cortas, guiones de película y teatro, ensayos donde expresaba sus ideas de su filosofía objetivista, su defensa al individualismo y al capitalismo. Entre sus premisas, para la sociedad estaba la de que el hombre debía tener un único objetivo y era la de buscar su propia felicidad sin considerar lo que su prójimo estuviera pasando o sintiendo. No aceptaba el sacrificio por el otro como una señal de felicidad. Aunado a esto, está su activismo político dentro del conservadurismo norteamericano y su defensa al capitalismo. Su visión de mundo la hacía presentarse y verse ante los demás como una mujer revolucionaria, reaccionaria, atea y sobretodo capitalista. 
 
 
-¿Ahora, una sociedad con personalidades como Howard Roark y Dominique Françon  lleva a la evolución y por ende, la disminución de los desvalidos, pobreza y personas no pesantes? 
+Tras publicar sus dos primeras novelas, Los que vivimos (1936) e ![alt text](</assets/img/ayn3.jpg>){:width="300" style="float: right"}Himno (1938), el éxito le llegó con El manantial (1943),  y La rebelión de Atlas (1957), su obra  más completa sobre la filosofía objetivista. El libro narra la decadencia de los Estados Unidos como consecuencia del excesivo intervencionismo del gobierno.  Luego de este libro, solo escribió ensayos, en los que desarrolló explícitamente las premisas filosóficas implícitas en La rebelión de Atlas. Uno de esos ensayos, La virtud del egoísmo es considerado uno de los manifiestos principales de la corriente filosófica de Ayn Rand.
+
 
 
 
