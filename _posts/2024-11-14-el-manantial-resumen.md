@@ -10,7 +10,7 @@ categories:
 
 
    
-Partiendo del mundo creado por A. Rand, la novela El manantial nos presenta la visión individualista del personaje principal, Howard Roark. Estudiante sobresaliente e incomprendido de arquitectura el cual es expulsado a pocos días de la graduación por sus ideas vanguardistas que no compartían algunos de sus profesores del instituto. El director intentó que dejara de lado sus impresiones para así graduarse y no aceptó.![alt text](</assets/img/novela el manantial.png>){:width="300" style="float: right"}
+Partiendo del mundo creado por A. Rand, la novela El manantial nos presenta la visión individualista del personaje principal, Howard Roark. Estudiante sobresaliente e incomprendido de arquitectura el cual es expulsado a pocos días de la graduación por sus ideas vanguardistas que no compartían algunos de sus profesores del instituto. El director intentó que dejara de lado sus impresiones para así graduarse y no aceptó.![alt text](</assets/img/manantial novela.png>){:width="300" style="float: right"}
 
 
 Comienza su historia donde muestra una radicalidad en su posición ante la vida y lo que espera de ella. Su interés está centrado en que sus obras sean reflejo de su sentir, de sus ideas, de sus propósitos. Inicia una batalla contra lo convencional que se presentaba en la arquitectura, donde la originalidad, lo espontáneo estaba fuera de lugar. 
