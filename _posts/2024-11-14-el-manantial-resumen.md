@@ -5,23 +5,30 @@ date: 2024-11-14  13:00:01 +0100
 categories: 
     - El Manantial
 ---
-![alt text](</assets/img/Howard Roark banner.png>)
+![alt text](</assets/img/Reseña de manantial.png>)
 
 
 
-![alt text](</assets/img/howard individuallista.jpeg>){:width="300" style="float: right"} a autoridad que la de su propio juicio independiente.  
+   
+Partiendo del mundo creado por A. Rand, la novela El manantial nos presenta la visión individualista del personaje principal, Howard Roark. Estudiante sobresaliente e incomprendido de arquitectura el cual es expulsado a pocos días de la graduación por sus ideas vanguardistas que no compartían algunos de sus profesores del instituto. El director intentó que dejara de lado sus impresiones para así graduarse y no aceptó.![alt text](</assets/img/novela el manantial.png>){:width="300" style="float: left"}
 
 
+Comienza su historia donde muestra una radicalidad en su posición ante la vida y lo que espera de ella. Su interés está centrado en que sus obras sean reflejo de su sentir, de sus ideas, de sus propósitos. Inicia una batalla contra lo convencional que se presentaba en la arquitectura, donde la originalidad, lo espontáneo estaba fuera de lugar. 
 
 
-![alt text](</assets/img/individualista radical.jpg>){:width="300" style="float: left"} al colectivo, a ese hombre-masa que trata de sofocar su creatividad obligándolo a seguir la tradición y los imperativos socioculturales hasta reducirla a su misma condición: la de muchedumbre. Instándolo a abjurar de sus ideales y aceptar el decorativismo imperante. Existe una idea muy moderna en este personaje elitista: la alegría de vivir opuesta a la gravedad de los colectivistas que quieren sofocarla.  En otras palabras, Roark, representa un proyecto arquitectónico nuevo.  Le importa diseñar según sus normas y ser fiel a su visión de lo que debe ser un edificio, cómo cambia según los materiales disponibles y para qué se diseña el edificio. No le importa ser famoso. No le importa ser rico. No le importa obtener crédito. Le importa su visión y verla cumplida.  Está claro en que la creación y la producción se llevan a cabo mejor como empresas individualistas.
+En El Manantial, no solamente está Roark, como personaje principal, también participan varios personajes, cada uno tiene unas características propias que existen en una sociedad que cohesiona la libertad de participación, utilizando al mismo ciudadano para lograr su crecimiento. Es un juego que todos participan, entre manipular e invalidar se ve la lucha por sobrevivir. 
 
 
-![alt text](</assets/img/howard diferente.jpg>){:width="300" style="float: right"}De esta forma, la trama se centra en la trayectoria de Howard Roark, cuya personalidad radical, solo le interesa la creación, la satisfacción en la producción de su propio trabajo, de acuerdo con sus propios ideales y convicciones. Así comienza su historia, donde muestra una posición ante la vida y lo que espera de ella. Su interés está centrado en que sus obras sean reflejo de su sentir, de sus ideas, de sus propósitos. Inicia una batalla contra lo convencional de la arquitectura, donde la originalidad estaba fuera de lugar.  Es un arquitecto vanguardista, ávido de romper con todo lo hecho hasta ahora en los terrenos de la arquitectura.
+Dentro de lo convencional de la arquitectura, el ambiente donde se desarrolla la novela, se observa   la competencia por ganarse un sitial en una sociedad que busca complacencia de una clase social. Peter Keating compañero de estudio de Roark busca la aprobación de su madre y del estudio de arquitectura de Françon & Heyer, con el gerente Guy Françon, donde trabaja. Su fama lo condujo a sentirse importante, pero no satisfecho de sus logros. En él se observa el profesional exitoso en complacer obviando la creatividad. Un estudiante con calificaciones altas, un profesional a la altura de ser oprimido y sin libertad. 
 
 
-Sin someterse ante nadie, va lentamente alcanzando el éxito. Al final de la novela, Roark está de pie triunfante en lo alto de una torre que está construyendo, y Dominique viene a su encuentro, como lo vemos en este ejemplo: ´´Lo vio encima de ella, en la plataforma más alta del edificio Wynand. Él la saludó con la mano. La línea del océano cortaba el cielo. El océano subía conforme descendía la ciudad. Pasó los pináculos de los edificios de los Bancos. Subió sobre las torres de los templos. Después ya no hubo nada más que el océano, el cielo y la figura de Howard Roark´´.  Pág. 452. El Manantial  II de Ayn Rand.
+A su vez,  van construyéndose edificaciones para ayudar a los desvalidos o ciudadanos no pensantes como los etiqueta Gail Wynand, dueño del periódico New York Banner.   Ellsworth Monkton Toohey con sus amigos adinerados, va ganando almas por el altruismo  en una sociedad industrial con un enfoque de utilidad para un propósito. Ser un ciudadano que encaje en un sistema de clasificación o eneagrama social. Salirse es ir en contra.   
 
+
+La trama y desenvolvimiento de cada protagonista lleva a plantearse interrogantes por parte del lector. Howard y Dominique tienen una personalidad individualista, no dependen de las opiniones. Ambos indiferentes, uno se aísla y ella se mete en los grupos manteniendo su raciocinio. El padre de Dominique solo reconoce que es su hija sin sentirse comprometido a brindarle apoyo por su proceder calculador y arrogante. 
+
+
+¿Ahora, una sociedad con personalidades como Howard Roark y Dominique Françon  lleva a la evolución y por ende, la disminución de los desvalidos, pobreza y personas no pesantes? 
 
 
 
