@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "El Manantial:Resumen "
+title: "El Manantial: Resumen "
 date: 2024-11-14  13:00:01 +0100
 categories: 
     - El Manantial
