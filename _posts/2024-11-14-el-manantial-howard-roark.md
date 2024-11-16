@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "El Manantial:Howard Roark "
+title: "El Manantial: Howard Roark "
 date: 2024-11-14  12:00:01 +0100
 categories: 
     - El Manantial
