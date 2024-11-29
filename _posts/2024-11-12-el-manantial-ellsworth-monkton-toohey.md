@@ -8,7 +8,7 @@ categories:
 ![alt text](</assets/img/Ellsworth Monkton Toohey.png>)
 
 
-**Peter Keating:**
+
 
 ![alt text](</assets/img/Ellsworth.png>){:width="300" style="float: right"} 
 Desde que nació tuvo problemas de salud. Pálido, delgado, cabello y ojos de color negro y con enfermedad respiratoria. Era una figura pequeña y luctuosa, con el pecho hundido, las piernas arqueadas y anteojos. **Horacio** se llamaba su padre, dirigía en Boston la sucursal de una cadena nacional de zapaterías y su madre, responsable del hogar, se llamaba **Mary**. Ellsworth era el segundo hijo, su hermana **Helen** le llevaba cinco años. Su madre lo defendía por su debilidad física y su padre se aislaba de la responsabilidad de guiarlo
