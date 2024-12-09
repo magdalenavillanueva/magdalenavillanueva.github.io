@@ -10,8 +10,12 @@ categories:
 
 
 **Joel Sutton:**  empresario que en un primer momento busca a Roark para que le construya un edificio, pero se deja convencer por Dominique y declina la oferta.
-John Erik Snyte:  arquitecto, se cree progresista. Roark trabajó en su estudio.
-Billings:  empleado de John Erik Snyte, considerado el modernista.
+
+
+**John Erik Snyte**:  arquitecto, se cree progresista. Roark trabajó en su estudio.
+
+
+**Billings**:  empleado de John Erik Snyte, considerado el modernista.
 
 
 **Jimmy Gowan:**  contrata a Howard para construir una estación de servicio 
@@ -19,11 +23,15 @@ en Post Road.
 
 
 **Wayne Wilmont:**  señora interesada en la construcción de una casa, fanática de Austen Heller al que consideraba un oráculo de los progresistas e intelectuales. Desea hacer una casa con el arquitecto que hizo la casa de Heller sin haberla visto, solo por el prestigio que eso podría darle.
-Robert L. Mundy:  era un hombre atrapado en el pasado, que no sabe lo que quiere. Quiere una casa que sea la misma mansión a donde tenía que ir a llevar los pedidos. Howard se niega a construirla. 
+
+
+**Robert L. Mundy**:  era un hombre atrapado en el pasado, que no sabe lo que quiere. Quiere una casa que sea la misma mansión a donde tenía que ir a llevar los pedidos. Howard se niega a construirla. 
 ![alt text](</assets/img/edificios ny.png>){:width="300" style="float: right"} 
 
 **Nathaniel Janss:**  era franco y descortés, un empresario, dueño de una compañía de ventas de inmuebles, su empresa tiene el proyecto de un edificio de 30 pisos, llama a Howard para el proyecto, pero el directorio lo rechazó.
-Mary Watson:  aparentemente era una superviviente de un incendio en un taller  de costura. (Datos no comprobados)
+
+
+**Mary Watson**:  aparentemente era una superviviente de un incendio en un taller  de costura. (Datos no comprobados)
 
 
 **Bwight Carson:** escritor, hombre de convicciones, despedido del periódico.
