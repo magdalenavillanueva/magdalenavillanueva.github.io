@@ -28,7 +28,7 @@ categories:
 
 **CERCANOS A GAIL WYNARD:**
 
-![alt text](</assets/img/Tooghey.png>){:width="300" style="float: right"} 
+![alt text](</assets/img/gail22.png>){:width="300" style="float: right"} 
 **Lili Landau:** una de sus amantes, a la que le regaló el pueblo donde vivió en Austria  y lo transportó a orillas del Hudson. 
 
 
@@ -44,7 +44,7 @@ categories:
 **CERCANOS A  ELLSWORTH MONKTON TOOHEY:** es el antagonista de Roark. 
 
 
-![alt text](</assets/img/Gail.png>){:width="300" style="float: right"} 
+![alt text](</assets/img/tooghey2.png>){:width="300" style="float: right"} 
 **Lois Cook:** tenía 36 años, de contextura delgada, alta, espalda estrecha y anchas caderas, cara alargada con piel pálida. Es una mediocre escritora de poemas, publicó tres novelas. Para el público ella representaba una edad de 64 años, causando la impresión de la eterna juventud. Es amiga de Ellswoth M. Toohey  y,  la presidenta de la organización escritores jóvenes. En ese grupo, donde él fue el creador, la única preparada y con experiencia en lingüística era Lois, los demás eran principiantes o escritores sin nombre. Por medio de Ellsworth, Peter Keating, construye la vivienda de Lois. La construcción en general fue motivo de artículos, donde fue llamada:  la casa “chiste cósmico”.   Escribió la novela El cálculo biliar galante.
 Durkin: artista,  E.T. hace una crítica de su obra y lo destruye.
 Eugenio Pettingill:  descalificó la construcción de la casa de Heller comparándola con un castillo de naipes. 
@@ -92,7 +92,7 @@ Igualmente pensaba que:  ´´ Al tener que decidir, siempre hay que decidir part
 
 **CERCANOS A PETER KEATING:**
 
-![alt text](</assets/img/Peter.png>){:width="300" style="float: right"} 
+![alt text](</assets/img/peter2.png>){:width="300" style="float: right"} 
 **Neil Dumont:**  dibujante, mejor amigo de Peter y su adulador. Larguirucho y anémico, de familia distinguida y futuro socio de Peter.
 
 
