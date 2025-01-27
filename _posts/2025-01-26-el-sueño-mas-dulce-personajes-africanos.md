@@ -8,7 +8,7 @@ categories:
 ![alt text](</assets/img/banner doris lessing.png>)
 
  
-![alt text](</assets/img/Rol de la mujer y Feminismo.png>){:width="400" style="float: right"}***Zimlia***, país inventado que representa a los países africanos en guerra por motivos políticos disfrazados de libertad. Lleva 20 años en guerra.
+![alt text](</assets/img/africa.png>){:width="400" style="float: right"}***Zimlia***, país inventado que representa a los países africanos en guerra por motivos políticos disfrazados de libertad. Lleva 20 años en guerra.
 
    
 Consecuencias de los ideales socialistas:
@@ -40,9 +40,6 @@ Al casarse con Gloria su perspectiva de vida cambia, se vuelve corrupto. Gloria 
 **Gloria:**  Alegre, encantadora, ambiciosa, atrevida, embaucadora, manipuladora, pretenciosa. Seduce a Matthew, lo deslumbra con su belleza y su actitud de confianza seguridad en sí misma. De su matrimonio sacó provecho para hacerse rica y le hizo ver a Matthew los placeres que se estaba perdiendo.
 
 **Padre Paul:**    era mezquino, golpeador, odiaba a los negros. Era desaseado con su persona, olía mal. No superó su triste infancia lo cual lo marcó y marcó la infancia de Matthew con sus desprecios e intolerancia.
-
-![alt text](</assets/img/Rol de la mujer y Feminismo.png>){:width="400" style="float: right"}
-
 
 **Padre Kevin McGuire:**    pertenecía a la misión de San Lucas.  
 
