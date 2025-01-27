@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "El sueño más dulce: Particularidades que la obra presenta "
+title: "El sueño mas dulce: Particularidades que la obra presenta "
 date: 2025-01-26  13:00:01 +0100
 categories: 
     - El sueño más dulce
@@ -77,16 +77,11 @@ El hogar que creó Frances en la casa de Julia: al crecer sus hijos  y las “vi
 ![alt text](</assets/img/musica.png>){:width="400" style="float: right"}
 
 ***Música:***
-
-*Giovanni Pierluigi Da Palestrina (1525-1594):*
+Giovanni Pierluigi Da Palestrina (1525-1594):
 Es un compositor   italiano renacentista que con su música sacra representó la musica del siglo XVI.
-
-
-*Antonio Vivaldi: (1678 - 1741)*
+Antonio Vivaldi: (1678 - 1741)
 Era un compositor barroco de géneros musicales: Ópera, música de cámara, Sacra, concierto, sinfonía y sardana.
-
-
-*Jazz:*
+Jazz:
 Es un género musical originario a última etapa del siglo XIX en las comunidades afroamericanas de Nueva Orleans. En la segunda guerra mundial se escuchó este género musical
 
 ***Libros:***
@@ -99,11 +94,11 @@ Es un texto creado por  Karl Marx y Friedrich Engels  entre 1847 y 1848
 Libro clásico de cocina de época.
 
 
-La prueba de Richard Feverel:
+*La prueba de Richard Feverel:*
 Novela escrita por el  inglés George Meredith (1828- 1909), siendo publicada  en 1859.
 
 *Biblia:*
-Es un libro canónico de inspiración divina.
+Es un libro canónico de inspiración divina
 
 *Libros de Michel de Montaigne ( 1533-1592):*
 Fue un filósofo, escritor, humanista y moralista francés del Renacimiento, escribió Ensayos y creador del género literario conocido en la Edad Moderna como ensayo.
@@ -115,7 +110,6 @@ https://www.youtube.com/watch?v=xAZeRgWYImo&pp=ygUVUG9lbWEgZGUgV2FsdGVyIFNjb3R0.
 
 
 ***Ambiente:***
-
 
 *Mayfair:* 
 Una ciudad donde Julia con Philip vivian. Actualmente tiene elegantes casas estilo townhouse georgianas, hoteles y restaurantes 
