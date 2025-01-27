@@ -8,8 +8,8 @@ categories:
 ![alt text](</assets/img/banner doris lessing.png>)
 
  
-![alt text](</assets/img/africa.png>){:width="400" style="float: right"}***Zimlia***, país inventado que representa a los países africanos en guerra por motivos políticos disfrazados de libertad. Lleva 20 años en guerra.
-
+***Zimlia***, país inventado que representa a los países africanos en guerra por motivos políticos disfrazados de libertad. Lleva 20 años en guerra.
+![alt text](</assets/img/africa.png>){:width="300" style="float: right"}
    
 Consecuencias de los ideales socialistas:
 
