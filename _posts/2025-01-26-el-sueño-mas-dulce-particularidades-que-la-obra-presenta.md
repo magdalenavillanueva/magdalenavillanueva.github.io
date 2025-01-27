@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "El sueño mas dulce: Particularidades que presenta la obra "
+title: "El sueño mas dulce: Particularidades que la obra presenta "
 date: 2025-01-26  13:00:01 +0100
 categories: 
     - El sueño más dulce
