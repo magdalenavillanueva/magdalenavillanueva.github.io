@@ -7,6 +7,7 @@ categories:
 ---
 ![alt text](</assets/img/banner doris lessing.png>)
 
+
 **Cambios después de la guerra:** 
 
    
@@ -73,12 +74,13 @@ Es una familia disfuncional, fragmentada, el hilo que los mantiene unidos es Fra
 El hogar que creó Frances en la casa de Julia: al crecer sus hijos  y las “visitas” de los críos  ya profesionales. Frances, su pareja y los hijos de él, Colin y su hija producto de su relación con Sophia. Cuando llega Sylvia con los 2 niños africanos y muere, aceptan con valentía el reto de cuidar y llevar adelante a los niños. 
 
 **MUSICA  LITERATURA Y OTROS:**
-![alt text](</assets/img/musica.png>){:width="300" style="float: right"}
+
+![alt text](</assets/img/musica.png>)
 
 ***Música:***
 Giovanni Pierluigi Da Palestrina (1525-1594):
 Es un compositor   italiano renacentista que con su música sacra representó la musica del siglo XVI.
-Antonio Vivaldi: (1678 – 1741)
+Antonio Vivaldi: (1678 - 1741)
 Era un compositor barroco de géneros musicales: Ópera, música de cámara, Sacra, concierto, sinfonía y sardana.
 Jazz:
 Es un género musical originario a última etapa del siglo XIX en las comunidades afroamericanas de Nueva Orleans. En la segunda guerra mundial se escuchó este género musical
