@@ -5,7 +5,7 @@ date: 2025-01-26  13:00:01 +0100
 categories: 
     - El sueño más dulce
 ---
-![alt text](</assets/img/banner doris lessing.png
+![alt text](</assets/img/banner doris lessing.png>)
 
 **Cambios después de la guerra:** 
 
@@ -46,13 +46,13 @@ País inventado, pero que intenta reflejar a los países africanos que buscaron 
 
 **Desengaño del comunismo:**
 
-![alt text](</assets/img/desengaño del comunismo.png>){:width="300" style="float: right"}
+![alt text](</assets/img/desengaño del comunismo.png>{:width="300" style="float: right"}
 
 - Los grupos extremistas que no aceptaban opiniones adversas.
 - El partido que se imponía sobre lo que se decía, hacía, pensaba.
 Voz de la decepción. Cuando se tiene fe en algo y descubre que es un fraude.  Sentir que se vivió y colaboró con la estafa. “desencanto del amargo despertar Stalin”.
 
-**La adolescencia:**
+**La adolescencia:**)
 
 La juventud de los años 60/70/80 con ideales de justicia social, libertad, inclinados a la ideología comunista.
 Parte de los adolescentes se abocarán a la ambición y la corrupción del sistema patriarcal. 
