@@ -52,7 +52,7 @@ País inventado, pero que intenta reflejar a los países africanos que buscaron 
 - El partido que se imponía sobre lo que se decía, hacía, pensaba.
 Voz de la decepción. Cuando se tiene fe en algo y descubre que es un fraude.  Sentir que se vivió y colaboró con la estafa. “desencanto del amargo despertar Stalin”.
 
-**La adolescencia:**)
+**La adolescencia:**
 
 La juventud de los años 60/70/80 con ideales de justicia social, libertad, inclinados a la ideología comunista.
 Parte de los adolescentes se abocarán a la ambición y la corrupción del sistema patriarcal. 
@@ -85,50 +85,62 @@ Jazz:
 Es un género musical originario a última etapa del siglo XIX en las comunidades afroamericanas de Nueva Orleans. En la segunda guerra mundial se escuchó este género musical
 
 ***Libros:***
-Manifiesto comunista:
-Es un texto creado por  Karl Marx y Friedrich Engels  entre 1847 y 1848
-Gastronomía rural francesa, 1967 de Elizabeth David.: 
-Libro clásico de cocina de época.
 
-La prueba de Richard Feverel:
+
+*Manifiesto comunista:*
+Es un texto creado por  Karl Marx y Friedrich Engels  entre 1847 y 1848
+ 
+*Libro clásico de cocina de época.*
+Gastronomía rural francesa, 1967 de Elizabeth David.
+
+*La prueba de Richard Feverel:*
 Novela escrita por el  inglés George Meredith (1828- 1909), siendo publicada  en 1859.
 
-Biblia:
+*Biblia:*
 Es un libro canónico de inspiración divina
 
-Libros de Michel de Montaigne ( 1533-1592) :
+*Libros de Michel de Montaigne ( 1533-1592):*
 Fue un filósofo, escritor, humanista y moralista francés del Renacimiento, escribió Ensayos y creador del género literario conocido en la Edad Moderna como ensayo.
+https://www.youtube.com/watch?v=vcVJm7jLmek&pp=ygUmbWljaGVsIGRlIG1vbnRhaWduZSBlbnNheW9zIGF1ZGlvbGlicm8%3D
 
-Poema de Walter Scott (1771–1832)
+*Poema de Walter Scott (1771-1832)*
 Fue escritor británico prolífico del Romanticismo, escribió en novelas poeta y editor
+https://www.youtube.com/watch?v=xAZeRgWYImo&pp=ygUVUG9lbWEgZGUgV2FsdGVyIFNjb3R0.
+
 
 ***Ambiente:***
 
-Mayfair: 
+*Mayfair:* 
 Una ciudad donde Julia con Philip vivian. Actualmente tiene elegantes casas estilo townhouse georgianas, hoteles y restaurantes 
-Hampstead:
+
+*Hampstead:*
 Es ciudad inglesa de Londres, Reino Unido.  Philip, Julia  y su hijo se mudaron. La vivienda era grande y de dos pisos. Al morir Philip, Julia invitó a Frances con sus nietos vivieran en la primera planta 
-Notting Hill.
+
+*Notting Hill.*
 Es un distrito donde Frances con sus hijos vivia.
-East End de Londres:
+
+*East End de Londres:*
 Es una zona de  Londres donde se hospedaba Jonny.
-Primrose Hill
+
+*Primrose Hill*
 Es una colina  norte de Regent's Park, Londres, Reino Unido.
 
-Oxford Street:
+*Oxford Street:*
 Es una calle de la ciudad  inglesa de  Westminster- Londres.
-King's Cross:
+
+*King's Cross:*
 Parada de transporte público en Londres, Inglaterra.
-Gordon Square
+
+*Gordon Square*
 Es una plaza pública situada en Bloomsbury , Londres, Inglaterra.
 
 ***Estilistas famosos de la época:***
 
 
-Evansky 
+*Evansky* 
 Era una peluquera  que realizaba un corte de pelo que anhelaba toda muchacha 
 
-Vidal Sassoon
+*Vidal Sassoon*
 Fue un peluquero famoso inspirado en el movimiento Bauhaus.
 
 
