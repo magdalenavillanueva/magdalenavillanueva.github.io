@@ -47,7 +47,7 @@ País inventado, pero que intenta reflejar a los países africanos que buscaron 
 
 **Desengaño del comunismo:**
 
-![alt text](</assets/img/desengaño del comunismo.png>){:width="300" style="float: right"}
+![alt text](</assets/img/desengaño del comunismo.png>){:width="400" style="float: right"}
 
 - Los grupos extremistas que no aceptaban opiniones adversas.
 - El partido que se imponía sobre lo que se decía, hacía, pensaba.
