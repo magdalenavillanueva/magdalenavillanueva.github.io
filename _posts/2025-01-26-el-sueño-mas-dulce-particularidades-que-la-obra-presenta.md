@@ -90,8 +90,9 @@ Es un género musical originario a última etapa del siglo XIX en las comunidade
 *Manifiesto comunista:*
 Es un texto creado por  Karl Marx y Friedrich Engels  entre 1847 y 1848
  
-*Libro clásico de cocina de época.*
-Gastronomía rural francesa, 1967 de Elizabeth David.
+*Gastronomía rural francesa, 1967 de Elizabeth David*.
+Libro clásico de cocina de época.
+
 
 *La prueba de Richard Feverel:*
 Novela escrita por el  inglés George Meredith (1828- 1909), siendo publicada  en 1859.
