@@ -15,7 +15,7 @@ La primera parte de la novela refleja el cómo se vivió en Inglaterra después 
 
 **Rol de la mujer y Feminismo:**
 
-![alt text](</assets/img/Rol de la mujer y Feminismo.png>){:width="300" style="float: right"}
+![alt text](</assets/img/Rol de la mujer y Feminismo.png>){:width="400" style="float: right"}
 El feminismo que se observa en la novela está más allá de las ideologías, es la mujer que defiende a capa y espada su lugar en la sociedad. Asume compromisos, reta al destino. “…establecen una especie de comuna-matriarcado.”, dando prioridad al que la necesita, a la educación. Son conscientes del poder como mujer que tienen, del poder de sus creencias, su manera de pensar, de ser diferentes, pero que debe defenderse de los otros que quieren imponer sus ideologías, sus posturas políticas, sociales, su verdad como la única verdad. Defiende a la mujer sin escándalo, ni gritos, ni posiciones extremas, como se observa en el ejemplo:   ´´A lo largo y ancho del planeta las mujeres enjuiciaban a los hombres, y cuando Frances estaba con sus colegas de The Defender, se sentía como miembro de un jurado enteramente femenino que acabara de dictar un veredicto unánime de culpabilidad´´.   Pág. 240.
 
 
@@ -47,7 +47,7 @@ País inventado, pero que intenta reflejar a los países africanos que buscaron 
 
 **Desengaño del comunismo:**
 
-![alt text](</assets/img/desengaño del comunismo.png>){:width="400" style="float: right"}
+![alt text](</assets/img/desengaño del comunismo.png>){:width="300" style="float: right"}
 
 - Los grupos extremistas que no aceptaban opiniones adversas.
 - El partido que se imponía sobre lo que se decía, hacía, pensaba.
