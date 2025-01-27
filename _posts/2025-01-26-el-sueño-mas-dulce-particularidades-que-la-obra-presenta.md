@@ -5,8 +5,7 @@ date: 2025-01-26  13:00:01 +0100
 categories: 
     - El sueño más dulce
 ---
-![alt text](</assets/img/banner doris lessing.png>)
-
+![alt text](</assets/img/banner doris lessing.png
 
 **Cambios después de la guerra:** 
 
@@ -75,7 +74,7 @@ El hogar que creó Frances en la casa de Julia: al crecer sus hijos  y las “vi
 
 **MUSICA  LITERATURA Y OTROS:**
 
-![alt text](</assets/img/musica.png>)
+![alt text](</assets/img/musica.png>){:width="400" style="float: right"}
 
 ***Música:***
 Giovanni Pierluigi Da Palestrina (1525-1594):
