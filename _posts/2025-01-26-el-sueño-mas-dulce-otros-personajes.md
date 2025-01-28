@@ -8,41 +8,68 @@ categories:
 ![alt text](</assets/img/banner doris lessing.png>)
 
  
-***Zimlia***, país inventado que representa a los países africanos en guerra por motivos políticos disfrazados de libertad. Lleva 20 años en guerra.
+**Derek Carey:**  dramaturgo obrero, llegado de Hull, tenía una apariencia alegre,  exhortaba  a los jóvenes a la destrucción de documentos y robos.
+
+
+**Harold Holman:** amigo de Johnny en el pasado. No logra asimilar la decepción de las mentiras del comunismo. Fue amante de Frances por un fin de semana.
+
+
+**Jake Miller:**  americano, huyendo de la guerra de Vietnam, tiene 40 años, defensor de lo místico: amor,  paz y buena voluntad. Manipulador, se creía con poderes extrasensoriales.
+
+
+**Jaspar:**  amante de Meriel, que al final la abandona. Era diseñador de ropa informal, era famoso y su nombre siempre estaba en los periódicos.
+
+
+**Julie Hackett:**  de apariencia dulce, femenina, de pelo negro sujetado sin orden. No era dada a estar pendiente de la moda, consideraba este tema como parte de la esclavitud hacia la mujer. Era muy observadora de su entorno, pendiente de criticar los … errores fácticos o ideológicos… era una feminista “a ultranza” que criticaba a los hombres per se. Una de sus arrebatos fue cuando prorrumpió en llanto …al oír por la radio que la malaria la transmitía el mosquito hembra. «¡Los muy cabrones! ¡Cabrones fascistas!». En su feminismo era extremista, necia.
+
+
+**Mandy:**  personaje fugaz, Colin la conoce en el manicomio, se integra al grupo, pero no tenía las carencias emocionales de los demás “críos”. Tenía buenos sentimientos. Se va a vivir a Estados Unidos. Colin y ella mantienen una relación epistolar por mucho tiempo.
+Margaret:  hija de Ruper y Meriel. Es una niña remilgada, presuntuosa, rebelde, con el tiempo se muda con su madre, pero no logran la empatía.
+
+
+**Mary Constable:** fisioterapeuta, amiga de Phyllida, entre las dos montaron un consultorio. Comparte con Phyllida su apartamento. Con el tiempo no se soportan y se separan. 
+
+
+**Maureen:**  otra pareja de Johnny.
+
+
+**Meriel:**  ex esposa de Ruper, pesimista, amargada, depresiva, maleducada, mezquina, maliciosa. Su mayor virtud es ser manipuladora. Se divorcia de Ruper por Jaspar, estilista de moda. La relación no resulta y ella se deprime y repudia a sus hijos. Aunque se preocupa por sus hijos, pero no tanto como para cuidarlos. Es hospitalizada y cuando sale obliga a su  ex que la mantenga tanto para vivir como para los estudios que emprende. 
+
+
+**Molly Smith- Marlene:**  indigente que apareció a las puertas de la casa, estaba loca y en su pasado vivía la época en que se prostituyó en París para los alemanes.
+
+
+**Padre Jack:**  jesuita de Farm Street, delgado, austero, profesa el ascetismo.
+
+
+**Philip Lennox:**  esposo de Julia. Era agregado de la embajada británica en  Berlín, tenía 25 años cuando se conocen. Era bien parecido. Cuando habla con el padre de Julia,  ella tenía 14 años, le pide permiso para formalizar la relación para cuando ella cumpla los 18. La Primera Guerra Mundial los separa, él es herido en la guerra y ella sufre la pérdida de dos de sus hermanos. Aun así, con el estigma de la guerra se reencuentran cuando ella tiene 20 años, él ha perdido un brazo en batalla y su rostro refleja lo vivido. 
+Su matrimonio con Julia le acarrea que en su trabajo no pueda seguir avanzando, por lo tanto, decide tomar carrera desde la administración, lejos de las cancillerías en el extranjero. Fue funcionario del Foreign Office. Con el tiempo logra disponer de un brazo artificial. No era un hombre muy sociable, tenía pocos amigos. Se preocupaba por su hijo y lo conocía muy bien, su manera de pensar y su percepción de vida. Cuando le pedía dinero siempre estuvo dispuesto a darlo. Igual se interesaba por Frances y los niños.
+
+
+**Phyllida:** segunda esposa de Jhonny, era alta, delgada “como un palillo”, de cabello rojo y mal teñido, llevaba uñas largas y filosas de color violeta. Insegura, inestable, insensible, amargada,  se alteraba al menor indicio, tenía crisis de histerismo. Distante con su hija Sylvia. Se convirtió en una mujer llena de collares, pulseras y pendientes. Es una estafadora se hace pasar por terapeuta adivina y se anuncia en los diarios como doctora Phyllida Lennox.  Se vuelve  un ser egoísta, incapaz de ayudar al otro.
+
+
+**Reuben Sachs:** Marxista no alineado, estuvo a favor de la Unión Soviética, fue acusado de espía en Checoslovaquia, estuvo preso, fue torturado y finalmente puesto en libertad.  Disertó sobre lo ocurrido ante un público que no le hizo ninguna pregunta y probablemente no le creyó.
+
+
+**Rosemary:**  Compartía el apartamento con Andrew y otros jóvenes. En una oportunidad sirvió como chef en una cena que Andrew le ofreció a Frances y Julia. Cocinaba para ganarse la vida. Estudiaba derecho en la Universidad de Londres.
+
+
+**Ruper Boland:**  estuvo casado con Meriel y tiene dos hijos: Margaret y William.  Documentalista de radio y TV. De aspecto agradable y muy formal al vestirse. Colaboraba en el periódico The Defender: “Este es nuestro principal politicastro… Es un intelectualoide, pero no es mala persona para tratarse de un hombre.”, palabras de Julie Hackett. Él consideraba que este periódico no era un lugar apropiado para los hombres.  Es compañero de trabajo de Frances, se hacen amigos  y posteriormente son pareja. 
+
+
+**Sra. Philby:**  asistenta de limpieza de Julia. hubo que persuadirla con halagos y regalos de que siguiera trabajando cuando Frances llegó con sus vulgares costumbres.
+
+
+**Stella Linch:**  otra de las parejas de Jhonny.
+
+
+**William:**  hijo de Ruper y Muriel. Es el más afectado por la separación y la depresión de su madre. Es un niño lleno de miedo, herido emocionalmente que se vuelve obediente para evitar sufrir. Pág. 286-287.
+
+
+**Wilhelm Stein:**   doctor en Filosofía, vendedor de libros, era un anciano caballero, amable, comprensivo, amigo de Julia y posteriormente su amante. También era alemán y en su juventud estuvo en el partido comunista. 
+
+
+
 ![alt text](</assets/img/africa.png>){:width="200" style="float: right"}
    
-Consecuencias de los ideales socialistas:
-
--	“Debido a que el Líder propugnaba ideas socialistas, abrazadas en la madurez con el fanatismo del converso, diversas políticas que consideraba esenciales para el marxismo habían adquirido el peso de mandamientos divinos. Una de ellas establecía que nadie podía ser despedido de su empleo, lo cual significaba que todo empresario debía cargar con trabajadores que, sabiéndose a salvo, bebían, eludían sus obligaciones, se tendían al sol y robaban siempre que se presentaba la oportunidad, al igual que sus superiores.”  Pág. 371.
-
--	Los políticos hicieron que el pueblo odiara a los blancos, los consideraron espías, se olvidaron que los blancos mantenían a flote al país con sus divisas extranjeras.
-
--	La aduana requisaba lo que consideraba de valor como las máquinas de coser.
-
-**Camarada Mo:**   acólito de Matthew Mungozi.
-
-**Matthew Mungozi:**   camarada, presidente Mungozi, comunista.
-
-Su padre trabajaba en una misión jesuítica y vivía borracho siempre borracho. Era violento con su madre que era una mujer sumisa y enfermiza y también con su único hijo. Se destacó desde niño, primero en defensa de su madre con apenas 10 años, cuando su padre le propinó una paliza que le dejó cicatrices. Y luego por su inteligencia que le valió que los curas de la misión jesuita lo seleccionaran para continuar sus estudios secundarios. Tenía la convicción de que las penurias que había pasado en su infancia lo preparaban para la vida.
-
-Era muy delgado, torpe, de baja estatura, mal deportista, solía ser el blanco de las burlas de sus compañeros. El padre Paúl, sacerdote poco compasivo e intolerante, se ensañó en contra de él por caerle antipático, fue exageradamente estricto. Este padre lo marca en  su relación con los blancos lo cual lo llevó a anidar  un odio visceral hacia ellos.	
-
-En la universidad lo describían como: “un joven callado, observador, ascético e inteligente, que siempre leía libros de política y tenía dificultades para hacer amigos; en definitiva un solitario”.  Pág. 381. 
-
-Sus experiencias de vida lo hacen adusto y poco seguro de sí mismo. Es austero por influencia jesuita, además lo que más guardó en su interior y le delineó su manera de ser fue lo introvertido, reservado, desconfiado, poco dado a socializar, sentirse insignificante, el miedo al fracaso, parte de esto lo llevó a ser inseguro, muy cauteloso. Pero a su vez era diligente, algo mojigato. 
-
-En la universidad se une a los movimientos nacionalistas, y se vuelve marxista. En sus comienzos como líder político destacó por su seriedad, no sonreía, era frugal en el comer. 
-
-Como presidente, en sus inicios,  fue austero, tímido, pero no pudo cumplir con las promesas políticas. Tiene que negociar con el Gobierno británico y su etapa marxista obstaculizaba los planes. 
-
-Al casarse con Gloria su perspectiva de vida cambia, se vuelve corrupto. Gloria lo seduce y lo induce a una vida de placeres y riquezas. 
-
-**Gloria:**  Alegre, encantadora, ambiciosa, atrevida, embaucadora, manipuladora, pretenciosa. Seduce a Matthew, lo deslumbra con su belleza y su actitud de confianza seguridad en sí misma. De su matrimonio sacó provecho para hacerse rica y le hizo ver a Matthew los placeres que se estaba perdiendo.
-
-**Padre Paul:**    era mezquino, golpeador, odiaba a los negros. Era desaseado con su persona, olía mal. No superó su triste infancia lo cual lo marcó y marcó la infancia de Matthew con sus desprecios e intolerancia.
-
-**Padre Kevin McGuire:**    pertenecía a la misión de San Lucas.  
-
-**Hermana Molly:**    entregada al servicio, se quejaba del papa y su machismo.
-
-
