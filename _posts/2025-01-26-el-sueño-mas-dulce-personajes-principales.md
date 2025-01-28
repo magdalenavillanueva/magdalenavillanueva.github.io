@@ -39,6 +39,7 @@ Este personaje con los cambios de la vida va demostrando que no se amilana ante 
 
 <center><h2>Julia/Mutti:</h2></center>
 
+
 ![alt text](</assets/img/julia.png>){:width="300" style="float: right"}    
 Su nombre era Julia Von Arne, alemana, de clase privilegiada. Única niña de tres hermanos, familia armoniosa, agradable, el padre era diplomático y su madre músico. Tuvo una educación rigurosa dada por institutrices inglesas y francesas.
 En 1914 tenía 14 años cuando conoce a Philip Lennox de 25 años, agregado a la embajada británica de Berlín, aristócrata, conservador. En esa primera vez quedan cautivados el uno por el otro. Siguiendo el protocolo de la época esperan que ella tenga más edad y se casan. En la I Primera Guerra Mundial pierde a dos de sus hermanos y vive los contratiempos del momento al convertirse ella y su familia en “blanco de sospechas y comentarios maliciosos”. Pág. 34.  El sueño más dulce de Doris Lessing.
@@ -65,6 +66,7 @@ En esta nueva familia aparece Sylvia en su vida, le dedicó tiempo y compasión,
 Su vida solitaria la comparte con su fiel amigo Wilhelm Stein, el cual se convirtió en un amor secreto al leerle libros, pasearla y compartir su rutina,  hasta que el muere y sintiéndose abandonada hasta morir. Tuvo un sepelio, donde la acompañaron sus nietos y  Frances.
 
 
+
 <center><h2>Sylvia/Tilly:</h2></center>
 
 
@@ -82,7 +84,9 @@ Su relación con su madre es distante, su madre la llenaba de requiebros y queja
 —Ay, cariño —suspiró—, ¿tan mala madre he sido?
 —Sí, y todavía lo eres. Cuando era niña no dejabas de decirme que todo era culpa mía, que si no fuese por mí podrías hacer esto o aquello. Una vez me amenazaste con que las dos meteríamos la cabeza en el horno y moriríamos juntas”.  Pág.  190.  
 
+
 Julia logra que se recupere tanto física como anímicamente, y se vuelva activa lectora.  Además logra recuperar el tiempo perdido y  en dos años termina sus estudios secundarios, afrontaba los retos con entusiasmo. Era de pocas amistades. La relación de Julia y Sylvia, a medida que maduraba  través del cariño, el estudio, la dependencia de Sylvia desaparecerá. Estudia medicina y se hace médico residente. En esta etapa se acerca al catolicismo y decide ir a África a trabajar como médico voluntario.
+
 
 En su etapa africana se vuelca a ayudar a la comunidad que le tocó trabajar, con valentía, con miedo y consciente de su misión. Las vivencias en el pequeño hospital y en la vivienda que le tocó compartir con el sacerdote, además de los agravios y también el respeto hace que tenga etapas de sequía espiritual, pero sigue adelante y asume situaciones que se le escapan de sus manos por ayudar a los otros.  
 A su muerte deja un legado de amor y compromiso con un poco de amargura y tristeza por como terminaron los acontecimientos que precedieron a su  final. 
@@ -96,7 +100,6 @@ A su muerte deja un legado de amor y compromiso con un poco de amargura y triste
 
 
 
-<center>…en los años 70 se vuelve un viejo patriarca estalinista, se hace más serio, más marcial, es un idiota…</center>
 
 
 
