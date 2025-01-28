@@ -30,6 +30,7 @@ Predicó contra la guerra imperialista, luego se unió a ella en un cargo admini
 <center>… Frances se había sentado al fondo de salas atestadas para oírle explicar que se hallaban ante una guerra imperialista y que las fuerzas progresistas y democráticas debían boicotearla. Muy pronto, sin embargo, él apareció vestido de uniforme en  las mismas salas, ante la misma gente, exhortándola a poner su granito de arena, porque de pronto, debido al ataque de los alemanes a la Unión Soviética, la guerra era contra el fascismo. Junto a los leales se encontraban algunos alborotadores y opositores que prorrumpieron en abucheos y sonoras carcajadas. Se burlaron de Johnny, que estaba allí tranquilamente describiendo la nueva línea del Partido como si no hubiera dicho justo lo  contrario poco tiempo antes…  Pág. 15. El sueño más dulce de Doris Lessing.</center>
 
 
+
 Daba excusas por no cumplir con sus compromisos familiares, entre ellas culpar a la CIA por cancelar sus películas. 
 
 
