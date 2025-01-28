@@ -91,8 +91,8 @@ Francés, cuando aparecía un nuevo crío no juzgaba:
 
 …advirtió que se trataba de otro refugiado de una familia rota, y empezó a hacer mentalmente la lista de la compra para el día siguiente. Pág. 58. El sueño más dulce de Doris Lessing.
 
-
-![alt text](<assets/img/los crios1.png>){:width="200" style="float: right"}**Sophie:**  compañera de la escuela de Colin. Es judía de una gran belleza, buena figura y un pelo negro reluciente. Se gana el cariño de Frances. Tras la muerte de su padre cuando es aun adolescente la hace muy emocional, es dada al llanto fácilmente. Alternaba entre su casa con su madre y la casa de Frances. Estudia teatro y con el tiempo se vuelve una actriz famosa. Mantiene una relación medio dependiente, medio amorosa casi filial con Colin, pero a su vez permanece en una relación con visos violentos y posesivos con Roland Shattock. Tiene escarceos amorosos con Andrew, se casa con Colin, tienen una hija, pero no deja a Roland. 
+![alt text](</assets/img/los crios1.png>){:width="300" style="float: right"}
+**Sophie:**  compañera de la escuela de Colin. Es judía de una gran belleza, buena figura y un pelo negro reluciente. Se gana el cariño de Frances. Tras la muerte de su padre cuando es aun adolescente la hace muy emocional, es dada al llanto fácilmente. Alternaba entre su casa con su madre y la casa de Frances. Estudia teatro y con el tiempo se vuelve una actriz famosa. Mantiene una relación medio dependiente, medio amorosa casi filial con Colin, pero a su vez permanece en una relación con visos violentos y posesivos con Roland Shattock. Tiene escarceos amorosos con Andrew, se casa con Colin, tienen una hija, pero no deja a Roland. 
 
 
 **Geoffrey Bone:**  era de los amigos que frecuentaba la casa desde hace mucho tiempo, al punto de considerarse uno más de la familia. Era apuesto y amable con todos al punto …que costaba asociar esa cara ingenua y complaciente con las malas acciones…   Era estudioso,  de sacar buenas notas en la escuela, pero era un ladrón de libros. Estudió en London School of Economics. Seguidor de Jhonny. Posteriormente, se convierte en asesor internacional, maneja dinero, y se vuelve experto en temas africanos. 
@@ -109,7 +109,7 @@ Daniel, melena roja, pecoso, siempre tiene una expresión de abatimiento. Estudi
 **Jill:**  era rubia, pulcra, tenía buena presencia, tenía una actitud fría distante. Robaba para probar sus límites. Tuvo un aborto y los amigos la ayudaron y siguió siendo la chica callada y observadora. Sus inseguridades la llevaron a estar en un psiquiátrico, fue admitida nuevamente en la casa y ayudada para seguir en la escuela. Cuando regresó había engordado, su rostro era fofo, ya no era la misma. Con el tiempo decide seguir estudiando, se reconcilia con sus padres y trabaja en los movimientos políticos. Se presenta como candidata a concejala en las elecciones municipales.
 
 
- …concejala de un distrito de Londres conocido por la mala administración de sus fondos, aunque, desde luego, la palabra «corrupción» jamás se asociaría con esa responsable ciudadana que había dejado tan atrás sus días de revueltas, luchas contra la policía y manifestaciones ante la embajada estadounidense que sin duda ya los había olvidado o comentaba al respecto: «Ah, sí, en un tiempo fui rojilla.» Pág. 461. 
+…concejala de un distrito de Londres conocido por la mala administración de sus fondos, aunque, desde luego, la palabra «corrupción» jamás se asociaría con esa responsable ciudadana que había dejado tan atrás sus días de revueltas, luchas contra la policía y manifestaciones ante la embajada estadounidense que sin duda ya los había olvidado o comentaba al respecto: «Ah, sí, en un tiempo fui rojilla.» Pág. 461. 
 
 
 **Rose Trimble:**  sus padres eran funcionarios municipales.  era la más controvertida del grupo por rencorosa, celosa, envidiosa, agresiva, vengativa, colérica, sarcástica, se victimiza ante cualquier circunstancia que no la beneficiara. Narcisista con dosis de maquiavelismo. Cae antipática, pero no se veía a sí misma como tal. Todo era culpa de los otros. 
@@ -128,7 +128,7 @@ Su odio a los Lennox los hace ver como sus enemigos y siempre es insidiosa, crí
 
 <center><h2>Relacionados con los Críos: </h2></center>
 
-
+![alt text](</assets/img/los crios2.png>){:width="300" style="float: right"}
 **Roland Shattock:**  era apuesto y un poco mayor que los demás críos. Actor, trotkista, se hace amigo y amante de  Sophie La relación con Sophie era masoquista, posesiva. A lo largo de la novela se observa una relación caótica con un entrar y salir de la relación, pero nunca darse la libertad.
 
 **Franklin Tichafa:**  oriundo de África, (Zimlia), su padre era maestro, estudió en una misión católica y fue becado para estudiar Letras en Saint Joseph. Su intención era estudiar Economía y Ciencias Políticas cuando le tocara ir a la universidad. Era inocente, ingenuo, ignorante de la cultura occidental. Tiene un choque cultural lo cual le produce envidia. Se sentía a gusto con Rose Pág. 160.  Se siente atraído por Sylvia. 
@@ -136,3 +136,5 @@ Su odio a los Lennox los hace ver como sus enemigos y siempre es insidiosa, crí
 
 Deja la universidad y forma parte del séquito de Matthew y se gana un cargo político en Zimlia.
 
+
+![alt text](</assets/img/los crios3.png>)
