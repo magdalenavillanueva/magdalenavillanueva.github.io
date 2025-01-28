@@ -12,7 +12,7 @@ categories:
 <center><h2>Personajes Principales:</h2></center>
 
 
-![alt text](</assets/img/Premios ·Premio Somerset jhonny lennon.png>){:width="300" style="float: right"}    La novela cuenta la historia a través de un narrador omnisciente que mantiene al tanto al lector de lo que acontece. Juega dentro de la narración con los personajes principales, donde al final de la obra se comprende que Frances, Julia y Sylvia cada una tiene su historia.
+![alt text](</assets/img/frances sylvia julis.png>){:width="300" style="float: right"}    La novela cuenta la historia a través de un narrador omnisciente que mantiene al tanto al lector de lo que acontece. Juega dentro de la narración con los personajes principales, donde al final de la obra se comprende que Frances, Julia y Sylvia cada una tiene su historia.
 
 
 Frances es un reflejo de la madurez de la autora. La capacidad de Frances de ver la vida tal cual cómo se vive con alegrías y sufrimientos. Un sube y baja de vivencias tanto en lo emocional como en lo cotidiano, en lo personal y en lo familiar. Julia una lucha interna sobre la consecuencia de vivir guerra, la xenofobia, el distanciamiento e indiferencia de su hijo, la muerte de su esposo, observadora de las reacciones de sus dos nietos y el escondite de su fiel amigo cómplice en un amor silencioso con lecturas reflexivas sobre poemas. Silvia la tercera protagonista, un fénix ficticio emocional, muriendo y dejando a Frances con Collin y Andrew los dos hijos adoptados después de vivir en Africa.
@@ -21,7 +21,7 @@ Frances es un reflejo de la madurez de la autora. La capacidad de Frances de ver
 <center><h2>Frances Lennox: </h2></center>
 
 
-![alt text](</assets/img/Premios ·Premio Somerset jhonny lennon.png>){:width="300" style="float: right"}    
+![alt text](</assets/img/frances. madre tierra.png>){:width="300" style="float: right"}    
 Una mujer hermosa de la clásica belleza inglesa, perteneció a la clase media, hija de un abogado de Kent (Inglaterra), laborando con su uniforme implacable en el Ministerio de la Guerra, cuando conoce a su primer esposo. Mostraba ser inteligente, idealista, comprensiva, maternal, paciente, bondadosa y compasiva. Como una imagen de venta para comprar, asi se vendió ella, pero en lo cotidiano su andar era silenciosa, observadora pasiva ante los conflictos o situaciones que se le repetían, esperando que sin intervención se solucionaran.  Dejaba hacer y ser a los demás: un esposo que la abandona con dos hijos y sin una mensualidad económica, sin casa para luego arrimarse a compartir la vivienda de la madre de su ex esposo.
 
 
@@ -39,7 +39,7 @@ Este personaje con los cambios de la vida va demostrando que no se amilana ante 
 
 <center><h2>Julia/Mutti:</h2></center>
 
-![alt text](</assets/img/Premios ·Premio Somerset jhonny lennon.png>){:width="300" style="float: right"}    
+![alt text](</assets/img/julia.png>){:width="300" style="float: right"}    
 Su nombre era Julia Von Arne, alemana, de clase privilegiada. Única niña de tres hermanos, familia armoniosa, agradable, el padre era diplomático y su madre músico. Tuvo una educación rigurosa dada por institutrices inglesas y francesas.
 En 1914 tenía 14 años cuando conoce a Philip Lennox de 25 años, agregado a la embajada británica de Berlín, aristócrata, conservador. En esa primera vez quedan cautivados el uno por el otro. Siguiendo el protocolo de la época esperan que ella tenga más edad y se casan. En la I Primera Guerra Mundial pierde a dos de sus hermanos y vive los contratiempos del momento al convertirse ella y su familia en “blanco de sospechas y comentarios maliciosos”. Pág. 34.  El sueño más dulce de Doris Lessing.
 
@@ -68,7 +68,7 @@ Su vida solitaria la comparte con su fiel amigo Wilhelm Stein, el cual se convir
 <center><h2>Sylvia/Tilly:</h2></center>
 
 
-![alt text](</assets/img/Premios ·Premio Somerset jhonny lennon.png>){:width="300" style="float: right"}   
+![alt text](</assets/img/silvia definitivo.png>){:width="300" style="float: right"}   
  Hija de Phyllida, una de las parejas de Johnny y Alan Johnson, otro camarada del partido. Tenía los ojos azules.
 
 
