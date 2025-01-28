@@ -71,5 +71,4 @@ Su matrimonio con Julia le acarrea que en su trabajo no pueda seguir avanzando, 
 
 
 
-![alt text](</assets/img/africa.png>){:width="200" style="float: right"}
-   
+
