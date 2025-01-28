@@ -13,7 +13,7 @@ categories:
 
 Hijo de Julia Von Arne y Philip Lennox. Nace en 1920 y su nombre: Jolyon Meredith Wilhelm Lennox. Fue un niño alto, delgado, con rizos dorados y ojos azules. Tuvo niñera y a los 7 años fue enviado a estudiar en un internado. Desde muy niño reflejaba hacia su madre hostilidad y censura. Al crecer rechaza a sus padres por ser aristócratas, pero en el fondo es la indiferencia con la que fue criado.
 
-![alt text](</assets/img/Premios ·Premio Somerset jhonny lennon.png>){:width="200" style="float: right"}    Entre sus diversas formas de ser y carácter se observa que es ambicioso, egoísta, pretencioso, burlón, apasionado, aventurero, encantador, inteligente, desconsiderado, excéntrico, inquieto, mezquino, cruel, cortante, extrovertido, desvergonzado, malicioso, orgulloso, dependiente y fiel a sus ideas comunistas, distraído a conveniencia, versados en diversos temas.
+![alt text](</assets/img/Premios ·Premio Somerset jhonny lennon.png>){:width="300" style="float: right"}    Entre sus diversas formas de ser y carácter se observa que es ambicioso, egoísta, pretencioso, burlón, apasionado, aventurero, encantador, inteligente, desconsiderado, excéntrico, inquieto, mezquino, cruel, cortante, extrovertido, desvergonzado, malicioso, orgulloso, dependiente y fiel a sus ideas comunistas, distraído a conveniencia, versados en diversos temas.
 
 
 Usó su idealismo comunista como trampolín para su conveniencia. Vivió de manera egoísta de las ayudas que daban organizaciones, fundaciones orientadas hacia el comunismo. 
