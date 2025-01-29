@@ -107,11 +107,11 @@ Es un libro canónico de inspiración divina.
 
 *Libros de Michel de Montaigne ( 1533-1592):*
 Fue un filósofo, escritor, humanista y moralista francés del Renacimiento, escribió Ensayos y creador del género literario conocido en la Edad Moderna como ensayo.
-https://www.youtube.com/watch?v=vcVJm7jLmek&pp=ygUmbWljaGVsIGRlIG1vbnRhaWduZSBlbnNheW9zIGF1ZGlvbGlicm8%3D
+<a href= "https://www.youtube.com/watch?v=vcVJm7jLmek&pp=ygUmbWljaGVsIGRlIG1vbnRhaWduZSBlbnNheW9zIGF1ZGlvbGlicm8%3D">
 
 *Poema de Walter Scott (1771-1832)*
 Fue escritor británico prolífico del Romanticismo, escribió en novelas poeta y editor
-https://www.youtube.com/watch?v=xAZeRgWYImo&pp=ygUVUG9lbWEgZGUgV2FsdGVyIFNjb3R0.
+<a href= "https://www.youtube.com/watch?v=xAZeRgWYImo&pp=ygUVUG9lbWEgZGUgV2FsdGVyIFNjb3R0.">
 
 
 ***Ambiente:***
