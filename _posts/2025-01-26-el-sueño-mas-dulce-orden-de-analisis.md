@@ -18,14 +18,18 @@ categories:
 3.  Personajes principales
     
     Frances
+
     Julia
+
     Sylvia
 
 
 4.	Personajes secundarios
    
    Johnny Lennox
+
    Los hijos 
+
    Los críos
 
 5.	Otros personajes
@@ -41,4 +45,4 @@ categories:
 
 
 
-![alt text](</assets/img/Doris fotogragia.png>){:width="300" style="float: right"} 
+![alt text](</assets/img/Doris fotogragia.png>)
