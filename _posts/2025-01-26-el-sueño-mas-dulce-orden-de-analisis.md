@@ -18,18 +18,18 @@ categories:
 
 2.	Una experiencia enriquecedora
 
-3.  Personajes principales
+3.  Personajes principales:
     
-Frances
-Julia
-Sylvia
+    Frances
+    Julia
+    Sylvia
 
 
 4.	Personajes secundarios
    
-Johnny Lennox
-Los hijos 
-Los críos
+    Johnny Lennox
+    Los hijos 
+    Los críos
 
 5.	Otros personajes
 
