@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "El sueño más dulce: BiografíaOrden de Análisis"
+title: "El sueño más dulce: Orden de Análisis"
 date: 2025-01-29  18:00:01 +0100
 categories: 
     - El sueño más dulce
@@ -10,21 +10,21 @@ categories:
  
 
 
-
+![alt text](</assets/img/el sueño mas dulce portada.jpg>){:width="300" style="float: right"} 
 1.	 Biografía de Doris Lessing.     
-![alt text](</assets/img/Premios ·Premio Somerset jhonny lennon.png>){:width="300" style="float: right"} 
+
 2.	Una experiencia enriquecedora
 
-3.	Personajes principales 
+3.  Personajes principales
+    Frances
+    Julia
+    Sylvia
 
-        Frances
-        Julia
-        Sylvia
 
 4.	Personajes secundarios
-        Johnny Lennox
-        Los hijos 
-        Los críos
+   Johnny Lennox
+   Los hijos 
+   Los críos
 
 5.	Otros personajes
 
@@ -35,4 +35,4 @@ categories:
 
 
 
-![alt text](</assets/img/Doris fotogragia.pngg>){:width="300" style="float: right"} 
+![alt text](</assets/img/Doris fotogragia.png>){:width="300" style="float: right"} 
