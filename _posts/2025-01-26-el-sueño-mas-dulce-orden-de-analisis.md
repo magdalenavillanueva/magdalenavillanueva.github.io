@@ -16,12 +16,14 @@ categories:
 2.	Una experiencia enriquecedora
 
 3.  Personajes principales
+    
     Frances
     Julia
     Sylvia
 
 
 4.	Personajes secundarios
+   
    Johnny Lennox
    Los hijos 
    Los críos
@@ -31,6 +33,10 @@ categories:
 6.	Personajes de África
 
 7.	Particularidades de la novela. 
+
+
+
+
 
 
 
