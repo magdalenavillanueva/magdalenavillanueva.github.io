@@ -20,20 +20,16 @@ categories:
 
 3.  Personajes principales
     
-    Frances
-
-    Julia
-
-    Sylvia
+Frances
+Julia
+Sylvia
 
 
 4.	Personajes secundarios
    
-   Johnny Lennox
-
-   Los hijos 
-
-   Los críos
+Johnny Lennox
+Los hijos 
+Los críos
 
 5.	Otros personajes
 
