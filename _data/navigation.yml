@@ -19,4 +19,6 @@ main:
   - title: "Sidi"
     url: /sidi
   - title: "El Manantial"
-    url: /el-manantial/
+    url: /el-manantial
+    - title: "El  Sueño más dulce"
+    url: /el-sueño-mas-dulce
