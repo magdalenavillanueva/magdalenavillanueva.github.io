@@ -18,18 +18,17 @@ categories:
 
 2.	Una experiencia enriquecedora
 
-3.  Personajes principales:
-    
-    Frances
-    Julia
-    Sylvia
+3. Personajer principales:
+* Frances.
+* Julia.
+* Silvia 
 
 
-4.	Personajes secundarios
-   
-    Johnny Lennox
-    Los hijos 
-    Los críos
+4. Personajer Secundarios:
+* Johnny Lennox.
+* Los Hijos.
+* Los Crios 
+
 
 5.	Otros personajes
 
@@ -44,4 +43,4 @@ categories:
 
 
 
-![alt text](</assets/img/Doris fotogragia.png>)
+![alt text](</assets/img/Doris fotogragia.png>){:width="300" style="float: right"} 
