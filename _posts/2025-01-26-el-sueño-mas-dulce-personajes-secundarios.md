@@ -24,14 +24,14 @@ Usó su idealismo comunista como trampolín para su conveniencia. Vivió de mane
 Aunque era de clase pudiente no tenía intenciones de estudiar para luego trabajar. Se dedicó a las arengas y discursos políticos. En 1939 al inicio de la guerra era una estrella de las ligas juveniles. Trabajó como periodista, se dio a conocer, se hizo de un nombre y vivió de él. Escribió un libro *Manual para una revolución*, que le dio fama entre los comunistas.
 
 
-<center>… Cuando su madre le decía que debía mantener a sus hijos y conseguir un empleo por el que le pagasen un sueldo, él la acusaba a gritos de ser un típico miembro de las clases explotadoras que sólo pensaba en el dinero, mientras que él trabajaba para el futuro de toda la humanidad… Pág. 503. El sueño más dulce de Doris Lessing.</center>
+<center>… Cuando su madre le decía que debía mantener a sus hijos y conseguir un empleo por el que le pagasen un sueldo, él la acusaba a gritos de ser un típico miembro de las clases explotadoras que sólo pensaba en el dinero, mientras que él trabajaba para el futuro de toda la humanidad… Pág. 503.</center>
 
 
 
 Predicó contra la guerra imperialista, luego se unió a ella en un cargo administrativo. 
 
 
-<center>… Frances se había sentado al fondo de salas atestadas para oírle explicar que se hallaban ante una guerra imperialista y que las fuerzas progresistas y democráticas debían boicotearla. Muy pronto, sin embargo, él apareció vestido de uniforme en  las mismas salas, ante la misma gente, exhortándola a poner su granito de arena, porque de pronto, debido al ataque de los alemanes a la Unión Soviética, la guerra era contra el fascismo. Junto a los leales se encontraban algunos alborotadores y opositores que prorrumpieron en abucheos y sonoras carcajadas. Se burlaron de Johnny, que estaba allí tranquilamente describiendo la nueva línea del Partido como si no hubiera dicho justo lo  contrario poco tiempo antes…  Pág. 15. El sueño más dulce de Doris Lessing.</center>
+<center>… Frances se había sentado al fondo de salas atestadas para oírle explicar que se hallaban ante una guerra imperialista y que las fuerzas progresistas y democráticas debían boicotearla. Muy pronto, sin embargo, él apareció vestido de uniforme en  las mismas salas, ante la misma gente, exhortándola a poner su granito de arena, porque de pronto, debido al ataque de los alemanes a la Unión Soviética, la guerra era contra el fascismo. Junto a los leales se encontraban algunos alborotadores y opositores que prorrumpieron en abucheos y sonoras carcajadas. Se burlaron de Johnny, que estaba allí tranquilamente describiendo la nueva línea del Partido como si no hubiera dicho justo lo  contrario poco tiempo antes…  Pág. 15.</center>
 
 
 
@@ -41,13 +41,13 @@ Daba excusas por no cumplir con sus compromisos familiares, entre ellas culpar a
 La relación con su madre fue siempre conflictiva, era irrespetuosa, sus peleas eran a gritos.  “*vieja puta … Puta fascista*”. p. 56.  El sueño más dulce de Doris Lessing.
 
 
-En la vejez sigue negado a la realidad soviética de Lenin, siempre en defensa extrema sin permitir oír al otro. Se convierte en un “santón”, enseñaba meditación y otros ejercicios. Por momentos podía decir que “sí, en algún tiempo fui algo rojillo”, pero cuando se reunía con sus viejos camaradas brindaban “Por El”.   “…quien probablemente había sido el asesino más cruel de todos los tiempos”.
+En la vejez sigue negado a la realidad soviética de Lenin, siempre en defensa extrema sin permitir oír al otro. Se convierte en un “santón”, enseñaba meditación y otros ejercicios. Por momentos podía decir que “sí, en algún tiempo fui algo rojillo”, pero cuando se reunía con sus viejos camaradas brindaban “Por Él”.   “…quien probablemente había sido el asesino más cruel de todos los tiempos”.
 
 
 <center>…en los años 70 se vuelve un viejo patriarca estalinista, se hace más serio, más marcial, es un idiota…</center>
 
 
-Defendía: … las mentiras que publicaban acerca de la Unión Soviética y la imagen tergiversada que presentaba de Fidel Castro…   Pág. 21. El sueño más dulce de Doris Lessing.
+Defendía: … las mentiras que publicaban acerca de la Unión Soviética y la imagen tergiversada que presentaba de Fidel Castro…   Pág. 21. 
 
 <center><h2>Los Hijos:</h2></center>
 
@@ -102,7 +102,7 @@ Francés, cuando aparecía un nuevo crío no juzgaba:
 **Geoffrey Bone:**  era de los amigos que frecuentaba la casa desde hace mucho tiempo, al punto de considerarse uno más de la familia. Era apuesto y amable con todos al punto …que costaba asociar esa cara ingenua y complaciente con las malas acciones…   Era estudioso,  de sacar buenas notas en la escuela, pero era un ladrón de libros. Estudió en London School of Economics. Seguidor de Jhonny. Posteriormente, se convierte en asesor internacional, maneja dinero, y se vuelve experto en temas africanos. 
 
 
-Daniel, melena roja, pecoso, siempre tiene una expresión de abatimiento. Estudiante del Saint Joseph, es impulsivo y en perenne angustia, era un estudiante sin motivación, fue amenazado de ser expulsado de la escuela por robar. Siente atracción hacia Geoffrey al que considera su héroe. Lucy, era su novia. Junto con Geoffrey van tras los pasos de Johnny como en las barricadas de París. Ya adultos, se vuelve secretario de Geoffrey.
+**Daniel**, melena roja, pecoso, siempre tiene una expresión de abatimiento. Estudiante del Saint Joseph, es impulsivo y en perenne angustia, era un estudiante sin motivación, fue amenazado de ser expulsado de la escuela por robar. Siente atracción hacia Geoffrey al que considera su héroe. Lucy, era su novia. Junto con Geoffrey van tras los pasos de Johnny como en las barricadas de París. Ya adultos, se vuelve secretario de Geoffrey.
 
 **James Patton:**   la primera vez que aparece en la casa,  Rose lo presenta como un primo. Es de apariencia corpulenta, robusto y mayor que los críos. Deja los estudios y se mete en política. Su especialidad es recaudar información. Se dedica a entrenarse en la ideología de izquierda a través de campamentos recomendados por Johnny. Para adaptarse a los cambios sociales adopta el acento cockney.  Se convierte en …un hombre corpulento, risueño y afable, el clásico buenazo…  y llega a ser diputado laborista por Shortlands.
 
