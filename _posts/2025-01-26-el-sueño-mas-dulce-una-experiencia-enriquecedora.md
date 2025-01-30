@@ -12,7 +12,7 @@ categories:
 <center><h2>Una Experiencia Enriquecedora</h2></center>
 
 
-![alt text](</assets/img/Premios ·Premio Somerset jhonny lennon.png>){:width="300" style="float: right"} Frances y Jhonny Lennox son  una pareja separada que tuvieron dos hijos. Su historia se inicia en los años anteriores a la II Guerra Mundial donde las estructuras sociales estaban experimentando cambios drásticos, no solo por la proximidad de la guerra sino también por las ideologías de izquierda que estaban prosperando en el sentir de la gente común
+![alt text](</assets/img/frances sylvia julis.png>){:width="300" style="float: right"} Frances y Jhonny Lennox son  una pareja separada que tuvieron dos hijos. Su historia se inicia en los años anteriores a la II Guerra Mundial donde las estructuras sociales estaban experimentando cambios drásticos, no solo por la proximidad de la guerra sino también por las ideologías de izquierda que estaban prosperando en el sentir de la gente común
 
 
 Johnny, nace en la clase social privilegiada de Inglaterra, pero es un converso y  fiel servidor a las ideas comunistas que se convierte en un líder y un propagador de esas ideas. Viajaba a donde lo necesitaban. Se casa con Frances, perteneciente a la clase media y del grupo de mujeres que salieron de voluntarias a trabajar por el país. Cuando se separan, ella asume toda la carga que implica la crianza de los hijos y es ayudada en un primer momento por su suegra que les cede parte de su vivienda. Una casa que se convierte en centro de refugio para las amistades de sus hijos y/o los agregados a la familia como Sylvia.
