@@ -43,4 +43,4 @@ categories:
 
 
 
- El poder reside en aquellos que son capaces de imponer su propia visión del mundo sobre el resto de la humanidad. Doris Lessing.![alt text](</assets/img/Doris fotogragia.png>){:width="300" style="float: right"}
+ ![alt text](</assets/img/Doris fotogragia.png>){:width="300" style="float: left"}El poder reside en aquellos que son capaces de imponer su propia visión del mundo sobre el resto de la humanidad. Doris Lessing.
