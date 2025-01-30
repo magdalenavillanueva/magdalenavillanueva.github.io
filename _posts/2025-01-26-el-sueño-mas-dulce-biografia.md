@@ -23,7 +23,7 @@ En 1945 se casó con Gottfried Lessing, un exiliado judío alemán que había co
 Utilizó la letra como medio  de resiliencia. Ella aplicó la auto terapia, donde por medio de la escritura exteriorizó sus monstruos de miedos con sus héroes de justicia ante una guerra infinita, envuelta en carátulas políticas de personas que solamente quieren  manipular a una sociedad hambrienta de justicia, paz y amor.
 
 
-![alt text](</assets/img/premios.png>){:width="400" style="float: right"}"Doris fue una gran escritora con un fascinante y original pensamiento".    Jonathan Clowes
+![alt text](</assets/img/premios.png>){:width="300" style="float: right"}"Doris fue una gran escritora con un fascinante y original pensamiento".    Jonathan Clowes
 
 
 
