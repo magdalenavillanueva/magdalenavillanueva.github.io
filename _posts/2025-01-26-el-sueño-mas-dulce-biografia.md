@@ -28,9 +28,13 @@ Utilizó la letra como medio  de resiliencia. Ella aplicó la auto terapia, dond
 
 
 
+
+
 Doris Lessing ha sido una de las escasas autoras que ha ganado todos los grandes premios literarios de Europa. En 2007 recibió el Premio Nobel de Literatura.     
 
 
+
+---------
 ![alt text](</assets/img/Otros títulos destacados.png>)
 
 
