@@ -20,7 +20,7 @@ En 1945 se casó con Gottfried Lessing, un exiliado judío alemán que había co
 
 ![alt text](</assets/img/libro.jpg>){:width="300" style="float: right"}La obra de Doris Lessing tiene mucho de autobiografía y se inspira a menudo en su experiencia africana, su infancia y sus desengaños vitales, sociales y políticos. Los temas plasmados en sus novelas se centran en los conflictos culturales, las flagrantes injusticias de la desigualdad racial, la contradicción entre la conciencia individual y el bien común. Su obra  abarca medio centenar de novelas. En 1962 publicó su novela más conocida, El cuaderno dorado, que la catapultó a la fama. En 2002 publica  El sueño más dulce. Escribe la novela con más de 80 años, lo que le permite contar desapasionadamente una historia de ficción, pero que refleja sus vivencias, sus creencias personales, ideológicas que en su momento fueron pilar de su existencia que le dieron alegría y tristezas y muchas decepciones.
 
-Utilizó la letra como medio  de resiliencia. Ella aplicó la auto terapia, donde por medio de la escritura exteriorizó sus monstruos de miedos con sus héroes de justicia ante una guerra infinita, envuelta en carátulas políticas de personas que solamente quieren  manipular a una sociedad hambrienta de justicia, paz y amor.
+Utilizó la letra como medio  de resiliencia. Ella aplicó la auto terapia, donde por medio de la escritura exteriorizó sus monstruos, sus miedos con sus héroes de justicia ante una guerra infinita, envuelta en carátulas políticas de personas que solamente quieren  manipular a una sociedad hambrienta de justicia, paz y amor.
 
 
 ![alt text](</assets/img/premios.png>){:width="300" style="float: right"}"Doris fue una gran escritora con un fascinante y original pensamiento".    Jonathan Clowes
