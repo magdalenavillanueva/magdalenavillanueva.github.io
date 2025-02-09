@@ -15,20 +15,20 @@ categories:
 ![alt text](</assets/img/frances sylvia julis.png>){:width="300" style="float: right"}    La novela cuenta la historia a través de un narrador omnisciente que mantiene al tanto al lector de lo que acontece. Juega dentro de la narración con los personajes principales, donde al final de la obra se comprende que Frances, Julia y Sylvia cada una tiene su historia.
 
 
-Frances es un reflejo de la madurez de la autora. La capacidad de Frances de ver la vida tal cual cómo se vive con alegrías y sufrimientos. Un sube y baja de vivencias tanto en lo emocional como en lo cotidiano, en lo personal y en lo familiar. Julia una lucha interna sobre la consecuencia de vivir guerra, la xenofobia, el distanciamiento e indiferencia de su hijo, la muerte de su esposo, observadora de las reacciones de sus dos nietos y el escondite de su fiel amigo cómplice en un amor silencioso con lecturas reflexivas sobre poemas. Silvia la tercera protagonista, un fénix ficticio emocional, muriendo y dejando a Frances con Collin y Andrew los dos hijos adoptados después de vivir en Africa.
+Frances es un reflejo de la madurez de la autora. La capacidad de Frances de ver la vida tal cual cómo se vive con alegrías y sufrimientos. Un sube y baja de vivencias tanto en lo emocional como en lo cotidiano, en lo personal y en lo familiar. Julia es una lucha interna sobre la consecuencia de vivir en guerra, la xenofobia, el distanciamiento e indiferencia de su hijo, la muerte de su esposo. Es observadora de las reacciones de sus dos nietos y el escondite de su fiel amigo cómplice en un amor silencioso con lecturas reflexivas sobre poemas. Silvia la tercera protagonista, un fénix ficticio emocional, muriendo y dejando a Frances con Colin, Andrew los dos hijos adoptados después de vivir en Africa.
 
 
 <center><h2>Frances Lennox: </h2></center>
 
 
 ![alt text](</assets/img/frances. madre tierra.png>){:width="300" style="float: right"}    
-Una mujer hermosa de la clásica belleza inglesa, perteneció a la clase media, hija de un abogado de Kent (Inglaterra), laborando con su uniforme implacable en el Ministerio de la Guerra, cuando conoce a su primer esposo. Mostraba ser inteligente, idealista, comprensiva, maternal, paciente, bondadosa y compasiva. Como una imagen de venta para comprar, asi se vendió ella, pero en lo cotidiano su andar era silenciosa, observadora pasiva ante los conflictos o situaciones que se le repetían, esperando que sin intervención se solucionaran.  Dejaba hacer y ser a los demás: un esposo que la abandona con dos hijos y sin una mensualidad económica, sin casa para luego arrimarse a compartir la vivienda de la madre de su ex esposo.
+Una mujer hermosa de la clásica belleza inglesa, perteneció a la clase media, hija de un abogado de Kent (Inglaterra), laborando con su uniforme implacable en el Ministerio de la Guerra, cuando conoce a su primer esposo. Mostraba ser inteligente, idealista, comprensiva, maternal, paciente, bondadosa y compasiva. Como una imagen de venta para comprar, asi se vendió ella,  su andar era silenciosa, observadora pasiva ante los conflictos o situaciones que se le repetían, esperando que sin intervención se solucionaran.  Dejaba hacer y ser a los demás: un esposo que la abandona con dos hijos y sin una mensualidad económica, sin casa para luego arrimarse a compartir la vivienda de la madre de su ex esposo.
 
 
 Frances, intentó tomar el teatro como forma de independizarse, veía en el teatro … “una ventana hacia el glamour, la aventura, el gran mundo”.  Sale  a trabajar, deja la comodidad del hogar y se comprometió con la realidad que marcaba las pautas a seguir. Frances, se suma a su momento y era joven, jovial, divertida, entusiasta. Conoce a Johnny Lennox y se enamora del hombre que demostraba seguridad en sí mismo, que tenía claro que esperaba de la vida y toda su energía lo llevaba a proclamar la ideología comunista que, para él, iba a dar justicia social al mundo, a ver a Rusia como el país que logró llevar al pueblo al poder. A pesar de admirarlo y seguirlo en sus conferencias, no se vuelve una acólita *per se* del comunismo. Con el tiempo se desencanta de la ideología y de su esposo; pero aun así mantiene su orgullo de ser independiente. Viviendo en East End de Londres rechaza en un primer momento la ayuda de Julia de mudarse a su casa, hasta que Johnny la convence. Y por sus hijos y por ella misma acepta vivir en el caserón, compartir la casa con ella, pero estar independientes de su suegra.
 
 
-En sus comienzos como madre y abandonada por su esposo, rechaza con arrogancia la ayuda de Julia.  Intentó compensar la ausencia del padre, pero las circunstancias la obligan a aceptar su oferta sobre todo por sus hijos. La relación de Frances y Julia a los inicios fue torpe, de rechazo, incomprensión, distanciamiento, pero a medida que se van conociendo mejora la imagen que tienen cada una de la otra.
+En sus comienzos como madre y abandonada por su esposo, rechaza con arrogancia la ayuda de Julia.  Intentó compensar la ausencia del padre, pero las circunstancias la obligan a aceptar su oferta sobre todo por sus hijos. La relación de Frances y Julia en los inicios fue torpe, de rechazo, incomprensión, distanciamiento, pero a medida que se van conociendo mejora la imagen que tienen cada una de la otra.
 
 
 Tuvo que decidir el cómo generar ingresos. Ser periodista freelance, escribía sobre todo artículos sociológicos. Trabajó en casa en el Cosmos periódico revolucionario y colaboradora en *The Defender* a través de artículos donde daba consejos que ayudaran a solucionar problemas en el entorno familiar, se daba a conocer por el apodo de “Tía Vera” (Consultorio sentimental)
@@ -63,7 +63,7 @@ A pesar de que el tiempo ha pasado no logra adaptarse a los cambios, es fiel a s
 En esta nueva familia aparece Sylvia en su vida, le dedicó tiempo y compasión, en el fondo estaba consciente de que ese sentimiento era lo que se permitía para solventar el amor que no le permitieron dar a su hijo.
 
 
-Su vida solitaria la comparte con su fiel amigo Wilhelm Stein, el cual se convirtió en un amor secreto al leerle libros, pasearla y compartir su rutina,  hasta que el muere y sintiéndose abandonada hasta morir. Tuvo un sepelio, donde la acompañaron sus nietos y  Frances.
+Su vida solitaria la comparte con su fiel amigo Wilhelm Stein, el cual se convirtió en un amor secreto al leerle libros, pasearla y compartir su rutina,  pero él muere y sintiéndose abandonada hasta morir. Tuvo un sepelio, donde la acompañaron sus nietos y  Frances.
 
 
 
