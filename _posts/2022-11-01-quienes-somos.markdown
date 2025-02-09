@@ -26,4 +26,4 @@ María Magdalena Villanueva. Profesora de Educación Media en la Especialidad de
 Luz del Alba Inojosa Mudarra. Profesora de Educación Media en la Especialidad de Castellano y Literatura. Egresada de la UPEL. Magíster en Literatura Latinoamericana.  Ha dictado cursos  de uso del lenguaje y de crecimiento personal  a padres, alumnos en diversas comunidades. Coautora del Manual de Castellano y Literatura 1° y 2° nivel de Educación Diversificada. 2002. Editorial Fedupel. [luzalbainojo@gmail.com](mailto:luzalbainojo@gmail.com) 
 
 
-Isabel Rodríguez Calanche. Licenciada en Educación Mención Orientación. (UNESR). Maestría en Tecnología Instruccional en Educación a Distancia. (Nova-Florida) Doctorado en Educación. (US-México) Asesora-Orientadora-Asociada del Centro Local Aragua de la UNA. [irodriguez2705@gmail.com](mailto:irodriguez2705@gmail.com)
+Isabel Rodríguez Calanche. Licenciada en Educación Mención Orientación. (UNESR). Maestría en Tecnología Instruccional en Educación a Distancia. (Nova-Florida) Doctorado en Educación. (US-México) Asesora-Orientadora-Titular del Centro Local Aragua de la UNA. [irodriguez2705@gmail.com](mailto:irodriguez2705@gmail.com)
