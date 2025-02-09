@@ -1,3 +1,8 @@
+.PHONY: build start deploy
+
+build:
+	sudo bundle install
+
 start: 
 	bundle exec jekyll serve --livereload
 
