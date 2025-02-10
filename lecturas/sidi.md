@@ -1,5 +1,6 @@
 ---
 layout: category
 taxonomy: Sidi
-author_profile: true
+permalink: /lecturas/sidi
 ---
+# Sidi

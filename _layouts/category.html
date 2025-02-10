@@ -1,10 +1,12 @@
 ---
-layout: archive
+layout: section
+class: prose min-w-full
 ---
 
-{{ content }}
+<div class="prose min-w-full">{{ content }}</div>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
+<!-- Articulos -->
+{% assign entries_layout = page.entries_layout | default: 'list'%}
+<div class="entries-{{ entries_layout }} prose">
   {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
 </div>

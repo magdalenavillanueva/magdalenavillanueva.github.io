@@ -1,5 +1,7 @@
 ---
 layout: category
 taxonomy: Aquitania
-author_profile: true
+permalink: /lecturas/aquitania
 ---
+
+# Aquitania

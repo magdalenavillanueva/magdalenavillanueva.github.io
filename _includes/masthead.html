@@ -1,35 +1,52 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
+<div class="navbar bg-primary-content sticky top-0 z-50 p-3">
+  <div class="flex-1">
+    <a class="text-xl" href="/">{{ site.data.text.header.title }}</a>
+  </div>
+  <div class="flex-none gap-2">
+    <!-- All Links -->
+    <div class="hidden md:block">
+      {% for link in site.data.text.header.links %}
+      <a class="btn btn-ghost" href="{{ link.link }}">{{ link.title }}</a>
+      {% endfor %}
+    </div>
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
-        {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title }}
-          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
-        </a>
-        <ul class="visible-links">
-          {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
-          {%- endfor -%}
-        </ul>
-        {% if site.search == true %}
-        <button class="search__toggle" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
-          <i class="fas fa-search"></i>
-        </button>
-        {% endif %}
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
+    <!-- Lectures Menu - Desktop -->
+    <div class="dropdown dropdown-end hidden md:block">
+      <div tabindex="0" role="button" class="btn btn-primary rounded-btn">
+        <span>{{ site.data.text.lectures.title }}</span>
+      </div>
+      <ul
+        tabindex="0"
+        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-96 p-2 shadow"
+      >
+        {% for link in site.data.text.lectures.links %}
+        <li><a href="{{ link.link }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- Mobile Menu -->
+    <div class="dropdown dropdown-end md:hidden">
+      <div tabindex="0" role="button" class="btn btn-primary rounded-btn">
+        <i class="fas fa-solid fa-bars"></i>
+      </div>
+      <ul
+        tabindex="0"
+        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-96 p-2 shadow"
+      >
+        {% for link in site.data.text.header.links %}
+        <li><a href="{{ link.link }}">{{ link.title }}</a></li>
+        {% endfor %}
+        <details closed>
+          <summary>{{ site.data.text.lectures.title }}</summary>
+          <ul>
+            {% for link in site.data.text.lectures.links %}
+            <li><a href="{{ link.link }}">{{ link.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </details>
+      </ul>
     </div>
   </div>
 </div>

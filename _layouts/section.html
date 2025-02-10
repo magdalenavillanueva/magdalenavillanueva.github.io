@@ -6,7 +6,9 @@ layout: default
   <div
     class="bg-[url('/assets/img/landing-image.webp')] bg-cover bg-fixed bg-center p-10"
   />
-  <div class="bg-primary-content/90 rounded-xl p-5 backdrop-blur">
+  <div
+    class="bg-primary-content/90 rounded-xl p-5 backdrop-blur {{ page.class }}"
+  >
     {{ content }}
   </div>
 </div>
