@@ -1,5 +1,6 @@
 ---
 layout: category
 taxonomy: La Centuria
-author_profile: true
+permalink: /lecturas/la-centuria
 ---
+# La Centuria

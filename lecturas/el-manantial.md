@@ -1,5 +1,6 @@
 ---
 layout: category
 taxonomy: El Manantial
-author_profile: true
+permalink: /lecturas/el-manantial
 ---
+# El Manantial
