@@ -1,6 +1,8 @@
 header:
   title: Disfrutando la lectura
   links:
+    - title: Inicio
+      link: /
     - title: Quienes Somos
       link: /quienes-somos
     - title: Recientes
