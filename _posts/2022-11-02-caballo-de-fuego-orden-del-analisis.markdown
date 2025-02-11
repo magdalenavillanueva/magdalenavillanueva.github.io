@@ -5,6 +5,8 @@ date:   2022-11-02 12:00:00 +0100
 categories: 
     - Caballo de Fuego
 ---
+![alt text](</assets/img/caballo de fuego.png>)
+
 1. Introducción
 2. Biografía de Florencia Bonelli
 3. Análisis de los personajes principales: 
