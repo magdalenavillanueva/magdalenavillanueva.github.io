@@ -1,14 +1,56 @@
+site_url: https://disfrutandolalectura.com
+display_url: https://disfrutandolalectura.com
+media_folder: assets/uploads
+
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
-media_folder: assets # Media files will be stored in the repo under images/uploads
+  branch: main
+
 collections:
-  - name: "libros" # Used in routes, e.g., /admin/collections/blog
-    label: "Libros" # Used in the UI
-    folder: "libros" # The path to the folder where the documents are stored
+  - name: Settings
+    label: Configuracion
+    files:
+      - label: Textos
+        name: texts
+        file: /data/text.yaml
+        editor: false
+
+  - name: lecturas # Used in routes, e.g., /admin/collections/blog
+    label: Lecturas # Used in the UI
+    folder: lecturas # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "category",
+        }
+      - {
+          label: "Lectura",
+          name: "taxonomy",
+          widget: "string",
+          default: "Aquitania",
+        }
+      - {
+          label: "Link",
+          name: "permalink",
+          widget: "string",
+          default: "/lecturas/aquitania",
+        }
+
+  - name: "articulos" # Used in routes, e.g., /admin/collections/blog
+    label: "Articulos" # Used in the UI
+    folder: "libros/Aquitania/_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Layout", name: "layout", widget: "hidden", default: "single" }
-      - { label: "Titulo", name: "title", widget: "string" }
+      - {
+          label: "Titulo",
+          name: "title",
+          widget: "string",
+          default: "Orden de análisis",
+        }
       - { label: "Fecha", name: "date", widget: "datetime" }
