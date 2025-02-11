@@ -12,10 +12,10 @@ collections:
     files:
       - label: Textos
         name: texts
-        file: /data/text.yaml
+        file: _data/text.yaml
         editor: false
         fields:
-          - { label: hidden, name: hidden, widget: hidden, default: hidden }
+          - { label: "Texto", name: "body", widget: "text" }
 
   - name: lecturas # Used in routes, e.g., /admin/collections/blog
     label: Lecturas # Used in the UI
@@ -31,6 +31,7 @@ collections:
           widget: string,
           default: /lecturas/aquitania,
         }
+      - { label: "Texto", name: "body", widget: "markdown" }
 
   - name: articulos # Used in routes, e.g., /admin/collections/blog
     label: Articulos # Used in the UI
@@ -46,3 +47,4 @@ collections:
           default: Orden de análisis,
         }
       - { label: Fecha, name: date, widget: datetime }
+      - { label: "Texto", name: "body", widget: "markdown" }

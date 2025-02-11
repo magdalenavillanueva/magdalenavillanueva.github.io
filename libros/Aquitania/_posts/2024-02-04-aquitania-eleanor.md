@@ -4,7 +4,7 @@ title: "Aquitania: Eleanor/Lía de Aquitania"
 date: 2024-02-04 12:00:01 +0100
 categories: 
     - Aquitania
-
+---
 ![Eleanor/Lía de Aquitania](/assets/img/2dda041b-57f9-460f-bb9d-26e46dab4de9.png)
 
 
