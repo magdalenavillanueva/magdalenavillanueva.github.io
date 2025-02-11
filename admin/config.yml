@@ -14,6 +14,7 @@ collections:
         name: texts
         file: /data/text.yaml
         editor: false
+        fields: []
 
   - name: lecturas # Used in routes, e.g., /admin/collections/blog
     label: Lecturas # Used in the UI
