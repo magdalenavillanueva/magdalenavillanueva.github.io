@@ -63,11 +63,15 @@ De momento, me gustaria que alguien mas aprenda el proceso para aquellos momento
 - (Minimal Mistakes - Jekyll Theme)[https://mmistakes.github.io/minimal-mistakes/]
 
 ## Development
-- Run the following command on the cli to run the server:
+- Run this command to build the website for the first time:
+```bash
+make build
 ```
-make
+- Run the following command on the cli to run the server:
+```bash
+make start
 ```
 - To convert docx documents into markdown follow execute the following command in the cli:
-```
+```bash
 pandoc "filename.docx" -f docx -t markdown -o "filename.md"
 ```

@@ -1,6 +1,7 @@
 .PHONY: build start deploy
 
 build:
+	npm install
 	sudo bundle install
 
 start: 
