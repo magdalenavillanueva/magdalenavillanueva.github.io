@@ -14,7 +14,8 @@ collections:
         name: texts
         file: /data/text.yaml
         editor: false
-        fields: []
+        fields:
+          - { label: hidden, name: hidden, widget: hidden, default: hidden }
 
   - name: lecturas # Used in routes, e.g., /admin/collections/blog
     label: Lecturas # Used in the UI
@@ -22,36 +23,26 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
+      - { label: Layout, name: layout, widget: hidden, default: category }
+      - { label: Lectura, name: taxonomy, widget: string, default: Aquitania }
       - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "category",
-        }
-      - {
-          label: "Lectura",
-          name: "taxonomy",
-          widget: "string",
-          default: "Aquitania",
-        }
-      - {
-          label: "Link",
-          name: "permalink",
-          widget: "string",
-          default: "/lecturas/aquitania",
+          label: Link,
+          name: permalink,
+          widget: string,
+          default: /lecturas/aquitania,
         }
 
-  - name: "articulos" # Used in routes, e.g., /admin/collections/blog
-    label: "Articulos" # Used in the UI
-    folder: "libros/Aquitania/_posts" # The path to the folder where the documents are stored
+  - name: articulos # Used in routes, e.g., /admin/collections/blog
+    label: Articulos # Used in the UI
+    folder: libros/Aquitania/_posts # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}} # Filename template, e.g., YYYY-MM-DD-title.md"
     fields: # The fields for each document, usually in front matter
-      - { label: "Layout", name: "layout", widget: "hidden", default: "single" }
+      - { label: Layout, name: layout, widget: hidden, default: single }
       - {
-          label: "Titulo",
-          name: "title",
-          widget: "string",
-          default: "Orden de análisis",
+          label: Titulo,
+          name: title,
+          widget: string,
+          default: Orden de análisis,
         }
-      - { label: "Fecha", name: "date", widget: "datetime" }
+      - { label: Fecha, name: date, widget: datetime }
