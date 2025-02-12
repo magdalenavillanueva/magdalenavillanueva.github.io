@@ -9,7 +9,7 @@
   </head>
   <body>
     <!-- Include the script that builds the page and powers Decap CMS -->
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script src="https://unpkg.com/decap-cms@^3.6.1/dist/decap-cms.js"></script>
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", (user) => {
@@ -20,6 +20,11 @@
           }
         });
       }
+    </script>
+    <script src="https://unpkg.com/@netlify/netlify-cms-widget-parent@^1.0.0/dist/netlify-cms-widget-parent.js"></script>
+    <script>
+      const parentWidget = window.NetlifyCmsWidgetParent;
+      CMS.registerWidget("parent", parentWidget.control, parentWidget.preview);
     </script>
   </body>
 </html>
