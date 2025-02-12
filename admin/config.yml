@@ -7,53 +7,49 @@ backend:
   branch: main
 
 collections:
-  - name: "site_text"
-    label: "Configuracion"
+  - name: site_text
+    label: Configuracion
     files:
-      - label: "Contenido"
-        name: "text"
-        file: "path/to/text.yaml"
+      - label: Contenido
+        name: text
+        file: _data/text.yaml
         fields:
-          - label: "Cabecera"
-            name: "header"
-            widget: "object"
+          - label: Cabecera
+            name: header
+            widget: object
             fields:
-              - { label: "Titulo", name: "title", widget: "string" }
-              - label: "Links"
-                name: "links"
-                widget: "list"
+              - { label: Titulo, name: title, widget: string }
+              - label: Links
+                name: links
+                widget: list
                 fields:
-                  - { label: "Titulo", name: "title", widget: "string" }
-                  - { label: "Link", name: "link", widget: "string" }
+                  - { label: Titulo, name: title, widget: string }
+                  - { label: Link, name: link, widget: string }
 
-          - label: "Lecturas"
-            name: "lectures"
-            widget: "object"
+          - label: Lecturas
+            name: lectures
+            widget: object
             fields:
-              - { label: "Titulo", name: "title", widget: "string" }
-              - { label: "Subtitulo", name: "subtitle", widget: "string" }
-              - { label: "Leer más", name: "read_more", widget: "string" }
-              - label: "Links"
-                name: "links"
-                widget: "list"
+              - { label: Titulo, name: title, widget: string }
+              - { label: Subtitulo, name: subtitle, widget: string }
+              - { label: Leer más, name: read_more, widget: string }
+              - label: Links
+                name: links
+                widget: list
                 fields:
-                  - { label: "Titulo", name: "title", widget: "string" }
-                  - {
-                      label: "Description",
-                      name: "description",
-                      widget: "text",
-                    }
-                  - { label: "Link", name: "link", widget: "string" }
-                  - { label: "Imagen", name: "image", widget: "image" }
+                  - { label: Titulo, name: title, widget: string }
+                  - { label: Description, name: description, widget: text }
+                  - { label: Link, name: link, widget: string }
+                  - { label: Imagen, name: image, widget: image }
 
-          - label: "Inicio"
-            name: "home"
-            widget: "object"
+          - label: Inicio
+            name: home
+            widget: object
             fields:
               - {
-                  label: "Artículos Recientes",
-                  name: "recent_articles",
-                  widget: "string",
+                  label: Artículos Recientes,
+                  name: recent_articles,
+                  widget: string,
                 }
 
   - name: lecturas # Used in routes, e.g., /admin/collections/blog
@@ -74,9 +70,12 @@ collections:
 
   - name: articulos # Used in routes, e.g., /admin/collections/blog
     label: Articulos # Used in the UI
-    folder: libros/Aquitania/_posts # The path to the folder where the documents are stored
+    label_singular: Articulo
+    folder: libros # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}} # Filename template, e.g., YYYY-MM-DD-title.md"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md"
+    nested:
+      depth: 100
     fields: # The fields for each document, usually in front matter
       - { label: Layout, name: layout, widget: hidden, default: single }
       - {
@@ -87,3 +86,4 @@ collections:
         }
       - { label: Fecha, name: date, widget: datetime }
       - { label: "Texto", name: "body", widget: "markdown" }
+    meta: { path: { widget: string, label: "Path", index_file: "index" } }
