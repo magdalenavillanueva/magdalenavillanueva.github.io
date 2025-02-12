@@ -74,8 +74,7 @@ collections:
     folder: _posts # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    nested:
-      depth: 3
+
     fields: # The fields for each document, usually in front matter
       - { label: Layout, name: layout, widget: hidden, default: single }
       - {
@@ -93,4 +92,3 @@ collections:
         }
       - { label: Fecha, name: date, widget: datetime }
       - { label: Texto, name: body, widget: markdown }
-    meta: { path: { widget: string, label: Directorio, index_file: index } }
