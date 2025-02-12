@@ -1,11 +1,13 @@
 ---
 layout: single
-title:  "La Centuria: Familia Franck"
-date:   2023-08-05 12:00:00 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Familia Franck"
+date: 2023-08-05 12:00:00 +0100
 ---
-![Familia Franck](/assets/img/familia-franck.png)  
+  
+
+![Familia Franck](/assets/img/familia-franck.png)
 
 **Ludwig Franck:** se había casado con **Monika** von der Helbard, era
 un hombre de rostro sonrosado, con un pequeño bigote negro, lleno de
