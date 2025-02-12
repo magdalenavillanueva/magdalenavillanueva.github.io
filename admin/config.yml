@@ -76,7 +76,6 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     nested:
       depth: 3
-    allow_nesting: true
     fields: # The fields for each document, usually in front matter
       - { label: Layout, name: layout, widget: hidden, default: single }
       - {
@@ -94,4 +93,4 @@ collections:
         }
       - { label: Fecha, name: date, widget: datetime }
       - { label: Texto, name: body, widget: markdown }
-    meta: { path: { widget: parent, label: Directorio, index_file: index } }
+    meta: { path: { widget: string, label: Directorio, index_file: index } }
