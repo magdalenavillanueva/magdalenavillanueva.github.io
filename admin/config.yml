@@ -93,4 +93,4 @@ collections:
         }
       - { label: Fecha, name: date, widget: datetime }
       - { label: Texto, name: body, widget: markdown }
-    meta: { path: { widget: string, label: Directorio, index_file: index } }
+    meta: { path: { widget: string, label: Directorio, index_file: _index } }
