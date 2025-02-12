@@ -71,7 +71,7 @@ collections:
   - name: articulos # Used in routes, e.g., /admin/collections/blog
     label: Articulos # Used in the UI
     label_singular: Articulo
-    folder: libros # The path to the folder where the documents are stored
+    folder: _posts # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md"
     nested:
