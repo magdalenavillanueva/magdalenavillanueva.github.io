@@ -1,7 +1,6 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de Lazar Kovać. Descripción física y sicológica del
-personaje"
+title:  "La Historia de la Diana: Análisis de Lazar Kovać. Descripción física y sicológica del personaje"
 date:   2023-02-12 12:00:00 +0100
 categories: 
     - La Historia de La Diana
