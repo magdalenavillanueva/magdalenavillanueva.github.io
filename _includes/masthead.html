@@ -1,5 +1,5 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
-<div class="navbar bg-primary-content sticky top-0 z-50 p-3">
+<div class="navbar sticky top-0 z-50 bg-primary-content p-3">
   <div class="flex-1">
     <a class="text-xl" href="/">{{ site.data.text.header.title }}</a>
   </div>
@@ -18,9 +18,9 @@
       </div>
       <ul
         tabindex="0"
-        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-96 p-2 shadow"
+        class="menu dropdown-content menu-sm z-[1] mt-3 w-96 rounded-box bg-base-100 p-2 shadow"
       >
-        {% for link in site.data.text.lectures.links %}
+        {% for link in site.data.menu-de-lecturas.links %}
         <li><a href="{{ link.link }}">{{ link.title }}</a></li>
         {% endfor %}
       </ul>
@@ -33,7 +33,7 @@
       </div>
       <ul
         tabindex="0"
-        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-96 p-2 shadow"
+        class="menu dropdown-content menu-sm z-[1] mt-3 w-96 rounded-box bg-base-100 p-2 shadow"
       >
         {% for link in site.data.text.header.links %}
         <li><a href="{{ link.link }}">{{ link.title }}</a></li>
@@ -41,7 +41,7 @@
         <details closed>
           <summary>{{ site.data.text.lectures.title }}</summary>
           <ul>
-            {% for link in site.data.text.lectures.links %}
+            {% for link in site.data.menu-de-lecturas.links %}
             <li><a href="{{ link.link }}">{{ link.title }}</a></li>
             {% endfor %}
           </ul>

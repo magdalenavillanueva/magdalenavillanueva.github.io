@@ -12,45 +12,16 @@ collections:
     files:
       - label: Contenido
         name: text
-        file: _data/text.yaml
+        file: _data/menu-de-lecturas.yaml
         fields:
-          - label: Cabecera
-            name: header
-            widget: object
+          - label: Links
+            name: links
+            widget: list
             fields:
               - { label: Titulo, name: title, widget: string }
-              - label: Links
-                name: links
-                widget: list
-                fields:
-                  - { label: Titulo, name: title, widget: string }
-                  - { label: Link, name: link, widget: string }
-
-          - label: Lecturas
-            name: lectures
-            widget: object
-            fields:
-              - { label: Titulo, name: title, widget: string }
-              - { label: Subtitulo, name: subtitle, widget: string }
-              - { label: Leer más, name: read_more, widget: string }
-              - label: Links
-                name: links
-                widget: list
-                fields:
-                  - { label: Titulo, name: title, widget: string }
-                  - { label: Description, name: description, widget: text }
-                  - { label: Link, name: link, widget: string }
-                  - { label: Imagen, name: image, widget: image }
-
-          - label: Inicio
-            name: home
-            widget: object
-            fields:
-              - {
-                  label: Artículos Recientes,
-                  name: recent_articles,
-                  widget: string,
-                }
+              - { label: Description, name: description, widget: text }
+              - { label: Link, name: link, widget: string }
+              - { label: Imagen, name: image, widget: image }
 
   - name: lecturas # Used in routes, e.g., /admin/collections/blog
     label: Lecturas # Used in the UI

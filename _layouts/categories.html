@@ -2,12 +2,12 @@
 layout: archive
 ---
 
-<h1 class="text-primary-content prose prose-xl font-bold">
+<h1 class="prose prose-xl font-bold text-primary-content">
   {{ site.data.text.lectures.subtitle }}
 </h1>
 
 <div class="grid gap-3 shadow-xl md:grid-cols-2 lg:grid-cols-3">
-  {% for link in site.data.text.lectures.links %}
+  {% for link in site.data.menu-de-lecturas.links %}
   <div class="card bg-base-100 shadow-xl">
     <figure>
       <img src="{{ link.image }}" class="h-64 w-full object-contain" />

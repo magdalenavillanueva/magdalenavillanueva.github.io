@@ -6,11 +6,11 @@ layout: section
   <h1>{{ site.data.text.lectures.subtitle }}</h1>
 
   <div class="grid gap-3 md:grid-cols-2 lg:grid-cols-4">
-    {% for link in site.data.text.lectures.links %}
+    {% for link in site.data.menu-de-lecturas.links %}
     <div
-      class="card bg-primary-content card-compact max-w-md rounded-lg shadow-xl"
+      class="card card-compact max-w-md rounded-lg bg-primary-content shadow-xl"
     >
-      <figure class="bg-base-content m-0">
+      <figure class="m-0 bg-base-content">
         <img
           src="{{ link.image }}"
           class="max-h-40 min-w-full object-contain"
