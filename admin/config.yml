@@ -1,0 +1,96 @@
+site_url: https://disfrutandolalectura.com
+display_url: https://disfrutandolalectura.com
+media_folder: assets/uploads
+
+backend:
+  name: git-gateway
+  branch: main
+
+collections:
+  - name: site_text
+    label: Configuracion
+    files:
+      - label: Contenido
+        name: text
+        file: _data/text.yaml
+        fields:
+          - label: Cabecera
+            name: header
+            widget: object
+            fields:
+              - { label: Titulo, name: title, widget: string }
+              - label: Links
+                name: links
+                widget: list
+                fields:
+                  - { label: Titulo, name: title, widget: string }
+                  - { label: Link, name: link, widget: string }
+
+          - label: Lecturas
+            name: lectures
+            widget: object
+            fields:
+              - { label: Titulo, name: title, widget: string }
+              - { label: Subtitulo, name: subtitle, widget: string }
+              - { label: Leer más, name: read_more, widget: string }
+              - label: Links
+                name: links
+                widget: list
+                fields:
+                  - { label: Titulo, name: title, widget: string }
+                  - { label: Description, name: description, widget: text }
+                  - { label: Link, name: link, widget: string }
+                  - { label: Imagen, name: image, widget: image }
+
+          - label: Inicio
+            name: home
+            widget: object
+            fields:
+              - {
+                  label: Artículos Recientes,
+                  name: recent_articles,
+                  widget: string,
+                }
+
+  - name: lecturas # Used in routes, e.g., /admin/collections/blog
+    label: Lecturas # Used in the UI
+    folder: lecturas # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: Layout, name: layout, widget: hidden, default: category }
+      - { label: Lectura, name: taxonomy, widget: string, default: Aquitania }
+      - {
+          label: Link,
+          name: permalink,
+          widget: string,
+          default: /lecturas/aquitania,
+        }
+      - { label: Texto, name: body, widget: markdown }
+
+  - name: articulos # Used in routes, e.g., /admin/collections/blog
+    label: Articulos # Used in the UI
+    label_singular: Articulo
+    folder: _posts # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    nested:
+      depth: 3
+    fields: # The fields for each document, usually in front matter
+      - { label: Layout, name: layout, widget: hidden, default: single }
+      - {
+          label: Lectura,
+          name: categories,
+          widget: list,
+          default: [Aquitania],
+          allow_add: false,
+        }
+      - {
+          label: Titulo,
+          name: title,
+          widget: string,
+          default: Orden de análisis,
+        }
+      - { label: Fecha, name: date, widget: datetime }
+      - { label: Texto, name: body, widget: markdown }
+    meta: { path: { widget: string, label: Directorio, index_file: _index } }

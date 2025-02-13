@@ -1,0 +1,54 @@
+header:
+  title: Disfrutando la lectura
+  links:
+    - title: Inicio
+      link: /
+    - title: Quienes Somos
+      link: /quienes-somos
+    - title: Recientes
+      link: /articulos-recientes
+
+lectures:
+  title: Lecturas
+  subtitle: Libros y sagas analizadas
+  read_more: Leer más
+  links:
+    - title: Caballo de Fuego
+      description: If a dog chews shoes whose shoes does he choose?
+      link: /lecturas/caballo-de-fuego
+      image: /assets/img/lecturas/caballo-de-fuego.webp
+    - title: La Historia de La Diana
+      description: If a dog chews shoes whose shoes does he choose?
+      link: /lecturas/la-historia-de-la-diana
+      image: /assets/img/lecturas/la-historia-de-la-diana.webp
+    - title: La Centuria
+      description: If a dog chews shoes whose shoes does he choose?
+      link: /lecturas/la-centuria
+      image: /assets/img/lecturas/la-centuria.webp
+    - title: Aquitania
+      description: If a dog chews shoes whose shoes does he choose?
+      link: /lecturas/aquitania
+      image: /assets/img/lecturas/aquitania.webp
+    - title: La Hija de la Española
+      description: If a dog chews shoes whose shoes does he choose?
+      link: /lecturas/la-hija-de-la-espanola
+      image: /assets/img/lecturas/la-hija-de-la-espanola.webp
+    - title: Prométeme que serás Delfin
+      description: If a dog chews shoes whose shoes does he choose?
+      link: /lecturas/prometeme-que-seras-delfin
+      image: /assets/img/lecturas/prometeme-que-seras-delfin.webp
+    - title: Sidi
+      description: If a dog chews shoes whose shoes does he choose?
+      link: /lecturas/sidi
+      image: /assets/img/lecturas/sidi.webp
+    - title: El Manantial
+      description: If a dog chews shoes whose shoes does he choose?
+      link: /lecturas/el-manantial
+      image: /assets/img/lecturas/el-manantial.webp
+    - title: El sueño más dulce
+      description: If a dog chews shoes whose shoes does he choose?
+      link: /lecturas/el-sueno-mas-dulce
+      image: /assets/img/lecturas/el-sueno-mas-dulce.webp
+
+home:
+  recent_articles: Artículos Recientes

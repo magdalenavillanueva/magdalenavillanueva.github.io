@@ -1,22 +1,36 @@
 ---
-layout: archive
+layout: section
 ---
 
-{{ content }}
+<section class="prose min-w-full">
+  <h1>{{ site.data.text.lectures.subtitle }}</h1>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
+  <div class="grid gap-3 md:grid-cols-2 lg:grid-cols-4">
+    {% for link in site.data.text.lectures.links %}
+    <div
+      class="card bg-primary-content card-compact max-w-md rounded-lg shadow-xl"
+    >
+      <figure class="bg-base-content m-0">
+        <img
+          src="{{ link.image }}"
+          class="max-h-40 min-w-full object-contain"
+        />
+      </figure>
+      <div class="card-body">
+        <h2 class="card-title">
+          {{ link.title }}
+          <div class="badge badge-success">
+            {{ site.categories[link.title].size }}
+          </div>
+        </h2>
+        <!-- <p>{{ link.description }}</p> -->
+        <div class="card-actions justify-end">
+          <a href="{{ link.link }}" class="btn btn-success"
+            >{{ site.data.text.lectures.read_more }}</a
+          >
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

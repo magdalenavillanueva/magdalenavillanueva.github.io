@@ -3,7 +3,7 @@ main:
   - title: "Inicio"
     url: /
   - title: "Quienes Somos"
-    url: /about%20us/quienes-somos
+    url: /quienes-somos
   - title: "Caballo de Fuego"
     url: /caballo-de-fuego
   - title: "La Historia de La Diana"
@@ -22,5 +22,5 @@ main:
     url: /el-manantial
   - title: "El Sueño más dulce"
     url: /el-sueno-mas-dulce
-  - title: 
+  - title:
     url: /
