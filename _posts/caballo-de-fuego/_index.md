@@ -1,3 +1,0 @@
----
-title: Caballo de Fuego
----
