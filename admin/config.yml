@@ -10,7 +10,7 @@ collections:
   - name: site_text
     label: Menu de Lecturas
     files:
-      - label: Link
+      - label: Links
         name: text
         file: _data/menu-de-lecturas.yaml
         fields:
