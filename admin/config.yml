@@ -8,9 +8,9 @@ backend:
 
 collections:
   - name: site_text
-    label: Configuracion
+    label: Menu de Lecturas
     files:
-      - label: Contenido
+      - label: Link
         name: text
         file: _data/menu-de-lecturas.yaml
         fields:
