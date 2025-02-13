@@ -1,6 +1,6 @@
 site_url: https://disfrutandolalectura.com
 display_url: https://disfrutandolalectura.com
-media_folder: assets/uploads
+media_folder: assets/img
 
 backend:
   name: git-gateway
