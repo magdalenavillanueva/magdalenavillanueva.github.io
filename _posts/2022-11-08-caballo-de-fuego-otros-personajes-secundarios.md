@@ -1,17 +1,19 @@
 ---
 layout: single
-title:  "Caballo de Fuego: Otros personajes secundarios"
-date:   2022-11-08 12:00:00 +0100
-categories: 
-    - Caballo de Fuego
+categories:
+  - Caballo de Fuego
+title: "Caballo de Fuego: Otros personajes secundarios"
+date: 2022-11-08 12:00:00 +0100
 ---
+![](/assets/img/caballo de fuego.png)
+
 **OTROS PERSONAJES  SECUNDARIOS:**    
 
 **Juana Folicuré:**    
 
 Ojos y  pelo negros, boca grande, piel oscura, figura esbelta, actitud desfachatada y ocurrente, tan espontánea y natural en su alegría. Es la amiga incondicional y hermana del alma de Matilde desde que eran niñas. Estudiaron en la Academia Argüello junto con Ezequiel. Posteriormente, tomaron la carrera de medicina. En Buenos Aires, Juana hace su especialidad en el Hospital Garrahan, uno de los mejores hospitales pediátricos de Sudamérica. Solidaria con Matilde, inicia los pasos para ingresar a MQC donde son admitidas, lo cual le exige ir a París y terminar de cumplir con las demás directrices de la institución, hasta que llegue el momento de desempeñar la misión en la República Democrática del Congo en la zona de las Kivus.
 
-La razón principal de Juana es olvidar a Jorge un médico casado, con el que se había enredado y cuya esposa quedó embarazada y él puso fin a su historia: ´´Matilde creía que la decisión de su amiga de embarcarse en la aventura de Manos Que Curan se relacionaba más con poner distancia entre ella y Jorge que con un corazón compasivo´´_._ Pág. 63. _Caballo de Fuego I._
+La razón principal de Juana es olvidar a Jorge un médico casado, con el que se había enredado y cuya esposa quedó embarazada y él puso fin a su historia: ´´Matilde creía que la decisión de su amiga de embarcarse en la aventura de Manos Que Curan se relacionaba más con poner distancia entre ella y Jorge que con un corazón compasivo´´*.* Pág. 63. *Caballo de Fuego I.*
 
 En París lo consigue con Shiloah Moses: una relación complicada por los antecedentes de Porfiria en la familia Moses. Aun así, viven su romance con pasión y mucha determinación. Pasan por un rompimiento que logran superar.
 
@@ -21,7 +23,7 @@ En sí, Matilde y Juana se complementan como bien lo dijo Eliah al principio de 
 
 Juana es totalmente incondicional en su amistad. Sin dobleces, sin envidia, sin cortapisas. Es más bien, la hermana que le regaló la vida. Cuando Matilde se siente vulnerable se repliega detrás de Juana, porque sabe que la defenderá sin medir las consecuencias de sus actos.  
 
-Juana es como un terremoto que contagia la alegría de vivir, aspecto que le trasmite a Shiloah Moses. Ni aun en sus peores momentos, deja de sacarnos risas a quienes seguimos sus aventuras en _Caballo de fuego_.
+Juana es como un terremoto que contagia la alegría de vivir, aspecto que le trasmite a Shiloah Moses. Ni aun en sus peores momentos, deja de sacarnos risas a quienes seguimos sus aventuras en *Caballo de fuego*.
 
 **Jacques Méchin:** fue tutor de Kamal. De todos los hijos de Al-Saud, Eliah fue el preferido y tomó a su cargo su educación. Eliah lo había adorado. Todavía le dolía su ausencia. Jacques lo señaló como el heredero de sus bienes incluida la casa que por generaciones había pertenecido a los Méchin y una hacienda.
 
@@ -35,22 +37,22 @@ Juana es como un terremoto que contagia la alegría de vivir, aspecto que le tra
 
 **Mónica:** peruana, baja y robusta, de piel cobriza y ojos achinados. Es la cuidadora de Kolia. 
 
-**Edmé de Florian:** agente de la _Direction de la Surveillance du Territoire_ (Dirección de la Vigilancia del Territorio), el servicio de inteligencia doméstico francés. Edmé apreciaba las oportunidades en las que podía ayudar a Eliah Al-Saud, su antiguo compañero de _L’Agence._ Eliah le salvó la vida en Mogadiscio, donde Edmé cayó inconsciente con una bala en el pecho, cuando su grupo comando fue delatado. A pesar de que, Edmé de Florian medía un metro ochenta y cuatro y pesaba noventa kilos, Al-Saud se lo había cruzado sobre la espalda y corrido poco más de una hora con él a cuestas, sin olvidar los treinta kilos de equipo que llevaba. Edmé de Florian se debatió entre la vida y la muerte. No obstante, el francés sobrevivió sin secuelas.
+**Edmé de Florian:** agente de la *Direction de la Surveillance du Territoire* (Dirección de la Vigilancia del Territorio), el servicio de inteligencia doméstico francés. Edmé apreciaba las oportunidades en las que podía ayudar a Eliah Al-Saud, su antiguo compañero de *L’Agence.* Eliah le salvó la vida en Mogadiscio, donde Edmé cayó inconsciente con una bala en el pecho, cuando su grupo comando fue delatado. A pesar de que, Edmé de Florian medía un metro ochenta y cuatro y pesaba noventa kilos, Al-Saud se lo había cruzado sobre la espalda y corrido poco más de una hora con él a cuestas, sin olvidar los treinta kilos de equipo que llevaba. Edmé de Florian se debatió entre la vida y la muerte. No obstante, el francés sobrevivió sin secuelas.
 
-**Olivier Dussollier:** pertenece a la _Direction Régionale de la Police Judiciaire._ Es inspector de la Brigada Criminal de la policía. 
+**Olivier Dussollier:** pertenece a la *Direction Régionale de la Police Judiciaire.* Es inspector de la Brigada Criminal de la policía. 
 
-**Natasha  Azarov:** ucraniana. Nació en Yalta, el mismo pueblo de Zoya Pavlenko, su amiga de la infancia. Trabajó en Sebastopol antes de venir a París, donde se abría paso en el mundo de las modelos publicitarias gracias a las conexiones de Zoya, y estaba consiguiendo popularidad. Zoya la presentó a Eliah, tienen un romance y un día desaparece. Es todo lo que sabemos de ella en _París._
+**Natasha  Azarov:** ucraniana. Nació en Yalta, el mismo pueblo de Zoya Pavlenko, su amiga de la infancia. Trabajó en Sebastopol antes de venir a París, donde se abría paso en el mundo de las modelos publicitarias gracias a las conexiones de Zoya, y estaba consiguiendo popularidad. Zoya la presentó a Eliah, tienen un romance y un día desaparece. Es todo lo que sabemos de ella en *París.*
 
-En el libro _Congo_, llama a Eliah y le pide verlo en Milán a lo que él accede. En el tercer libro, _Gaza_, cuando la ve la encuentra delgada, pálida y pelada.  Su cuello se erguía, largo y enflaquecido, sobre las clavículas que sobresalían, con unas ojeras de un color azulado, que contrastaban con la tonalidad verdosa de su piel y su delgadez extrema. Tenía leucemia. 
+En el libro *Congo*, llama a Eliah y le pide verlo en Milán a lo que él accede. En el tercer libro, *Gaza*, cuando la ve la encuentra delgada, pálida y pelada.  Su cuello se erguía, largo y enflaquecido, sobre las clavículas que sobresalían, con unas ojeras de un color azulado, que contrastaban con la tonalidad verdosa de su piel y su delgadez extrema. Tenía leucemia. 
 
 Le explicó porque desapareció: una noche apareció en su departamento Udo Jürkens. La había ahuyentado bajo la amenaza que le  mostraría a Eliah las películas pornográficas que hizo  en Sebastopol para sobrevivir, y que la mataría.  A la mañana siguiente, tomó la decisión de irse, estaba embarazada  de cuatro meses de Eliah. Cuando el niño nace lo llama Nicolai Eliah  y le dice Kolia. Es un bebé hermoso y vivaz.  Natasha murió, el viernes 2 de octubre y la sepultaron el lunes 5 de octubre en el Cimitero Monumentale. El niño queda a cargo de Eliah que le pide ayuda a su madre hasta solucionar el problema legal para sacarlo de Italia,  e igualmente, resolver su situación con Matilde. 
 
 **Mandy Taylor:** esposa de Nigel Taylor, bipolar de temperamento inestable. A finales del 92, obsesionada con Eliah se convirtió en su amante. Se suicidó ingiriendo pastillas para dormir.
 
 \
-**Nigel Taylor:** de nacionalidad inglesa. Es un hombre de una indiscutible belleza sajona, alto, delgado, aunque con hombros firmes y contextura fuerte, ojos azules de pestañas negras que contrastaban con los mechones rubios que le ocultaban la frente amplia. Mercenario con agencia propia: _Spider International_.  Antagonista de Eliah. El odio condujo a Nigel Taylor a extremos letales, como venderles a los somalíes la información de un trabajo que el comando de Al-Saud realizaría en Mogadiscio. Pretendiente de Matilde.
+**Nigel Taylor:** de nacionalidad inglesa. Es un hombre de una indiscutible belleza sajona, alto, delgado, aunque con hombros firmes y contextura fuerte, ojos azules de pestañas negras que contrastaban con los mechones rubios que le ocultaban la frente amplia. Mercenario con agencia propia: *Spider International*.  Antagonista de Eliah. El odio condujo a Nigel Taylor a extremos letales, como venderles a los somalíes la información de un trabajo que el comando de Al-Saud realizaría en Mogadiscio. Pretendiente de Matilde.
 
-**Jenny:** secretaria de Nigel Taylor en la agencia _Spider International._
+**Jenny:** secretaria de Nigel Taylor en la agencia *Spider International.*
 
 **Claude Masséna:** de origen judío, aspecto descuidado. Era un hacker, una especie de gurú de las computadoras a quien los abogados de Eliah Al-Saud habían sacado de prisión. Cumplía una condena por haber ingresado en el sistema de la Banque Nationale de París y robado cientos de miles de francos. Siente envidia hacia Eliah Al-Saud y lo imita en todo. Está enamorado de Zoya. Traiciona a Al-Saud con el Mossad. Y luego se suicida.
 
@@ -93,7 +95,7 @@ Gulemale no llegó por el cauce correcto, cumpliendo las normas sociales, estudi
 
 **Laurent Nkunda:** pómulos de huesos prominentes, mejillas sumidas y labios gruesos, nariz, larga y delgada, medía alrededor de dos metros. Habla fluidamente el inglés. Es un ex oficial del Ejército congoleño. Pidió la baja con el grado de general. Peleó junto con Laurent-Désiré Kabila para derrocar a Mobutu Sese Seko, destacándose por su inteligencia y su valor. Como munyamulengue, una etnia tutsi propia del Congo, asegura defender a su gente de los interabamwes que huyeron de Ruanda después del genocidio del 94 e invadieron el territorio congoleño.  Según Al-Saud, Laurent Nkunda es un gendarme de los intereses internacionales. Sobre Nkunda pesan cargos de crímenes de guerra y crímenes contra la humanidad.
 
-**MQC:** Manos que curan es una organización humanitaria cuya sede está en París en la rue Breguet: "Estacionó frente a la entrada del edificio que ostentaba una placa de mármol con la inscripción Mains Qui Guérissent (Manos Que Curan en francés)". Pág, 121. _Caballo de Fuego I._
+**MQC:** Manos que curan es una organización humanitaria cuya sede está en París en la rue Breguet: "Estacionó frente a la entrada del edificio que ostentaba una placa de mármol con la inscripción Mains Qui Guérissent (Manos Que Curan en francés)". Pág, 121. *Caballo de Fuego I.*
 
 **Dr. Auguste Vanderhoeven:** 39 años. ojos azules, nariz larga y recta, dientes blancos y parejos, atractivo, médico belga, voluntario de MQC, comprometido con su trabajo, responsable, trato amable con sus pacientes, enamorado de Matilde.
 
@@ -113,8 +115,7 @@ Gulemale no llegó por el cauce correcto, cumpliendo las normas sociales, estudi
 
 **Ajabu:** chofer de Manos Que Curan en el Congo. Tiene 25 años.
 
-**N'Yanda:** alta e imponente, de ojos verdes. Era una tutsi ruandesa, vidente y curandera. Su modo de hablar es directo, parco y autoritario. Tiene una hija, **Verabey**, y ambas mujeres atendían la casa de Manos Que Curan, desde que la organización se había instalado en el Congo en el 81. Después de que estalla la guerra se encargan de cuidar la hacienda Anga La Mwezi.  En la tercera parte de _Caballo de Fuego_, ambas van a servir a la casa de Eliah y Matilde.
-
+**N'Yanda:** alta e imponente, de ojos verdes. Era una tutsi ruandesa, vidente y curandera. Su modo de hablar es directo, parco y autoritario. Tiene una hija, **Verabey**, y ambas mujeres atendían la casa de Manos Que Curan, desde que la organización se había instalado en el Congo en el 81. Después de que estalla la guerra se encargan de cuidar la hacienda Anga La Mwezi.  En la tercera parte de *Caballo de Fuego*, ambas van a servir a la casa de Eliah y Matilde.
 
 **Karme**: es el jefe de los interahamwes y había asesinado a los padres de Jérôme. Fue el que más asesinatos cometió durante el genocidio del 94, en Ruanda, al oeste de la República Democrática del Congo.
 
@@ -136,13 +137,13 @@ Gulemale no llegó por el cauce correcto, cumpliendo las normas sociales, estudi
 
 **Danielle**: enfermera.
 
-**Balduino Boel**: llamado _mzee_ Balduino.  Fue el mejor amigo de Patrice Lumumba, el héroe nacional de los congoleños. Es uno de los pocos belgas que no abandonaron el Congo en el 61. Es muy rico. Tiene una plantación de té, café y cebada, que usa en su fábrica de cerveza. Se casó con Gulemale y tuvieron dos hijas. Es  diabético  y sufrió un accidente cerebrovascular. Su condición física lo limitó para dirigir la hacienda Anga La Mwezi y la cervecería. Se preocupaba por sus empleados y por eso no la cerraba.
+**Balduino Boel**: llamado *mzee* Balduino.  Fue el mejor amigo de Patrice Lumumba, el héroe nacional de los congoleños. Es uno de los pocos belgas que no abandonaron el Congo en el 61. Es muy rico. Tiene una plantación de té, café y cebada, que usa en su fábrica de cerveza. Se casó con Gulemale y tuvieron dos hijas. Es  diabético  y sufrió un accidente cerebrovascular. Su condición física lo limitó para dirigir la hacienda Anga La Mwezi y la cervecería. Se preocupaba por sus empleados y por eso no la cerraba.
 
 **Joséphine Boel:** hija de Gulemale y Balduino Boel. De 29 años de edad. De piel oscura, ojos dorados, cabello lacio, inusual en una africana. Sus facciones eran redondeadas y regulares, el rostro es pequeño, su nariz recta, el perfil de sus labios llenos y carnosos, la curvatura de su frente amplia y de cuello largo. Alta y delgada. Es serena, sensible, sensata, simpática y bondadosa.
 
 Tuvo una relación con Frédéric, la cual termina porque este se convierte en amante de su madre.  A partir de la enfermedad de su padre se encarga de todo lo relacionado con la administración de la hacienda y la cervecería. Desde que finalizó con Frédéric solo se dedica a su padre. Conoce a Alamán Al-Saud, cuando ella junto a Matilde y Juana van a la fiesta de cumpleaños de Gulemale, su madre. Se enamoran. A partir de ahí, comienzan a verse en forma asidua. A pesar de la fuerte oposición de su padre Balduino inician su relación. 
 
-**Aísha Boel:** es de una belleza ostentosa e impactante, agresiva, como la de su madre Gulemale, hermana de Joséphine, de las dos era la más fuerte, vive en Washington, Estados Unidos. Es periodista, experta en recursos estratégicos, sobre todo en petróleo. Las grandes compañías la consultaban. Había publicado un libro titulado**:** ¿_Qué haremos cuando se acabe?_
+**Aísha Boel:** es de una belleza ostentosa e impactante, agresiva, como la de su madre Gulemale, hermana de Joséphine, de las dos era la más fuerte, vive en Washington, Estados Unidos. Es periodista, experta en recursos estratégicos, sobre todo en petróleo. Las grandes compañías la consultaban. Había publicado un libro titulado**:** ¿*Qué haremos cuando se acabe?*
 
 **Godefroide Wambale:** alto y fornido, de gesto ominoso y mirada fría, con el pelo entrecano. Es chofer de Joséphine y hombre de confianza en la hacienda Anga La Mwezi. Ha servido a la familia Boel con **Petra** la cocinera, desde que eran pequeños. Joséphine los lleva a París a vivir con ella.
 
@@ -152,35 +153,32 @@ Tuvo una relación con Frédéric, la cual termina porque este se convierte en a
 
 **MISIÓN SAN CARLOS:** ubicada en el corazón del bosque tropical. Está conformada por varias misioneras:
 
-_soeur_ **Amélie Guzmán:** tiene 40 años, es prima hermana de Matilde. Hija de Sofía Martínez Olazábal y Fernando Guzmán. Es religiosa de la orden Hermanas de la Misericordia Divina y está a cargo de la Misión San Carlos.  Misionaba en una de las zonas más peligrosas del mundo, la provincia de Kivu Norte en el Congo.
+*soeur* **Amélie Guzmán:** tiene 40 años, es prima hermana de Matilde. Hija de Sofía Martínez Olazábal y Fernando Guzmán. Es religiosa de la orden Hermanas de la Misericordia Divina y está a cargo de la Misión San Carlos.  Misionaba en una de las zonas más peligrosas del mundo, la provincia de Kivu Norte en el Congo.
 
-_soeur **Angelie**_: deja la congregación para casarse con Nigel Taylor.  
-_soeur_ **Annonciation.**  
-_soeur_ **Edith.**  
-_soeur_ **Tabatha.**  
+*soeur **Angelie***: deja la congregación para casarse con Nigel Taylor.\
+*soeur* **Annonciation.**\
+*soeur* **Edith.**\
+*soeur* **Tabatha.**  
 
 **Vumilia:** ayudante de la Misión San Carlos
 
 **Bénédicte Kabuli**: es una niña que le practicaron la infibulación. Al extirparle los genitales externos para purificarla, le habían provocado una septicemia que la mantuvo al borde de la muerte.
 
-**Kabú:** el _enfant sorcier o niño hechicero._
+**Kabú:** el *enfant sorcier o niño hechicero.*
 
 **Tanguy**: usa una pierna ortopédica que fue donada por Nigel Taylor.
 
 **Kutzai:** víctima de violación, se le realizó una cirugía de fístula rectovaginal.
 
-
 **Ariel Bergman:** ojos celestes, israelí, jefe del Mossad en Europa.
 
-
 **Lior Bergman:** teniente coronel israelí. Un héroe de guerra condecorado. Hermano menor de Ariel Bergman. Enamorado de Matilde.
-
 
 **Antoine**: el único hijo de **Monsieur Antoine**, el mayordomo de la familia Rostein, tal era el segundo apellido de Gérard Moses.  Era un chico de una timidez patológica, que huía a la cocina al ver llegar a los amigos de los patrones y que sólo parecía sentirse a gusto entre las palomas de Gérard.
 
 **Dorianne Jorowsky:** jefa de Prensa de los Defensores de los Derechos Humanos.
 
-**Ruud Kok**: periodista holandés del  _NRC Handelsblad_.  Es  corresponsal del Paris Match y de Le Figaro en Ámsterdam. Autor del artículo: _La fábrica de armas químicas de Israel_. Posteriormente, escribió _El mercader de la guerra_, en donde desacredita a Eliah Al-Saud, como dueño de una empresa de mercenarios que venden sus servicios al mejor postor. 
+**Ruud Kok**: periodista holandés del  *NRC Handelsblad*.  Es  corresponsal del Paris Match y de Le Figaro en Ámsterdam. Autor del artículo: *La fábrica de armas químicas de Israel*. Posteriormente, escribió *El mercader de la guerra*, en donde desacredita a Eliah Al-Saud, como dueño de una empresa de mercenarios que venden sus servicios al mejor postor. 
 
 **Yaakov Merari**: agente encubierto del Mossad en Damasco.
 
@@ -188,8 +186,8 @@ _soeur_ **Tabatha.**
 
 **Sandrine:** es la editora de Sabir y Matilde.
 
-**Donatien Chuquet:** piloto que se jactaba de sus cuatro mil quinientas horas de vuelo. Fue instructor de vuelo en las Fuerzas Aéreas francesas _L’Armée de l’Air_, que examinó al estudiante Al-Saud en la base aérea de _Salon-de-Provence_ y lo aprobó muy a su pesar. Sus días como piloto de guerra habían terminado abruptamente cuando, luego de someterlo a un juicio sumario, lo devolvieron a la vida civil por graves irregularidades en su desempeño como instructor de vuelo. Ante esto, trabajaba de free lance como piloto de pruebas para las constructoras aeronáuticas Dassault, Northrop Grumman y Safran. Actualmente, es instructor en la Base Cero en Irak.
+**Donatien Chuquet:** piloto que se jactaba de sus cuatro mil quinientas horas de vuelo. Fue instructor de vuelo en las Fuerzas Aéreas francesas *L’Armée de l’Air*, que examinó al estudiante Al-Saud en la base aérea de *Salon-de-Provence* y lo aprobó muy a su pesar. Sus días como piloto de guerra habían terminado abruptamente cuando, luego de someterlo a un juicio sumario, lo devolvieron a la vida civil por graves irregularidades en su desempeño como instructor de vuelo. Ante esto, trabajaba de free lance como piloto de pruebas para las constructoras aeronáuticas Dassault, Northrop Grumman y Safran. Actualmente, es instructor en la Base Cero en Irak.
 
 **Fauzi Dahlan:** iraquí, tenía alrededor de sesenta años, estatura mediana y rostro de piel oscura, tosca y avejentada. Dahlan se puso al servicio del régimen iraquí. Está a cargo de la Policía Presidencial, que se ocupa de las torturas de los opositores al régimen. Es del entorno de Kusay. Fue la mano derecha de **Abú Nidal,** terrorista palestino.  Es el único amigo que le quedaba a Udo Jürkens, cuando ambos formaban parte de la organización terrorista al mando de Abú Nidal.
 
-**Saddam Hussein:** fue un político iraquí que se desempeñó como presidente de Iraq. No era religioso. De sus hijos se destacan: **Uday:** el primogénito de temperamento inestable. Su comportamiento era errático y violento. Era un psicópata, que se deleitaba lastimando a las personas en las que no faltaban asesinatos con armas estrafalarias, como un cuchillo eléctrico o un bate de béisbol. Tuvo múltiples denuncias de abusos sexuales. Gracias a sus excentricidades y actos de sadismo, había perdido el derecho al trono. **Kusay**: de carácter mesurado y frío. A pesar de ser el segundo hijo, se decía que su padre confiaba en él más que en Uday y que planeaba nombrarlo su heredero. 
+**Saddam Hussein:** fue un político iraquí que se desempeñó como presidente de Iraq. No era religioso. De sus hijos se destacan: **Uday:** el primogénito de temperamento inestable. Su comportamiento era errático y violento. Era un psicópata, que se deleitaba lastimando a las personas en las que no faltaban asesinatos con armas estrafalarias, como un cuchillo eléctrico o un bate de béisbol. Tuvo múltiples denuncias de abusos sexuales. Gracias a sus excentricidades y actos de sadismo, había perdido el derecho al trono. **Kusay**: de carácter mesurado y frío. A pesar de ser el segundo hijo, se decía que su padre confiaba en él más que en Uday y que planeaba nombrarlo su heredero.
