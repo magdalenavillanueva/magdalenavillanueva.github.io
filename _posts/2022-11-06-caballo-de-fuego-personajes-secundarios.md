@@ -1,10 +1,12 @@
 ---
 layout: single
-title:  "Caballo de Fuego: Personajes secundarios"
-date:   2022-11-06 12:00:00 +0100
-categories: 
-    - Caballo de Fuego
+categories:
+  - Caballo de Fuego
+title: "Caballo de Fuego: Personajes secundarios"
+date: 2022-11-06 12:00:00 +0100
 ---
+![](/assets/img/caballo de fuego.png)
+
 **PERSONAJES SECUNDARIOS:**
 
 **LA MERCURE:**
@@ -87,6 +89,6 @@ Nuevamente, en Gaza son guardaespaldas de Matilde y tras una pelea La Diana lo d
 
 Es ucraniana, prostituta  y uno de los activos más valiosos de la Mercure. Vive en un departamento en el número 190 de la calle del Faubourg Saint-Honoré. Según Takumi sensei, la sabiduría de Zoya forma parte de su esencia de Serpiente de Madera, igual que su atractivo y su calidad de pitonisa, al lado de su gran  erotismo.
 
-Samara trajo a Zoya a la vida de Al-Saud, cuando ambos  salían  de un restaurante en Ruán y la había divisado en un callejón. Un hombre la molía a golpes y ella soportaba la paliza. Samara le dijo a Eliah que la ayudara.  El proxeneta terminó inconsciente sobre una pila de basura. En su francés bien hablado pero mal pronunciado, Zoya les suplicó que no la condujeran al hospital porque la deportarían a Ucrania  ya que sus papeles no estaban en regla. La llevaron a la hacienda de Ruán, donde Takumi _sensei_ la curó. 
+Samara trajo a Zoya a la vida de Al-Saud, cuando ambos  salían  de un restaurante en Ruán y la había divisado en un callejón. Un hombre la molía a golpes y ella soportaba la paliza. Samara le dijo a Eliah que la ayudara.  El proxeneta terminó inconsciente sobre una pila de basura. En su francés bien hablado pero mal pronunciado, Zoya les suplicó que no la condujeran al hospital porque la deportarían a Ucrania  ya que sus papeles no estaban en regla. La llevaron a la hacienda de Ruán, donde Takumi *sensei* la curó. 
 
-Desde su posición en L’Agence, Al-Saud consiguió que deportaran al atacante de Zoya. Desde entonces, la prostituta presta servicios como espía en L’Agence.  Esto  exigió un cambio  de imagen de Zoya. Le dieron lecciones de todo tipo para convertirla en una acompañante de veinticinco mil francos por noche. Con el tiempo nació la Mercure y Zoya  se sumó al equipo de Al-Saud, aunque siguió prestando servicios para L’Agence.  Su primer trabajo  en la Mercure fue engatusar al hacker Claude Masséna, enamorarlo y sonsacarle información que después Al-Saud y sus socios emplearon para extorsionarlo. 
+Desde su posición en L’Agence, Al-Saud consiguió que deportaran al atacante de Zoya. Desde entonces, la prostituta presta servicios como espía en L’Agence.  Esto  exigió un cambio  de imagen de Zoya. Le dieron lecciones de todo tipo para convertirla en una acompañante de veinticinco mil francos por noche. Con el tiempo nació la Mercure y Zoya  se sumó al equipo de Al-Saud, aunque siguió prestando servicios para L’Agence.  Su primer trabajo  en la Mercure fue engatusar al hacker Claude Masséna, enamorarlo y sonsacarle información que después Al-Saud y sus socios emplearon para extorsionarlo.
