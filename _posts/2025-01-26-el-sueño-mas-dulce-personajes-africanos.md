@@ -1,27 +1,24 @@
 ---
 layout: single
+categories:
+  - El sueño más dulce
 title: "El sueño más dulce: Personajes Africanos"
 date: 2025-01-26  14:00:01 +0100
-categories: 
-    - El sueño más dulce
 ---
 ![alt text](</assets/img/banner doris lessing.png>)
 
- 
 ***Zimlia***, país inventado que representa a los países africanos en guerra por motivos políticos disfrazados de libertad. Lleva 20 años en guerra.
-![alt text](</assets/img/africa.png>){:width="200" style="float: right"}
-   
+![alt text](/assets/img/africa.png){:width="200" style="float: right"}
+
 Consecuencias de los ideales socialistas:
 
--	“Debido a que el Líder propugnaba ideas socialistas, abrazadas en la madurez con el fanatismo del converso, diversas políticas que consideraba esenciales para el marxismo habían adquirido el peso de mandamientos divinos. Una de ellas establecía que nadie podía ser despedido de su empleo, lo cual significaba que todo empresario debía cargar con trabajadores que, sabiéndose a salvo, bebían, eludían sus obligaciones, se tendían al sol y robaban siempre que se presentaba la oportunidad, al igual que sus superiores.”  Pág. 371.
+* “Debido a que el Líder propugnaba ideas socialistas, abrazadas en la madurez con el fanatismo del converso, diversas políticas que consideraba esenciales para el marxismo habían adquirido el peso de mandamientos divinos. Una de ellas establecía que nadie podía ser despedido de su empleo, lo cual significaba que todo empresario debía cargar con trabajadores que, sabiéndose a salvo, bebían, eludían sus obligaciones, se tendían al sol y robaban siempre que se presentaba la oportunidad, al igual que sus superiores.”  Pág. 371.
+* Los políticos hicieron que el pueblo odiara a los blancos, los consideraron espías, se olvidaron que los blancos mantenían a flote al país con sus divisas extranjeras.
+* La aduana requisaba lo que consideraba de valor como las máquinas de coser.
 
--	Los políticos hicieron que el pueblo odiara a los blancos, los consideraron espías, se olvidaron que los blancos mantenían a flote al país con sus divisas extranjeras.
+**Camarada Mo:**  acólito de Matthew Mungozi
 
--	La aduana requisaba lo que consideraba de valor como las máquinas de coser.
-
-**Camarada Mo:**   acólito de Matthew Mungozi.
-
-**Matthew Mungozi:**   camarada, presidente Mungozi, comunista.
+**Matthew Mungozi**:   comunista, camarada y presidente  
 
 Su padre trabajaba en una misión jesuítica y vivía borracho siempre borracho. Era violento con su madre que era una mujer sumisa y enfermiza y también con su único hijo. Se destacó desde niño, primero en defensa de su madre con apenas 10 años, cuando su padre le propinó una paliza que le dejó cicatrices. Y luego por su inteligencia que le valió que los curas de la misión jesuita lo seleccionaran para continuar sus estudios secundarios. Tenía la convicción de que las penurias que había pasado en su infancia lo preparaban para la vida.
 
@@ -44,5 +41,3 @@ Al casarse con Gloria su perspectiva de vida cambia, se vuelve corrupto. Gloria 
 **Padre Kevin McGuire:**    pertenecía a la misión de San Lucas.  
 
 **Hermana Molly:**    entregada al servicio, se quejaba del papa y su machismo.
-
-
