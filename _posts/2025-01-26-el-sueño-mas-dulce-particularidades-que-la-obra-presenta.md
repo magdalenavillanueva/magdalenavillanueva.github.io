@@ -98,11 +98,11 @@ Novela escrita por el  inglés George Meredith (1828- 1909), siendo publicada  e
 *Biblia:*
 Es un libro canónico de inspiración divina.
 
-*Libros de Michel de Montaigne ( 1533-1592):*
+*[Libros de Michel de Montaigne ](https://www.youtube.com/watch?v=vcVJm7jLmek&pp=ygUmbWljaGVsIGRlIG1vbnRhaWduZSBlbnNheW9zIGF1ZGlvbGlicm8%3D)( 1533-1592):*
 Fue un filósofo, escritor, humanista y moralista francés del Renacimiento, escribió Ensayos y creador del género literario conocido en la Edad Moderna como ensayo.
 <a href="https://www.youtube.com/watch?v=vcVJm7jLmek&pp=ygUmbWljaGVsIGRlIG1vbnRhaWduZSBlbnNheW9zIGF1ZGlvbGlicm8%3D"></a>."
 
-*Poema de Walter Scott (1771-1832)*
+*[Poema de Walter Scott](https://www.youtube.com/watch?v=xAZeRgWYImo&pp=ygUVUG9lbWEgZGUgV2FsdGVyIFNjb3R0.) (1771-1832)*
 Fue escritor británico prolífico del Romanticismo, escribió en novelas poeta y editor
 <a href="https://www.youtube.com/watch?v=xAZeRgWYImo&pp=ygUVUG9lbWEgZGUgV2FsdGVyIFNjb3R0."></a>.
 
@@ -115,10 +115,6 @@ Una ciudad donde Julia con Philip vivian. Actualmente tiene elegantes casas esti
 Es ciudad inglesa de Londres, Reino Unido.  Philip, Julia  y su hijo se mudaron. La vivienda era grande y de dos pisos. Al morir Philip, Julia invitó a Frances con sus nietos vivieran en la primera planta 
 
 *Notting Hill.*
-
-
-
-
 
 Es un distrito donde Frances vivía con sus hijos.
 
