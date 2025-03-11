@@ -30,8 +30,7 @@ Iturgáiz/Édouard Lombard.
 
  
 
-3.1.         
-**Personajes cercanos a Rafael:**   
+3.1.  **Personajes cercanos a Rafael:**   
 
  Victoria Eugenia Blanco/María de los Santos
 Cifuentes,  Iñaki Rodríguez Uramburu  y 
