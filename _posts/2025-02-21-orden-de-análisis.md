@@ -48,8 +48,7 @@ Joaquín/Lucien Hévin
 
  
 
-6.    
-**Hechos históricos que les tocó vivir a los  personajes  de El baile de las marionetas.**
+6.      **Hechos históricos que les tocó vivir a los  personajes  de El baile de las marionetas.**
 
 
 
@@ -58,8 +57,7 @@ Joaquín/Lucien Hévin
 
  
 
-7.1.         
-**Sitios  que aparecen a lo largo de la novela en los diferentes
+7.1.   **Sitios  que aparecen a lo largo de la novela en los diferentes
 países donde transcurre la trama.**
 
  
