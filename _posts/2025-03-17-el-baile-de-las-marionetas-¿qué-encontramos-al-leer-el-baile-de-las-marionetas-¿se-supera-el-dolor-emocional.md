@@ -8,7 +8,8 @@ date: 2025-03-13T15:08:00.000Z
 ---
 ![](/assets/img/banner.png)
 
- **Ficha técnica:** 
+**Ficha técnica:** 
+
 **Título**: El baile de las marionetas
 **Autor**: Mercedes Guerrero
 **Fecha:** 2020
@@ -27,4 +28,3 @@ En ese paso del tiempo, ocurre el estallido de la Segunda Guerra  Mundial. Es de
 Trata todos los temas políticos por igual, mostrando lo malo de cada lado,  de ahí el nombre de  *El baile de las marionetas,* una novela que describe como un grupo de niños fueron formados como maquinas programadas *para solamente actuar de acuerdo a los intereses soviéticos.* 
 
 ![](/assets/img/alejando-y-rafael.png){:width="300" style="float: right"}En fin, un escenario con personajes creados con hilos imaginarios. Se observan conexiones consolidadas por la amistad, supervivencia, traiciones, ideales y recuerdos de un pasado con emociones que todavía perviven en ellos, porque en su corazón  nunca se cerraron las heridas a pesar de la reprogramación sufrida. Desprenderse de  los hilos y  *ser libre "no es solamente desamarrarse las propias cadenas, sino vivir en una forma que respete y mejore la libertad de los demás".   Nelson* Mandela.
-
