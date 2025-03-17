@@ -6,13 +6,12 @@ title: "El baile de las marionetas: ¿Qué encontramos al leer El baile de las
   marionetas? ¿Se supera el dolor emocional?"
 date: 2025-03-13T15:08:00.000Z
 ---
-![](/assets/img/banner.png "El  baile de las marionetas de                      Mercedes  Guerrero ") 
-
 ![](/assets/img/banner.png)
+
  **Ficha técnica:** 
 **Título**: El baile de las marionetas
 **Autor**: Mercedes Guerrero
-**Fecha:** 2020\
+**Fecha:** 2020
 **Editorial:** Titivillus
 
 ![](/assets/img/el-fin.png){:width="300" style="float: right"}Narra la historia que se esconde detrás de los acontecimientos de la guerra civil española donde un significativo número de niños de diferentes edades fueron entregados al gobierno ruso con la anuencia de los partidos de izquierda y la esperanza de sus padres de que iban  ser resguardados de la incertidumbre que se avecinaba. Ante el miedo de la inseguridad de su país se lanza una campaña solicitando ayuda internacional y le dan  la potestad a otros de que los cuidaran y protegieran. Esta es la historia de su estadía y los acontecimientos que dieron lugar a su permanencia en ese país, a simple vista secuestrados por el gobierno ruso y el partido comunista español del momento. Cómo fueron tratados al inicio de su estancia y luego cómo fueron absorbidos por el sistema, cómo tuvieron que dejar de ser quienes eran para poder sobrevivir.
@@ -27,6 +26,5 @@ En ese paso del tiempo, ocurre el estallido de la Segunda Guerra  Mundial. Es de
 
 Trata todos los temas políticos por igual, mostrando lo malo de cada lado,  de ahí el nombre de  *El baile de las marionetas,* una novela que describe como un grupo de niños fueron formados como maquinas programadas *para solamente actuar de acuerdo a los intereses soviéticos.* 
 
-![](/assets/img/alejando-y-rafael.png)
-{:width="300" style="float: right"}En fin, un escenario con personajes creados con hilos imaginarios. Se observan conexiones consolidadas por la amistad, supervivencia, traiciones, ideales y recuerdos de un pasado con emociones que todavía perviven en ellos, porque en su corazón  nunca se cerraron las heridas a pesar de la reprogramación sufrida. Desprenderse de  los hilos y  *ser libre "no es solamente desamarrarse las propias cadenas, sino vivir en una forma que respete y mejore la libertad de los demás".   Nelson* Mandela.
+![](/assets/img/alejando-y-rafael.png){:width="300" style="float: right"}En fin, un escenario con personajes creados con hilos imaginarios. Se observan conexiones consolidadas por la amistad, supervivencia, traiciones, ideales y recuerdos de un pasado con emociones que todavía perviven en ellos, porque en su corazón  nunca se cerraron las heridas a pesar de la reprogramación sufrida. Desprenderse de  los hilos y  *ser libre "no es solamente desamarrarse las propias cadenas, sino vivir en una forma que respete y mejore la libertad de los demás".   Nelson* Mandela.
 
