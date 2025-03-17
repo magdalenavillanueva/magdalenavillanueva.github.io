@@ -1,6 +1,6 @@
 ---
 layout: category
-taxonomy: El Baile de las Marionetas
+taxonomy: El baile de las marionetas
 permalink: /lecturas/el-baile-de-las-marionetas
 ---
-# El Baile de las Marionetas
+# El baile de las marionetas
