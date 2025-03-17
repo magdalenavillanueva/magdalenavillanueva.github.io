@@ -20,8 +20,7 @@ date: 2025-03-12T19:53:00.000Z
 
 Todo comienza con promesas de un país que ofrece protección a esos niños que se encuentran desamparados y arriesgando sus vidas por una guerra Una solución engañosa, en la URSS donde los niños los adoctrinaron para llegar a ser soldados y ayudantes a favor de Rusia y en contra de su nacionalidad de origen: España.     
 
-![](/assets/img/collage-de-fotos-puerto-de-santurce.png){:width="300" style="float: right"}Iñaki, Rafael Victoria, Teresa y Manuel, los protagonistas son unos niños que parten del puerto de Santurce en Vizcaya con rumbo a la URSS. Cada uno, con eventos de su niñez en España. Impresiones de niños abandonados, sin padres o con familiares que no saben qué hacer en una guerra que trajo el desabastecimiento en todos los aspectos: económico, vivienda, alimentos y vida.  Se les conoce como niños de Rusia y llegaron a Leningrado donde eran trasladados a las
-casas de acogida. Este marco, es el inicio en que  un grupo de amigos, niños y jóvenes, nos van a ir contando su vida hasta llegar  a la vejez. Después de esto, muchos menores fueron repatriados, aunque debido a la Segunda Guerra Mundial, algunos acabaron consolidándose en los países que le brindaron cobijo.
+![](/assets/img/collage-de-fotos-puerto-de-santurce.png){:width="300" style="float: right"}Iñaki, Rafael Victoria, Teresa y Manuel, los protagonistas son unos niños que parten del puerto de Santurce en Vizcaya con rumbo a la URSS. Cada uno, con eventos de su niñez en España. Impresiones de niños abandonados, sin padres o con familiares que no saben qué hacer en una guerra que trajo el desabastecimiento en todos los aspectos: económico, vivienda, alimentos y vida.  Se les conoce como niños de Rusia y llegaron a Leningrado donde eran trasladados a las casas de acogida. Este marco, es el inicio en que  un grupo de amigos, niños y jóvenes, nos van a ir contando su vida hasta llegar  a la vejez. Después de esto, muchos menores fueron repatriados, aunque debido a la Segunda Guerra Mundial, algunos acabaron consolidándose en los países que le brindaron cobijo.
 
 ![]()
 
@@ -30,6 +29,5 @@ En ese paso del tiempo, ocurre el estallido de la Segunda Guerra  Mundial. Es d
 Trata todos los temas políticos por igual, mostrando lo malo de cada lado,  de ahí el nombre de  *El baile de las marionetas,* una novela que describe como un grupo de niños fueron formados como maquinas programadas *para solamente actuar de acuerdo a los intereses soviéticos.* 
 
 ![](/assets/img/alejando-y-rafael.png)
-
 
 {:width="300" style="float: right"}En fin, un escenario con personajes creados con hilos imaginarios. Se observan conexiones consolidadas por la amistad, supervivencia, traiciones, ideales y recuerdos de un pasado con emociones que todavía perviven en ellos, porque en su corazón  nunca se cerraron las heridas a pesar de la reprogramación sufrida. Desprenderse de  los hilos y  *ser libre "no es solamente desamarrarse las propias cadenas, sino vivir en una forma que respete y mejore la libertad de los demás".   Nelson* Mandela
