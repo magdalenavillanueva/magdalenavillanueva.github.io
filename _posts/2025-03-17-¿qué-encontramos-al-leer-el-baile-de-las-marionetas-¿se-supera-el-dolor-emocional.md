@@ -1,9 +1,9 @@
 ---
 layout: single
 categories:
-  - El baile de las marionetas
-title: ¿Qué encontramos al leer El baile de las marionetas? ¿Se supera el dolor
-  emocional?
+  - El Baile de las Marionetas
+title: "El Baile de las Marionetas: ¿Qué encontramos al leer El baile de las
+  marionetas? ¿Se supera el dolor emocional?"
 date: 2025-03-12T19:53:00.000Z
 ---
 ![](/assets/img/banner.png)
