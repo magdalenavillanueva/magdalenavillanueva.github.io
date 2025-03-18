@@ -2,7 +2,7 @@
 layout: single
 categories:
   - El baile de las marionetas
-title: "El Baile de las marionetas: PERSONAJE  PRINCIPAL:      Rafael Celaya
+title: "El Baile de las marionetas: Personaje Principal:      Rafael Celaya
   Iturgáiz/Édouard Lombard:"
 date: 2025-03-17T16:08:00.000Z
 ---
