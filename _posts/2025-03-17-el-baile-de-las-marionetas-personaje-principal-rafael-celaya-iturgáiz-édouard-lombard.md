@@ -40,7 +40,6 @@ Madrileña. De nariz respingona y pecas en las mejillas Era huérfana, su padre�
 
 Se casó con Manuel Jiménez, que estaba enamorado de ella. Por eso, en Samarcanda Rafael Celaya le deja el camino libre para no hacerle daño.  Victoria y Manuel se casan en 1943, luego en 1956 se van a España pero ella  no consiguió adaptarse a aquella sociedad donde el modelo de mujer era el de madre de familia numerosa encerrada en casa cuidando de los hijos y del marido y se  separa de Manuel, con  la esperanza de reiniciar la relación con Rafael Celaya que se frustró años atrás.
 
-
 Al divorciarse de Manuel Jiménez, trata nuevamente de iniciar su relación con Rafael Celaya, que queda truncada otra vez. Fue invitada a ir trabajar a Cuba como traductora de los militares y técnicos soviéticos que se habían desplazado allí. Había firmado un
 contrato de dos años. Trabajó como agente encubierto en la isla  para la CIA.  El traslado a Cuba de Victoria no había sido voluntario, y demostraba como un sistema no respetaba la voluntad de contraer matrimonio de una pareja enamorada. Victoria estaba
 indignada, asustada, dolida, desesperada. En 1962 consiguió escapar de Cuba y
@@ -52,18 +51,17 @@ cómo la golpeaban y la obligaban a abrir la caja fuerte. Cuando salían con el
 botín, uno de ellos se volvió hacia mi madre y… le disparó´´.   Pág.  26.
 *El baile de las marionetas* de Mercedes Guerrero.
 
-
 **Iñaki Rodríguez Uramburu:**  
 
-Es de Bilbao,  rostro cuadrado, gran estatura y de complexión fuerte y musculosa. Padece un ligero retraso mental, de ahí su actitud infantil y la mirada ingenua, no sabía leer ni escribir. Rafael Celaya se hizo cargo de él desde que llegaron a Leningrado en 1937, cuando tenía quince años. 
+![](/assets/img/iñaki.png)
 
+Es de Bilbao,  rostro cuadrado, gran estatura y de complexión fuerte y musculosa. Padece un ligero retraso mental, de ahí su actitud infantil y la mirada ingenua, no sabía leer ni escribir. Rafael Celaya se hizo cargo de él desde que llegaron a Leningrado en 1937, cuando tenía quince años. 
 
 Quedó mutilado de la guerra, y fue condecorado con la Orden de Lenin y la  Estrella Dorada de la Orden de la Unión Soviética. Estaba afiliado al Komsomol, la organización juvenil del Partido Comunista de la Unión Soviética. Iñaki trabajaba como soldador en la estación espacial Kazajistán.  Tuvo un hijo con Nadia. 
 
 Inaki  es otro huérfano con retardo mental,  sin diagnóstico, era un niño feliz y se
 mantuvo así hasta que murió. No guardaba rencor, fiel amigo de todos, ayudaba a
 todo aquel que lo necesitara y quería cumplir su rol como padre.  Murió en un accidente. 
-
 
 **Joaquín/Lucien Hévin:**      
 
