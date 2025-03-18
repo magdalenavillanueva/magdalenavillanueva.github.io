@@ -66,9 +66,6 @@ todo aquel que lo necesitara y quería cumplir su rol como padre.  Murió en un
 
 Tenía  cuatro años cuando salió de España en el 37, camino de Leningrado. Al hacer el
 transbordo en Francia, Joaquín se  perdió.   Actualmente, tiene setenta y tres años y
-lucía un cuerpo atlético, dado que solía hacer ejercicio a diario. Tiene un
-gran sentido de humor, es el hermano menor de Rafael Celaya, aunque él no lo
-sabe. Había pasado la mayor parte de su vida en un pueblo de la Provenza
-francesa.  En uno de aquellos viajes, que la familia Lombard comenzó a trasladarse en vacaciones desde Canadá a Francia, su hija Nicole  inicia una relación con Adrien que terminó en boda.
+lucía un cuerpo atlético, dado que solía hacer ejercicio a diario. Tiene un gran sentido de humor, es el hermano menor de Rafael Celaya, aunque él no lo sabe. Había pasado la mayor parte de su vida en un pueblo de la Provenza francesa.  En uno de aquellos viajes, que la familia Lombard comenzó a trasladarse en vacaciones desde Canadá a Francia, su hija Nicole  inicia una relación con Adrien que terminó en boda.
 
 Joaquín a pesar de sentir el sentimiento de abandono estando pequeño, logró superarlo al  ser adoptado por una pareja que le dio  amor filial. No se sintió víctima de las circunstancias y ya grande toma a su hermano como amigo.
