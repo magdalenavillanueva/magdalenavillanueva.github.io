@@ -9,9 +9,7 @@ date: 2025-03-17T15:08:00.000Z
 
 **Adolf Hitler**: inició la II Guerra Mundial al invadir Polonia. Esto lo observamos en el siguiente ejemplo: ´´Se supo que Alemania, gobernada por un fascista llamado Adolf Hitler y amigo de Francisco Franco, había invadido Checoslovaquia en marzo de aquel mismo año de 1939, recién terminada la Guerra Civil  española´´. Pág.  71. 
 
-![](/assets/img/collage-de-fotos-personajes-historicos.png)
-
-**Federico  Guillermo I**: káiser de Prusia,  lo mencionan:  ´´Cuando llegaron a la Cámara de Ámbar, quedaron impactados al contemplar la belleza de las paredes y zócalos recubiertos por miles de fragmentos de ámbar. La guía les contó que aquel salón fue un regalo del káiser Federico Guillermo I de Prusia al zar Pedro I el Grande en el siglo XVIII´´.  Pág. 37.
+![](/assets/img/collage-de-fotos-personajes-historicos.png){:width="300" style="float: right"} **Federico  Guillermo I**: káiser de Prusia,  lo mencionan:  ´´Cuando llegaron a la Cámara de Ámbar, quedaron impactados al contemplar la belleza de las paredes y zócalos recubiertos por miles de fragmentos de ámbar. La guía les contó que aquel salón fue un regalo del káiser Federico Guillermo I de Prusia al zar Pedro I el Grande en el siglo XVIII´´.  Pág. 37.
 
 
 **Vladimir Lenin**:  fue el principal dirigente bolchevique de la Revolución de Octubre de 1917. 
