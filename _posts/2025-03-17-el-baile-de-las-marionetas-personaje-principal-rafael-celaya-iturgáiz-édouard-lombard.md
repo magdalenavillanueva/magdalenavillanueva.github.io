@@ -53,8 +53,7 @@ botín, uno de ellos se volvió hacia mi madre y… le disparó´´.   Pág. 
 
 **Iñaki Rodríguez Uramburu:**  
 
-![](/assets/img/iñaki.png)
-
+![](/assets/img/iñaki.png){:width="300" style="float: right"}
 Es de Bilbao,  rostro cuadrado, gran estatura y de complexión fuerte y musculosa. Padece un ligero retraso mental, de ahí su actitud infantil y la mirada ingenua, no sabía leer ni escribir. Rafael Celaya se hizo cargo de él desde que llegaron a Leningrado en 1937, cuando tenía quince años. 
 
 Quedó mutilado de la guerra, y fue condecorado con la Orden de Lenin y la  Estrella Dorada de la Orden de la Unión Soviética. Estaba afiliado al Komsomol, la organización juvenil del Partido Comunista de la Unión Soviética. Iñaki trabajaba como soldador en la estación espacial Kazajistán.  Tuvo un hijo con Nadia. 
