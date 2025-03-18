@@ -10,7 +10,7 @@ date: 2025-03-17T16:08:00.000Z
 
 Nació el 2 de enero de 1923 en Bilbao, España. Era alto y espigado, de cabello y ojos castaños, cejas pobladas. Tenía catorce años y viajaba con su hermano Joaquín, de cuatro, cuando salió de España. Su padre Rafael Celaya Ortiz fue minero y estuvo afiliado a la CNT. Había fallecido seis meses antes luchando en las filas del frente republicano. y su madre Antonia Iturgáiz, había muerto en 1949.
 
-![](/assets/img/rafael.png)){:width="300" style="float: right"} 
+![](/assets/img/rafael.png){:width="300" style="float: right"} 
 
 La mayoría de los vecinos de su barrio habían inscrito a sus hijos para sacarlos 
 fuera de España, y aunque su madre tenía dudas sobre si hacer lo mismo con sus
@@ -35,7 +35,7 @@ universitaria.  Rafael había terminado con excelentes notas el décimo curso e
 
 **Victoria Eugenia Blanco/María de los Santos Cifuentes**:
 
-![](/assets/img/victoria.png)){:width="300" style="float: right"} 
+![](/assets/img/victoria.png){:width="300" style="float: right"} 
 Madrileña. De nariz respingona y pecas en las mejillas Era huérfana, su padre  falleció, cuando luchaba en la milicia republicana, y su madre murió de tuberculosis. Un hermano de su madre la traslada con él a Barcelona y al poco tiempo lo llamaron a filas. Su mujer no podía cuidarla y la llevó al orfanato. Era una apasionada por la lectura. Es  licenciada en Lengua Rusa y Literatura. En Rusia fue profesora de lengua española, en la facultad de Filosofía y Letras de la Universidad Estatal de Lomonósov en Moscú.
 
 Se casó con Manuel Jiménez, que estaba enamorado de ella. Por eso, en Samarcanda Rafael Celaya le deja el camino libre para no hacerle daño.  Victoria y Manuel se casan en 1943, luego en 1956 se van a España pero ella  no consiguió adaptarse a aquella sociedad donde el modelo de mujer era el de madre de familia numerosa encerrada en casa cuidando de los hijos y del marido y se  separa de Manuel, con  la esperanza de reiniciar la relación con Rafael Celaya que se frustró años atrás.
