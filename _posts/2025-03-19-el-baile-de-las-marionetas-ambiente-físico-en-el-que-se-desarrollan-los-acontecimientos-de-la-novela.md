@@ -18,3 +18,20 @@ Un puerto en el río Garona en el suroeste de Francia, Antigua capital de Guyena
 ![](/assets/img/puerta-de-luna.jpg)
 
  con maestros, auxiliares y médicos.
+
+
+**Leningrado:**
+
+Se conocía como San Petersburgo en Rusia, también la Venecia
+del norte, era parte de la (URSS) Unión de Repúblicas Socialistas
+Soviéticas y residencia de los Zares, por eso, la ciudad tenía una arquitectura rusa con edificios y museos solemnes decorados, realzando su cultura.  Fue una ciudad donde se estableció la casa de
+los niños que provenían de España. Leningrado queda desecha por el 
+
+![](/assets/img/leningrado.png)
+
+bombardeo de sus bases aéreas y en sus filas militares del Ejército Rojo y de las milicias populares los adolescentes y jóvenes españoles se convirtieron en voluntarios.   Como observamos en el ejemplo:  ´´El
+puerto de Santurce era un hervidero de gente que se movía como hormigas alrededor de una gran carpa. Más de cuatro mil quinientos niños embarcaban aquella tarde en el Habana , un viejo carguero fletado por el agonizante gobierno de la República de España destinado a sacar del país a la población infantil…´´.  Pág.  13.  
+
+ 
+
+El desembarco en Puerto de la Luna de Burdeos, capital de la región de Nueva Aquitania,  hace que  Joaquín de cuatro años se pierda en el intercambio,  y ahí había pasado la mayor parte de su vida en un pueblo de la Provenza francesa.  Mientras que su hermano  Rafael sin poder hacer nada sigue con destino a la  ciudad de Leningrado en la URSS y durará toda su juventud y adultez hasta que puede irse a Francia y casarse con Victoria.  Luego, emprenden viaje a Canadá, donde se instalarán en Quebec  y luego en  Montreal.
