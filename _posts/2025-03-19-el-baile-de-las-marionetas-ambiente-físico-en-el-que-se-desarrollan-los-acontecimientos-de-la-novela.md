@@ -32,4 +32,4 @@ Es una provincia ubicada al este de Canadá y su arquitectura es parecida a una 
 
 La novela comienza en Kabul  la capital de   Afganistán,  donde  la doctora Edith Lombard, de Médicos Sin Fronteras  está  de guardia  en el  hospital   Ahmed Shah Baba.   Hete aquí  que,  consigue  la perla marrón que su padre le había regalado a su madre en 1986,   en manos de Soraya, una joven que recién había muerto. Shamir el esposo  le dijo lo siguiente:  ´´ —Mi suegro me contó que encontró ese collar en las afueras de Kandahar en 1989, al finalizar la guerra con Rusia. Había un tanque soviético abandonado y varios soldados muertos alrededor. Se acercó a ellos y registró entre sus pertenencias. En el bolsillo de uno de ellos estaba esa joya´´.  Pág.   12.
 
-![](/assets/img/los-paises.png)
+![](/assets/img/los-paises.png){:width="300" style="float: right"}
