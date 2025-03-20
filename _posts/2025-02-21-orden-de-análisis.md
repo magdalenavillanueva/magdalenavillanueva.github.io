@@ -62,3 +62,12 @@ vestidos a la usanza de los grandes burgueses europeos del siglo XVIII´´.  P�
 
 capital de Afganistán. Algunas ciudades importantes son: Baġrāmī,
 Mir Baččekut, Paġmān, Qarabāġ y Sarawbi. A principios del siglo XIII se la consideraba una de las ciudades más cultas y hermosas del mundo; desde entonces sufrió destrucciones por diversas guerras. La ciudad de Kabul se encuentra a unos 1800 m s. n. m., lo que la convierte en una de las capitales más altas del mundo.  En la novela Abdul le cuenta a Edith Lombard, de Médicos Sin Fronteras que: ´´Cuando en el 96 llegaron los talibanes a Kabul y expulsaron a la Alianza, la gente salió a la calle con ilusión y lo celebró con alegría´´. Pág. 44. *El baile de las marionetas* de Mercedes Guerrero
+
+
+
+**Lago de Ládoga**:   es un lago de agua dulce situado en Carelia y el óblast de Leningrado, cerca de la frontera con Finlandia. Con una superficie de 17 700 km², es el mayor lago de Europa y el 15.º del 
+
+![](/assets/img/lago-de-ládoga.jpg)
+
+mundo. En su interior se encuentran 660 islas, con una superficie de 435 km², la mayoría situadas cerca de la costa noroeste, entre
+ellas las famosas islas Valaam, Konevets y Kipola. El lago desemboca en el golfo de Finlandia (mar Báltico) a través del río Nevá en San Petersburgo.  Observamos en este ejemplo: ´´La congoja le oprimió el corazón y unas lágrimas rebeldes resbalaron por sus mejillas mientras el barco navegaba lentamente por las  aguas del Ládoga´´.   Pág. 126.  *El baile de las marionetas* de Mercedes Guerrero.
