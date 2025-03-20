@@ -109,3 +109,13 @@ Pág.   236.  *El baile de las marionetas* de Mercedes Guerrero.
 
 partir del  modelo de la Catedral de Santa Sofía de Nóvgorod y llamaron a este barrio Lubyanka en referencia al distrito Lubyánitsy
 de su ciudad de origen. En 1990 la Plaza recuperó su nombre original. Observamos en este ejemplo:  ´´Desde la  plaza Roja donde se alojaba tomó al día siguiente la dirección hacia la plaza Dzerzhinski, donde estaba el cuartel general del Comité Gubernamental de Seguridad, el KGB, fundado en 1954 tras la muerte de Stalin y la caída de Lavrenti Beria, heredando las estructuras de la anterior agencia, la NKVD´´. Pág. 287. *El baile de las marionetas* de Mercedes Guerrero.
+
+
+
+**Plaza del Registán**:  era el corazón de la antigua ciudad de Samarcanda de la dinastía timúrida, ahora en Uzbekistán.  El nombre
+
+
+![](/assets/img/plaza-del-registán.jpg)
+
+Registán  significa lugar de arena en persa.  La plaza está enmarcada por tres madrasas (escuelas islámicas) de la distintiva arquitectura islámica.  En  la obra Edith le dice a su papá:  ´´Cuando paseamos por la plaza del Registán, me pareció que ya había estado allí, porque
+mamá nos había hecho una descripción de la ciudad antigua muy minuciosa y detallada, describiendo el ambiente, las madrazas con las cúpulas azules, la mezquita…´´.   Pág. 132. *El baile de las marionetas* de Mercedes Guerrero.
