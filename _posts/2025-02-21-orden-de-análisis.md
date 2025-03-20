@@ -150,3 +150,25 @@ entre las dos orillas.
 Es el emblema de Bilbao. Es de origen medieval. Este puente tuvo una importancia histórica, ya que era paso obligado para el comercio de Vizcaya con Castilla, tras el privilegio otorgado en tiempos de doña María Díaz de Haro. En el siglo XV, bajo este puente se empozaba a los delincuentes. El empozamiento era un método de ejecución muy arraigado que consistía en atar una piedra al cuello del condenado y arrojarla al agua. En reiteradas ocasiones riadas lo han derribado.
 Y para poner fin al problema, el Ayuntamiento decidió sustituirlo a finales del siglo XIX, hacia 1870, por uno nuevo, que sería el actual situado, a diferencia del anterior, por delante de la iglesia de San Antón  y que empezó a funcionar hacia 1880, después de sufrir las consecuencias de la última guerra carlista. Fue planificado por
 Hoffmeyer. Fue reedificado, una vez más, en 1937, después de su voladura durante la Guerra Civil Española.
+
+
+
+**Puerta de Atocha**: es una estación ferroviaria localizada en el complejo ferroviario de la estación de Atocha, Madrid, España. Dentro del complejo, es la que recibe los trenes de alta velocidad y la mayoría de larga distancia. El resto de los trenes que paran en Atocha lo hacen en la estación de Atocha-Cercanías. En la cita observamos como:  ´´Una mañana de marzo de 1958, Victoria se despidió de Manuel con un fuerte abrazo, en silencio. Después metió sus pertenencias en una
+maleta y tomó un taxi hacia la Puerta de Atocha, donde embarcó en un tren con destino a Hendaya, en la frontera con Francia´´.  Pág. 261. *El baile de las marionetas* de Mercedes Guerrero.  
+
+ 
+**Pushkin**: es una ciudad bajo la jurisdicción de San Petersburgo, Rusia, localizada a 24 kilómetros al sur de esta. El conjunto de palacios y parques  de la ciudad de Pushkin, así como su centro histórico forman 
+
+![](/assets/img/pushkin.jpg)
+
+parte, del lugar Patrimonio de la Humanidad. Vemos el ejemplo
+siguiente:  ´´Una de las más interesantes fue la visita a Pushkin, la ciudad que fue residencia de los zares a veinticinco kilómetros de Leningrado´´.  Pág. 37. *El baile de las marionetas* de Mercedes Guerrero.
+
+
+**Puerta del Sol**:   es una plaza de la ciudad española de Madrid. En ella se encuentra desde 1950 el denominado kilómetro cero de las carreteras radiales del país. El edificio más antiguo de la Puerta del Sol es la Real Casa de Correos y en ella destaca el reloj de torre que fue 
+
+![](/assets/img/puerta-del-sol.jpg)
+
+construido y donado en el siglo XIX por José Rodríguez de Losada, y cuyas campanadas de las 12 de la noche del 31 de diciembre marcan
+la tradicional toma de las doce uvas a la gran mayoría de los  españoles.  La Puerta del Sol es un lugar de cita, un lugar de paso entre diversas partes de Madrid.  En el ejemplo vemos:  ´´Mientras
+tanto, debían presentarse  cada quince días en la Brigada Político-Social de la Dirección General de  Seguridad, situada en la Puerta del Sol´´.  Pág. 236.   *El baile de las marionetas* de Mercedes Guerrero
