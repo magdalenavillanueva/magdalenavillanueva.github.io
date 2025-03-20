@@ -119,3 +119,12 @@ de su ciudad de origen. En 1990 la Plaza recuperó su nombre original. Observamo
 
 Registán  significa lugar de arena en persa.  La plaza está enmarcada por tres madrasas (escuelas islámicas) de la distintiva arquitectura islámica.  En  la obra Edith le dice a su papá:  ´´Cuando paseamos por la plaza del Registán, me pareció que ya había estado allí, porque
 mamá nos había hecho una descripción de la ciudad antigua muy minuciosa y detallada, describiendo el ambiente, las madrazas con las cúpulas azules, la mezquita…´´.   Pág. 132. *El baile de las marionetas* de Mercedes Guerrero.
+
+
+**Plaza Roja**:  es la plaza más famosa de Moscú en el barrio comercial conocido como Kitay-górod. Posee 330 m de longitud y 70 m de 
+
+![](/assets/img/plaza-roja.jpg)
+
+ancho, sumando una superficie de 23 100 m².  Observamos en la siguiente cita:  ´´La grandiosa plaza Roja fue el punto de encuentro
+de los moscovitas. Las cúpulas doradas del Kremlin centelleaban con la luz del sol mientras miles de ciudadanos se concentraban en multitud de forma espontánea alrededor de las murallas´´.  Pág.
+171.  *El baile de las marionetas* de Mercedes Guerrero.
