@@ -138,3 +138,15 @@ puente existente fue terminado en 1938 por el ingeniero
 Nikolai Kalmykov. En el ejemplo observamos:  ´´La grandiosa plaza Roja fue el punto de encuentro de los moscovitas.  Hernández
 aparcó en los alrededores del puente Bolshói. Desde allí podían contemplarse las relucientes cúpulas doradas pertenecientes a las catedrales situadas tras los muros de piedra roja que protegían la fortaleza del Kremlin, al otro lado del río Moscova´´.  Pág. 284. 
 *El baile de las marionetas* de Mercedes Guerrero
+
+
+**Puente de San Antón**:   Su apertura es anterior a 1318. Se cree que, incluso, es anterior a la fundación de la Villa en el año 1300. Fue  durante siglos el único puente que cruzaba la ría. Los bilbaínos emplearon todos los recursos legales, y hasta violentos, para impedir que otro puente les arrebatara el monopolio en las comunicaciones
+entre las dos orillas.
+
+![](/assets/img/puente-de-san-antón.jpg)
+
+
+
+Es el emblema de Bilbao. Es de origen medieval. Este puente tuvo una importancia histórica, ya que era paso obligado para el comercio de Vizcaya con Castilla, tras el privilegio otorgado en tiempos de doña María Díaz de Haro. En el siglo XV, bajo este puente se empozaba a los delincuentes. El empozamiento era un método de ejecución muy arraigado que consistía en atar una piedra al cuello del condenado y arrojarla al agua. En reiteradas ocasiones riadas lo han derribado.
+Y para poner fin al problema, el Ayuntamiento decidió sustituirlo a finales del siglo XIX, hacia 1870, por uno nuevo, que sería el actual situado, a diferencia del anterior, por delante de la iglesia de San Antón  y que empezó a funcionar hacia 1880, después de sufrir las consecuencias de la última guerra carlista. Fue planificado por
+Hoffmeyer. Fue reedificado, una vez más, en 1937, después de su voladura durante la Guerra Civil Española.
