@@ -172,3 +172,12 @@ siguiente:  ´´Una de las más interesantes fue la visita a Pushkin, la ciudad
 construido y donado en el siglo XIX por José Rodríguez de Losada, y cuyas campanadas de las 12 de la noche del 31 de diciembre marcan
 la tradicional toma de las doce uvas a la gran mayoría de los  españoles.  La Puerta del Sol es un lugar de cita, un lugar de paso entre diversas partes de Madrid.  En el ejemplo vemos:  ´´Mientras
 tanto, debían presentarse  cada quince días en la Brigada Político-Social de la Dirección General de  Seguridad, situada en la Puerta del Sol´´.  Pág. 236.   *El baile de las marionetas* de Mercedes Guerrero
+
+
+**Puerta de Alcalá**:  es una de las cinco antiguas puertas reales que daban acceso a la ciudad, construida por mandato de Carlos
+III para sustituir otra anterior que databa del siglo XVI. Esta puerta
+monumental, inaugurada en  1778, se encuentra al lado del Parque 
+
+![](/assets/img/puerta-de-alcalá.jpg)
+
+del Retiro y en ella confluyen calles tan destacadas como Alcalá, Alfonso XII o Serrano, y constituye uno de los iconos turísticos de Madrid. Fue diseñada por Francesco Sabatini.
