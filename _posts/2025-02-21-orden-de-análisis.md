@@ -53,3 +53,12 @@ construyó el hotel en 1912. Para mantener las convenciones de la época, cuando
 Rafael sigue a Alejandro, el hijo de Carmen Valero:  ´´Al salir miró a su alrededor para asegurarse de que nadie lo seguía y observó que el joven accedía al lujoso hotel Negresco, conocido por el original
 uniforme de sus porteros con sombreros con pluma roja y
 vestidos a la usanza de los grandes burgueses europeos del siglo XVIII´´.  Pág. 308. *El baile de las marionetas* de Mercedes Guerrero.
+
+
+
+**Kabul**: es una de las 34 provincias de Afganistán. Se encuentra en el oriente del país y la capital de la provincia es Kabul, que es también la 
+
+![](/assets/img/kabul.jpg)
+
+capital de Afganistán. Algunas ciudades importantes son: Baġrāmī,
+Mir Baččekut, Paġmān, Qarabāġ y Sarawbi. A principios del siglo XIII se la consideraba una de las ciudades más cultas y hermosas del mundo; desde entonces sufrió destrucciones por diversas guerras. La ciudad de Kabul se encuentra a unos 1800 m s. n. m., lo que la convierte en una de las capitales más altas del mundo.  En la novela Abdul le cuenta a Edith Lombard, de Médicos Sin Fronteras que: ´´Cuando en el 96 llegaron los talibanes a Kabul y expulsaron a la Alianza, la gente salió a la calle con ilusión y lo celebró con alegría´´. Pág. 44. *El baile de las marionetas* de Mercedes Guerrero
