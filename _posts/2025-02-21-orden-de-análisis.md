@@ -82,3 +82,30 @@ Servicio Federal de Seguridad (FSB), anteriormente KGB, y la prisión
 
 anexa en la plaza Lubianka de Moscú. Es un enorme edificio con una fachada de ladrillos amarillos, diseñada por Aleksandr Ivanov en 1897 y aumentada por Alekséi Schúsev en el periodo de 1940 a 1947.  En la obra lo describen así: ´´era un edificio cuadrado y austero, de fachada de ladrillo amarillo excepto en las dos primeras plantas, cubiertas de granito gris oscuro.  En la parte de atrás estaba la cárcel con dos
 pisos subterráneos, donde se rumoreaba que torturaban a los detenidos hasta que confesaban lo que sus verdugos deseaban que confesaran´´.  Pág. 287.  *El baile de las marionetas* de Mercedes Guerrero.
+
+
+
+
+![](/assets/img/parque-gorki.jpg)
+
+**Parque Gorki:**   es un parque urbano. Se encuentra ubicado en la ciudad de Moscú, a lo largo del río Moscova, no muy lejos del centro de la ciudad. Fue bautizado así en homenaje al escritor soviético Máximo Gorki. En el ejemplo observamos  como:  ´´Aquella mañana paseaban por el parque Gorki, un punto de encuentro de los moscovitas donde había teatros infantiles, fuentes y una gran noria´´.  
+Pág.   267.  *El baile de las marionetas* de Mercedes Guerrero.
+
+
+
+**Paseo de la Castellana**:  denominado paseo Nuevo de las Delicias de la Princesa en el siglo XIX) es una avenida de Madrid que recorre la ciudad desde la plaza de Colón, en el centro, hasta el nudo norte. 
+
+![](/assets/img/paseo-de-la-castellana.jpg)
+
+Entró en servicio a comienzos del siglo XX. En la primera década del siglo XXI se compone de  seis carriles centrales (vía principal) y cuatro laterales (vía de servicio) En la obra observamos:  ´´Una semana después Manuel consiguió hablar al fin con su madre, quien respondió con tono frío a su llamada telefónica y lo emplazó en
+una cafetería del paseo de la Castellana para unos días después´´.  
+Pág.   236.  *El baile de las marionetas* de Mercedes Guerrero.
+
+
+
+**Plaza Dzerzhinski**:  situada no lejos de la Plaza Roja, es una plaza importante en la historia de la ciudad. Su nombre fue mencionado por primera vez en 1480, cuando Iván III instaló cerca de esta zona a habitantes de Nóvgorod. Estos construyeron la iglesia de Santa Sofía a 
+
+![](/assets/img/plaza-dzerzhinski.jpg)
+
+partir del  modelo de la Catedral de Santa Sofía de Nóvgorod y llamaron a este barrio Lubyanka en referencia al distrito Lubyánitsy
+de su ciudad de origen. En 1990 la Plaza recuperó su nombre original. Observamos en este ejemplo:  ´´Desde la  plaza Roja donde se alojaba tomó al día siguiente la dirección hacia la plaza Dzerzhinski, donde estaba el cuartel general del Comité Gubernamental de Seguridad, el KGB, fundado en 1954 tras la muerte de Stalin y la caída de Lavrenti Beria, heredando las estructuras de la anterior agencia, la NKVD´´. Pág. 287. *El baile de las marionetas* de Mercedes Guerrero.
