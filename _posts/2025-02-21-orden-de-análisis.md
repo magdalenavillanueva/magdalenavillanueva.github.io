@@ -34,3 +34,11 @@ el lado sur de la Plaza de Armas.   El Hotel fue diseñado por Bruce
 Price, construido por la compañía Canadian Pacific Railway y actualmente está gestionado por Fairmont Hotels and Resorts. Fue designado Sitio Histórico Nacional de Canadá en 1981. En la obra lo describen así:  ´´El destino de Édouard era el hotel Château
 Frontenac, el símbolo de Quebec, con altas almenas y torres cubiertas de cobre oxidado de color verde. Su majestuosa altura domina toda la ciudad y fue erigido a finales del siglo XIX como hotel al estilo de los castillos franceses´´.  Pág.  319.  *El baile de las marionetas* de Mercedes
 Guerrero.
+
+
+
+**Hotel George V**:  es un hotel construido en 1928, situado en el 31 de 
+
+![](/assets/img/hotel-george-v.jpg)
+
+la Avenue George-V, en el Barrio de los Campos Elíseos del Distrito 8 de París,  Francia. En este ejemplo observamos cuando le dicen a Rafael: ´´—Esta noche se va a celebrar la cena de despedida en el hotel George V. Vais a asistir todos los participantes junto con las autoridades anfitrionas´´.  Pág. 298.  *El baile de las marionetas* de Mercedes Guerrero.
