@@ -71,3 +71,14 @@ Mir Baččekut, Paġmān, Qarabāġ y Sarawbi. A principios del siglo XIII se la
 
 mundo. En su interior se encuentran 660 islas, con una superficie de 435 km², la mayoría situadas cerca de la costa noroeste, entre
 ellas las famosas islas Valaam, Konevets y Kipola. El lago desemboca en el golfo de Finlandia (mar Báltico) a través del río Nevá en San Petersburgo.  Observamos en este ejemplo: ´´La congoja le oprimió el corazón y unas lágrimas rebeldes resbalaron por sus mejillas mientras el barco navegaba lentamente por las  aguas del Ládoga´´.   Pág. 126.  *El baile de las marionetas* de Mercedes Guerrero.
+
+
+
+
+**Palacio de la Lubianka**:  es el nombre popular del cuartel general del
+Servicio Federal de Seguridad (FSB), anteriormente KGB, y la prisión 
+
+![](/assets/img/palacio-de-la-lubianka.jpg)
+
+anexa en la plaza Lubianka de Moscú. Es un enorme edificio con una fachada de ladrillos amarillos, diseñada por Aleksandr Ivanov en 1897 y aumentada por Alekséi Schúsev en el periodo de 1940 a 1947.  En la obra lo describen así: ´´era un edificio cuadrado y austero, de fachada de ladrillo amarillo excepto en las dos primeras plantas, cubiertas de granito gris oscuro.  En la parte de atrás estaba la cárcel con dos
+pisos subterráneos, donde se rumoreaba que torturaban a los detenidos hasta que confesaban lo que sus verdugos deseaban que confesaran´´.  Pág. 287.  *El baile de las marionetas* de Mercedes Guerrero.
