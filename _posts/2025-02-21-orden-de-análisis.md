@@ -128,3 +128,13 @@ mamá nos había hecho una descripción de la ciudad antigua muy minuciosa y det
 ancho, sumando una superficie de 23 100 m².  Observamos en la siguiente cita:  ´´La grandiosa plaza Roja fue el punto de encuentro
 de los moscovitas. Las cúpulas doradas del Kremlin centelleaban con la luz del sol mientras miles de ciudadanos se concentraban en multitud de forma espontánea alrededor de las murallas´´.  Pág.
 171.  *El baile de las marionetas* de Mercedes Guerrero.
+
+
+**Puente Bolshói**:     es un puente en arco de acero que atraviesa el río Moscova en el extremo occidental del Kremlin de Moscú. Su predecesor fue el primer puente de piedra permanente en Moscú. El 
+
+![](/assets/img/puente-bolshói.jpg)
+
+puente existente fue terminado en 1938 por el ingeniero
+Nikolai Kalmykov. En el ejemplo observamos:  ´´La grandiosa plaza Roja fue el punto de encuentro de los moscovitas.  Hernández
+aparcó en los alrededores del puente Bolshói. Desde allí podían contemplarse las relucientes cúpulas doradas pertenecientes a las catedrales situadas tras los muros de piedra roja que protegían la fortaleza del Kremlin, al otro lado del río Moscova´´.  Pág. 284. 
+*El baile de las marionetas* de Mercedes Guerrero
