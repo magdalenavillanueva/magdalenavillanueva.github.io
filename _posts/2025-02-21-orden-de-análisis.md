@@ -17,10 +17,7 @@ date: 2025-03-20T15:08:00.000Z
 
 ![](/assets/img/cosmódromo-de-tyuratam.png)
 
-mundo. Está situada a 2500 kilómetros de Moscú y en las cercanías
-de la ciudad de  Baikonur, donde se aloja gran parte del personal de
-las instalaciones.  El puerto espacial está en la estepa desértica de Baikonur, a unos 200 km al este del mar de Aral y al norte del río Syr Darya. Está cerca de la estación de tren de Tiuratam y está a unos 90 m sobre el nivel del mar. El puerto espacial actualmente está alquilado por el Gobierno de Kazajistán a la Federación Rusa hasta 2050 y es
-administrado conjuntamente por la Corporación Estatal Roscosmos y las Fuerzas Aeroespaciales Rusas. La forma del área arrendada es una elipse, que mide 90 km de este a oeste por 85 km de norte a sur, con el cosmódromo en el centro. Observamos en este ejemplo: ´´El cosmódromo de Tyuratam estaba situado en la parte central de la República Soviética de Kazajistán, a doscientos kilómetros al este del mar de Aral y a unos cuarenta kilómetros de la ciudad minera de Baikonur. Originariamente se creó como base de lanzamiento
+{:width="300" style="float: right"}mundo. Está situada a 2500 kilómetros de Moscú y en las cercanías de la ciudad de  Baikonur, donde se aloja gran parte del personal de las instalaciones.  El puerto espacial está en la estepa desértica de Baikonur, a unos 200 km al este del mar de Aral y al norte del río Syr Darya. Está cerca de la estación de tren de Tiuratam y está a unos 90 m sobre el nivel del mar. El puerto espacial actualmente está alquilado por el Gobierno de Kazajistán a la Federación Rusa hasta 2050 y es administrado conjuntamente por la Corporación Estatal Roscosmos y las Fuerzas Aeroespaciales Rusas. La forma del área arrendada es una elipse, que mide 90 km de este a oeste por 85 km de norte a sur, con el cosmódromo en el centro. Observamos en este ejemplo: ´´El cosmódromo de Tyuratam estaba situado en la parte central de la República Soviética de Kazajistán, a doscientos kilómetros al este del mar de Aral y a unos cuarenta kilómetros de la ciudad minera de Baikonur. Originariamente se creó como base de lanzamiento
 de misiles de largo alcance. Más tarde se amplió para albergar también el programa de vuelos espaciales´´.  Pág. 214.  *El
 baile de las marionetas* de Mercedes Guerrero.
 
@@ -190,3 +187,11 @@ del Retiro y en ella confluyen calles tan destacadas como Alcalá, Alfonso XII o
 ![](/assets/img/quebec.jpg)
 
 Terranova y Labrador; al este con el golfo de San Lorenzo y la provincia de Nuevo Brunswick; al sudeste con los Estados Unidos; y al sur y sudoeste con la provincia de Ontario. Con 7 744 530 habs. en 2008 es la segunda entidad más poblada —por detrás de Ontario— y con 1 542 056 km², la segunda más extensa, por detrás de Nunavut.  En este ejemplo observamos:  cuando dicen que Edith Lombard ´´había nacido en Quebec, Canadá, aunque años más tarde su familia se había instalado en Montreal, donde contrajo matrimonio y tuvo un hijo´´.  Pág.  7.   *El baile de las marionetas* de Mercedes Guerrero.
+
+
+**Teatro Arriaga de Bilbao**: es un teatro de Bilbao, capital de Vizcaya, en el País Vasco (España). Es un edificio neobarroco de finales del siglo XIX, obra del arquitecto Joaquín de Rucoba y dedicado al compositor bilbaíno Juan Crisóstomo de Arriaga, a quien se le ha denominado el 
+
+![](/assets/img/teatro-arriaga-de-bilbao.jpg)
+
+Mozart español. Fue inaugurado el 31 de mayo de 1890. A través de la cita nos dicen que:  ´´En más de una ocasión la familia Hévin se había
+unido a ellos para recorrer las ciudades de la costa norte de España y había una foto de gran tamaño en el pasillo en la que Édouard tomaba por los hombros a Lucien con la fachada del Teatro Arriaga de Bilbao al fondo´´.  Pág. 178.   *El baile de las marionetas* de Mercedes Guerrero.
