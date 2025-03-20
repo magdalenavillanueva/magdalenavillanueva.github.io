@@ -42,3 +42,14 @@ Guerrero.
 ![](/assets/img/hotel-george-v.jpg)
 
 la Avenue George-V, en el Barrio de los Campos Elíseos del Distrito 8 de París,  Francia. En este ejemplo observamos cuando le dicen a Rafael: ´´—Esta noche se va a celebrar la cena de despedida en el hotel George V. Vais a asistir todos los participantes junto con las autoridades anfitrionas´´.  Pág. 298.  *El baile de las marionetas* de Mercedes Guerrero.
+
+
+**Hotel Negresco**: es un hotel famoso situado en la Promenade des Anglais​ en la Baie des Anges de Niza, Francia. Se llama así en honor a 
+
+![](/assets/img/hotel-negresco.jpg)
+
+Henri Negresco (en rumano: Henri Negrescu)​ (1868–1920) quien
+construyó el hotel en 1912. Para mantener las convenciones de la época, cuando abrió el Negresco en 1913, su puerta principal estaba en el lado opuesto al Mediterráneo.  En la obra observamos como
+Rafael sigue a Alejandro, el hijo de Carmen Valero:  ´´Al salir miró a su alrededor para asegurarse de que nadie lo seguía y observó que el joven accedía al lujoso hotel Negresco, conocido por el original
+uniforme de sus porteros con sombreros con pluma roja y
+vestidos a la usanza de los grandes burgueses europeos del siglo XVIII´´.  Pág. 308. *El baile de las marionetas* de Mercedes Guerrero.
