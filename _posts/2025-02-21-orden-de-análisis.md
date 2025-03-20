@@ -181,3 +181,12 @@ monumental, inaugurada en  1778, se encuentra al lado del Parque
 ![](/assets/img/puerta-de-alcalá.jpg)
 
 del Retiro y en ella confluyen calles tan destacadas como Alcalá, Alfonso XII o Serrano, y constituye uno de los iconos turísticos de Madrid. Fue diseñada por Francesco Sabatini.
+
+
+
+**Quebec**: es una de las diez provincias que, junto con los tres territorios, conforman las trece entidades federales de Canadá. Su capital es la homónima Quebec, y su ciudad más poblada es Montreal. Está ubicada al este del país, limitando al norte y noroeste con el estrecho de Hudson —que la separan de Nunavut— y la bahía de Hudson, respectivamente; al nordeste con la provincia de
+
+
+![](/assets/img/quebec.jpg)
+
+Terranova y Labrador; al este con el golfo de San Lorenzo y la provincia de Nuevo Brunswick; al sudeste con los Estados Unidos; y al sur y sudoeste con la provincia de Ontario. Con 7 744 530 habs. en 2008 es la segunda entidad más poblada —por detrás de Ontario— y con 1 542 056 km², la segunda más extensa, por detrás de Nunavut.  En este ejemplo observamos:  cuando dicen que Edith Lombard ´´había nacido en Quebec, Canadá, aunque años más tarde su familia se había instalado en Montreal, donde contrajo matrimonio y tuvo un hijo´´.  Pág.  7.   *El baile de las marionetas* de Mercedes Guerrero.
