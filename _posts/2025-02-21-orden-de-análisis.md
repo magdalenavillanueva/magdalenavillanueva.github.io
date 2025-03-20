@@ -18,4 +18,19 @@ date: 2025-03-20T15:08:00.000Z
 ![](/assets/img/cosmódromo-de-tyuratam.png)
 
 mundo. Está situada a 2500 kilómetros de Moscú y en las cercanías
-de la ciudad de
+de la ciudad de  Baikonur, donde se aloja gran parte del personal de
+las instalaciones.  El puerto espacial está en la estepa desértica de Baikonur, a unos 200 km al este del mar de Aral y al norte del río Syr Darya. Está cerca de la estación de tren de Tiuratam y está a unos 90 m sobre el nivel del mar. El puerto espacial actualmente está alquilado por el Gobierno de Kazajistán a la Federación Rusa hasta 2050 y es
+administrado conjuntamente por la Corporación Estatal Roscosmos y las Fuerzas Aeroespaciales Rusas. La forma del área arrendada es una elipse, que mide 90 km de este a oeste por 85 km de norte a sur, con el cosmódromo en el centro. Observamos en este ejemplo: ´´El cosmódromo de Tyuratam estaba situado en la parte central de la República Soviética de Kazajistán, a doscientos kilómetros al este del mar de Aral y a unos cuarenta kilómetros de la ciudad minera de Baikonur. Originariamente se creó como base de lanzamiento
+de misiles de largo alcance. Más tarde se amplió para albergar también el programa de vuelos espaciales´´.  Pág. 214.  *El
+baile de las marionetas* de Mercedes Guerrero.
+
+
+**Hotel Château Frontenac**:  es un hotel histórico de estilo château
+situado en la ciudad de Quebec, Canadá. Está situado en el  Centro histórico de Quebec, dentro de la Ciudad Alta del distrito histórico, en 
+
+![](/assets/img/hotel-château-frontenac.jpg)
+
+el lado sur de la Plaza de Armas.   El Hotel fue diseñado por Bruce
+Price, construido por la compañía Canadian Pacific Railway y actualmente está gestionado por Fairmont Hotels and Resorts. Fue designado Sitio Histórico Nacional de Canadá en 1981. En la obra lo describen así:  ´´El destino de Édouard era el hotel Château
+Frontenac, el símbolo de Quebec, con altas almenas y torres cubiertas de cobre oxidado de color verde. Su majestuosa altura domina toda la ciudad y fue erigido a finales del siglo XIX como hotel al estilo de los castillos franceses´´.  Pág.  319.  *El baile de las marionetas* de Mercedes
+Guerrero.
