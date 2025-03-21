@@ -4,7 +4,7 @@ layout: default
 
 <div class="prose min-w-full">
   <div
-    class="bg-[url('/assets/img/landing-image.webp')] bg-cover bg-fixed bg-center p-10"
+    class="bg-[url('/assets/img/landing-image.webp')] bg-cover bg-fixed bg-center p-5 md:p-10"
   />
   <div
     class="bg-primary-content/90 rounded-xl p-5 backdrop-blur {{ page.class }}"
@@ -74,7 +74,7 @@ layout: default
           <div>{{ content }}</div>
           {% if page.link %}
           <div>
-            <a href="{{ page.link }}" class="btn btn--primary"
+            <a href="{{ page.link }}" class="btn--primary btn"
               >{{ site.data.ui-text[site.locale].ext_link_label | default:
               "Direct Link" }}</a
             >
