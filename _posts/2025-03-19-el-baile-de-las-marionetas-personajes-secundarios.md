@@ -2,8 +2,8 @@
 layout: single
 categories:
   - El baile de las marionetas
-title: "El baile de las marionetas: Personajes Secundarios:     "
-date: 2025-03-17T16:08:00.000Z
+title: "El baile de las marionetas: Personajes Secundarios:"
+date: 2025-03-19T16:08:00.000Z
 ---
 ![](/assets/img/banner.png "El  baile de las marionetas de  Mercedes  Guerrero ")
 

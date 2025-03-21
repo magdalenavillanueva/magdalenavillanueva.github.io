@@ -3,7 +3,7 @@ layout: single
 categories:
   - El baile de las marionetas
 title: "El baile de las marionetas: Biografía"
-date: 2025-03-12T19:53:00.000Z
+date: 2025-03-16T19:53:00.000Z
 ---
 ![](/assets/img/banner.png)
 

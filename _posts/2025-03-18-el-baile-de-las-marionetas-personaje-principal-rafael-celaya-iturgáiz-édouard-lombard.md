@@ -2,9 +2,8 @@
 layout: single
 categories:
   - El baile de las marionetas
-title: "El baile de las marionetas: Personaje Principal:      Rafael Celaya
-  Iturgáiz/Édouard Lombard:"
-date: 2025-03-17T08:08:00.000Z
+title: "El baile de las marionetas: Personaje Principal: Rafael Celaya Iturgáiz/Édouard Lombard:"
+date: 2025-03-18T08:08:00.000Z
 ---
 ![](/assets/img/banner.png "El  baile de las marionetas de   Mercedes  Guerrero ")
 
