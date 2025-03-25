@@ -44,23 +44,16 @@ allí´´.  Pág. 131.   *El baile de las marionetas* de Mercedes Guerrero
 
 
 
-![](/assets/img/kutiá.jpg)
-
-**Kutiá**: especie de pudin dulce elaborado con granos de trigo, las semillas de amapola, la miel o el azúcar), diversos frutos secos y en algunas ocasiones pasas. Es uno de los primeros platos de la tradicional cena navideña de los doce platos.​  Es muy raro que se sirva en otras épocas del año. Observamos la siguiente cita:   ´´Entre los platos más destacados estaban la kutya, una especie de gachas cocinadas con distintos tipos de grano que simbolizaban la esperanza y la felicidad, y el vzar, que incluía diferentes tipos de frutas cocidas con vino y especias´´.  Pág. 224.  *El baile de las marionetas* de Mercedes Guerrero.
+![](/assets/img/kutiá.jpg){:width="300" style="float: left"}**Kutiá**: especie de pudin dulce elaborado con granos de trigo, las semillas de amapola, la miel o el azúcar), diversos frutos secos y en algunas ocasiones pasas. Es uno de los primeros platos de la tradicional cena navideña de los doce platos.​  Es muy raro que se sirva en otras épocas del año. Observamos la siguiente cita:   ´´Entre los platos más destacados estaban la kutya, una especie de gachas cocinadas con distintos tipos de grano que simbolizaban la esperanza y la felicidad, y el vzar, que incluía diferentes tipos de frutas cocidas con vino y especias´´.  Pág. 224.  *El baile de las marionetas* de Mercedes Guerrero.
 
 
 
 
-![](/assets/img/plato-de-judías.jpg)
-
-**Plato de judías**:  es muy popular en España, es protagonista de una gran cantidad de platos a lo largo de toda la península ibérica, siendo su uso más frecuente en las provincias centrales del país.  En el ejemplo,  se observa cuando se lo dan a los niños en el viaje: ´´Al día siguiente, y tras una larga espera en cola para recibir un plato de judías duras y otro trozo de pan negro, Rafael y Joaquín, acompañados de su enorme amigo, se dispusieron a comer sentados en el suelo, a la sombra de un bote  salvavidas que pendía sobre sus cabezas´´.   Pág.  19. *El baile de las marionetas* de Mercedes Guerrero
+![](/assets/img/plato-de-judías.jpg){:width="300" style="float: left"} **Plato de judías**:  es muy popular en España, es protagonista de una gran cantidad de platos a lo largo de toda la península ibérica, siendo su uso más frecuente en las provincias centrales del país.  En el ejemplo,  se observa cuando se lo dan a los niños en el viaje: ´´Al día siguiente, y tras una larga espera en cola para recibir un plato de judías duras y otro trozo de pan negro, Rafael y Joaquín, acompañados de su enorme amigo, se dispusieron a comer sentados en el suelo, a la sombra de un bote  salvavidas que pendía sobre sus cabezas´´.   Pág.  19. *El baile de las marionetas* de Mercedes Guerrero
 
 
 
-
-![](/assets/img/bosch.jpg)
-
-**Bosch**:  es una sopa típica de Rusia.  La preparación de esta sopa rusa es  bastante sencilla y tiene como ingrediente principal la remolacha roja, un buen caldo de carne y nata fresca.  En la cita vemos
+![](/assets/img/bosch.jpg){:width="300" style="float: left"} **Bosch**:  es una sopa típica de Rusia.  La preparación de esta sopa rusa es  bastante sencilla y tiene como ingrediente principal la remolacha roja, un buen caldo de carne y nata fresca.  En la cita vemos
 como Iñaki:  ´´estaba en la cocina calentando un cazo de Bosch, una sopa de verduras a base de judías, coles y  remolacha´´.  Pág. 192.  *El baile de las marionetas* de Mercedes Guerrero.
 
 
@@ -68,9 +61,4 @@ como Iñaki:  ´´estaba en la cocina calentando un cazo de Bosch, una sopa de 
 
 
 **Vodka**:  es una bebida destilada. Se discute el origen de la misma aunque el nombre actual es ruso.  Es el resultado de la destilación de las bebidas fermentadas, con lo que tienen mayor concentración de alcohol. Normalmente el contenido de alcohol del vodka se encuentra entre 65 % y 80 % volúmenes; el
-
-
-![](/assets/img/vodka2.jpg)
-
-vodka lituano, ucraniano, ruso y polaco clásico contiene cuarenta grados de alcohol. En la cita observamos:   ´´—Lamento que tu matrimonio no fuera bien. Manuel es un gran tipo y un  buen
-amigo —dijo Rafael, asomado a la ventana mientras Victoria llenaba dos  vasos de vodka y le ofrecía uno´´.  Pág.  264. *El baile de las marionetas* de Mercedes Guerrero
+![](/assets/img/vodka2.jpg){:width="300" style="float: left"}vodka lituano, ucraniano, ruso y polaco clásico contiene cuarenta grados de alcohol. En la cita observamos:   ´´—Lamento que tu matrimonio no fuera bien. Manuel es un gran tipo y un  buen amigo —dijo Rafael, asomado a la ventana mientras Victoria llenaba dos  vasos de vodka y le ofrecía uno´´.  Pág.  264. *El baile de las marionetas* de Mercedes Guerrero
