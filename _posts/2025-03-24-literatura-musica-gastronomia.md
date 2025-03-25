@@ -39,22 +39,25 @@ allí´´.  Pág. 131.   *El baile de las marionetas* de Mercedes Guerrero
 **La Internacional:**  es la canción más señera del Movimiento obrero. Se la considera el himno oficial de los trabajadores del mundo entero y de la mayoría de los partidos socialistas y comunistas, así como de algunas organizaciones anarquistas. La letra original, en francés, es de Eugène Pottier, y fue escrita en 1871 dentro de su obra Cantos Revolucionarios. En 1888, Pierre Degeyter la musicalizó por encargo Gustave Delory, dirigente del Partido Obrero Francés en la ciudad de Lille (Francia) para el repertorio de la coral del partido la Lira de los Trabajadores. Vemos en el ejemplo:  ´´Las banderas rojas de la Unión Soviética y las tricolores de la República Española ondeaban al paso de los pequeños, que con ingenua alegría desfilaban con el puño en alto ataviados con el gorro de milicianos y cantando el Himno de Riego o La Internacional´´.    Pág. 29.  *El baile de las marionetas* de Mercedes Guerrero.
 
 
-**Comida**:
 
+
+
+**Comida**:
 
 
 
 ![](/assets/img/kutiá.jpg){:width="300" style="float: left"}**Kutiá**: especie de pudin dulce elaborado con granos de trigo, las semillas de amapola, la miel o el azúcar), diversos frutos secos y en algunas ocasiones pasas. Es uno de los primeros platos de la tradicional cena navideña de los doce platos.​  Es muy raro que se sirva en otras épocas del año. Observamos la siguiente cita:   ´´Entre los platos más destacados estaban la kutya, una especie de gachas cocinadas con distintos tipos de grano que simbolizaban la esperanza y la felicidad, y el vzar, que incluía diferentes tipos de frutas cocidas con vino y especias´´.  Pág. 224.  *El baile de las marionetas* de Mercedes Guerrero.
 
 
-
-
 ![](/assets/img/plato-de-judías.jpg){:width="300" style="float: left"} **Plato de judías**:  es muy popular en España, es protagonista de una gran cantidad de platos a lo largo de toda la península ibérica, siendo su uso más frecuente en las provincias centrales del país.  En el ejemplo,  se observa cuando se lo dan a los niños en el viaje: ´´Al día siguiente, y tras una larga espera en cola para recibir un plato de judías duras y otro trozo de pan negro, Rafael y Joaquín, acompañados de su enorme amigo, se dispusieron a comer sentados en el suelo, a la sombra de un bote  salvavidas que pendía sobre sus cabezas´´.   Pág.  19. *El baile de las marionetas* de Mercedes Guerrero
-
-
 
 ![](/assets/img/bosch.jpg){:width="300" style="float: left"} **Bosch**:  es una sopa típica de Rusia.  La preparación de esta sopa rusa es  bastante sencilla y tiene como ingrediente principal la remolacha roja, un buen caldo de carne y nata fresca.  En la cita vemos
 como Iñaki:  ´´estaba en la cocina calentando un cazo de Bosch, una sopa de verduras a base de judías, coles y  remolacha´´.  Pág. 192.  *El baile de las marionetas* de Mercedes Guerrero.
+
+
+
+
+
 
 
 **Bebidas**:
