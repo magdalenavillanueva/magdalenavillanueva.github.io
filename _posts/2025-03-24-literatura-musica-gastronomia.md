@@ -64,4 +64,10 @@ como Iñaki:  ´´estaba en la cocina calentando un cazo de Bosch, una sopa de 
 
 
 ![](/assets/img/vodka2.jpg){:width="300" style="float: right"}**Vodka**:  es una bebida destilada. Se discute el origen de la misma aunque el nombre actual es ruso.  Es el resultado de la destilación de las bebidas fermentadas, con lo que tienen mayor concentración de alcohol. Normalmente el contenido de alcohol del vodka se encuentra entre 65 % y 80 % volúmenes; el
-vodka lituano, ucraniano, ruso y polaco clásico contiene cuarenta grados de alcohol. En la cita observamos:   ´´—Lamento que tu matrimonio no fuera bien. Manuel es un gran tipo y un  buen amigo —dijo Rafael, asomado a la ventana mientras Victoria llenaba dos  vasos de vodka y le ofrecía uno´´.  Pág.  264. *El baile de las marionetas* de Mercedes Guerrero
+vodka lituano, ucraniano, ruso y polaco clásico contiene cuarenta grados de alcohol. En la cita observamos:   ´´—Lamento que tu matrimonio no fuera bien. Manuel es un gran tipo y un  buen amigo —dijo Rafael, asomado a la ventana mientras Victoria llenaba dos  vasos de vodka y le ofrecía uno´´.  Pág.  264. *El baile de las marionetas* de Mercedes Guerrero.
+
+
+
+
+
+
