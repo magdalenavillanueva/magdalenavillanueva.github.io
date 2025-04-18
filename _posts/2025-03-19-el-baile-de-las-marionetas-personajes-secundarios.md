@@ -76,8 +76,6 @@ soldado, fue condenado a pena de muerte en pleno frente por abandonar su puesto
 mientras luchaba contra los alemanes en Stalingrado, en cumplimiento de la
 famosa orden de Stalin  «Ni un paso atrás». 
 
- 
-
 **Serguéi Popov**:   era de frente ancha, piel blanquecina, ojos achinados y negros y la cara picada por la viruela. De pelo oscuro y lacio, era alto y de anchas espaldas.  Había llegado de un koljós:  un sistema de granja colectiva que se desarrolló durante el periodo de la URSS. Se trasladó a Taskent, Uzbekistán, donde inició una nueva actividad laboral en una fábrica de ferrocarriles. Se afilió al sindicato y fue reclutado por el personal de seguridad, al poco tiempo le dieron su primer destino como asistente de un miembro del Comité
 Territorial del Partido: el Kraikom.  Fue nombrado comisario político en la estación espacial de Kazajistán.  Falleció en un accidente.
 
@@ -90,7 +88,7 @@ fue seleccionado para trabajar en los proyectos secretos del gobierno.
 
 Arrastraba un pasado tormentoso en su vida personal. Tenía treinta y cinco años, y antes
 de llegar a la estación espacial vivía en la habitación de una kommunalka de
-Moscú con su madre, su mujer y dos hijos pequeños.  Pero su esposa se cansó de aquella vida estresante  y se fue a trabajar  a Kosino. Después vino su traslado forzoso a Kazajistán.
+Moscú con su madre, su mujer y dos hijos pequeños.  Pero su esposa se cansó de aquella vida estresante  y se fue a trabajar  a Kosino. Después vino su traslado a Kazajistán. Se fue solo.
 
 **Iván Makárov**:   estatura baja,  pelo abundante y canoso.  Era físico nuclear.
 
