@@ -22,7 +22,7 @@ tenía un excesivo empeño en implantar gobiernos marxistas al otro lado del
 océano ni de incomodar a una potencia mundial como era Estados Unidos. Habría
 preferido que Cuba se mantuviera neutral´´. Pág. 275. 
 
-**Mitrofán Ivánovich Nedelin**:fue un comandante militar soviético que sirvió como mariscal en jefe de artillería, cargo que ocupó desde el 8 de mayo de 1959 hasta su muerte en 1960. Miembro del Partido Comunista desde 1924, fue honrado como héroe de la Unión Soviética el 28 de abril de 1945 por los servicios prestados durante la Segunda Guerra Mundial. Su nombre también es famoso porque sirvió para designar el grave accidente, conocido como catástrofe de Nedelin, en el que falleció junto con otras setenta personas durante la explosión de un misil en prueba:    ´´Entre gritos, sirenas y mangueras de agua, aquel aciago día acabó con la vida de setenta y ocho personas y provocó más de doscientos heridos entre científicos, técnicos, personal de la base y numerosos cargos pertenecientes al ejército y al estamento político, que habían sido invitados de forma insensata por el mariscal Nedelin a colocarse a pocos metros de la plataforma´´.   Pág. 283. 
+**Mitrofán Ivánovich Nedelin**: fue un comandante militar soviético que sirvió como mariscal en jefe de artillería, cargo que ocupó desde el 8 de mayo de 1959 hasta su muerte en 1960. Miembro del Partido Comunista desde 1924, fue honrado como héroe de la Unión Soviética el 28 de abril de 1945 por los servicios prestados durante la Segunda Guerra Mundial. Su nombre también es famoso porque sirvió para designar el grave accidente, conocido como catástrofe de Nedelin, en el que falleció junto con otras setenta personas durante la explosión de un misil en prueba:    ´´Entre gritos, sirenas y mangueras de agua, aquel aciago día acabó con la vida de setenta y ocho personas y provocó más de doscientos heridos entre científicos, técnicos, personal de la base y numerosos cargos pertenecientes al ejército y al estamento político, que habían sido invitados de forma insensata por el mariscal Nedelin a colocarse a pocos metros de la plataforma´´.   Pág. 283. 
 
 **Valentín Petróvich Glushkó**: fue un destacado ingeniero aeroespacial de naves espaciales y cohetes durante la carrera espacial entre Estados Unidos y la URSS. En este ejemplo observamos: ´´Su tozudez lo llevó a enfrentarse a Valentín Glushkó, el responsable del proyecto R-16, quien tenía ya decidido utilizar el combustible
 más eficaz, aunque peligroso. Tenían máxima prioridad y demasiada prisa, por lo
@@ -48,8 +48,6 @@ Unidos. Él hablaba de una revolución  humanista, alejada de extremismos; sin 
 comercial y militar hacia Cuba´´  Pág. 275.
 
 ### **Hechos históricos que les tocó vivir a los  personajes  de la novela El baile de las marionetas:**
-
-
 
 La Guerra Civil española da inicio a la historia porque mientras dos bandos se enfrentan
 en España, las familias del bando republicano embarcan a sus hijos a destinos fuera del terror de la guerra. Más de cuatro mil quinientos niños se van a sacar del país. La población infantil  había quedado atrapada en aquella guerra civil. La mayoría de los padres de aquellos niños viajeros luchaba en el frente contra las tropas sublevadas un año antes en el norte de Marruecos, al mando de un
