@@ -7,6 +7,7 @@ date: 2025-03-15T19:08:00.000Z
 ---
 ![](/assets/img/banner.jpg)
 
+
 1.	Biografía de Javier Cercas.
 
 2.	 ¿Por qué leer  la trilogía Terra Alta?
@@ -22,7 +23,8 @@ date: 2025-03-15T19:08:00.000Z
 3.2.  Personajes cercanos  a  Melchor Marín. 
 
 3.3.  La importancia de Los Miserables  en la  
-        vida  de   Melchor Marín.
+       
+ vida  de   Melchor Marín.
 
 3.4. La Literatura leída por  Melchor Marín.       
 
