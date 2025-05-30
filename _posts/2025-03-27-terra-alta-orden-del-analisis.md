@@ -17,8 +17,7 @@ date: 2025-03-15T19:08:00.000Z
 
               Melchor Marín.
 
- 3.1. Melcho  r
-   Marín, el hilo conductor de la trilogía.
+Melchor Marín, el hilo conductor de la trilogía.
 
 Personajes cercanos  a  Melchor Marín. 
 
