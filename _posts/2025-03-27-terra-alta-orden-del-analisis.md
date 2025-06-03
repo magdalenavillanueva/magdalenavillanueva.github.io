@@ -7,15 +7,13 @@ date: 2025-03-15T19:08:00.000Z
 ---
 ![](/assets/img/banner.jpg)
 
-1. Biografía de Javier Cercas.
+ Biografía de Javier Cercas.
 
 
-2. ¿Por qué leer la
+ ¿Por qué leer la
    trilogía Terra Alta?
-3. Personaje
-   principal:  
-
-              Melchor Marín.
+ Personaje
+   principal:                Melchor Marín.
 
 Melchor Marín, el hilo conductor de la trilogía.
 
