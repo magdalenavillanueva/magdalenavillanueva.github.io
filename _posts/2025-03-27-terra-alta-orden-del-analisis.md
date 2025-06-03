@@ -3,7 +3,7 @@ layout: single
 categories:
   - Terra alta, Independencia y El castillo de Barbazul
 title: "Terra alta, Independencia y El castillo de Barbazul: Orden de análisis"
-date: 2025-03-15T19:08:00.000Z
+date: 2025-06-03T07:58:00.000Z
 ---
 ![](/assets/img/banner.jpg)
 
@@ -12,8 +12,7 @@ date: 2025-03-15T19:08:00.000Z
 2.	 ¿Por qué leer  la trilogía Terra Alta?
 
 3.	Personaje principal:  
-
-              Melchor Marín. 
+  Melchor Marín. 
 
 3.1.  Melchor Marín, el hilo conductor  de la trilogía.
 
