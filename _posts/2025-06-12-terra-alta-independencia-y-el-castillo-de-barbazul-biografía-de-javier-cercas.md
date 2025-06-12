@@ -12,11 +12,7 @@ date: 2025-06-11T20:10:00.000Z
 Nació en Ibahernando, Cáceres, de la comunidad
 autónoma de Extremadura, en 1962. En 1985 se licenció en Filología hispánica en
 la Universidad Autónoma de Barcelona, y más tarde se doctoró en la misma
-especialidad en la Universidad de Barcelona. 
-
-![](/assets/img/biografia.png)
-
-{:width="200" style="float: right"}
+especialidad en la Universidad de Barcelona. {:width="200" style="float: right"}
 Trabajó durante dos años en la Universidad de Illinois en Urbana, ​
 época en que escribió su primera novela.​ Desde 1989, comenzó a ejercer como
 profesor de literatura española en la Universidad de Gerona
