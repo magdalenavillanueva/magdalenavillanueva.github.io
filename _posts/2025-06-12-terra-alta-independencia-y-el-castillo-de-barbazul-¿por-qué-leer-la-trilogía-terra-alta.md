@@ -50,7 +50,7 @@ date: 2025-06-12T16:10:00.000Z
 
 
 
-![Mapa de Terra](/assets/img/terra-alta.-mapa.jpg)
+![Mapa de Terra]()
 
 Relato clasificado como novela negra de estilo policíaco. Es policial porque va de un crimen
 sumamente violento y el cómo es el entresijo de las líneas de investigación del
@@ -68,6 +68,10 @@ principios policiales, aunque es un héroe ambiguo, contradictorio, violento y l
 
 ***Terra alta:***
 
+
+
+
+![mapa de Terra](/assets/img/terra-alta.-mapa.jpg)
 
 La apacible comarca de Terra Alta se sacude   ante un crimen terrible: un matrimonio de
 ancianos. Son los propietarios de Gráficas Adell, reconocidos empresarios del
@@ -125,6 +129,10 @@ subrepticia, lo que lleva a la muerte de su mujer y a concluir el caso.
 Los acontecimientos sucedidos en Terra Alta lo hacen tomar la decisión
 de mudarse a Barcelona, no sobrelleva los hechos muy bien,  se convierte en un  padre absorto y distraído, y se distancia de su hija, aunque pasaba muchas horas con ella
 
+
+
+![Barcelona](/assets/img/barcelona.jpg)
+
 Aquí forma parte de un equipo de investigación de secuestro y extorsión      para investigar un caso delicado: alguien está chantajeando con un vídeo sexual a la alcaldesa de la ciudad  y de forma fortuita descubre quiénes causaron la muerte de su madre. El equipo de secuestro es desintegrado. Entre esos
 descubrimientos que se observan al concluir las investigaciones es la
 consideración, para bien o para mal, que las élites económicas subyugan el
@@ -145,6 +153,8 @@ En este tercer libro encontramos a un Melchor que se retiró de la policía y se
 
 
 
+
+![Mallorca](/assets/img/mallorca.jpg)
 
 Hay dos líneas en la historia, la de Cosette que habla de sus
 reflexiones antes de ser secuestrada y después de ser abusada sexualmente. La
