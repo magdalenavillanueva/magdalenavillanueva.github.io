@@ -7,23 +7,27 @@ date: 2025-03-15T19:08:00.000Z
 ---
 ![](/assets/img/banner.png "El  baile de las marionetas de Mercedes  Guerrero ")
 
-1. Biografía de Mercedes Guerrero
+1.  Biografía de Mercedes Guerrero
+
 
 2. ¿Qué encontramos al leer El baile de las marionetas? ¿Se supera el dolor emocional?
 
+
 3. Personajes principales: Rafael Celaya Iturgáiz/Édouard Lombard. 
 
-   3.1 Personajes cercanos a Rafael: 
-   Victoria Eugenia Blanco/María de los Santos
-   Cifuentes,  Iñaki Rodríguez Uramburu  y Joaquín/Lucien Hévin
+   Personajes cercanos a Rafael: 
+      Victoria Eugenia Blanco/María de los Santos
+      Cifuentes,  Iñaki Rodríguez Uramburu  y Joaquín/Lucien Hévin
 
-4. Personajes secundarios.
-5. Personajes históricos.
+   Personajes secundarios.
 
-6. Hechos históricos que les tocó vivir a los  personajes  de El baile de las marionetas.
+\    Personajes históricos.
 
-7. Ambiente físico.
+\    Hechos históricos que les tocó vivir a los  personajes  de El baile de las     marionetas.
 
-   7.1. Sitios que aparecen a lo largo de la novela en los diferentes países donde transcurre la trama.
+   4.  Ambiente físico.
 
-8. Literatura, música  y gastronomía
+
+
+4.   7.1. Sitios que aparecen a lo largo de la novela en los diferentes países donde transcurre la trama.
+5. Literatura, música  y gastronomía
