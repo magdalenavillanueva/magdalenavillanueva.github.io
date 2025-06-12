@@ -14,7 +14,7 @@ autónoma de Extremadura, en 1962. En 1985 se licenció en Filología hispánica
 la Universidad Autónoma de Barcelona, y más tarde se doctoró en la misma
 especialidad en la Universidad de Barcelona. 
 
-![Fotografía del escritor](/assets/img/biografia.png)
+![Fotografía del escritor](/assets/img/foto-del-escritor.png)
 
 Trabajó durante dos años en la Universidad de Illinois en Urbana, ​
 época en que escribió su primera novela.​ Desde 1989, comenzó a ejercer como
