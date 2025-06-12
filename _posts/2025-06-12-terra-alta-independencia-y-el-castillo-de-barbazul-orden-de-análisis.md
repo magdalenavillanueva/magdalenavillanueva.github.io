@@ -8,11 +8,11 @@ date: 2025-06-11T20:10:00.000Z
 ---
 ![](/assets/img/banner.jpg)
 
-<center>1. 
-Biografía
-de Javier Cercas.</center>
+<center>1. Biografía
+de Javier Cercas.
 
-<center>2.  Por qué leer 
+
+2.  Por qué leer 
 la trilogía Terra Alta?
 
 3.    Personaje
