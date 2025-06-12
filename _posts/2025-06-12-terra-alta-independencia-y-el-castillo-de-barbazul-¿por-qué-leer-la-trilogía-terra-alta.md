@@ -50,6 +50,8 @@ date: 2025-06-12T16:10:00.000Z
 
 
 
+![Mapa de Terra](/assets/img/terra-alta.-mapa.jpg)
+
 Relato clasificado como novela negra de estilo policíaco. Es policial porque va de un crimen
 sumamente violento y el cómo es el entresijo de las líneas de investigación del
 caso.
