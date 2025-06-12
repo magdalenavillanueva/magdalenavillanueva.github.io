@@ -14,7 +14,6 @@ autónoma de Extremadura, en 1962. En 1985 se licenció en Filología hispánica
 la Universidad Autónoma de Barcelona, y más tarde se doctoró en la misma
 especialidad en la Universidad de Barcelona. 
 
-
 ![](/assets/img/biografia.png)
 
 {:width="200" style="float: right"}
