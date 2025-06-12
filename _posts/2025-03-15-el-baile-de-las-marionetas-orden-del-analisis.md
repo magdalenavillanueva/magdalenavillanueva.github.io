@@ -14,18 +14,17 @@ date: 2025-03-15T19:08:00.000Z
 
 
 3. Personajes principales: Rafael Celaya Iturgáiz/Édouard Lombard. 
-
-   Personajes cercanos a Rafael: 
+4. Personajes cercanos a Rafael: 
       Victoria Eugenia Blanco/María de los Santos
       Cifuentes,  Iñaki Rodríguez Uramburu  y Joaquín/Lucien Hévin
+5. Personajes secundarios.
+6. Personajes históricos.
+7. Hechos históricos que les tocó vivir a los  personajes  de El baile de las     marionetas.
+8.   Ambiente físico.   
 
-   Personajes secundarios.
+\    
 
-\    Personajes históricos.
-
-\    Hechos históricos que les tocó vivir a los  personajes  de El baile de las     marionetas.
-
-   4.  Ambiente físico.
+   
 
 
 
