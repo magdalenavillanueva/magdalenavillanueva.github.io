@@ -8,43 +8,34 @@ date: 2025-06-11T20:10:00.000Z
 ---
 ![](/assets/img/banner.jpg)
 
-
 <center>1. Biografía
 de Javier Cercas.
+</center>
 
 
 
-2.  Por qué leer 
-la trilogía Terra Alta?
+<center>2.  Por qué leer 
+la trilogía Terra Alta?</center>
 
+<center>3.    Personaje
+principal:  Melchor Marín.</center> 
 
-3.    Personaje
-principal:  Melchor Marín. 
+<center>3.1. Melchor Marín, el hilo conductor  de la trilogía.</center>
 
+<center>3.2.  Personajes cercanos  a  Melchor
+Marín.</center>
 
-3.1. Melchor Marín, el hilo conductor  de la trilogía.
+<center>3.3.  La importancia de *Los
+Miserables*  en la  vida 
+de   Melchor Marín.</center>
 
+<center>3.4.La Literatura leída por  Melchor Marín. </center>      
 
-3.2.  Personajes cercanos  a  Melchor
-Marín. 
+<center>4.  Personajes
+secundarios.</center>
 
+<center>5.     Hechos
+históricos que rodean la trama.</center>
 
-3.3.  La importancia de *Los
-Miserables*  en la  
-vida 
-de   Melchor Marín.
-
-
-3.4.La Literatura leída por  Melchor Marín.       
-
-
-4.  Personajes
-secundarios.
-
-
-5.     Hechos
-históricos que rodean la trama.
-
-
-6.        Ambiente
+<center>6.        Ambiente
 físico.</center>
