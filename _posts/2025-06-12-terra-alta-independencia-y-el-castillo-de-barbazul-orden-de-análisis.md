@@ -25,8 +25,8 @@ principal:  Melchor Marín.</center>
 <center>3.2.  Personajes cercanos  a  Melchor
 Marín.</center>
 
-<center>3.3.  La importancia de *Los
-Miserables*  en la  vida 
+<center>3.3.  La importancia de \*Los
+Miserables\*  en la  vida 
 de   Melchor Marín.</center>
 
 <center>3.4.La Literatura leída por  Melchor Marín. </center>      
