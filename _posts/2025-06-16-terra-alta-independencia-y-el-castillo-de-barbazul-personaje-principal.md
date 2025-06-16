@@ -34,6 +34,10 @@ ubicada en la calle Travessera, muy cerca de la carretera de Esplugues, y le asi
 que llegó de Barcelona cuatro años atrás, con un oscuro pasado a cuestas que le ha convertido en una leyenda del cuerpo y que cree haber enterrado a sus casi treinta años bajo su vida feliz como marido de la bibliotecaria del pueblo y padre de una niña llamada Cosette, igual que la hija de Jean Valjean, el protagonista de su novela favorita: *Los miserables*. 
 
 Melchor Marín siempre  se identificó con Javert, un personaje de la novela de Victor Hugo, hasta el punto de estudiar para ser policía con el objetivo de vengar la muerte de su madre Rosario, un caso  que 
+
+
+![lectura](/assets/img/leer-libros-dificiles.jpg)
+
 quedó sin resolver.  Y decide actuar como Javert  al elegir sus propias reglas por encima de las reglas comunes: ´´Javert, atónito después de que Jean Valjean le haya rescatado de la barricada de la Chanvrerie y haya renunciado a ejecutarlo como se había comprometido a hacer, deja escapar a aquel prófugo de la justicia al que lleva años persiguiendo, incapaz de detenerlo, y traiciona así el ideal rectilíneo que sostiene su vida: Javert renuncia a cumplir con su obligación de policía dejando libre a Jean Valjean´´. *Terra Alta I* 
 
 Y, al final, estudió biblioteconomía en la Universitat Oberta de Catalunya.  Al anunciarse la apertura de una plaza de bibliotecario en la biblioteca municipal de Gandesa  se presentó a ella. Había perdido el interés por el trabajo policial, le encantaba la tarea de bibliotecario, y cuando dejó la comisaría,  comenzó  a  trabajar en la biblioteca. Colgó el uniforme de policía para dedicarse a su pasión: la lectura  de los libros. 
