@@ -6,9 +6,11 @@ categories:
 title: "Terra alta, Independencia y El  castillo de Barbazul: Personaje Principal"
 date: 2025-06-16T19:17:00.000Z
 ---
-![Banner](/assets/img/banner.jpg)
+![alt text](/assets/img/banner.jpg)
 
-![Evolución de wlchor marin](/assets/img/evolucion-de-melchor-marin.jpg)
+
+
+![](/assets/img/evolucion-de-melchor-marin.jpg)
 
 **Melchor Marín:**   
 
@@ -38,7 +40,6 @@ ubicada en la calle Travessera, muy cerca de la carretera de Esplugues, y le asi
 que llegó de Barcelona cuatro años atrás, con un oscuro pasado a cuestas que le ha convertido en una leyenda del cuerpo y que cree haber enterrado a sus casi treinta años bajo su vida feliz como marido de la bibliotecaria del pueblo y padre de una niña llamada Cosette, igual que la hija de Jean Valjean, el protagonista de su novela favorita: *Los miserables*. 
 
 Melchor Marín siempre  se identificó con Javert, un personaje de la novela de Victor Hugo, hasta el punto de estudiar para ser policía con el objetivo de vengar la muerte de su madre Rosario, un caso  que 
-
 
 ![lectura](/assets/img/leer-libros-dificiles.jpg)
 
