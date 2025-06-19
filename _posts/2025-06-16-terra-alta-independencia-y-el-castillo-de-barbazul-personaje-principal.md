@@ -10,8 +10,6 @@ date: 2025-06-16T19:17:00.000Z
 
 
 
-![](/assets/img/evolucion-de-melchor-marin.jpg)
-
 **Melchor Marín:**   
 
 Es el protagonista indiscutible de la saga  de Javier Cercas: *Terra Alta*, *Independencia* y *El Castillo de Barbazul*. Al
