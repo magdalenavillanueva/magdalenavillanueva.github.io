@@ -31,7 +31,6 @@ Durante los tres meses siguientes preparó los exámenes de ingreso en el Instit
 
 ![](/assets/img/policia.jpg)
 
-
 {:width="300" style="float: right"}
 
 Estatuto de Cataluña y de la Constitución española; además, hizo cosas que no había hecho nunca, como leer cada día los periódicos, porque le dijeron que los exámenes podían incluir preguntas sobre noticias de actualidad. Los aprobó sin brillantez, le admitieron en la Escuela y dedicó otros nueve meses a asistir a clase en su sede, en Mollet del Vallès, cerca de Barcelona.  Poco después Melchor empezó sus prácticas de patrullero en Cornellà de Llobregat, otra ciudad obrera del cinturón metropolitano de Barcelona.  La comisaría estaba
