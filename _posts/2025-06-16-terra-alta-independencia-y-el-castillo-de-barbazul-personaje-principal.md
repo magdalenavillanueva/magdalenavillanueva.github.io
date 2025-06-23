@@ -52,7 +52,7 @@ en el hotel donde había reservado. Su ropa seguía ahí,  y su celular estaba 
 
 Ante todo esto, Melchor Marín, con el instinto de policía experimentado, decide  ir a  la isla para rastrear sus últimos pasos.  Descubre que Cosette fue atrapada en las redes de un millonario pervertido que la había sometido a todo tipo de aberraciones sexuales. Así decide ingresar en  la casa del  depredador desatándose un pandemonio.
 
-Melchor Marín, el hilo conductor de la trilogía: *Terra alta*, *Independencia* y *El  castillo de Barbazul*. La trilogía nos presenta a Melchor Marín, el personaje central e hilo conductor que permite seguir añadiendo matices a lo largo de estas tres obras:  *Terra alta, Independencia* y *El  castillo de Barbazul.* De hecho, Melchor Marín se convierte en el único personaje de la novela. El resto quedan muy difuminados, junto a él.  Apenas tendremos unas pinceladas de ellos, las necesarias para darle la réplica al protagonista evitando que nos  despistemos y el foco se aparte de Melchor. Tanto es así, que  se ha convertido en el protagonista de una novela titulada *Terra Alta* de Javier Cercas:   ´´—¿A que no sabes de quién es amigo Héctor? —pregunta Rosa; tras un segundo, es ella misma quien
+3.1 **Melchor Marín, el hilo conductor de la trilogía: *Terra alta*, *Independencia* y *El  castillo de Barbazul*.** La trilogía nos presenta a Melchor Marín, el personaje central e hilo conductor que permite seguir añadiendo matices a lo largo de estas tres obras:  *Terra alta, Independencia* y *El  castillo de Barbazul.* De hecho, Melchor Marín se convierte en el único personaje de la novela. El resto quedan muy difuminados, junto a él.  Apenas tendremos unas pinceladas de ellos, las necesarias para darle la réplica al protagonista evitando que nos  despistemos y el foco se aparte de Melchor. Tanto es así, que  se ha convertido en el protagonista de una novela titulada *Terra Alta* de Javier Cercas:   ´´—¿A que no sabes de quién es amigo Héctor? —pregunta Rosa; tras un segundo, es ella misma quien
 responde—: De Javier Cercas. A Melchor el nombre le suena, pero no sabe de qué. 
 —¿No te acuerdas? —prosigue Rosa—. El tipo que escribe esas novelas que hablan
 de ti. ¿Aún no las has leído?´´  *Terra Alta III.*
@@ -63,3 +63,60 @@ y el propósito ante la vida, eligiendo el para qué?.  Melchor  no se quedó 
 capacidad de solucionar. 
 
 Sin embargo, la resiliencia en Melchor no se relaciona con moralidad. Desde pequeño hasta cuando fue a rescatar a su hija, mantuvo un comportamiento agresivo ante las personas que se oponían.  Por lo tanto, fue una resiliencia por sobrevivencia, como fuerza impulsora que despunta obstáculos para protegerse sin principios morales, altruistas o de cooperación. Es  un personaje principal dentro de la trama social que brinda estabilidad familiar a costa de las interacciones pacíficas con otros. Una respuesta de confrontación y potencialmente dañina para ser ejemplo de valentía social.
+
+
+
+
+
+
+3.2 **Personajes cercanos  a  Melchor Marín:**
+
+
+
+
+
+
+
+
+**Olga Ribera:**  era morena, muy delgada, con una cara agradable y unos
+ojos oscuros, pechos pequeños,  labios carnosos y perfilados, de cuarenta
+años. Es la esposa de Melchor Marín.
+Anteriormente, estaba atrapada en unas relaciones tóxicas, violentas y fallidas. Se
+casó, pero se separó al poco tiempo. Más tarde vivió con varias  parejas. El último se llamaba Luciano Barón. Estudió Biblioteconomía en Barcelona.  Trabaja en
+la biblioteca municipal, donde conoció a Melchor. Bajo su recomendación,
+Melchor lee *El extranjero, La Peste, El doctor Zhivago, El Gatopardo, El tambor de hojalata y La vida. Instrucciones de uso.*
+
+ 
+
+**Cosette Marín Ribera**:   hija de Melchor y Olga. Era una niña
+cuando perdió a su madre. La idealizaba y a su padre lo consideraba una especie
+de héroe, mientras fue policía.  La relación con su padre fue estrechísima  en su niñez, y llevaron una vida ordenada y tranquila. Él la acompañaba cada mañana al colegio.  
+
+No era una mala estudiante, pero tampoco demasiado buena. Su primera
+lectura fue *Los miserables* en compañía de su padre. Era una buena lectora, como se observa
+en este ejemplo:  ´´así leyó, antes de cumplir los
+diecisiete años, todo Stephen King, toda Ursula K. Le Guin, todo Pere Calders,
+todo John Irving, todo Eduardo Mendoza, todo Philip K. Dick, todo Roald Dahl,
+todo Sergi Pàmies, todo Haruki Murakami´´. 
+*Terra Alta III*.
+
+Acababa de cumplir diecisiete años, cuando
+se enteró de que su madre no había muerto en un accidente, como había creído
+siempre, y faltaban sólo unos meses para que desapareciese en Pollença. El
+paseo por Mallorca, termina con su secuestro. Estuvo en casa de Rafael Mattson
+y abusaron de ella. 
+
+**Rosario Marín:**   madre de Melchor, había nacido en
+un pueblo de Jaén, llamado Escañuela, y vivió en el barrio de Sant
+Roc, en Badalona. Fue  una
+mujer hermosa, de una belleza agreste, intensa y plebeya. De joven faenaba en
+prostíbulos de las afueras de Barcelona, como el Riviera, el Sinaloa o el
+Saratoga, en Castelldefels, o como el Calipso, en Cabrera de Mar, pero su
+encanto no sobrevivió a los estragos de su oficio y la corrosión de la edad, ya
+que trabajaba en prostíbulos de las afueras de Barcelona. Nunca se lo ocultó a Melchor.  
+
+Terminó sus días violada y asesinada como si su existencia no valiese nada, como observamos en este ejemplo:
+ ´´y con  una piedra en la mano, empezó a pegar con
+ella a la mujer, le pegó en la cabeza hasta que Rosell le quitó la piedra y él
+también empezó a pegarle, y luego le pegó Vidal, al cabo de un rato, la mujer
+estaba muerta´´.  *Terra Alta II*.
