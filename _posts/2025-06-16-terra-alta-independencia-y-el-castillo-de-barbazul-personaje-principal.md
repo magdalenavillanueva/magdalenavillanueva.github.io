@@ -52,6 +52,8 @@ en el hotel donde había reservado. Su ropa seguía ahí,  y su celular estaba 
 
 Ante todo esto, Melchor Marín, con el instinto de policía experimentado, decide  ir a  la isla para rastrear sus últimos pasos.  Descubre que Cosette fue atrapada en las redes de un millonario pervertido que la había sometido a todo tipo de aberraciones sexuales. Así decide ingresar en  la casa del  depredador desatándose un pandemonio.
 
+![](/assets/img/fsmilia.png)
+
 3.1 **Melchor Marín, el hilo conductor de la trilogía: *Terra alta*, *Independencia* y *El  castillo de Barbazul*.** La trilogía nos presenta a Melchor Marín, el personaje central e hilo conductor que permite seguir añadiendo matices a lo largo de estas tres obras:  *Terra alta, Independencia* y *El  castillo de Barbazul.* De hecho, Melchor Marín se convierte en el único personaje de la novela. El resto quedan muy difuminados, junto a él.  Apenas tendremos unas pinceladas de ellos, las necesarias para darle la réplica al protagonista evitando que nos  despistemos y el foco se aparte de Melchor. Tanto es así, que  se ha convertido en el protagonista de una novela titulada *Terra Alta* de Javier Cercas:   ´´—¿A que no sabes de quién es amigo Héctor? —pregunta Rosa; tras un segundo, es ella misma quien
 responde—: De Javier Cercas. A Melchor el nombre le suena, pero no sabe de qué. 
 —¿No te acuerdas? —prosigue Rosa—. El tipo que escribe esas novelas que hablan
@@ -93,8 +95,7 @@ cuando perdió a su madre. La idealizaba y a su padre lo consideraba una especie
 de héroe, mientras fue policía.  La relación con su padre fue estrechísima  en su niñez, y llevaron una vida ordenada y tranquila. Él la acompañaba cada mañana al colegio.  
 
 No era una mala estudiante, pero tampoco demasiado buena. Su primera
-lectura fue *Los miserables* en compañía de su padre. Era una buena lectora, como se observa
-en este ejemplo:  ´´así leyó, antes de cumplir los
+lectura fue *Los miserables* en compañía de su padre. Era una buena lectora, como se observa en este ejemplo:  ´´así leyó, antes de cumplir los
 diecisiete años, todo Stephen King, toda Ursula K. Le Guin, todo Pere Calders,
 todo John Irving, todo Eduardo Mendoza, todo Philip K. Dick, todo Roald Dahl,
 todo Sergi Pàmies, todo Haruki Murakami´´. 
