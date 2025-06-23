@@ -7,7 +7,3 @@ title: "Terra alta, Independencia y El  castillo de Barbazul: Personajes secunda
 date: 2025-06-23T12:14:00.000Z
 ---
 ![alt text](/assets/img/banner.jpg)
-
-
-
-                         Melchor Marín es un excelente lector. A continuación describimos sus lecturas en la trilogía *Terra Alta*:
