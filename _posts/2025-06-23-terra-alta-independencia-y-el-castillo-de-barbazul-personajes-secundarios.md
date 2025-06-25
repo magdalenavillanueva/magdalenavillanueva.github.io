@@ -225,9 +225,7 @@ escándalo mediático el que compromete a las autoridades para que cumplan con s
 labor.  El canal Caracol, a través de su presidente, Gonzalo Córdoba, y el escritor Héctor Abad Faciolince juegan un papel clave en la resolución del crimen, al ser el canal que utiliza     Melchor Marín para publicar su investigación, como se observa en esta cita:
 ´´—He hablado con Héctor Abad —contesta Rosa—. Sólo le he dicho que a lo mejor puedo conseguir material que demuestra que Mattson es un depredador sexual. —¿Y? —Me ha asegurado que, si lo consigo, Gonzalo Córdoba estará encantado de joderle la vida a ese hijo de puta. Y él también´´.  *Terra Alta III*  de Javier Cercas. 
 
-Rosa
-le entrega a Gonzalo Córdoba, una copia del disco sustraído en la mansión de Mattson.
-La noticia se viraliza y se desata el pandemónium. El escándalo provocado por
+Rosa le entrega a Gonzalo Córdoba, una copia del disco sustraído en la mansión de Mattson. La noticia se viraliza y se desata el pandemónium. El escándalo provocado por
 la difusión de las imágenes en Caracol TV y así, el caos mediático envuelve de
 inmediato  a Mattson  cayendo su prestigio y  también su 
 credibilidad ante los crímenes sexuales cometidos en la mansión de Formentor,
@@ -235,82 +233,46 @@ como observamos en el ejemplo siguiente:  ´´El 26 de mayo de
 2035, el informativo nocturno de Caracol TV se abre con una exclusiva mundial:
 el equipo de reporteros de la cadena televisiva se halla en posesión de
 documentos que muestran al magnate y filántropo norteamericano Rafael Mattson
-realizando actividades sexuales con jóvenes menores de edad´´.    Pág.  333.   *Terra
-Alta III*  de Javier Cercas.
+realizando actividades sexuales con jóvenes menores de edad´´.     *Terra Alta III*  de Javier Cercas.
 
-La
-difusión de las imágenes en Caracol TV sorprende a Rafael Mattson en Estocolmo,
+La difusión de las imágenes en Caracol TV sorprende a Rafael Mattson en Estocolmo,
 ciudad donde tiene su sede central Loving Children, la ONG dedicada a combatir las
 enfermedades y la desnutrición infantiles en el Tercer Mundo de la que es
-fundador y  presidente.  Mattson  
-no se pone a resguardo de la justicia, ni toma la menor precaución por
-si debe sustraerse a ella; todo lo contrario: en vez de buscar refugio en un
-lugar seguro, permanece en su ciudad natal. 
-mide mal el tremendo impacto  global que han tenido esas imágenes, y no
-entiende que  su aplastante poder
-financiero no podrá protegerle. A pesar de 
-la magnitud de la alarma social creada, 
-el juez que recibe la querella, la archiva,  y  el
-volumen del escándalo se multiplica 
-y  se  desborda, 
-porque no es ya sólo el prestigio de Mattson, sino también la
-credibilidad de la justicia española,  la
-que ponen en la picota.  Esto hace que la
-situación se desborde   y  así, Rafael
-Mattson es encarcelado. 
+fundador y  presidente.  Mattson  no se pone a resguardo de la justicia, ni toma la menor precaución por si debe sustraerse a ella; todo lo contrario: en vez de buscar refugio en un
+lugar seguro, permanece en su ciudad natal. mide mal el tremendo impacto  global que han tenido esas imágenes, y no entiende que  su aplastante poder
+financiero no podrá protegerle. A pesar de la magnitud de la alarma social creada, 
+el juez que recibe la querella, la archiva,  y  el volumen del escándalo se multiplica 
+y  se  desborda, porque no es ya sólo el prestigio de Mattson, sino también la
+credibilidad de la justicia española,  la que ponen en la picota.  Esto hace que la
+situación se desborde   y  así, Rafael Mattson es encarcelado. 
 
  
 
-Matías Vallés:   periodista estrella del *Diario de Mallorca.*
+**Matías Vallés**:   periodista estrella del *Diario de Mallorca.*
 
  
 
-Benavides: enteco, de cara alargada, facciones finas y ojos
+**Benavides:** enteco, de cara alargada, facciones finas y ojos
 metálicos. Tiene una boca cavernosa y unos dientes pequeños, muy blancos y muy
-afilados.  Es sargento  de la Guardia Civil de Pollença.  Se ha convertido en  un policía corrupto que  está a sueldo de Mattson y por lo tanto,   no deja avanzar ninguna investigación que
-conduzca a Mattson, como lo dice el mismo Carrasco:  ´´Mire, aquí la única
-verdad es que esos casos no se resuelven nunca. Se archivan, se extravían, se
+afilados.  Es sargento  de la Guardia Civil de Pollença.  Se ha convertido en  un policía corrupto que  está a sueldo de Mattson y por lo tanto,   no deja avanzar ninguna investigación que conduzca a Mattson, como lo dice el mismo Carrasco:  ´´Mire, aquí la única verdad es que esos casos no se resuelven nunca. Se archivan, se extravían, se
 dejan morir. De eso no se encarga sólo Benavides, claro, en los juzgados de
-Inca le ayudan,  y mucho...´´.   Pág.  129.   *Terra Alta III* 
-de Javier Cercas. 
+Inca le ayudan,  y mucho...´´.     *Terra Alta III* de Javier Cercas. 
 
-Diana
-Roger:
- es una de las jóvenes
-que recluta chicas para Mattson. Tiene unas cuantas en toda la isla.  Fueron sus víctimas y ahora trabajan para él,  como se observa en este ejemplo:  ´´—Lo que
-le decía. —Tras unos segundos, Carrasco señala con un índice a la acompañante
-de Cosette—. Se llama Diana Roger. Es una de las conseguidoras de Mattson´´.  Pág. 
-126.   *Terra Alta III* 
-de Javier Cercas. 
+**Diana Roger**:  es una de las jóvenes que recluta chicas para Mattson. Tiene unas cuantas en toda la isla.  Fueron sus víctimas y ahora trabajan para él,  como se observa en este ejemplo:  ´´—Lo que le decía. —Tras unos segundos, Carrasco señala con un índice a la acompañante de Cosette—. Se llama Diana Roger. Es una de las conseguidoras de Mattson´´.     *Terra Alta III* de Javier Cercas. 
 
-Roser
-Pallissa:  una viejecita escuálida y
-sonriente, con el pelo blanco recogido en un moño y la voz aflautada. Es psicóloga.
+**Roser Pallissa:**  una viejecita escuálida y sonriente, con el pelo blanco recogido en un moño y la voz aflautada. Es psicóloga.
 
 
-Doctora Ibarz:  una
-mujer joven, sonriente, pequeñita y con gafas de intelectual.
+**Doctora Ibarz:**  una mujer joven, sonriente, pequeñita y con gafas de intelectual.
 
-Doctor Mercadal:  sesentón
-de modales oxonienses, con pajarita y tirantes y una melena a lo Beethoven,
-director  de la clínica, donde está
-internada Cossette en la sierra de Collserola. 
-Es un psicólogo y psiquiatra especializado en tratar pacientes que
+**Doctor Mercadal**:  sesentón de modales oxonienses, con pajarita y tirantes y una melena a lo Beethoven, director  de la clínica, donde está internada Cossette en la sierra de Collserola. Es un psicólogo y psiquiatra especializado en tratar pacientes que
 sufren depresiones y trastornos nerviosos ocasionados por accidentes, maltratos
 y traumas diversos, así como anorexia, alcoholismo y drogadicción.
 
-Ricardo Lozano:  titular
-del juzgado de instrucción número 3 de Inca y juez instructor del caso contra
-Rafael Mattson  y
-lo conducirá hasta el final.
+**Ricardo Lozano**:  titular del juzgado de instrucción número 3 de Inca y juez instructor del caso contra Rafael Mattson  y lo conducirá hasta el final.
 
-Lluís Arbeloa:  psicólogo
-especializado en tratamiento de traumas. Fue recomendado por el doctor Mercadal.
-Cossette acudía cada semana a su consulta en Tortosa.  Según 
-el doctor Mercadal:  ´´La
-ayudará a quitarse cada semana la venda y a curarse la herida hasta que
-cicatrice´´.  Pág.  315.  *Terra
-Alta III*   de Javier Cercas. 
+**Lluís Arbeloa:**  psicólogo especializado en tratamiento de traumas. Fue recomendado por el doctor Mercadal. Cossette acudía cada semana a su consulta en Tortosa.  Según 
+el doctor Mercadal:  ´´La ayudará a quitarse cada semana la venda y a curarse la herida hasta que cicatrice´´.   *Terra Alta III*   de Javier Cercas. 
 
 
 
