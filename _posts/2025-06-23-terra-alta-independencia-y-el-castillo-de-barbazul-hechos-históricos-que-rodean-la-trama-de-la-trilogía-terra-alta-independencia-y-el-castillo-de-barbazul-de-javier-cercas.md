@@ -24,6 +24,46 @@ que lo sometió la Administración.  Sin embargo,  es considerado un
 héroe por muchos en Cataluña.
 
 
+
+
+![](/assets/img/cataluña.png)
+
 Aparte del atentado de Cambrils, también se toca 
 la consulta independentista del 1 de octubre de 2017.  Terra Alta 
-tiene como  trasfondo el  proceso independentista que sacude a Cataluña.  La crisis catalana no es el tema del libro: apenas aparecen un par de pinceladas, de  la crisis de 2017, cuando el intento de los independentistas de  separar  a
+tiene como  trasfondo el  proceso independentista que sacude a Cataluña.  La crisis catalana no es el tema del libro: apenas aparecen un par de pinceladas, de  la crisis de 2017, cuando el intento de los independentistas de  separar  a Cataluña de España partió por la mitad Cataluña, como dice el mismo Javier Cercas.
+
+
+
+
+
+
+
+Melchor llega los días anteriores al  referéndum independentista
+convocado por el Gobierno de Cataluña, suspendido por el Tribunal
+Constitucional, el 7 de septiembre de 2017 y finalmente,  celebrado de manera ilegal e irregular en la comunidad autónoma española de Cataluña el 1 de octubre de 2017.  De ahí  que, se observa que el sargento Blai le dice a Melchor: ´´A tus
+compañeros solo les dije que te mandan como refuerzo durante unos meses, por lo
+del proceso independentista y tal´´.   *Terra Alta I.*  de Javier Cercas.
+
+
+
+
+
+
+![](/assets/img/la-batalla-del-efro.png)
+
+Y,  la Guerra Civil  se convierte en un telón de fondo  desde el principio de la novela.  La batalla del Ebro fue una batalla librada durante la guerra civil española. Fue la batalla en que más combatientes participaron, la más larga y una de las más sangrientas de toda la guerra. Tuvo lugar en el cauce bajo del valle del Ebro, entre la zona occidental de la
+provincia de Tarragona (Tierra Alta) y en la zona oriental de la provincia de
+Zaragoza (Mequinenza).  La ofensiva de Cataluña  se desarrolló en Cataluña entre
+diciembre de 1938 y febrero de 1939  que se saldó con la victoria de las tropas franquistas,  como se observa en este ejemplo:  ´´aquel territorio
+abrupto, yermo, inhóspito, agreste y aislado que se alargaba al sur de
+Cataluña, justo en la frontera con Aragón, del que apenas sabía que
+ochenta  años atrás, hacia el final de la guerra civil, había sido el escenario de la 
+batalla más cruenta de la historia de España´´.  *Terra Alta I* de Javier Cercas.
+
+
+
+
+
+![](/assets/img/barca-y-madrid.png)
+
+Por último, se da un hecho noticioso en el plano deportivo: el  final de la Champions entre el Barça y el Madrid, cuando se están desarrollando  los acontecimientos en la casa de Rafael Mattson
