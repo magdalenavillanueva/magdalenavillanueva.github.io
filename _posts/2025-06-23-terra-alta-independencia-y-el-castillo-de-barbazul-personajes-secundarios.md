@@ -125,16 +125,15 @@ Fue quien indujo a Ferrer a preparar los asesinatos   de los  Adell, y contra
 
 
 
-Enric Vidal:  el primer teniente de alcalde. 
+**Enric Vidal:**  el primer teniente de alcalde. 
 
  
 
-Gonzalo Rosell:  portavoz del PP  en el Ayuntamiento.
+**Gonzalo Rosell:**  portavoz del PP  en el Ayuntamiento.
 
  
 
-Daniel
-Casas:  accionista principal y propietario de varias empresas, la
+**Daniel Casas**:  accionista principal y propietario de varias empresas, la
 más  conocida de las cuales es Clave
 Barcelona, una consultora especializada en mejora de reputación, comunicación
 corporativa y asesoramiento de  empresas
@@ -143,58 +142,43 @@ amigo de Enric Vidal  y  Gonzalo Rosell  desde sus tiempos juveniles.
 
  
 
-Juan María Lomas: inspector,  jefe de los Vidal Boys.  Lo llaman Hematomas.  Es peligroso, actúa por su propia  cuenta
+**Juan María Lomas**: inspector,  jefe de los Vidal Boys.  Lo llaman Hematomas.  Es peligroso, actúa por su propia  cuenta
 y  riesgo.
 
  
 
-Virginia  Oliver:   alcaldesa  de Barcelona. Exesposa  de  Daniel Casas.  Tienen
+**Virginia  Oliver:**   alcaldesa  de Barcelona. Exesposa  de  Daniel Casas.  Tienen
 una hija. Está siendo víctima de un chantaje sexual y los Mossos d’Esquadra han abierto una
 investigación.  Es un fiel reflejo de la
 clase política, que busca el poder a cualquier precio.
 
  
 
-Enrique/Ricky
-Ramírez:  era un tipo inteligente, brillante, pero autodestructivo,
+**Enrique/Ricky Ramírez:**  era un tipo inteligente, brillante, pero autodestructivo,
 fue  compañero de carrera en Esade de  Enric Vidal,  Daniel Casas   y   Gonzalo Rosell. Les echaba la culpa de su fracaso a sus antiguos
 compañeros y a todo el mundo, menos a sí mismo. Era un hombre egoísta, que
 estaba obsesionado por su fracaso. 
 
-Grabó
-los videos del chantaje sexual que le están haciendo a la alcaldesa. Supuestamente,
-Marga Isern  le dice a Melchor Marín que:
+Grabó los videos del chantaje sexual que le están haciendo a la alcaldesa. Supuestamente, Marga Isern  le dice a Melchor Marín que:
 ´´Ricky Ramírez había conservado el vídeo después de
-grabarlo y, al morir de un fallo cardíaco 
-lo había encontrado entre sus efectos personales y le había comunicado
-el hallazgo a Hematomas´´.   Pág. 
-267.  *Terra Alta II*  de Javier
+grabarlo y, al morir de un fallo cardíaco  lo había encontrado entre sus efectos personales y le había comunicado el hallazgo a Hematomas´´.  *Terra Alta II*  de Javier
 Cercas. 
 
-Herminia Prat:  estuvo  casada
-con Ricky
-Ramírez.  Lo conoció en una empresa de alimentación y montaron juntos una empresa de paquetería. Estuvo  embarazada y perdió al bebé.  Después los médicos le dijeron que ya no
-podría tener hijos.
+**Herminia Prat:**  estuvo  casada con Ricky Ramírez.  Lo conoció en una empresa de alimentación y montaron juntos una empresa de paquetería. Estuvo  embarazada y perdió al bebé.  Después los médicos le dijeron que ya no podría tener hijos.
 Es profesora en la escuela de arte de Torroella de Montgrí, en la provincia de
 Gerona, Cataluña.
 
  
 
-Marga  Isern:  
-de unos cuarenta
-años, muy delgada, pelo pajizo. Vive en un edificio de la Ronda de Sant Antoni.
-Es confidente de Hematomas.
+**Marga  Isern**:  de unos cuarenta años, muy delgada, pelo pajizo. Vive en un edificio de la Ronda de Sant Antoni. Es confidente de Hematomas.
 
  
 
-Verónica:  es una
-mujer de treinta y tantos años, menuda, morena y vivaracha. Es la encargada de prensa del cuerpo. 
+**Verónica**:  es una mujer de treinta y tantos años, menuda, morena y vivaracha. Es la encargada de prensa del cuerpo. 
 
    
 
-Vàzquez:   un cuarentón 
-rapado, musculoso e hiperactivo, con fama de policía  rectilíneo y peleón. Es sargento  y Jefe de la Unidad de Secuestros y
-Extorsiones.
+**Vàzquez:**   un cuarentón rapado, musculoso e hiperactivo, con fama de policía  rectilíneo y peleón. Es sargento  y Jefe de la Unidad de Secuestros y Extorsiones.
 
  
 
