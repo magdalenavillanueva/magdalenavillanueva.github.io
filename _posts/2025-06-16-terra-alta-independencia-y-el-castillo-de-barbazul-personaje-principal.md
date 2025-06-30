@@ -66,19 +66,7 @@ capacidad de solucionar.
 
 Sin embargo, la resiliencia en Melchor no se relaciona con moralidad. Desde pequeño hasta cuando fue a rescatar a su hija, mantuvo un comportamiento agresivo ante las personas que se oponían.  Por lo tanto, fue una resiliencia por sobrevivencia, como fuerza impulsora que despunta obstáculos para protegerse sin principios morales, altruistas o de cooperación. Es  un personaje principal dentro de la trama social que brinda estabilidad familiar a costa de las interacciones pacíficas con otros. Una respuesta de confrontación y potencialmente dañina para ser ejemplo de valentía social.
 
-
-
-
-
-
 3.2 **Personajes cercanos  a  Melchor Marín:**
-
-
-
-
-
-
-
 
 **Olga Ribera:**  era morena, muy delgada, con una cara agradable y unos
 ojos oscuros, pechos pequeños,  labios carnosos y perfilados, de cuarenta
@@ -87,8 +75,6 @@ Anteriormente, estaba atrapada en unas relaciones tóxicas, violentas y fallidas
 casó, pero se separó al poco tiempo. Más tarde vivió con varias  parejas. El último se llamaba Luciano Barón. Estudió Biblioteconomía en Barcelona.  Trabaja en
 la biblioteca municipal, donde conoció a Melchor. Bajo su recomendación,
 Melchor lee *El extranjero, La Peste, El doctor Zhivago, El Gatopardo, El tambor de hojalata y La vida. Instrucciones de uso.*
-
- 
 
 **Cosette Marín Ribera**:   hija de Melchor y Olga. Era una niña
 cuando perdió a su madre. La idealizaba y a su padre lo consideraba una especie
