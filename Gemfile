@@ -39,3 +39,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick", "~> 1.7"
 
 gem "liquid", "~> 4.0", ">= 4.0.4"
+
+# Fix for Ruby 3.4 compatibility
+gem "bigdecimal", "~> 3.1"

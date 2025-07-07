@@ -2,7 +2,7 @@
 
 build:
 	npm install
-	sudo bundle install
+	bundle install
 
 start: 
 	bundle exec jekyll serve --livereload
