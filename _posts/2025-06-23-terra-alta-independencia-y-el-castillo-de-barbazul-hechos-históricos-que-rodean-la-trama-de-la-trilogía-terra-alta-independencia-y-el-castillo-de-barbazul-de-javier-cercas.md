@@ -1,8 +1,7 @@
 ---
 layout: single
 categories:
-  - Terra alta
-  - Independencia y El  castillo de Barbazul
+  - Terra alta, Independencia y El castillo de Barbazul
 title: "Terra alta, Independencia y El  castillo de Barbazul: Hechos históricos
   que rodean la trama  de la trilogía  Terra alta, Independencia y
   El  castillo   de Barbazul de Javier Cercas"

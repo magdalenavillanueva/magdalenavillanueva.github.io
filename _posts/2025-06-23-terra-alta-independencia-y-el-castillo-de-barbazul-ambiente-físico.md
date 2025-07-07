@@ -1,8 +1,7 @@
 ---
 layout: single
 categories:
-  - Terra alta
-  - Independencia y El  castillo de Barbazul
+  - Terra alta, Independencia y El castillo de Barbazul
 title: "Terra alta, Independencia y El  castillo de Barbazul: Ambiente físico"
 date: 2025-06-23T16:30:00.000Z
 ---

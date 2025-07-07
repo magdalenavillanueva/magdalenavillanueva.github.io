@@ -1,8 +1,7 @@
 ---
 layout: single
 categories:
-  - Terra alta
-  - Independencia y El  castillo de Barbazul
+  - Terra alta, Independencia y El castillo de Barbazul
 title: "Terra alta, Independencia y El  castillo de Barbazul: Literatura que
   aparece a lo largo de la trilogía"
 date: 2025-06-23T07:28:00.000Z

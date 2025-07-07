@@ -1,8 +1,7 @@
 ---
 layout: single
 categories:
-  - Terra alta
-  - Independencia y El  castillo de Barbazul
+  - Terra alta, Independencia y El castillo de Barbazul
 title: "Terra alta, Independencia y El  castillo de Barbazul: Orden de análisis"
 date: 2025-06-11T00:06:00.000Z
 ---
