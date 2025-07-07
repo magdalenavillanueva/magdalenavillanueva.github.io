@@ -7,11 +7,11 @@ date: 2025-06-16T19:17:00.000Z
 ---
 ![alt text](/assets/img/banner.jpg)
 
-**Melchor Marín:**   
-
 ![](/assets/img/evolucion.png)
 
-Es el protagonista indiscutible de la saga  de Javier Cercas: *Terra Alta*, *Independencia* y *El Castillo de Barbazul*. Al
+{:width="300" style="float: right"}
+
+**Melchor Marín;** Es el protagonista indiscutible de la saga  de Javier Cercas: *Terra Alta*, *Independencia* y *El Castillo de Barbazul*. Al
 principio, en *Terra Alta* I,  es un hombre que apenas llega a la treintena. Es hijo de  Rosario  Marín: 
  una  prostituta y no conoce a su padre.  Todo esto, malea a Melchor Marín,  y lo
 convierte en  un  ser desarraigado y violento, porque  desde niño, su existencia no ha sido nada fácil  al nacer en un barrio muy pobre que lo hace delincuente. Es más: las circunstancias de su adolescencia han sido 
