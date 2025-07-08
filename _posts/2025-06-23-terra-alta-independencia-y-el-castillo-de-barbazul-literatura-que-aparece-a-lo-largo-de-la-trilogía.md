@@ -24,13 +24,13 @@ Basilio* en  1878*,  El mandarín*  en 1880.  *La* *reliquia* en 1887, *Los M
 **Las ilusiones perdidas de Honoré de Balzac:**  fue un novelista francés, representante de la llamada novela realista del siglo XIX, elaboró una obra monumental, *La comedia humana*, ciclo coherente de varias decenas de novelas cuyo objetivo era describir de modo casi exhaustivo la  sociedad francesa de su tiempo para, según su famosa frase, hacerle la competencia al registro civil. Las ilusiones perdidas pertenece a su serie titulada *La comedia humana*. Fue publicada originalmente en tres partes entre 1836 y
 1843, cuyos títulos fueron: Les Deux Poètes («Los dos poetas»), Un grand homme de province à Paris («Un gran hombre de provincias en París») y Ève et David («Eva y David»). Forma parte del gran conjunto de sus estudios de costumbres, y más concretamente de sus «Escenas de la vida provinciana»
 
-![](/assets/img/charles-dickens.png)
+
+<img src="/assets/img/charles-dickens.png" alt="charles-dickens" width="400" height="300" style="float: right; margin-left: 15px;">
+
+
 
 **Historia de dos ciudades  de Charles Dickens:** esta novela histórica  narra la vida del siglo XVIII, en la época de la Revolución francesa. La historia se desarrolla en dos países: Inglaterra y  Francia,  y en las ciudades de Londres y París en la
-época de los albores de la Revolución Francesa. La primera ciudad simbolizaría
-de algún modo la paz y la tranquilidad, la vida sencilla y ordenada; mientras
-la segunda representaría la agitación, el desafío y el caos, el conflicto entre
-dos mundos en una época en la que se anuncia drásticos cambios sociales
+época de los albores de la Revolución Francesa. La primera ciudad simbolizaría de algún modo la paz y la tranquilidad, la vida sencilla y ordenada; mientrasla segunda representaría la agitación, el desafío y el caos, el conflicto entre dos mundos en una época en la que se anuncia drásticos cambios sociales
 
 **Terra Alta de Javier Cercas**:  es un escritor español, que además trabaja
 como columnista en el diario El País. Ejerció durante años como docente
