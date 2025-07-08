@@ -8,8 +8,8 @@ date: 2025-06-23T08:16:00.000Z
 ![alt text](/assets/img/banner.jpg)
 
 # **Terra Alta I:**
+<img src="/assets/img/libro-de-terra.jpg" alt="libro-de-terra" width="400" height="300" style="float: left; margin-right: 15px;">
 
-<img src="/assets/img/libro-de-terra.jpg" width="400" height="300">
 
 **Blai:**   de ojos azules,  sin pelo. Ha cumplido cuarenta y cinco años.
 Es el sargento inspector de la Terra Alta. Está casado con Glòria.
