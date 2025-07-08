@@ -41,8 +41,11 @@ Y, al final, estudió biblioteconomía en la Universitat Oberta de Catalunya.  
 
 ¿Y qué puede hacer volver a Melchor a sus andanzas? Solo la desaparición de su hija.  Al principio, cree que Cosette se ha alejado por voluntad propia, pues al enterarse la joven de que su padre le mintió sobre la muerte de su madre, ella misma le pide tiempo, distancia, silencio, soledad. Pero el instinto paternal es más fuerte que todo y Melchor tiene claro que algo malo le ha pasado.  Empieza así una investigación propia para dar con el paradero de la adolescente. Pronto, descubre que Cosette  no volvió a casa tras su estancia en Mallorca  ni durmió en el hotel donde había reservado. Su ropa seguía ahí,  y su celular estaba desconectado. 
 
-Ante todo esto, Melchor Marín, con el instinto de policía experimentado, decide  ir a  la isla para rastrear sus últimos pasos.  Descubre que Cosette fue atrapada en las redes de un millonario pervertido que la había sometido a todo tipo de aberraciones sexuales. Así decide ingresar en  la casa del  depredador desatándose un pandemonio. 
-<img src="/assets/img/fsmilia.png" alt="fsmilia" width="400" height="300" style="float: right; margin-left: 15px;">
+Ante todo esto, Melchor Marín, con el instinto de policía experimentado, decide  ir a  la isla para rastrear sus últimos pasos.  Descubre que Cosette fue atrapada en las redes de un millonario pervertido que la había sometido a todo tipo de aberraciones sexuales. Así decide ingresar en  la casa del  depredador desatándose un pandemonio.
+
+
+ <img src="/assets/img/fsmilia.png" alt="Pfsmilia" width="400" height="300" style="float: left; margin-right: 15px;">
+
 
 3.1 **Melchor Marín, el hilo conductor de la trilogía: *Terra alta*, *Independencia* y *El  castillo de Barbazul*.** La trilogía nos presenta a Melchor Marín, el personaje central e hilo conductor que permite seguir añadiendo matices a lo largo de estas tres obras:  *Terra alta, Independencia* y *El  castillo de Barbazul.* De hecho, Melchor Marín se convierte en el único personaje de la novela. El resto quedan muy difuminados, junto a él.  Apenas tendremos unas pinceladas de ellos, las necesarias para darle la réplica al protagonista evitando que nos  despistemos y el foco se aparte de Melchor. Tanto es así, que  se ha convertido en el protagonista de una novela titulada *Terra Alta* de Javier Cercas:   ´´—¿A que no sabes de quién es amigo Héctor? —pregunta Rosa; tras un segundo, es ella misma quien
 responde—: De Javier Cercas. A Melchor el nombre le suena, pero no sabe de qué. 
