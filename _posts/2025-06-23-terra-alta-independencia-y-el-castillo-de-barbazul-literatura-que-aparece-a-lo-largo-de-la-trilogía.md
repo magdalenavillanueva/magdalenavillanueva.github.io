@@ -45,14 +45,13 @@ Basilio* en  1878*,  El mandarín*  en 1880.  *La* *reliquia* en 1887, *Los M
 
 
 
-![](/assets/img/boris-pasternak.png)
+
+<img src="/assets/img/boris-pasternak.png" alt="boris-pasternak" width="400" height="300" style="float: left; margin-right: 15px;">
+
 
 **Doctor Zhivago de Borís Pasternak**:  nació en el seno de una familia
-de origen judío-ucraniano.​ Su padre fue el destacado pintor post-impresionista
-Leonid Pasternak, profesor en la escuela de pintura de  Moscú, amigo del joven
-Rilke; por otro lado, su madre, Rosa Kaufman, fue una famosa concertista de
-piano. Borís tenía un hermano, llamado Aleksandr (arquitecto), y dos hermanas,
-llamadas Lydia y Josefina.  Según una carta de Leonid Pasternak a Jaim Najman Biálik escrita en 1923 los Pasternak descendían de Isaac Abravanel.
+de origen judío-ucraniano.​ Su padre fue el destacado pintor post-impresionista Leonid Pasternak, profesor en la escuela de pintura de  Moscú, amigo del joven Rilke; por otro lado, su madre, Rosa Kaufman, fue una famosa concertista de piano. Borís tenía un hermano, llamado Aleksandr (arquitecto), y dos hermanas, llamadas Lydia y Josefina.  Según una carta de Leonid Pasternak a Jaim Najman Biálik escrita en 1923 los Pasternak descendían de Isaac Abravanel.
+
 
 **Niños sabios  de  Angela Carter:** nació en Eastbourne, en el
 condado de Sussex, al sur de Inglaterra. Sus obras más conocidas  suelen considerarse como pertenecientes a la literatura fantástica. Sus innovadores procedimientos
