@@ -35,8 +35,7 @@ ubicada en la calle Travessera, muy cerca de la carretera de Esplugues, y le asi
 que llegó de Barcelona cuatro años atrás, con un oscuro pasado a cuestas que le ha convertido en una leyenda del cuerpo y que cree haber enterrado a sus casi treinta años bajo su vida feliz como marido de la bibliotecaria del pueblo y padre de una niña llamada Cosette, igual que la hija de Jean Valjean, el protagonista de su novela favorita: *Los miserables*. 
 
 Melchor Marín siempre  se identificó con Javert, un personaje de la novela de Victor Hugo, hasta el punto de estudiar para ser policía con el objetivo de vengar la muerte de su madre Rosario, un caso  que 
-
-![lectura](/assets/img/leer-libros-dificiles.jpg)
+<img src="/assets/img/leer-libros-dificiles.jpg" width="400" height="300">
 
 quedó sin resolver.  Y decide actuar como Javert  al elegir sus propias reglas por encima de las reglas comunes: ´´Javert, atónito después de que Jean Valjean le haya rescatado de la barricada de la Chanvrerie y haya renunciado a ejecutarlo como se había comprometido a hacer, deja escapar a aquel prófugo de la justicia al que lleva años persiguiendo, incapaz de detenerlo, y traiciona así el ideal rectilíneo que sostiene su vida: Javert renuncia a cumplir con su obligación de policía dejando libre a Jean Valjean´´. *Terra Alta I* 
 
@@ -46,8 +45,8 @@ Y, al final, estudió biblioteconomía en la Universitat Oberta de Catalunya.  
 en el hotel donde había reservado. Su ropa seguía ahí,  y su celular estaba desconectado. 
 
 Ante todo esto, Melchor Marín, con el instinto de policía experimentado, decide  ir a  la isla para rastrear sus últimos pasos.  Descubre que Cosette fue atrapada en las redes de un millonario pervertido que la había sometido a todo tipo de aberraciones sexuales. Así decide ingresar en  la casa del  depredador desatándose un pandemonio.
+<img src="/assets/img/fsmilia.png" width="400" height="300">
 
-![](/assets/img/fsmilia.png)
 
 3.1 **Melchor Marín, el hilo conductor de la trilogía: *Terra alta*, *Independencia* y *El  castillo de Barbazul*.** La trilogía nos presenta a Melchor Marín, el personaje central e hilo conductor que permite seguir añadiendo matices a lo largo de estas tres obras:  *Terra alta, Independencia* y *El  castillo de Barbazul.* De hecho, Melchor Marín se convierte en el único personaje de la novela. El resto quedan muy difuminados, junto a él.  Apenas tendremos unas pinceladas de ellos, las necesarias para darle la réplica al protagonista evitando que nos  despistemos y el foco se aparte de Melchor. Tanto es así, que  se ha convertido en el protagonista de una novela titulada *Terra Alta* de Javier Cercas:   ´´—¿A que no sabes de quién es amigo Héctor? —pregunta Rosa; tras un segundo, es ella misma quien
 responde—: De Javier Cercas. A Melchor el nombre le suena, pero no sabe de qué. 
