@@ -77,14 +77,10 @@ Junto con *La vuelta al mundo en 80 días*, representó el mayor éxito comercia
 
 En plena invasión tártara de Rusia, un correo del zar se ve obligado a atravesar Siberia para advertir al hermano del zar de los planes del traidor Ogareff, a la vez que debe evitar ser reconocido por su madre y ha de esconder sus sentimientos hacia una joven a la que conoce durante el trayecto.
 
-![](/assets/img/la-vida-instrucciones-de-uso.png)
 
-**La vida. Instrucciones de uso   de  Georges Perec:**   es una novela del escritor
-francés Georges Perec, publicada en 1978. Se trata de la obra más ambiciosa del
-autor. Sin ser una novela de consumo masivo, ha sido traducida a numerosos 
-idiomas y se considera una obra maestra​ y de culto. En Francia es reconocida
-como uno de los  mejores libros del siglo XX. El mismo año de
-su publicación, su autor recibió por esta obra el Premio Médicis.  La novela está dedicada a la memoria de Raymond Queneau,​ cofundador del grupo Oulipo, en el cual Perec desarrolló su pasión por los juegos de palabras, lipogramas, anagramas y puzles
+<img src="/assets/img/la-vida-instrucciones-de-uso.png" alt="la-vida-instrucciones-de-uso" width="400" height="300" style="float: left; margin-right: 15px;">
+**La vida. Instrucciones de uso   de  Georges Perec:**   es una novela del escritor francés Georges Perec, publicada en 1978. Se trata de la obra más ambiciosa del autor. Sin ser una novela de consumo masivo, ha sido traducida a numerosos  idiomas y se considera una obra maestra​ y de culto. En Francia es reconocida como uno de los  mejores libros del siglo XX. El mismo año de su publicación, su autor recibió por esta obra el Premio Médicis.  La novela está dedicada a la memoria de Raymond Queneau,​ cofundador del grupo Oulipo, en el cual Perec desarrolló su pasión por los juegos de palabras, lipogramas, anagramas y puzles
+
 
 **El extranjero  de Albert Camus**:   es una novela publicada en
 1942, la primera del escritor francés Albert Camus. El extranjero suele 
