@@ -56,7 +56,8 @@ Bassani. En 1959 obtuvo el Premio Strega, y en 1963 Luchino Visconti la adaptó.
 El gatopardo narra las vivencias de Don Fabrizio
 Corbera, Príncipe de Salina, y su familia, entre 1860 y 1910, en Sicilia. 
 
-![](/assets/img/los-hijos-del-capitan-rant.png)
+
+<img src="/assets/img/los-hijos-del-capitan-rant.png" alt="los-hijos-del-capitan-rant" width="400" height="300" style="float: right; margin-left: 15px;">
 
 **Los hijos del capitán Grant de Julio Verne:**   es una novela geográfica 
 del escritor Julio Verne. Publicada por entregas en la revista Magasin
