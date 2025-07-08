@@ -6,7 +6,7 @@ title: "Terra alta, Independencia y El  castillo de Barbazul: Biografía de
   Javier Cercas"
 date: 2025-06-11T20:10:00.000Z
 ---
-![Banner](/assets/img/banner.jpg)
+![](/assets/img/banner.jpg)
 
 Nació en Ibahernando, Cáceres, de la comunidad
 autónoma de Extremadura, en 1962. En 1985 se licenció en Filología hispánica en
