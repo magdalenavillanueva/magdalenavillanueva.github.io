@@ -12,6 +12,8 @@ Nació en Ibahernando, Cáceres, de la comunidad
 autónoma de Extremadura, en 1962. En 1985 se licenció en Filología hispánica en
 la Universidad Autónoma de Barcelona, y más tarde se doctoró en la misma
 especialidad en la Universidad de Barcelona. 
+
+
 <img src="/assets/img/foto-del-escritor.png" alt="Fotografía del escritor" width="75%">
 
 
