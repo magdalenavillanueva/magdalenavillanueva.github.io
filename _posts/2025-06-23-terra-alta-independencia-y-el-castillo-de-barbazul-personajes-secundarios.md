@@ -146,6 +146,7 @@ Gerona, Cataluña.
 
 **Vàzquez:**   un cuarentón rapado, musculoso e hiperactivo, con fama de policía  rectilíneo y peleón. Es sargento  y Jefe de la Unidad de Secuestros y Extorsiones.
 
+![libro final](/assets/img/libro-final.jpg)
 
 # Terra Alta III:
 
@@ -220,3 +221,5 @@ y traumas diversos, así como anorexia, alcoholismo y drogadicción.
 
 **Lluís Arbeloa:**  psicólogo especializado en tratamiento de traumas. Fue recomendado por el doctor Mercadal. Cossette acudía cada semana a su consulta en Tortosa.  Según 
 el doctor Mercadal:  ´´La ayudará a quitarse cada semana la venda y a curarse la herida hasta que cicatrice´´.   *Terra Alta III*   de Javier Cercas.
+
+![]()
