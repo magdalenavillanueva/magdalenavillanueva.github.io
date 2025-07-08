@@ -12,14 +12,11 @@ Nació en Ibahernando, Cáceres, de la comunidad
 autónoma de Extremadura, en 1962. En 1985 se licenció en Filología hispánica en
 la Universidad Autónoma de Barcelona, y más tarde se doctoró en la misma
 especialidad en la Universidad de Barcelona. 
-
-
-<img src="/assets/img/foto-del-escritor.png" alt="Fotografía del escritor" width="75%">
-
-
 Trabajó durante dos años en la Universidad de Illinois en Urbana, ​
 época en que escribió su primera novela.​ Desde 1989, comenzó a ejercer como
-profesor de literatura española en la Universidad de Gerona
+profesor de literatura española en la Universidad de Gerona. <img src="/assets/img/foto-del-escritor.png" alt="Fotografía del escritor" width="75%">
+
+
 
 Su obra se caracteriza por la mezcla de géneros literarios, el uso de la  novela testimonio y la mezcla de crónica y ensayo con ficción.  Para el escritor,
 toda novela es autobiográfica, si bien además debe conllevar una catarsis, una
@@ -41,9 +38,6 @@ obtuvo el Premio Nacional de Narrativa 2010 y el Premio Terenci Moix de
 Ensayo.   A esta le siguió *Las leyes de la frontera* (2012), *El impostor* (2014) y *El monarca de las sombras* (2017),  donde el autor ha mantenido un fuerte interés
 por los períodos históricos de la Guerra Civil  y la Transición española posterior al Franquismo. 
 
-<img src="/assets/img/libro-de-terra.jpg" alt="libro-de-terra" width="75%">
-
-
-Recibió el Premio Planeta 2019 por *Terra Alta*, que da inicio a una trilogía policíaca, completada con *Independencia* (2021) y *El castillo de Barbazul* (2022).  En 2025, publicó *El loco de Dios en el fin del mundo*, una novela de no ficción que
+<img src="/assets/img/libro-de-terra.jpg" alt="libro-de-terra" width="75%"> Recibió el Premio Planeta 2019 por *Terra Alta*, que da inicio a una trilogía policíaca, completada con *Independencia* (2021) y *El castillo de Barbazul* (2022).  En 2025, publicó *El loco de Dios en el fin del mundo*, una novela de no ficción que
 recoge su experiencia acompañando al Papa Francisco en un viaje apostólico a
 Mongolia en 2023.
