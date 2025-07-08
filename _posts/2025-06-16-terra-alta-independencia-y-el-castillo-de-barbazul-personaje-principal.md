@@ -26,10 +26,8 @@ del tercer grado penitenciario, lo que significaba que únicamente debía dormir
 
 Durante los tres meses siguientes preparó los exámenes de ingreso en el Institut de Seguretat Pública, la escuela de policía. Se empapó de las leyes básicas, del código de circulación, del Código Civil y del Código Penal, del 
 
-![](/assets/img/policia.jpg)
 
-{:width="300" style="float: right"}
-
+<img src="/assets/img/policia.jpg" width="400" height="300">
 Estatuto de Cataluña y de la Constitución española; además, hizo cosas que no había hecho nunca, como leer cada día los periódicos, porque le dijeron que los exámenes podían incluir preguntas sobre noticias de actualidad. Los aprobó sin brillantez, le admitieron en la Escuela y dedicó otros nueve meses a asistir a clase en su sede, en Mollet del Vallès, cerca de Barcelona.  Poco después Melchor empezó sus prácticas de patrullero en Cornellà de Llobregat, otra ciudad obrera del cinturón metropolitano de Barcelona.  La comisaría estaba
 ubicada en la calle Travessera, muy cerca de la carretera de Esplugues, y le asignaron a  Vicente Bigara como compañero.  Además, era su guía en  sus primeros pasos profesionales.  Después de  Cornellà  lo destinaron  a Nou Barris.
 
