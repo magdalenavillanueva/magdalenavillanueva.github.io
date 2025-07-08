@@ -7,17 +7,9 @@ date: 2025-06-23T08:16:00.000Z
 ---
 ![alt text](/assets/img/banner.jpg)
 
-
-
-
-
-
 # **Terra Alta I:**
 
 <img src="/assets/img/libro-de-terra.jpg" width="400" height="300">
-
-
-
 
 **Blai:**   de ojos azules,  sin pelo. Ha cumplido cuarenta y cinco años.
 Es el sargento inspector de la Terra Alta. Está casado con Glòria.
@@ -51,11 +43,7 @@ reputado despacho de arquitectura, Pere Chimal Arquitectos, imparte clases como
 profesor asociado en la Universidad de Lérida y en la Politécnica, amigo de  Domingo
 Vivales.
 
- 
-
 **Chicho Campà**:  miope, alto, desaliñado y corpulento.  Es un solterón impenitente y homosexual secreto. Catedrático de Ciencias Políticas  en la Universidad Autónoma de Barcelona, es el otro amigo de  Domingo Vivales.
-
- 
 
 **Albert Ferrer:**  estudió Empresariales, yerno de los Adell. 
 Condenado por inducción al asesinato del matrimonio Adell y su criada
@@ -115,22 +103,13 @@ y labios sin carne, papada abacial, conserva un tórax poderoso, manos
 artríticas.  De la cintura para abajo, su apariencia es la de un hombre frágil, disminuido: rodillas pálidas, enfermizas y afiladas, y unos pies tan pequeños que parecen incapaces de sostener su cuerpo. Tiene no menos de ochenta años. 
 Fue quien indujo a Ferrer a preparar los asesinatos   de los  Adell, y contrató a los asesinos
 
-# 
-
 <img src="/assets/img/libro-2.jpg" width="250" height="300">
 
 # **Terra Alta II**
 
-
-
-
 **Enric Vidal:**  el primer teniente de alcalde. 
 
- 
-
 **Gonzalo Rosell:**  portavoz del PP  en el Ayuntamiento.
-
- 
 
 **Daniel Casas**:  accionista principal y propietario de varias empresas, la
 más  conocida de las cuales es Clave
@@ -139,19 +118,13 @@ corporativa y asesoramiento de  empresas
 privadas del sector tecnológico.  Es
 amigo de Enric Vidal  y  Gonzalo Rosell  desde sus tiempos juveniles. 
 
- 
-
 **Juan María Lomas**: inspector,  jefe de los Vidal Boys.  Lo llaman Hematomas.  Es peligroso, actúa por su propia  cuenta
 y  riesgo.
-
- 
 
 **Virginia  Oliver:**   alcaldesa  de Barcelona. Exesposa  de  Daniel Casas.  Tienen
 una hija. Está siendo víctima de un chantaje sexual y los Mossos d’Esquadra han abierto una
 investigación.  Es un fiel reflejo de la
 clase política, que busca el poder a cualquier precio.
-
- 
 
 **Enrique/Ricky Ramírez:**  era un tipo inteligente, brillante, pero autodestructivo,
 fue  compañero de carrera en Esade de  Enric Vidal,  Daniel Casas   y   Gonzalo Rosell. Les echaba la culpa de su fracaso a sus antiguos
@@ -167,29 +140,14 @@ Cercas.
 Es profesora en la escuela de arte de Torroella de Montgrí, en la provincia de
 Gerona, Cataluña.
 
- 
-
 **Marga  Isern**:  de unos cuarenta años, muy delgada, pelo pajizo. Vive en un edificio de la Ronda de Sant Antoni. Es confidente de Hematomas.
-
- 
 
 **Verónica**:  es una mujer de treinta y tantos años, menuda, morena y vivaracha. Es la encargada de prensa del cuerpo. 
 
-   
-
 **Vàzquez:**   un cuarentón rapado, musculoso e hiperactivo, con fama de policía  rectilíneo y peleón. Es sargento  y Jefe de la Unidad de Secuestros y Extorsiones.
 
- 
 
-# 
-
-
-
-# Terra Alta II:
-
-
-
-
+# Terra Alta III:
 
 **Damián Carrasco:**  físicamente está bien, conserva un poco de
 pelo, de pectorales duros y vientre plano, de brazos poderosos, hombros
@@ -206,7 +164,7 @@ Salve, en Bilbao, donde permanece otros tres años antes de ser designado a la j
 **Biel March**:   alto y desgarbado, con  una barba grisácea y descuidada.
 Amigo de  Damián Carrasco.
 
-Rafael Mattson:  es un multimillonario de origen sueco, financiero, magnate,  filántropo. Su poder lo ha   convertido en un persona  sin escrúpulos y blindado por la corrupción policial y judicial que ejerce en la isla.  Hasta ahora, tiene todas las
+**Rafael Mattson**:  es un multimillonario de origen sueco, financiero, magnate,  filántropo. Su poder lo ha   convertido en un persona  sin escrúpulos y blindado por la corrupción policial y judicial que ejerce en la isla.  Hasta ahora, tiene todas las
 cartas a su favor para seguir haciendo e imponiendo su voluntad. 
 
 Bajo este escenario, Melchor Marín no se hace de la vista gorda,  ante
@@ -240,11 +198,7 @@ y  se  desborda, porque no es ya sólo el prestigio de Mattson, sino también
 credibilidad de la justicia española,  la que ponen en la picota.  Esto hace que la
 situación se desborde   y  así, Rafael Mattson es encarcelado. 
 
- 
-
 **Matías Vallés**:   periodista estrella del *Diario de Mallorca.*
-
- 
 
 **Benavides:** enteco, de cara alargada, facciones finas y ojos
 metálicos. Tiene una boca cavernosa y unos dientes pequeños, muy blancos y muy
@@ -256,7 +210,6 @@ Inca le ayudan,  y mucho...´´.     *Terra Alta III* de Javier Cercas.
 
 **Roser Pallissa:**  una viejecita escuálida y sonriente, con el pelo blanco recogido en un moño y la voz aflautada. Es psicóloga.
 
-
 **Doctora Ibarz:**  una mujer joven, sonriente, pequeñita y con gafas de intelectual.
 
 **Doctor Mercadal**:  sesentón de modales oxonienses, con pajarita y tirantes y una melena a lo Beethoven, director  de la clínica, donde está internada Cossette en la sierra de Collserola. Es un psicólogo y psiquiatra especializado en tratar pacientes que
@@ -266,52 +219,4 @@ y traumas diversos, así como anorexia, alcoholismo y drogadicción.
 **Ricardo Lozano**:  titular del juzgado de instrucción número 3 de Inca y juez instructor del caso contra Rafael Mattson  y lo conducirá hasta el final.
 
 **Lluís Arbeloa:**  psicólogo especializado en tratamiento de traumas. Fue recomendado por el doctor Mercadal. Cossette acudía cada semana a su consulta en Tortosa.  Según 
-el doctor Mercadal:  ´´La ayudará a quitarse cada semana la venda y a curarse la herida hasta que cicatrice´´.   *Terra Alta III*   de Javier Cercas. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
+el doctor Mercadal:  ´´La ayudará a quitarse cada semana la venda y a curarse la herida hasta que cicatrice´´.   *Terra Alta III*   de Javier Cercas.
