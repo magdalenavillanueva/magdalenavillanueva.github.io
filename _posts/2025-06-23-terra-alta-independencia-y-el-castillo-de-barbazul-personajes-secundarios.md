@@ -117,7 +117,7 @@ Fue quien indujo a Ferrer a preparar los asesinatos   de los  Adell, y contra
 
 # 
 
-<img src="/assets/img/libro-2.jpg" width="400" height="300">
+<img src="/assets/img/libro-2.jpg" width="250" height="300">
 
 # **Terra Alta II**
 
