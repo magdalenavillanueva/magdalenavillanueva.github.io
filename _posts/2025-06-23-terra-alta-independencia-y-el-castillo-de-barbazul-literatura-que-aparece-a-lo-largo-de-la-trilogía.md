@@ -42,14 +42,13 @@ Basilio* en  1878*,  El mandarín*  en 1880.  *La* *reliquia* en 1887, *Los M
 **Doctor Zhivago de Borís Pasternak**:  nació en el seno de una familia
 de origen judío-ucraniano.​ Su padre fue el destacado pintor post-impresionista Leonid Pasternak, profesor en la escuela de pintura de  Moscú, amigo del joven Rilke; por otro lado, su madre, Rosa Kaufman, fue una famosa concertista de piano. Borís tenía un hermano, llamado Aleksandr (arquitecto), y dos hermanas, llamadas Lydia y Josefina.  Según una carta de Leonid Pasternak a Jaim Najman Biálik escrita en 1923 los Pasternak descendían de Isaac Abravanel.
 
-![](/assets/img/angwla-carter.png)
+
+<img src="/assets/img/angwla-carter.png" alt="angwla-carter" width="400" height="300" style="float: right; margin-left: 15px;">
+
 
 **Niños sabios  de  Angela Carter:** nació en Eastbourne, en el
 condado de Sussex, al sur de Inglaterra. Sus obras más conocidas  suelen considerarse como pertenecientes a la literatura fantástica. Sus innovadores procedimientos
-narrativos y sus frecuentes referencias intertextuales la relacionan con el
-postmodernismo anglosajón. Gran conocedora de la lengua y la literatura
-francesas, existe en su obra una importante deuda con el surrealismo, así como con
-autores franceses como Sade o Bataille.
+narrativos y sus frecuentes referencias intertextuales la relacionan con el postmodernismo anglosajón. Gran conocedora de la lengua y la literatura francesas, existe en su obra una importante deuda con el surrealismo, así como con autores franceses como Sade o Bataille.
 
 **El Gatopardo de Giuseppe Tomasi di Lampedusa:**  es una novela escrita por Giuseppe Tomasi di Lampedusa, entre finales de 1954 y 1957. Rechazada en un principio por las editoriales Einaudi y  Mondadori, fue publicada  póstumamente por la
 editorial de  Giangiacomo Feltrinelli con prólogo de Giorgio
