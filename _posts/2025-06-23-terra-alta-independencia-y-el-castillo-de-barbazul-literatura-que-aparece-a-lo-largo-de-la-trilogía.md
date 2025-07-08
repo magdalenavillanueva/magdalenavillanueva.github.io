@@ -16,10 +16,10 @@ Melchor Marín es un excelente lector. A continuación describimos sus lecturas 
 
 <img src="/assets/img/jose-maria-de-eca.png" alt="jose-maria-de-eca" width="400" height="300" style="float: right; margin-left: 15px;">
 
-
 **La ilustre Casa de Ramires de José María de Eça de Queirós:**  fue un escritor y diplomático portugués, considerado por muchos el mejor realista de su país en el siglo XIX. Entre varias novelas suyas de reconocida importancia destacan: *El misterio de la carretera de  Sintra*, en 1870, *El crimen del padre Amaro* en 1875,  *El primo
 Basilio* en  1878*,  El mandarín*  en 1880.  *La* *reliquia* en 1887, *Los Maia* en 1888,  *La ilustre casa de Ramires* en 1900, *La ciudad y las sierras* en 1901, *La capital*  en 1925,  *El conde de Abranhos* en 1925, *Alves y Compañía*  en 1925 y  *La tragedia de la calle de las Flores* en 1980.
 
+![](/assets/img/honore-de-balzac.png)
 
 **Las ilusiones perdidas de Honoré de Balzac:**  fue un novelista francés, representante de la llamada novela realista del siglo XIX, elaboró una obra monumental, *La comedia humana*, ciclo coherente de varias decenas de novelas cuyo objetivo era describir de modo casi exhaustivo la  sociedad francesa de su tiempo para, según su famosa frase, hacerle la competencia al registro civil. Las ilusiones perdidas pertenece a su serie titulada *La comedia humana*. Fue publicada originalmente en tres partes entre 1836 y
 1843, cuyos títulos fueron: Les Deux Poètes («Los dos poetas»), Un grand homme
