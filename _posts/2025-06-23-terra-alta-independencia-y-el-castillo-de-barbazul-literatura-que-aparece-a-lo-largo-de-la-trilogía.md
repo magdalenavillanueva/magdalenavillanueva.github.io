@@ -86,7 +86,8 @@ En plena invasión tártara de Rusia, un correo del zar se ve obligado a atraves
 
 
 
-![](/assets/img/albert-camus.png)
+
+
 
 **El extranjero  de Albert Camus**:   es una novela publicada en
 1942, la primera del escritor francés Albert Camus. El extranjero suele 
