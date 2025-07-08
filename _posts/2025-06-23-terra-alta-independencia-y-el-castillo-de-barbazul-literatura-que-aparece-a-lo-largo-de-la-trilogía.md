@@ -48,7 +48,10 @@ de origen judío-ucraniano.​ Su padre fue el destacado pintor post-impresionis
 condado de Sussex, al sur de Inglaterra. Sus obras más conocidas  suelen considerarse como pertenecientes a la literatura fantástica. Sus innovadores procedimientos
 narrativos y sus frecuentes referencias intertextuales la relacionan con el postmodernismo anglosajón. Gran conocedora de la lengua y la literatura francesas, existe en su obra una importante deuda con el surrealismo, así como con autores franceses como Sade o Bataille.
 
-![](/assets/img/giúseppe-tomasi.png)
+
+
+<img src="/assets/img/giúseppe-tomasi.png" alt="giúseppe-tomasi" width="400" height="300" style="float: left; margin-right: 15px;">
+
 
 **El Gatopardo de Giuseppe Tomasi di Lampedusa:**  es una novela escrita por Giuseppe Tomasi di Lampedusa, entre finales de 1954 y 1957. Rechazada en un principio por las editoriales Einaudi y  Mondadori, fue publicada  póstumamente por la
 editorial de  Giangiacomo Feltrinelli con prólogo de Giorgio
