@@ -10,10 +10,11 @@ date: 2025-06-23T07:28:00.000Z
 
 Melchor Marín es un excelente lector. A continuación describimos sus lecturas en la trilogía *Terra Alta*:
 
-
 <img src="/assets/img/victor-hugo.png" alt="victor-hugo" width="400" height="300" style="float: left; margin-right: 15px;">
 
 **Los miserables de Víctor Hugo:** es una novela del poeta y escritor  francés Victor Hugo publicada en 1862, considerada como una de las obras más importantes del siglo XIX. La novela, de estilo romántico, plantea por medio de su argumento una discusión sobre el bien y el mal, sobre la ley, la política, la ética, la justicia y la religión.  El  autor confesó que se inspiró en Vidocq, criminal francés que se redimió y acabó inaugurando la Policía Nacional francesa,  para crear a los dos protagonistas y que la historia de su país le había inspirado para situar el contexto histórico. Por ese motivo, los personajes viven la Rebelión de Junio (1832) y los posteriores cambios políticos. Además, el autor analiza los estereotipos de aquel momento y muestra su oposición a la pena de muerte. En su núcleo, al fin, la novela sirve como una defensa de los oprimidos sea cual sea el lugar o situación sociohistórica que vivan.
+
+![](/assets/img/jose-maria-de-eca.png)
 
 **La ilustre Casa de Ramires de José María de Eça de Queirós:**  fue un escritor y diplomático portugués, considerado por muchos el mejor realista de su país en el siglo XIX. Entre varias novelas suyas de reconocida importancia destacan: *El misterio de la carretera de  Sintra*, en 1870, *El crimen del padre Amaro* en 1875,  *El primo
 Basilio* en  1878*,  El mandarín*  en 1880.  *La* *reliquia* en 1887, *Los Maia* en 1888,  *La ilustre casa de Ramires* en 1900, *La ciudad y las sierras* en 1901, *La capital*  en 1925,  *El conde de Abranhos* en 1925, *Alves y Compañía*  en 1925 y  *La tragedia de la calle de las Flores* en 1980.
@@ -51,7 +52,6 @@ Leonid Pasternak, profesor en la escuela de pintura de  Moscú, amigo del joven
 Rilke; por otro lado, su madre, Rosa Kaufman, fue una famosa concertista de
 piano. Borís tenía un hermano, llamado Aleksandr (arquitecto), y dos hermanas,
 llamadas Lydia y Josefina.  Según una carta de Leonid Pasternak a Jaim Najman Biálik escrita en 1923 los Pasternak descendían de Isaac Abravanel.
-
 
 **Niños sabios  de  Angela Carter:** nació en Eastbourne, en el
 condado de Sussex, al sur de Inglaterra. Sus obras más conocidas  suelen considerarse como pertenecientes a la literatura fantástica. Sus innovadores procedimientos
