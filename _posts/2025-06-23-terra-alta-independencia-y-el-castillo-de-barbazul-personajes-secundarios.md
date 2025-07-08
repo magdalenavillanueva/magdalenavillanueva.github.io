@@ -146,7 +146,8 @@ Gerona, Cataluña.
 
 **Vàzquez:**   un cuarentón rapado, musculoso e hiperactivo, con fama de policía  rectilíneo y peleón. Es sargento  y Jefe de la Unidad de Secuestros y Extorsiones.
 
-![libro final](/assets/img/libro-final.jpg)
+
+<img src="/assets/img/libro-final.jpg" alt="libro-final" width="200" height="300" style="float: left; margin-right: 15px;">
 
 # Terra Alta III:
 
