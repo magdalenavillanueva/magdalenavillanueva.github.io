@@ -14,10 +14,7 @@ date: 2025-06-23T08:16:00.000Z
 
 # **Terra Alta I:**
 
-![](/assets/img/libro-de-terra.jpg)
-
-
-
+<img src="/assets/img/libro-de-terra.jpg" width="400" height="300">
 
 
 
@@ -120,8 +117,7 @@ Fue quien indujo a Ferrer a preparar los asesinatos   de los  Adell, y contra
 
 # 
 
-
-![](/assets/img/libro-2.jpg)
+<img src="/assets/img/libro-2.jpg" width="400" height="300">
 
 # **Terra Alta II**
 
@@ -187,8 +183,7 @@ Gerona, Cataluña.
 
 # 
 
-
-![](/assets/img/libro-3.jpg)
+<img src="/assets/img/libro-3" width="400" height="300">
 
 # Terra Alta II:
 
@@ -275,7 +270,7 @@ el doctor Mercadal:  ´´La ayudará a quitarse cada semana la venda y a curars
 
 
 
-# 
+
 
 
 
