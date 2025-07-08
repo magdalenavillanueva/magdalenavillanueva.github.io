@@ -2,7 +2,8 @@
 layout: single
 categories:
   - Terra alta, Independencia y El castillo de Barbazul
-title: "Terra alta, Independencia y El castillo de Barbazul: ¿Por qué leer la trilogía Terra Alta? "
+title: "Terra alta, Independencia y El castillo de Barbazul: ¿Por qué leer la
+  trilogía Terra Alta? "
 date: 2025-06-12T16:10:00.000Z
 ---
 ![Banner](/assets/img/banner.jpg)
@@ -62,8 +63,8 @@ principios policiales, aunque es un héroe ambiguo, contradictorio, violento y l
 
 
 
+<img src="/assets/img/terra-alta.-mapa.jpg" alt="Mapa de Terra Alta" height="300">
 
-![mapa de Terra](/assets/img/terra-alta.-mapa.jpg)
 
 La apacible comarca de Terra Alta se sacude   ante un crimen terrible: un matrimonio de
 ancianos. Son los propietarios de Gráficas Adell, reconocidos empresarios del
@@ -98,13 +99,7 @@ subrepticia, lo que lleva a la muerte de su mujer y a concluir el caso.
 ***Independencia:***
 
 Los acontecimientos sucedidos en Terra Alta lo hacen tomar la decisión
-de mudarse a Barcelona, no sobrelleva los hechos muy bien,  se convierte en un  padre absorto y distraído, y se distancia de su hija, aunque pasaba muchas horas con ella
-
-
-
-![Barcelona](/assets/img/barcelona.jpg)
-
-Aquí forma parte de un equipo de investigación de secuestro y extorsión      para investigar un caso delicado: alguien está chantajeando con un vídeo sexual a la alcaldesa de la ciudad  y de forma fortuita descubre quiénes causaron la muerte de su madre. El equipo de secuestro es desintegrado. Entre esos descubrimientos que se observan al concluir las investigaciones es la consideración, para bien o para mal, que las élites económicas subyugan el poder político y se mantienen en el poder comprando conciencias y así manejar los poderes para su propio beneficio.
+de mudarse a Barcelona, no sobrelleva los hechos muy bien,  se convierte en un  padre absorto y distraído, y se distancia de su hija, <img src="/assets/img/barcelona.jpg" alt="Barcelona" width="400">aunque pasaba muchas horas con ella.  Aquí forma parte de un equipo de investigación de secuestro y extorsión para investigar un caso delicado: alguien está chantajeando con un vídeo sexual a la alcaldesa de la ciudad  y de forma fortuita descubre quiénes causaron la muerte de su madre. El equipo de secuestro es desintegrado. Entre esos descubrimientos que se observan al concluir las investigaciones es la consideración, para bien o para mal, que las élites económicas subyugan el poder político y se mantienen en el poder comprando conciencias y así manejar los poderes para su propio beneficio.
 
 
 
@@ -114,10 +109,7 @@ Aquí forma parte de un equipo de investigación de secuestro y extorsión   �
 ***El castillo de barbazul:***
 
 
-En este tercer libro encontramos a un Melchor que se retiró de la policía y se convierte en bibliotecario. Su hija Cosette ya es una señorita que un día se entera cómo y por qué murió su mamá y esta verdad la toma como una deslealtad de su padre por no decírselo y decide irse a Mallorca.
-
-![Mallorca](/assets/img/mallorca.jpg)
-
+En este tercer libro encontramos a un Melchor que se retiró de la policía y se convierte en bibliotecario. Su hija Cosette ya es una señorita que un día se entera cómo y por qué murió su mamá y esta verdad la toma como una deslealtad de su padre por no decírselo y decide irse a Mallorca.<img src="/assets/img/mallorca.jpg" alt="Barcelona" width="400">
 Hay dos líneas en la historia, la de Cosette que habla de sus
 reflexiones antes de ser secuestrada y después de ser abusada sexualmente. La
 otra línea es como  Melchor inicia su búsqueda, cómo descubre una red de secuestro de jóvenes y cómo lleva a cabo su venganza.      
