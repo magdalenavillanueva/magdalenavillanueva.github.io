@@ -56,7 +56,6 @@ Bassani. En 1959 obtuvo el Premio Strega, y en 1963 Luchino Visconti la adaptó.
 El gatopardo narra las vivencias de Don Fabrizio
 Corbera, Príncipe de Salina, y su familia, entre 1860 y 1910, en Sicilia. 
 
-
 <img src="/assets/img/los-hijos-del-capitan-rant.png" alt="los-hijos-del-capitan-rant" width="400" height="300" style="float: right; margin-left: 15px;">
 
 **Los hijos del capitán Grant de Julio Verne:**   es una novela geográfica 
@@ -69,6 +68,8 @@ Con la excusa de la búsqueda del náufrago, en donde los hijos del capitán rea
 especie de telemaquia, Verne hace dar a los protagonistas otra vuelta al mundo,
 esta vez por el hemisferio austral. El punto de partida de la historia, como en
 el *Viaje al centro de la Tierra*, es el desciframiento de un documento que dará origen al viaje.
+
+![](/assets/img/miguel-strogoff.png)
 
 **Miguel Strogoff  de Julio Verne**:  es una novela del escritor francés Julio Verne.  Publicada en la Magasin d’Education et de Récréation del 1 de enero (volumen 23, número 265) al 15 de diciembre de 1876 (volumen 24, número 288) y publicada en dos tomos simultáneamente (14 de agosto y 6 de noviembre de 1876) y como un volumen doble el 13 de noviembre del mismo año (donde incluía el cuento "Un drama en México").
 
