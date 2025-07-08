@@ -183,7 +183,7 @@ Gerona, Cataluña.
 
 # 
 
-<img src="/assets/img/libro-3" width="400" height="300">
+
 
 # Terra Alta II:
 
