@@ -31,16 +31,21 @@ Basilio* en  1878*,  El mandarín*  en 1880.  *La* *reliquia* en 1887, *Los M
 
 <img src="/assets/img/javier-cercas.png" alt="javier-cercas" width="400" height="300" style="float: left; margin-right: 15px;">
 
-**Terra Alta de Javier Cercas**:  es un escritor español, que además trabaja como columnista en el diario El País. Ejerció durante años como docente universitario de filología.  A partir de su exitosa novela *Soldados de Salamina* (2001), su obra ha sido traducida en más de veinte países​ y a más de treinta idiomas. En 2019 publica la novela del género policíaco *Terra Alta*. Tras el éxito de *Terra Alta*, en 2021  publica *Independencia* y en 2022  publica *El castillo de Barbazul*
+**Terra Alta de Javier Cercas**:  es un escritor español, que además trabaja como columnista en el diario El País. Ejerció durante años como docente universitario de filología.  A partir de su exitosa novela *Soldados de Salamina* (2001), su obra ha sido traducida en más de veinte países​ y a más de treinta idiomas. En 2019 publica la novela del género policíaco *Terra Alta*. Tras el éxito de *Terra Alta*, en 2021  publica *Independencia* y en 2022  publica *El castillo de Barbazul.*
+
+
+
+
 
 
 
 <img src="/assets/img/iván-turguénev.png" alt="iván-turguénev" width="400" height="300" style="float: right; margin-left: 15px;">
 
+**Iván Turguénev**:  fue un escritor, novelista y dramaturgo, considerado el más europeísta de los narradores rusos del siglo XIX. Fue miembro correspondiente de la Academia Imperial de Ciencias en la categoría de lengua y literatura rusas (1860), doctor honorífico de la Universidad de Oxford (1879) y miembro honorífico de la Universidad Imperial de Moscú (1880). Entre sus obras están  *Humo*  (1867), *En vísperas* (1860), *Nido de hidalgos*  (1859)*, Relatos de un cazador* (1852)*.*
 
 
-**Iván Turguénev**:  fue un escritor, novelista y dramaturgo,
-considerado el más europeísta de los narradores rusos del siglo XIX. Fue miembro correspondiente de la Academia Imperial de Ciencias en la categoría de lengua y literatura rusas (1860), doctor honorífico de la Universidad de Oxford (1879) y miembro honorífico de la Universidad Imperial de Moscú (1880). Entre sus obras están  *Humo*  (1867), *En vísperas* (1860), *Nido de hidalgos*  (1859)*, Relatos de un cazador* (1852)*.*
+
+![](/assets/img/boris-pasternak.png)
 
 **Doctor Zhivago de Borís Pasternak**:  nació en el seno de una familia
 de origen judío-ucraniano.​ Su padre fue el destacado pintor post-impresionista
