@@ -69,15 +69,15 @@ especie de telemaquia, Verne hace dar a los protagonistas otra vuelta al mundo,
 esta vez por el hemisferio austral. El punto de partida de la historia, como en
 el *Viaje al centro de la Tierra*, es el desciframiento de un documento que dará origen al viaje.
 
-
 <img src="/assets/img/miguel-strogoff.png" alt="miguel-strogoff" width="400" height="300" style="float: left; margin-right: 15px;">
-
 
 **Miguel Strogoff  de Julio Verne**:  es una novela del escritor francés Julio Verne.  Publicada en la Magasin d’Education et de Récréation del 1 de enero (volumen 23, número 265) al 15 de diciembre de 1876 (volumen 24, número 288) y publicada en dos tomos simultáneamente (14 de agosto y 6 de noviembre de 1876) y como un volumen doble el 13 de noviembre del mismo año (donde incluía el cuento "Un drama en México").
 
 Junto con *La vuelta al mundo en 80 días*, representó el mayor éxito comercial de Julio Verne, ya que fue rápidamente llevada al teatro y fue un éxito de ventas.
 
 En plena invasión tártara de Rusia, un correo del zar se ve obligado a atravesar Siberia para advertir al hermano del zar de los planes del traidor Ogareff, a la vez que debe evitar ser reconocido por su madre y ha de esconder sus sentimientos hacia una joven a la que conoce durante el trayecto.
+
+![](/assets/img/la-vida-instrucciones-de-uso.png)
 
 **La vida. Instrucciones de uso   de  Georges Perec:**   es una novela del escritor
 francés Georges Perec, publicada en 1978. Se trata de la obra más ambiciosa del
