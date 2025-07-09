@@ -81,7 +81,7 @@ En plena invasión tártara de Rusia, un correo del zar se ve obligado a atraves
 
 **La vida. Instrucciones de uso   de  Georges Perec**:   es una novela del escritor francés Georges Perec, publicada en 1978. Se trata de la obra más ambiciosa del autor. Sin ser una novela de consumo masivo, ha sido traducida a numerosos  idiomas y se considera una obra maestra​ y de culto. En Francia es reconocida como uno de los  mejores libros del siglo XX. El mismo año de su publicación, su autor recibió por esta obra el Premio Médicis.  La novela está dedicada a la memoria de Raymond Queneau,​ cofundador del grupo Oulipo, en el cual Perec desarrolló su pasión por los juegos de palabras, lipogramas, anagramas y puzles.
 
-![]()
+![](/assets/img/albert-camus.png)
 
 **El extranjero  de Albert Camus**:   es una novela publicada en
 1942, la primera del escritor francés Albert Camus. El extranjero suele 
