@@ -93,7 +93,9 @@ lo que debería ser su propio entorno.  
 
 
 
-![](/assets/img/gunter-grass.png)
+
+<img src="/assets/img/gunter-grass.png" alt="gunter-grass " width="400" height="300" style="float: right; margin-left: 15px;">
+
 
 **El tambor de hojalata  de Günter Grass**:  es una novela escrita por el premio Nobel alemán Günter Grass, publicada en 1959. Sus páginas relatan la vida de Oscar Matzerath, 
 un niño que vive durante la época de la Segunda Guerra Mundial (1939 - 1945), en
