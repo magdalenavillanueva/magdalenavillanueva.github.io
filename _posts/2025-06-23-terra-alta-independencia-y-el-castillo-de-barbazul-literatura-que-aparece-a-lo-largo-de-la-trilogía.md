@@ -81,7 +81,8 @@ En plena invasión tártara de Rusia, un correo del zar se ve obligado a atraves
 
 **La vida. Instrucciones de uso   de  Georges Perec**:   es una novela del escritor francés Georges Perec, publicada en 1978. Se trata de la obra más ambiciosa del autor. Sin ser una novela de consumo masivo, ha sido traducida a numerosos  idiomas y se considera una obra maestra​ y de culto. En Francia es reconocida como uno de los  mejores libros del siglo XX. El mismo año de su publicación, su autor recibió por esta obra el Premio Médicis.  La novela está dedicada a la memoria de Raymond Queneau,​ cofundador del grupo Oulipo, en el cual Perec desarrolló su pasión por los juegos de palabras, lipogramas, anagramas y puzles.
 
-![](/assets/img/albert-camus.png)
+
+<img src="/assets/img/albert-camus.png " alt=" albert-camus " width="400" height="300" style="float: right; margin-left: 15px;">
 
 **El extranjero  de Albert Camus**:   es una novela publicada en
 1942, la primera del escritor francés Albert Camus. El extranjero suele 
@@ -90,6 +91,7 @@ se distanció de esta última etiqueta. El protagonista,  Meursault, es
 un francés argelino indiferente a la realidad que le rodea por resultarle
 absurda e inabordable, por lo cual se constituye en un «extranjero» dentro de
 lo que debería ser su propio entorno.   
+
 
 **El tambor de hojalata  de Günter Grass**:  es una novela escrita por el premio Nobel alemán Günter Grass, publicada en 1959. Sus páginas relatan la vida de Oscar Matzerath, 
 un niño que vive durante la época de la Segunda Guerra Mundial (1939 - 1945), en
