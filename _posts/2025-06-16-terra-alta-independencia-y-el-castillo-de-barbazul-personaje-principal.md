@@ -5,8 +5,8 @@ categories:
 title: "Terra alta, Independencia y El  castillo de Barbazul: Personaje Principal"
 date: 2025-06-16T19:17:00.000Z
 ---
-![alt text](/assets/img/banner.jpg)
 
+<img src="/assets/img/banner.jpg" width="700" height="300">
 <img src="/assets/img/evolucion.png" width="700" height="300">
 
 **Melchor Marín;** Es el protagonista indiscutible de la saga  de Javier Cercas: *Terra Alta*, *Independencia* y *El Castillo de Barbazul*. Al principio, en *Terra Alta* I,  es un hombre que apenas llega a la treintena. Es hijo de  Rosario  Marín: 
