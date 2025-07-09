@@ -7,7 +7,7 @@ title: "Terra alta, Independencia y El  castillo de Barbazul: Hechos históricos
   El  castillo   de Barbazul de Javier Cercas"
 date: 2025-06-23T08:20:00.000Z
 ---
-![alt text](/assets/img/banner.jpg)
+<img src="/assets/img/banner.jpg" width="700" height="200">
 
 El 17 de agosto del 2017, horas después de que  Youness Abouyaaqoub arrollará a más de cien personas en la Rambla de Barcelona –mató a 14 de ellas–, cinco yihadistas integrantes de la misma célula de Ripoll que Youness, atacaron el paseo marítimo de 
 
