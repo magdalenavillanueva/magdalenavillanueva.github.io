@@ -29,7 +29,7 @@ del proceso independentista y tal´´.   *Terra Alta I.*  de Javier Cercas.
 
 ![](/assets/img/cataluña.png)
 
-<img src="/assets/img/ubicacion-de-terra-alta.png" alt="ubicacion-de-terra-alta" width="400" height="300" style="float: right; margin-left: 15px;">
+<img src="/assets/img/cataluña.png" alt="cataluña" width="400" height="300" style="float: right; margin-left: 15px;">
 
 Y,  la Guerra Civil  se convierte en un telón de fondo  desde el principio de la novela.  La batalla del Ebro fue una batalla librada durante la guerra civil española. Fue la batalla en que más combatientes participaron, la más larga y una de las más sangrientas de toda la guerra. Tuvo lugar en el cauce bajo del valle del Ebro, entre la zona occidental de la provincia de Tarragona (Tierra Alta) y en la zona oriental de la provincia de
 Zaragoza (Mequinenza).  La ofensiva de Cataluña  se desarrolló en Cataluña entre
