@@ -5,7 +5,7 @@ categories:
 title: "Terra alta, Independencia y El  castillo de Barbazul: Personajes secundarios"
 date: 2025-06-23T08:16:00.000Z
 ---
-![alt text](/assets/img/banner.jpg)
+<img src="/assets/img/banner.jpg" width="700" height="200">
 
 # **Terra Alta I:**
 <img src="/assets/img/libro-de-terra.jpg" alt="libro-de-terra" width="400" height="300" style="float: left; margin-right: 15px;">
