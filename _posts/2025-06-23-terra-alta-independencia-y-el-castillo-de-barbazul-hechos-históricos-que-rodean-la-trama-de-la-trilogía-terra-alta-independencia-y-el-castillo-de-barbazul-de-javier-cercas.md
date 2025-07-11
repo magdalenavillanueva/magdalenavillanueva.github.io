@@ -38,5 +38,5 @@ ochenta  años atrás, hacia el final de la guerra civil, había sido el escena
 batalla más cruenta de la historia de España´´.  *Terra Alta I* de Javier Cercas.
 
 Por último, se da un hecho noticioso en el plano deportivo: el  final de la Champions entre el Barça y el Madrid, cuando se están desarrollando  los acontecimientos en la casa de Rafael Mattson.
+<img src="/assets/img/barca-y-madrid.png.png" width="700" height="200">
 
-![](/assets/img/barca-y-madrid.png)
