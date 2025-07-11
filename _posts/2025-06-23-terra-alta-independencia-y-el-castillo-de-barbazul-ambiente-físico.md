@@ -41,4 +41,4 @@ Es aquí donde discurre Terra Alta I, un lugar de belleza agreste, donde aún es
 Terra Alta II transcurre en Barcelona donde se traslada para investigar un caso:
 están chantajeando con un video sexual a Virginia  Oliver,  alcaldesa de la ciudad. Y Terra Alta III se desarrolla en  Mallorca, ciudad en que la desaparece su hija:  Cosette Marín Ribera.
 
-![](/assets/img/mallorca6.png)
+<img src="/assets/img/mallorca6.png" alt="mallorca6 " height="300">
