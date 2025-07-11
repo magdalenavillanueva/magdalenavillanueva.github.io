@@ -27,10 +27,9 @@ Constitucional, el 7 de septiembre de 2017 y finalmente,  celebrado de manera i
 compañeros solo les dije que te mandan como refuerzo durante unos meses, por lo
 del proceso independentista y tal´´.   *Terra Alta I.*  de Javier Cercas.
 
-![](/assets/img/ubicacion-de-terra-alta.png)
+<img src="/assets/img/ubicacion-de-terra-alta.png" alt="ubicacion-de-terra-alta" width="400" height="300" style="float: right; margin-left: 15px;">
 
-Y,  la Guerra Civil  se convierte en un telón de fondo  desde el principio de la novela.  La batalla del Ebro fue una batalla librada durante la guerra civil española. Fue la batalla en que más combatientes participaron, la más larga y una de las más sangrientas de toda la guerra. Tuvo lugar en el cauce bajo del valle del Ebro, entre la zona occidental de la
-provincia de Tarragona (Tierra Alta) y en la zona oriental de la provincia de
+Y,  la Guerra Civil  se convierte en un telón de fondo  desde el principio de la novela.  La batalla del Ebro fue una batalla librada durante la guerra civil española. Fue la batalla en que más combatientes participaron, la más larga y una de las más sangrientas de toda la guerra. Tuvo lugar en el cauce bajo del valle del Ebro, entre la zona occidental de la provincia de Tarragona (Tierra Alta) y en la zona oriental de la provincia de
 Zaragoza (Mequinenza).  La ofensiva de Cataluña  se desarrolló en Cataluña entre
 diciembre de 1938 y febrero de 1939  que se saldó con la victoria de las tropas franquistas,  como se observa en este ejemplo:  ´´aquel territorio
 abrupto, yermo, inhóspito, agreste y aislado que se alargaba al sur de
@@ -38,4 +37,6 @@ Cataluña, justo en la frontera con Aragón, del que apenas sabía que
 ochenta  años atrás, hacia el final de la guerra civil, había sido el escenario de la 
 batalla más cruenta de la historia de España´´.  *Terra Alta I* de Javier Cercas.
 
-Por último, se da un hecho noticioso en el plano deportivo: el  final de la Champions entre el Barça y el Madrid, cuando se están desarrollando  los acontecimientos en la casa de Rafael Mattson
+Por último, se da un hecho noticioso en el plano deportivo: el  final de la Champions entre el Barça y el Madrid, cuando se están desarrollando  los acontecimientos en la casa de Rafael Mattson.
+
+![](/assets/img/barca-y-madrid.png)
