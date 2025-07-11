@@ -8,15 +8,19 @@ date: 2025-06-11T20:10:00.000Z
 ---
 <img src="/assets/img/banner.jpg" width="700" height="200">
 
+
+
+
+
 Nació en Ibahernando, Cáceres, de la comunidad
 autónoma de Extremadura, en 1962. En 1985 se licenció en Filología hispánica en
 la Universidad Autónoma de Barcelona, y más tarde se doctoró en la misma
 especialidad en la Universidad de Barcelona. 
 Trabajó durante dos años en la Universidad de Illinois en Urbana, ​
 época en que escribió su primera novela.​ Desde 1989, comenzó a ejercer como
-profesor de literatura española en la Universidad de Gerona. <img src="/assets/img/foto-del-escritor.png" alt="Fotografía del escritor" width="75%">
+profesor de literatura española en la Universidad de Gerona. 
 
-
+<img src="/assets/img/foto-del-escritor.png" alt="Fotografía del escritor" width="75%">
 
 Su obra se caracteriza por la mezcla de géneros literarios, el uso de la  novela testimonio y la mezcla de crónica y ensayo con ficción.  Para el escritor,
 toda novela es autobiográfica, si bien además debe conllevar una catarsis, una
