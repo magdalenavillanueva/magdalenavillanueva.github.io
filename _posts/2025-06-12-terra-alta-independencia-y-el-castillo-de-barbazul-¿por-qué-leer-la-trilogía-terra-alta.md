@@ -6,7 +6,7 @@ title: "Terra alta, Independencia y El castillo de Barbazul: ¿Por qué leer la
   trilogía Terra Alta? "
 date: 2025-06-12T16:10:00.000Z
 ---
-![Banner](/assets/img/banner.jpg)
+<img src="/assets/img/banner.jpg" width="700" height="200">
 
 > ## Por qué leer la trilogía Terra Alta? …Intriga absorbente… ¿La Transformación hacia la libertad?  O estará por siempre encadenado?
 
@@ -99,7 +99,7 @@ subrepticia, lo que lleva a la muerte de su mujer y a concluir el caso.
 ***Independencia:***
 
 Los acontecimientos sucedidos en Terra Alta lo hacen tomar la decisión
-de mudarse a Barcelona, no sobrelleva los hechos muy bien,  se convierte en un  padre absorto y distraído, y se distancia de su hija, <img src="/assets/img/barcelona.jpg" alt="Barcelona" width="400">aunque pasaba muchas horas con ella.  Aquí forma parte de un equipo de investigación de secuestro y extorsión para investigar un caso delicado: alguien está chantajeando con un vídeo sexual a la alcaldesa de la ciudad  y de forma fortuita descubre quiénes causaron la muerte de su madre. El equipo de secuestro es desintegrado. Entre esos descubrimientos que se observan al concluir las investigaciones es la consideración, para bien o para mal, que las élites económicas subyugan el poder político y se mantienen en el poder comprando conciencias y así manejar los poderes para su propio beneficio.
+de mudarse a Barcelona, no sobrelleva los hechos muy bien,  se convierte en un  padre absorto y distraído, y se distancia de su hija, aunque pasaba muchas horas con ella.  Aquí forma parte de un equipo de investigación de secuestro y extorsión para investigar un caso delicado: alguien está chantajeando con un vídeo sexual a la alcaldesa de la ciudad  y de forma fortuita descubre quiénes causaron la muerte de su madre. El equipo de secuestro es desintegrado. <img src="/assets/img/barcelona.jpg" alt="Barcelona" width="400">Entre esos descubrimientos que se observan al concluir las investigaciones es la consideración, para bien o para mal, que las élites económicas subyugan el poder político y se mantienen en el poder comprando conciencias y así manejar los poderes para su propio beneficio.
 
 
 
