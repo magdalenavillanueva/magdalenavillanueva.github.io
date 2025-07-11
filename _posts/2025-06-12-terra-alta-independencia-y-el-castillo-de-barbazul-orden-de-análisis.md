@@ -5,7 +5,7 @@ categories:
 title: "Terra alta, Independencia y El  castillo de Barbazul: Orden de análisis"
 date: 2025-06-11T00:06:00.000Z
 ---
-![](/assets/img/banner.jpg)
+<img src="/assets/img/banner.jpg" width="700" height="200">
 
 <center>1. Biografía
 de Javier Cercas.
