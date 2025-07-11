@@ -15,8 +15,7 @@ date: 2025-06-11T00:06:00.000Z
 
 # **<center>3.1. Melchor Marín, el hilo conductor  de la trilogía.</center>**
 
-# **<center>3.2.  Personajes cercanos  a  Melchor
-Marín.</center>**
+# **<center>3.2.  Personajes cercanos  a  Melchor Marín.</center>**
 
 # **<center>3.3.  La importancia de \*Los Miserables\*  en la  vida de   Melchor Marín.</center>**
 
