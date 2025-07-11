@@ -21,13 +21,13 @@ héroe por muchos en Cataluña.
 
 Aparte del atentado de Cambrils, también se toca la consulta independentista del 1 de octubre de 2017.  Terra Alta  tiene como  trasfondo el  proceso independentista que sacude a Cataluña.  La crisis catalana no es el tema del libro: apenas aparecen un par de pinceladas, de  la crisis de 2017, cuando el intento de los independentistas de  separar  a Cataluña de España partió por la mitad Cataluña, como dice el mismo Javier Cercas.
 
-
-
 Melchor llega los días anteriores al  referéndum independentista
 convocado por el Gobierno de Cataluña, suspendido por el Tribunal
 Constitucional, el 7 de septiembre de 2017 y finalmente,  celebrado de manera ilegal e irregular en la comunidad autónoma española de Cataluña el 1 de octubre de 2017.  De ahí  que, se observa que el sargento Blai le dice a Melchor: ´´A tus
 compañeros solo les dije que te mandan como refuerzo durante unos meses, por lo
 del proceso independentista y tal´´.   *Terra Alta I.*  de Javier Cercas.
+
+![](/assets/img/ubicacion-de-terra-alta.png)
 
 Y,  la Guerra Civil  se convierte en un telón de fondo  desde el principio de la novela.  La batalla del Ebro fue una batalla librada durante la guerra civil española. Fue la batalla en que más combatientes participaron, la más larga y una de las más sangrientas de toda la guerra. Tuvo lugar en el cauce bajo del valle del Ebro, entre la zona occidental de la
 provincia de Tarragona (Tierra Alta) y en la zona oriental de la provincia de
