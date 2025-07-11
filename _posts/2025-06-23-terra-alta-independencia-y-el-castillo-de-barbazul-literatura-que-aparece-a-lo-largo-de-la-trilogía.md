@@ -6,7 +6,7 @@ title: "Terra alta, Independencia y El  castillo de Barbazul: Literatura que
   aparece a lo largo de la trilogía"
 date: 2025-06-23T07:28:00.000Z
 ---
-![alt text](/assets/img/banner.jpg)
+<img src="/assets/img/banner.jpg" width="700" height="200">
 
 Melchor Marín es un excelente lector. A continuación describimos sus lecturas en la trilogía *Terra Alta*:
 
@@ -101,4 +101,4 @@ lo que debería ser su propio entorno.  
 un niño que vive durante la época de la Segunda Guerra Mundial (1939 - 1945), en
 una  narración con tintes macabros e infantiles. El libro narra los momentos decisivos en la vida de Oscar, que lo llevarán, a los 29 años de edad, a ser internado en un sanatorio psiquiátrico
 
-![]()
+
