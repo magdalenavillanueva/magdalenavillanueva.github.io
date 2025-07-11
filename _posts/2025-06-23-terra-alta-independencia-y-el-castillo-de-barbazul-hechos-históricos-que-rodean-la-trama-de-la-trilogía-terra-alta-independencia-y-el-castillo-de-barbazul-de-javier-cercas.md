@@ -21,7 +21,7 @@ héroe por muchos en Cataluña.
 
 Aparte del atentado de Cambrils, también se toca la consulta independentista del 1 de octubre de 2017.  Terra Alta  tiene como  trasfondo el  proceso independentista que sacude a Cataluña.  La crisis catalana no es el tema del libro: apenas aparecen un par de pinceladas, de  la crisis de 2017, cuando el intento de los independentistas de  separar  a Cataluña de España partió por la mitad Cataluña, como dice el mismo Javier Cercas.
 
-![](/assets/img/ubicacion-de-terra-alta.png)
+
 
 Melchor llega los días anteriores al  referéndum independentista
 convocado por el Gobierno de Cataluña, suspendido por el Tribunal
