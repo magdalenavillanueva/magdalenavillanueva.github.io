@@ -11,9 +11,11 @@ date: 2025-08-05 T08:16:00.000Z
 
 ## Orden de Análisis
 
-Biografía.
 
-La Naturaleza de los Secretos.
+
+## Biografía
+
+## La Naturaleza de los secretos
 
 ## Personales Principales
 
