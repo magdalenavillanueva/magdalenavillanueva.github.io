@@ -9,12 +9,8 @@ date: 2025-08-05 T08:16:00.000Z
 
 > # Orden de Análisis
 
-## Biografía
-
-## La Naturaleza de los Secretos
-
-## Personales Principales
-
-## Personajes Secundarios
-
-## Música, Literatura, Sitios y Deporte
+* ## Biografía
+* ## La Naturaleza de los Secretos
+* ## Personales Principales
+* ## Personajes Secundarios
+* ## Música, Literatura, Sitios y Deporte
