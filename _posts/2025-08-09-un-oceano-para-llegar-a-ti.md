@@ -9,7 +9,10 @@ date: 2025-08-05 T08:16:00.000Z
 
 > # Orden de Análisis
 
-* ## Biografía
+* ## 
+  <center>**Biografía**.<center>
+
+
 * ## La Naturaleza de los Secretos
 * ## Personales Principales
 * ## Personajes Secundarios
