@@ -7,10 +7,12 @@ date: 2025-08-05 T08:16:00.000Z
 ---
 ![](/assets/img/banner-un-oceano-para-llegar-a-ti.png)
 
-> # Orden de Análisis
+> # 
+> <center>**Orden de Análisis**</center>
+>
+>
 
-* ## 
-  <center>**Biografía**.<center>
+* ## <center>**Biografía**.<center>
 
 
 * ## La Naturaleza de los Secretos
