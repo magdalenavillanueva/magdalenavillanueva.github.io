@@ -5,17 +5,23 @@ categories:
 title: "Un Océano para llegar a ti: Orden de Análisis"
 date: 2025-08-05 T08:16:00.000Z
 ---
-![](/assets/img/banner-un-oceano-para-llegar-a-ti.png)
 
-> # 
-> <center>**Orden de Análisis**</center>
+
+> ![](/assets/img/banner-un-oceano-para-llegar-a-ti.png)
+>
+> # Orden de Análisis
 >
 >
+>
+> # <center>**Biografía**.</center>
+>
+>
+>
+>
+>
+>
+> La Naturaleza de los Secretos
 
-* ## <center>**Biografía**.<center>
-
-
-* ## La Naturaleza de los Secretos
 * ## Personales Principales
 * ## Personajes Secundarios
 * ## Música, Literatura, Sitios y Deporte
