@@ -2,7 +2,7 @@
 layout: single
 categories:
   - Un Océano para llegar a ti
-title: Un Océano para llegar a ti
+title: "Un Océano para llegar a ti: Orden de Análisis"
 date: 2025-08-05 T08:16:00.000Z
 ---
 
