@@ -8,6 +8,4 @@ date: 2025-08-05 T08:16:00.000Z
 ---
 ![](/assets/img/banner-un-oceano-para-llegar-a-ti.png)
 
-
-
 ![](/assets/img/emociones-silenciadas.png)
