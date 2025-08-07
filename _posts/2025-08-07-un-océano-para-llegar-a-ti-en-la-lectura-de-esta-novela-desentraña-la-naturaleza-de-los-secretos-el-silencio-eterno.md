@@ -26,7 +26,8 @@ Todos los personajes giran en torno a la vida de Ángela, la esposa de Félix y 
 
 Los argumentos sobre su decisión se fueron descubriendo y aceptando en la medida que los familiares y amigos fueron entendiendo su pasado conjugado con su presente. Ángela puso a jugar a sus familiares el mapa del merodeador, donde va revelando los nuevos personajes y sitios no esperados.
 
-![](/assets/img/la-familia.png){:width="300" style="float: right"}Entre paisajes, cultura y sitios de una región de España, la escritora logra que el lector  se identifique con Ángela, el torbellino de sentimientos encontrados en Gabriele, la pasividad como recurso de Félix ante el secreto y el bloqueo emocional de una tía que no acepta su relación. Mientras cuestionan a Ángela, se dibuja un doble carril de cuestionamiento sobre el accionar de cada uno.  
+![](/assets/img/la-familia.png){:width="300" style="float: right"}
+Entre paisajes, cultura y sitios de una región de España, la escritora logra que el lector  se identifique con Ángela, el torbellino de sentimientos encontrados en Gabriele, la pasividad como recurso de Félix ante el secreto y el bloqueo emocional de una tía que no acepta su relación. Mientras cuestionan a Ángela, se dibuja un doble carril de cuestionamiento sobre el accionar de cada uno.  
 
 Esa relación triangular, donde comienzan a bajar las cortinas sentimentales, permite formular preguntas: ¿Todos tenemos secretos? ¿Se descubren ante de morir? ¿O quedan en el silencio?
 
