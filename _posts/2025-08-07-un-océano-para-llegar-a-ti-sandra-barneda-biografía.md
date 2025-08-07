@@ -9,7 +9,7 @@ date: 2025-08-05 T08:16:00.000Z
 
 
 
-![](/assets/img/premio-planeta-2000.png)
+![](/assets/img/premio-planeta-2000.png){:width="300" style="float: right"}
 
 Periodista, presentadora de Tv y escritora. Nace el 4 de octubre de 1975 en Barcelona, España. 
 Se graduó como Licenciada en Periodismo en la Facultad de Ciencias de la Información de la UAB. 
