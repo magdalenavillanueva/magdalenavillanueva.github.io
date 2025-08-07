@@ -3,7 +3,7 @@ layout: single
 categories:
   - Un Océano para llegar a ti
 title: "Un Océano para llegar a ti:  Sandra Barneda.  Biografía"
-date: 2025-08-05 T08:16:00.000Z
+date: 2025-08-05T04:20:00.000-04:00
 ---
 ![](/assets/img/banner-un-oceano-para-llegar-a-ti.png)
 
