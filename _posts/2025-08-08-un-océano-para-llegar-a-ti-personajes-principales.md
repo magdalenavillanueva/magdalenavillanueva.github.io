@@ -36,13 +36,21 @@ La pareja de Sole y la cocinera del Bar El Pimentón.
 
 Sastre del barrio de Salamanca de Madrid,  tenía un taller donde Ángela trabajó como diseñadora y costurera. Siempre quiso hacer contacto con Ángela para conversar sobre el hijo abandonado. Siendo una anciana de aproximadamente 90 años, Gabriele y su tía Sole se comunican con ella, la única vía para conocer al hijo de Ángela.
 
-Julio:  Diseñador de moda que fue el amante de Ángela. Tenía una familia adinerada, desde su posición de niño mimado se dedicó a hacer de su vida una libertad sin compromiso y responsabilidad. Los padres se responsabilizaron del hijo de Julio con Ángela.
+## Julio:  
 
-Paco: ex novio artista de Gabriele. 
+Diseñador de moda que fue el amante de Ángela. Tenía una familia adinerada, desde su posición de niño mimado se dedicó a hacer de su vida una libertad sin compromiso y responsabilidad. Los padres se responsabilizaron del hijo de Julio con Ángela.
 
-Amparo: amiga de Ángela y la segunda esposa del Farmacéutico. Era una mujer con una cultura budista y motivada por la amistad, se expresó en la misa funeraria de Ángela. 
+## Paco: 
 
-Fede: ex novio de Gabriele.
+Ex novio artista de Gabriele. 
+
+## Amparo: 
+
+Es la amiga de Ángela y la segunda esposa del Farmacéutico. Era una mujer con una cultura budista y motivada por la amistad, se expresó en la misa funeraria de Ángela. 
+
+## Fede:
+
+El ex novio de Gabriele.
 
 Uriel: es el hijo de Asun y Cosme. Al igual que su padre, su esposa se murió y le deja una hija llamada Cloe. Ambos se van a vivir al pueblo  de Candeleda. Ahí, comienza a cuidar caballos en un establo llamado Santuario y consigue su segundo amor: Gabriele.
 
