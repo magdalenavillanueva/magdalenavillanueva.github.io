@@ -23,13 +23,10 @@ el arte y el diseño de prendas de vestir y accesorios. Ser diseñadora, convert
 con Julio la creación de su estudio estilístico convirtiéndose en una diseñadora de moda. 
 
 
-![](/assets/img/la-llave-de-kafra.png){:width="300" style="float: left"}
-
-Cuando los estados mentales conativos se convierten en caballo de Troya, se encapsula la razón, perdiendo
+![](/assets/img/la-llave-de-kafra.png){:width="300" style="float: left"} Cuando los estados mentales conativos se convierten en caballo de Troya, se encapsula la razón, perdiendo
 el control. Ángela se dejó envolver con su nueva pareja, quedando embarazada y sola. Dos abandonos, dos amores y el silencio que no negaba lo vivido, convirtiéndose en una puerta cerrada con llave. 
 
- Al enterarse de su enfermedad, se dispuso a redactar cartas dirigidas a las tres personas más importantes de
-su vida: Gabriele, Félix y la tía Sole. El esposo estaba al tanto de la existencia, pero no de su contenido.
+ Al enterarse de su enfermedad, se dispuso a redactar cartas dirigidas a las tres personas más importantes de su vida: Gabriele, Félix y la tía Sole. El esposo estaba al tanto de la existencia, pero no de su contenido.
 
 
 Las voluntades de Greta escritas en la carta dirigidas para los tres fueron:
@@ -60,8 +57,7 @@ Las voluntades de Greta escritas en la carta dirigidas para los tres fueron:
 
 
 
-La carta dirigida a Gabriele, relató la verdad sobre la infidelidad de su madre para su padre y el hijo que
-abandonó. La tercera carta fue dirigida a Félix, su esposo. En la carta expuso su tristeza al recordar un pasado renunciado y nunca conversado con él.  Greta se cuestiona su ambición y su egoísmo ante su familia. A su vez, le escribe el abandono de su hijo prematuro, una tortura perdurable que asumió en silencio y por amor a ellos. 
+La carta dirigida a Gabriele, relató la verdad sobre la infidelidad de su madre para su padre y el hijo que abandonó. La tercera carta fue dirigida a Félix, su esposo. En la carta expuso su tristeza al recordar un pasado renunciado y nunca conversado con él.  Greta se cuestiona su ambición y su egoísmo ante su familia. A su vez, le escribe el abandono de su hijo prematuro, una tortura perdurable que asumió en silencio y por amor a ellos. 
 
 
 
