@@ -23,7 +23,7 @@ el arte y el diseño de prendas de vestir y accesorios. Ser diseñadora, convert
 con Julio la creación de su estudio estilístico convirtiéndose en una diseñadora de moda. 
 
 
-![](/assets/img/la-llave-de-kafra.png)
+![](/assets/img/la-llave-de-kafra.png){:width="300" style="float: left"}
 
 Cuando los estados mentales conativos se convierten en caballo de Troya, se encapsula la razón, perdiendo
 el control. Ángela se dejó envolver con su nueva pareja, quedando embarazada y sola. Dos abandonos, dos amores y el silencio que no negaba lo vivido, convirtiéndose en una puerta cerrada con llave. 
@@ -74,7 +74,7 @@ En  resumen, Ángela renunció a ser Diseñadora de modas y abandonar a su segu
 
  
 
-![](/assets/img/caracteristicas.png)
+![](/assets/img/caracteristicas.png){:width="300" style="float: left"}
 
 En el ámbito de salud mental: la psiquiatría, el psicoanálisis, la sociología dan respuestas. J**udith Herman, Sigmund Freud, Carl Jung, Viktor Frankl** y otros, desarrollaron laResiliencia y crecimiento postraumático, Trauma y memoria y trauma social.
 
@@ -117,4 +117,4 @@ al abandono, dificultad para el compromiso, idealización o rechazo, relaciones
 disfuncionales, baja autoestima, esquemas cognitivos negativos sobre sí mismos
 y las relaciones.
 
-![](/assets/img/el-osito.jpg)
+![](/assets/img/el-osito.jpg){:width="300" style="float: left"}
