@@ -77,3 +77,36 @@ En  resumen, Ángela renunció a ser Diseñadora de modas y abandonar a su segu
 ![](/assets/img/caracteristicas.png)
 
 En el ámbito de salud mental: la psiquiatría, el psicoanálisis, la sociología dan respuestas. J**udith Herman, Sigmund Freud, Carl Jung, Viktor Frankl** y otros, desarrollaron laResiliencia y crecimiento postraumático, Trauma y memoria y trauma social.
+
+
+
+
+
+
+
+
+## **Gabriele:**
+
+
+
+
+
+
+Es la hija mayor de Ángela y Félix, estudió arte en la escuela Massana. Vivía en
+Barcelona, haciendo de su vida una rutina de ausencias de proyectos, un vivir
+diario sin pensar, por eso se catalogaba una DEP: Disminuidos Emocionales para
+siempre. Ya con 40 años seguía sin trabajo estable.  Sus noviazgos culminaban por
+cualquier motivo, dejándola con depresión envuelta en tristeza y frustración.
+Una zombi emocional y *urban sketcher*  ( un artista que practicaba el
+dibujo in situ). Compartía apartamento con su amigo Luis que al igual, son
+inestables emocionales.
+
+Se llevaba bien con su mamá y a su papá lo juzgaba por una supuesta infidelidad como  consecuencia de verlo un día con otra mujer, sin embargo, su madre muere, viaja a Candelera, un pueblo de España, tocándole
+enfrentarse a la nueva realidad, los deseos post mortem de Ángela, el hermano negado y el resurgir del amor entre ella y Uriel.
+
+
+
+
+
+
+## Impacto de la infidelidad parental en los hijos:
