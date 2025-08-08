@@ -7,17 +7,16 @@ date: 2025-08-08T10:51:00.000-04:00
 ---
 ![](/assets/img/banner-un-oceano-para-llegar-a-ti.png)
 
-
-Félix:
+## Félix:
 
 Era el esposo de Ángela, el padre de Gabriele y el hermano de Sole.
 Trabajó en el Museo del Prado, al jubilarse se trasladó a Candeleda con su familia. Félix un hombre tranquilo, callado y lector. No le gustaba entablar conversaciones sobre la muerte, manteniéndose en sus creencias familiares y religiosas. Ante el abandono de Ángela y la frialdad de Gabriele, Félix por amor, acepta sin explicaciones reconciliarse con su esposa y la aceptación de la filosofía de vida de su hija. Un hombre respetuoso y fiel, opta por medio del silencio su posición ante las desavenencias y decisiones de los demás, sobretodo de su esposa, hija y hermana. 
 
-Tía Sole:
+## Tía Sole:
 
 La hermana de Félix es la tercera en leer y hacer cumplir las voluntades de su cuñada post mortem. Una mujer con temple en enfrentar las desavenencias, dirige un bar restaurante llamado El Pimentón. Mantenía una relación con Ana a escondidas de su familia y ciudadanos del pueblo Candeleda. Cuando muere Ángela asumió su rol de conciliadora entre Félix y Gabriele y hace de  acompañante para buscar al hermano de Gabriele en Barcelona.
 
-Luis:
+## Luis:
 
 El amigo de Gabriele, fiel al grupo de dos llamado DEP. Hombre contemporáneo, profesional exitoso y fracasado en el amor. Siempre fracasaba y compartía sus emociones con su fiel amiga. Al igual que Gabriele, estaba distanciado de su padre.  En este caso,  por su patrón conductual homosexual. Motivado a la muerte de Ángela, Luis se dirige a acompañar a Gabriele en el pueblo Candeleda. Al participar en la situación que estaba viviendo Gabriele con Félix, Luis decide conversar con su papá para darse otra oportunidad de relacionarse. Descubre las condiciones de salud de su padre, lo que hace que entienda y comprenda, reiniciando la aceptación de su padre de su condición sexual.
 
