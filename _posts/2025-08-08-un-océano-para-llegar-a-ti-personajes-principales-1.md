@@ -92,8 +92,7 @@ En el ámbito de salud mental: la psiquiatría, el psicoanálisis, la sociologí
 
 
 
-Es la hija mayor de Ángela y Félix, estudió arte en la escuela Massana. Vivía en
-Barcelona, haciendo de su vida una rutina de ausencias de proyectos, un vivir
+Es la hija mayor de Ángela y Félix, estudió arte en la escuela Massana. Vivía en Barcelona, haciendo de su vida una rutina de ausencias de proyectos, un vivir
 diario sin pensar, por eso se catalogaba una DEP: Disminuidos Emocionales para
 siempre. Ya con 40 años seguía sin trabajo estable.  Sus noviazgos culminaban por
 cualquier motivo, dejándola con depresión envuelta en tristeza y frustración.
@@ -110,3 +109,12 @@ enfrentarse a la nueva realidad, los deseos post mortem de Ángela, el hermano n
 
 
 ## Impacto de la infidelidad parental en los hijos:
+
+
+
+Siendo una niña recibe un trauma emocional ocasionando como mujer desconfianza, miedo
+al abandono, dificultad para el compromiso, idealización o rechazo, relaciones
+disfuncionales, baja autoestima, esquemas cognitivos negativos sobre sí mismos
+y las relaciones.
+
+![](/assets/img/el-osito.jpg)
