@@ -30,3 +30,50 @@ el control. Ángela se dejó envolver con su nueva pareja, quedando embarazada y
 
  Al enterarse de su enfermedad, se dispuso a redactar cartas dirigidas a las tres personas más importantes de
 su vida: Gabriele, Félix y la tía Sole. El esposo estaba al tanto de la existencia, pero no de su contenido.
+
+
+Las voluntades de Greta escritas en la carta dirigidas para los tres fueron:
+
+ 
+
+
+
+
+* a.- Solamente deben ser leídas por Gabriele, Félix y Soledad.
+
+   
+* b.- Se equivocó como madre y esposa.
+
+
+* c.- Celebrar el funeral más conveniente en el pueblo.
+
+
+* d.- En cuarenta y nueve días Félix y Gabriele deben mantener una comunicación o estar conviviendo para ayudar a su alma, de acuerdo a la religión budista.
+
+
+* e.- Esparcir las cenizas en un lugar donde hayan sido felices y libres.
+
+
+
+
+
+
+
+
+La carta dirigida a Gabriele, relató la verdad sobre la infidelidad de su madre para su padre y el hijo que
+abandonó. La tercera carta fue dirigida a Félix, su esposo. En la carta expuso su tristeza al recordar un pasado renunciado y nunca conversado con él.  Greta se cuestiona su ambición y su egoísmo ante su familia. A su vez, le escribe el abandono de su hijo prematuro, una tortura perdurable que asumió en silencio y por amor a ellos. 
+
+
+
+
+
+
+
+En  resumen, Ángela renunció a ser Diseñadora de modas y abandonar a su segundo hijo, llevando en su andar hogareño el fracaso.  Esconder un pasado de sí mismo como de los demás, trae consecuencias negativas significativas para la salud mental y bienestar. La autocritica, comunicación y la empatía se debilitan ante la culpa.
+
+
+ 
+
+![](/assets/img/caracteristicas.png)
+
+En el ámbito de salud mental: la psiquiatría, el psicoanálisis, la sociología dan respuestas. J**udith Herman, Sigmund Freud, Carl Jung, Viktor Frankl** y otros, desarrollaron laResiliencia y crecimiento postraumático, Trauma y memoria y trauma social.
