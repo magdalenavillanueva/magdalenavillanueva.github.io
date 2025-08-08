@@ -20,13 +20,21 @@ La hermana de Félix es la tercera en leer y hacer cumplir las voluntades de su 
 
 El amigo de Gabriele, fiel al grupo de dos llamado DEP. Hombre contemporáneo, profesional exitoso y fracasado en el amor. Siempre fracasaba y compartía sus emociones con su fiel amiga. Al igual que Gabriele, estaba distanciado de su padre.  En este caso,  por su patrón conductual homosexual. Motivado a la muerte de Ángela, Luis se dirige a acompañar a Gabriele en el pueblo Candeleda. Al participar en la situación que estaba viviendo Gabriele con Félix, Luis decide conversar con su papá para darse otra oportunidad de relacionarse. Descubre las condiciones de salud de su padre, lo que hace que entienda y comprenda, reiniciando la aceptación de su padre de su condición sexual.
 
-Joseph: hombre artista era el exnovio de Gabriele.
+## Joseph: 
 
-Abuela Martina: era la madre de Félix y Sole, la nuera de Ángela y la abuela de Gabriele. 
+Hombre artista era el exnovio de Gabriele.
 
-Ada:  era la pareja de Sole y la cocinera del Bar El Pimentón.
+## Abuela Martina:
 
-Lola: sastre del barrio de Salamanca de Madrid,  tenía un taller donde Ángela trabajó como diseñadora y costurera. Siempre quiso hacer contacto con Ángela para conversar sobre el hijo abandonado. Siendo una anciana de aproximadamente 90 años, Gabriele y su tía Sole se comunican con ella, la única vía para conocer al hijo de Ángela.
+Era la madre de Félix y Sole, la nuera de Ángela y la abuela de Gabriele. 
+
+## Ada: 
+
+La pareja de Sole y la cocinera del Bar El Pimentón.
+
+## Lola: 
+
+Sastre del barrio de Salamanca de Madrid,  tenía un taller donde Ángela trabajó como diseñadora y costurera. Siempre quiso hacer contacto con Ángela para conversar sobre el hijo abandonado. Siendo una anciana de aproximadamente 90 años, Gabriele y su tía Sole se comunican con ella, la única vía para conocer al hijo de Ángela.
 
 Julio:  Diseñador de moda que fue el amante de Ángela. Tenía una familia adinerada, desde su posición de niño mimado se dedicó a hacer de su vida una libertad sin compromiso y responsabilidad. Los padres se responsabilizaron del hijo de Julio con Ángela.
 
