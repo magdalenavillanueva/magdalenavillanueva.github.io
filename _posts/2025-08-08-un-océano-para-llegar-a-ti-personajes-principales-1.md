@@ -23,6 +23,8 @@ el arte y el diseño de prendas de vestir y accesorios. Ser diseñadora, convert
 con Julio la creación de su estudio estilístico convirtiéndose en una diseñadora de moda. 
 
 
+![](/assets/img/la-llave-de-kafra.png)
+
 Cuando los estados mentales conativos se convierten en caballo de Troya, se encapsula la razón, perdiendo
 el control. Ángela se dejó envolver con su nueva pareja, quedando embarazada y sola. Dos abandonos, dos amores y el silencio que no negaba lo vivido, convirtiéndose en una puerta cerrada con llave. 
 
