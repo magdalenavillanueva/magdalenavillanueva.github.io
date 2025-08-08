@@ -20,6 +20,8 @@ La hermana de Félix es la tercera en leer y hacer cumplir las voluntades de su 
 
 El amigo de Gabriele, fiel al grupo de dos llamado DEP. Hombre contemporáneo, profesional exitoso y fracasado en el amor. Siempre fracasaba y compartía sus emociones con su fiel amiga. Al igual que Gabriele, estaba distanciado de su padre.  En este caso,  por su patrón conductual homosexual. Motivado a la muerte de Ángela, Luis se dirige a acompañar a Gabriele en el pueblo Candeleda. Al participar en la situación que estaba viviendo Gabriele con Félix, Luis decide conversar con su papá para darse otra oportunidad de relacionarse. Descubre las condiciones de salud de su padre, lo que hace que entienda y comprenda, reiniciando la aceptación de su padre de su condición sexual.
 
+![](/assets/img/personajes-secundarios.png)
+
 ## Joseph: 
 
 Hombre artista era el exnovio de Gabriele.
