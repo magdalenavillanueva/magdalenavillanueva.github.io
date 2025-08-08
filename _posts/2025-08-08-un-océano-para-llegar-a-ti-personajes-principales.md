@@ -54,12 +54,22 @@ El ex novio de Gabriele.
 
 Uriel: es el hijo de Asun y Cosme. Al igual que su padre, su esposa se murió y le deja una hija llamada Cloe. Ambos se van a vivir al pueblo  de Candeleda. Ahí, comienza a cuidar caballos en un establo llamado Santuario y consigue su segundo amor: Gabriele.
 
-Asun:  La madre muerta de Uriel 
+## Asun:  
 
-Cosme: amigo de Félix y Sole. El actúa como conciliador dentro de la Familia. Tiene una pareja llamada Manuela. Ellos mantienen una relación estable y armoniosa.
+La madre muerta de Uriel 
 
-Manuela: La pareja de Cosme, una mujer hogareña.
+## Cosme: 
 
-Candela: Trabaja en el Bar El Pimentón y vive con sus padres en Candeleda.
+Amigo de Félix y Sole. El actúa como conciliador dentro de la Familia. Tiene una pareja llamada Manuela. Ellos mantienen una relación estable y armoniosa.
 
-Cloe: La hija de Uriel y la nieta de Cosme. Una preadolescente que le gustaba dibujar y conversar sobre lo que trasmitía su dibujo en relación a los sentimientos y los motivos. Creía en la presencia de su mamá muerta.
+## Manuela: 
+
+La pareja de Cosme, una mujer hogareña.
+
+## Candela: 
+
+Trabaja en el Bar El Pimentón y vive con sus padres en Candeleda.
+
+## Cloe: 
+
+La hija de Uriel y la nieta de Cosme. Una preadolescente que le gustaba dibujar y conversar sobre lo que trasmitía su dibujo en relación a los sentimientos y los motivos. Creía en la presencia de su mamá muerta.
