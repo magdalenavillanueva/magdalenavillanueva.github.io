@@ -43,24 +43,18 @@ Schubert. Su contenido fue inspirado en la lectura de un poema épico del britá
 
 ## SITIOS:
 
-
-
 **Iglesia de Nuestra Señora de la Asunción:** 
 
 Es un templo religioso de culto católico bajo el nombre mariano de Nuestra Señora de la Asunción de la localidad de Candeleda, provincia de Ávila, comunidad autónoma de Castilla y León, en España. Declarado monumento de interés cultural en el año de 1991
 
-
-
 **Lanzarote:** 
- 
+
 Pertenece al grupo de las islas Canarias frente a la costa de
 África Occidental dependientes de España. Tiene un clima cálido todo el año, playas y paisaje volcánico. El paisaje rocoso del Parque Nacional Timanfaya fue creado por erupciones volcánicas en la década de 1730. La Cueva de los Verdes tiene cavernas formadas por un río subterráneo de lava. Puerto del Carmen, un centro turístico de la costa este, cuenta con villas encaladas, playas y centros de buceo
-
 
 **Túneles de los Monegros:** 
 
 Es un canal pensado en el Plan de Riegos del Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo estaban pasando la zona de túneles de los Monegros, era la parte del trayecto con peor cobertura”.    *Un océano para llegar a ti* de Sandra Barneda
-
 
 **Candeleda:** 
 
@@ -76,7 +70,7 @@ Complejo ferroviario ubicado en las cercanías de la Plaza del Emperador Carlos
 
 **Hospital de Talavera:** 
 
-Se llama Hospital Nuestra Señora del Prado. Inaugurado el 19 de febrero de [1974]en Talavera de la Reina en España.
+Se llama Hospital Nuestra Señora del Prado. Inaugurado el 19 de febrero de \[1974]en Talavera de la Reina en España.
 
 **Glorieta de la plaza del Emperador Carlos V:** 
 
@@ -105,167 +99,24 @@ remodelación de la plaza de la Garduña.
 
 Sede en Madrid, España. Es la institución cultural más importante del país. Tiene cuadros tanto españoles como del resto de Europa entre los siglos XV y XVIII, y españoles del XIX, De acuerdo al inventario del 2017 hay más de 35000 objetos entre pinturas, dibujos, estampas, esculturas, decorativas y etc. 
 
+**Túneles de los Monegros:** 
+
+Es un canal pensado en el Plan de Riegos del Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo
+estaban pasando la zona de túneles de los Monegros, era la parte del trayecto
+con peor cobertura”.    *Un océano para llegar a ti*     de  Sandra Barneda
+
+**Talavera:** 
+
+Su nombre es Talavera de la Reina, un municipio y ciudad española de la provincia de Toledo de Castilla-La Mancha.  Ubicada al noroeste de la comunidad autónoma, la ciudad propiamente dicha se extiende por la margen derecha del río Tajo, ​ a unos 4 km al oeste de la desembocadura del río Alberche, que también se encuentra dentro del término municipal.
+
+
+
+
+
 ![](/assets/img/sitios-de-un-ocesno-para-llegar-a-ti.png)
-
-
-
-
-
-
-
 
 # Etiquetas:
 
-
-
-
 DOP: Disminuidos Emocionales para Siempre
 
-Obra de Arte:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Túneles de
-los Monegros: 
-
- 
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-Es un canal pensado
-en el Plan de Riegos del
-Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo
-estaban pasando la zona de túneles de los Monegros, era la parte del trayecto
-con peor cobertura”.  Pág. 23.  *Un
-océano para llegar a ti*     de  
-Sandra Barneda
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Talavera: 
-
- 
-
-Su nombre es Talavera de
-la Reina, un municipio y ciudad española de la provincia de Toledo de
-Castilla-La Mancha.  Ubicada al noroeste de
-la comunidad autónoma, la ciudad propiamente dicha se extiende por la margen
-derecha del río Tajo, ​ a unos 4 km al oeste de la desembocadura del río
-Alberche, que también se encuentra dentro del término municipal.
+# Obra de Arte:
