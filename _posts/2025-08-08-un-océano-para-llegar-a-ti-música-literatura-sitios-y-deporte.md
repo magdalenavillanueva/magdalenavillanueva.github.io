@@ -69,3 +69,8 @@ Schubert. Su contenido fue inspirado en la
 lectura de un poema épico del británico Walter Scott de 1810. Las canciones se
 encuentran publicadas en el opus 52. El compositor de los principios del
 Romanticismo musical y continuaba con el modelo de Ludwig van Beethoven
+
+
+
+
+![](/assets/img/musica-un-oceano-para-llegar-a-ti.png)
