@@ -105,16 +105,6 @@ remodelación de la plaza de la Garduña.
 
 Sede en Madrid, España. Es la institución cultural más importante del país. Tiene cuadros tanto españoles como del resto de Europa entre los siglos XV y XVIII, y españoles del XIX, De acuerdo al inventario del 2017 hay más de 35000 objetos entre pinturas, dibujos, estampas, esculturas, decorativas y etc. 
 
-
-
-
-
-
-
-
-
-
-
 ![](/assets/img/sitios-de-un-ocesno-para-llegar-a-ti.png)
 
 
@@ -125,10 +115,6 @@ Sede en Madrid, España. Es la institución cultural más importante del país. 
 
 
 # Etiquetas:
-
-
-
-
 
 
 
