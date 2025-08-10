@@ -45,211 +45,65 @@ Schubert. Su contenido fue inspirado en la lectura de un poema épico del britá
 
 
 
-
-
-
-
-
 **Iglesia de Nuestra Señora de la Asunción:** 
 
- 
-
-
-
-
-
- Es un templo religioso de culto católico bajo el nombre mariano de Nuestra
-Señora de la Asunción de la localidad de Candeleda, provincia
-de Ávila, comunidad autónoma de Castilla y León, en España.
-Declarado monumento de interés cultural en el año de 1991
-
-
-
-
+Es un templo religioso de culto católico bajo el nombre mariano de Nuestra Señora de la Asunción de la localidad de Candeleda, provincia de Ávila, comunidad autónoma de Castilla y León, en España. Declarado monumento de interés cultural en el año de 1991
 
 
 
 **Lanzarote:** 
-
  
-
- Pertenece al grupo de las islas Canarias frente a la costa de
-África Occidental dependientes de España. Tiene un clima cálido todo el año,
-playas y paisaje volcánico. El paisaje rocoso del Parque Nacional Timanfaya
-fue creado por erupciones volcánicas en la década de 1730. La Cueva de los
-Verdes tiene cavernas formadas por un río subterráneo de lava. Puerto del
-Carmen, un centro turístico de la costa este, cuenta con villas encaladas,
-playas y centros de buceo
-
-
-
-
-
-
+Pertenece al grupo de las islas Canarias frente a la costa de
+África Occidental dependientes de España. Tiene un clima cálido todo el año, playas y paisaje volcánico. El paisaje rocoso del Parque Nacional Timanfaya fue creado por erupciones volcánicas en la década de 1730. La Cueva de los Verdes tiene cavernas formadas por un río subterráneo de lava. Puerto del Carmen, un centro turístico de la costa este, cuenta con villas encaladas, playas y centros de buceo
 
 
 **Túneles de los Monegros:** 
 
- 
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-Es un canal pensado en el Plan de Riegos del Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo
-estaban pasando la zona de túneles de los Monegros, era la parte del trayecto
-con peor cobertura”.  Pág. 23.  *Un océano para llegar a ti*     de  Sandra Barneda
-
-
-
-
-
-
+Es un canal pensado en el Plan de Riegos del Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo estaban pasando la zona de túneles de los Monegros, era la parte del trayecto con peor cobertura”.    *Un océano para llegar a ti* de Sandra Barneda
 
 
 **Candeleda:** 
 
- 
-
- 
-
 Municipio del valle del Tiétar, sur de la provincia de Ávila, en la comunidad autónoma de Castilla y León de España. 
-
-
-
-
-
-
 
 **Bar Pimentón:** 
 
- 
-
- En el pueblo de Candeleda, existen comercios que llevan el nombre de pimentón, ya que, en la zona existen cultivos. Tienen ferias y organizan eventos para ofrecer la
-cosecha exclusiva del pueblo.  Así se llamaba el  bar que regentaba Sole.   El Pimentón era un bar sencillo, pero siempre estaba a rebosar por la comida de Ada y la gracia de la Sole. En la obra lo describen así:  ´´Apenas sesenta metros, con dos grandes cristaleras y sin demasiados lujos en la decoración´´.  Pág. 101.  *Un océano  para
-llegar a ti*     de   Sandra Barneda
-
- 
-
-
-
-
-
+En el pueblo de Candeleda, existen comercios que llevan el nombre de pimentón, ya que, en la zona existen cultivos. Tienen ferias y organizan eventos para ofrecer la cosecha exclusiva del pueblo.  Así se llamaba el  bar que regentaba Sole.   El Pimentón era un bar sencillo, pero siempre estaba a rebosar por la comida de Ada y la gracia de la Sole. En la obra lo describen así:  ´´Apenas sesenta metros, con dos grandes cristaleras y sin demasiados lujos en la decoración´´.    *Un océano  para llegar a ti* de Sandra Barneda
 
 **Estación de Atocha:** 
 
- 
-
-Complejo ferroviario ubicado en las cercanías de la Plaza del Emperador Carlos
-V, en Madrid (España).  En la obra observamos el ejemplo Después de perderse varias
-veces por los pasillos de la estación de Atocha, atrapada por los nervios, la
-angustia y las ganas de llegar, vio cómo de lejos  la saludaba con la mano su tía Sole.  Pág. 25.    de   Sandra Barneda.
-
-
-
-
-
-
-
+Complejo ferroviario ubicado en las cercanías de la Plaza del Emperador Carlos V, en Madrid (España).  En la obra observamos el ejemplo Después de perderse varias veces por los pasillos de la estación de Atocha, atrapada por los nervios, la angustia y las ganas de llegar, vio cómo de lejos  la saludaba con la mano su tía Sole.  Pág. 25.    de   Sandra Barneda.
 
 **Hospital de Talavera:** 
 
- 
-
-
-
-Se llama Hospital Nuestra Señora del Prado. Inaugurado el 19 de febrero de [1974](https://es.wikipedia.org/wiki/1974)  en Talavera de la Reina en España.
-
-
-
-
-
-
-
+Se llama Hospital Nuestra Señora del Prado. Inaugurado el 19 de febrero de [1974]en Talavera de la Reina en España.
 
 **Glorieta de la plaza del Emperador Carlos V:** 
 
- 
-
 Es una plaza de Madrid, España creada en el año 1920. En ella
-converge el paseo del Prado, las calles: Atocha, Santa Isabel. En 1941 su
-nombre era Plaza de Atocha o Glorieta de Atocha. Actualmente lleva por nombre Plaza de Atocha.
-
-
-
-
-
+converge el paseo del Prado, las calles: Atocha, Santa Isabel. En 1941 su nombre era Plaza de Atocha o Glorieta de Atocha. Actualmente lleva por nombre Plaza de Atocha.
 
 **Almanzor:** 
 
- 
-
- 
-
 Es un pico montañoso que lo citan como la Plaza del Moro
-Almanzor. Queda en la península ibérica de la sierra de Gredos. Está ubicado en
-la provincia española de Avila
-
-
-
-
-
-
-
+Almanzor. Queda en la península ibérica de la sierra de Gredos. Está ubicado en la provincia española de Avila
 
 **La Massana:**
 
 En el año de 1929 fue legado por Agusti Massana i Pujol
-para comenzar a funcionar una institución cultural, donde la enseñanza del arte
-y diseño protagonizaron en la formación de artistas de todos los niveles:
-bachillerato, formación superior, formación continua reconocidos por el
-Departamento de Educación de la Generalidad de Cataluña y la Universidad
-Autónoma de Barcelona. 
+para comenzar a funcionar una institución cultural, donde la enseñanza del arte y diseño protagonizaron en la formación de artistas de todos los niveles: bachillerato, formación superior, formación continua reconocidos por el Departamento de Educación de la Generalidad de Cataluña y la Universidad Autónoma de Barcelona. 
 
 La institución tiene nuevo edificio construida entre 2015
 y 2017 por la arquitecta Carmen Pinós como un proyecto urbanístico de
 remodelación de la plaza de la Garduña.
 
-
-
-
-
-
-
-
 **Madrid:** 
 
- 
-
-
-
-
-
-Es una ciudad principal
-de España, donde albergan las principales sedes gubernamentales. A su vez, es
-donde existe la mayor concentración de población
-
-
-
-
-
-
-
+ Es una ciudad principal de España, donde albergan las principales sedes gubernamentales. A su vez, es donde existe la mayor concentración de población
 
 **Museo del Prado:**
 
-Sede en [Madrid](https://es.wikipedia.org/wiki/Madrid), [España](https://es.wikipedia.org/wiki/Espa%C3%B1a). Es la institución cultural más importante del país. Tiene
-cuadros tanto españoles como del resto de Europa entre los siglos XV y XVIII, y
-españoles del XIX, De acuerdo al inventario del 2017 hay más de 35000 objetos
-entre pinturas, dibujos, estampas, esculturas, decorativas y etc. 
+Sede en Madrid, España. Es la institución cultural más importante del país. Tiene cuadros tanto españoles como del resto de Europa entre los siglos XV y XVIII, y españoles del XIX, De acuerdo al inventario del 2017 hay más de 35000 objetos entre pinturas, dibujos, estampas, esculturas, decorativas y etc. 
 
 
 
@@ -262,6 +116,41 @@ entre pinturas, dibujos, estampas, esculturas, decorativas y etc.
 
 
 ![](/assets/img/sitios-de-un-ocesno-para-llegar-a-ti.png)
+
+
+
+
+
+
+
+
+# Etiquetas:
+
+
+
+
+
+
+
+
+DOP: Disminuidos Emocionales para Siempre
+
+# 
+
+
+
+
+
+
+Obra de Arte:
+
+
+
+# 
+
+
+
+
 
 
 
