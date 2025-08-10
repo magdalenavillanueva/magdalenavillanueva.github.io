@@ -35,8 +35,37 @@ El compositor fue el estadounidense Henry Mancini, compositor, director de orque
 
 
 
-La vie en Rose
+La vie en Rose:
 
 
 
 1946 fue el año en que la autora y cantante Edith Piaf graba para ofrecer al público una canción de amor en París. La letra expresa que el amor hacia un hombre y como al estar en contacto de un abrazo siente una emoción que la aleja de sus pesares. La autora fue la voz de París, enamorándose de Marcel Cerdán, el Puño de Francia, campeon mundial
+
+
+
+
+
+
+
+Cabalgata de los Valkirias de  Richard Wagner:
+
+Es el tercer acto de *La Valquiria* y la segunda ópera de la tetralogía *El anillo del nibelungo*. En ella el antagonismo entre los dioses y los hombres, el poder y el amor; en las leyendas: las valkirias y las divinidades nórdicas. A su vez, aplica la teoría Gesamtkunstwerk, un nuevo concepto donde integra las seis artes:
+la música, la danza, la poesía, la pintura, la escultura y la arquitectura. 
+
+
+
+Ave María:
+
+
+
+
+
+
+
+
+Pertenece al ciclo de
+siete canciones del compositor austriaco Franz
+Schubert. Su contenido fue inspirado en la
+lectura de un poema épico del británico Walter Scott de 1810. Las canciones se
+encuentran publicadas en el opus 52. El compositor de los principios del
+Romanticismo musical y continuaba con el modelo de Ludwig van Beethoven
