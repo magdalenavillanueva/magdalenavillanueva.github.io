@@ -122,6 +122,10 @@ DOP: Disminuidos Emocionales para Siempre
 # Obra de Arte:
 
 
+
+
+![](/assets/img/mienina.jpg)
+
 **Menina de Velázquez:** 
 
 Obra del artista visual Diego Velázquez en el año 1656. Es una obra con
