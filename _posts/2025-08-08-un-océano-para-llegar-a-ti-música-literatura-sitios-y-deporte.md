@@ -50,7 +50,7 @@ Schubert. Su contenido fue inspirado en la lectura de un poema épico del britá
 
 
 
-Iglesia de Nuestra Señora de la Asunción: 
+**Iglesia de Nuestra Señora de la Asunción:** 
 
  
 
@@ -69,7 +69,7 @@ Declarado monumento de interés cultural en el año de 1991
 
 
 
-Lanzarote: 
+**Lanzarote:** 
 
  
 
@@ -88,8 +88,7 @@ playas y centros de buceo
 
 
 
-Túneles de
-los Monegros: 
+**Túneles de los Monegros:** 
 
  
 
@@ -105,13 +104,9 @@ los Monegros:
 
 
 
-Es un canal pensado
-en el Plan de Riegos del
-Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo
+Es un canal pensado en el Plan de Riegos del Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo
 estaban pasando la zona de túneles de los Monegros, era la parte del trayecto
-con peor cobertura”.  Pág. 23.  *Un
-océano para llegar a ti*     de  
-Sandra Barneda
+con peor cobertura”.  Pág. 23.  *Un océano para llegar a ti*     de  Sandra Barneda
 
 
 
@@ -120,7 +115,7 @@ Sandra Barneda
 
 
 
-Candeleda: 
+**Candeleda:** 
 
  
 
@@ -134,7 +129,7 @@ Municipio del valle del Tiétar, sur de la provincia de Ávila, en la comunidad 
 
 
 
-Bar Pimentón: 
+**Bar Pimentón:** 
 
  
 
@@ -149,7 +144,7 @@ llegar a ti*     de   Sandra Barneda
 
 
 
-Estación de Atocha: 
+**Estación de Atocha:** 
 
  
 
@@ -165,7 +160,7 @@ angustia y las ganas de llegar, vio cómo de lejos  la saludaba con la mano su 
 
 
 
-Hospital de Talavera: 
+**Hospital de Talavera:** 
 
  
 
@@ -180,7 +175,7 @@ Se llama Hospital Nuestra Señora del Prado. Inaugurado el 19 de febrero de [
 
 
 
-Glorieta de la plaza del Emperador Carlos V: 
+**Glorieta de la plaza del Emperador Carlos V:** 
 
  
 
@@ -193,7 +188,7 @@ nombre era Plaza de Atocha o Glorieta de Atocha. Actualmente lleva por nombre Pl
 
 
 
-Almanzor: 
+**Almanzor:** 
 
  
 
@@ -210,7 +205,7 @@ la provincia española de Avila
 
 
 
-La Massana:
+**La Massana:**
 
 En el año de 1929 fue legado por Agusti Massana i Pujol
 para comenzar a funcionar una institución cultural, donde la enseñanza del arte
@@ -230,7 +225,7 @@ remodelación de la plaza de la Garduña.
 
 
 
-Madrid: 
+**Madrid:** 
 
  
 
@@ -249,8 +244,7 @@ donde existe la mayor concentración de población
 
 
 
-Museo del
-Prado:
+**Museo del Prado:**
 
 Sede en [Madrid](https://es.wikipedia.org/wiki/Madrid), [España](https://es.wikipedia.org/wiki/Espa%C3%B1a). Es la institución cultural más importante del país. Tiene
 cuadros tanto españoles como del resto de Europa entre los siglos XV y XVIII, y
