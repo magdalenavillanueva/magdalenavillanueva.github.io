@@ -124,18 +124,15 @@ DOP: Disminuidos Emocionales para Siempre
 
 
 
-![](/assets/img/mienina.jpg)
-
+![](/assets/img/mienina.jpg){:width="200" style="float: right"}
 **Menina de Velázquez:** 
 
 Obra del artista visual Diego Velázquez en el año 1656. Es una obra con
-historia. Su nombre ha cambiado y actualmente se titula menina que en portugués
-significa niña y en España se refería a las cuidadoras reales.
+historia. Su nombre ha cambiado y actualmente se titula menina que en portugués significa niña y en España se refería a las cuidadoras reales.
 
 
 
-![](/assets/img/pinacotecas.jpg)
-
+![](/assets/img/pinacotecas.jpg){:width="300" style="float: left"}
 **Pinacotecas:** 
 
 Inmueble reservado a la conservación y manifestación de colecciones pictóricas
