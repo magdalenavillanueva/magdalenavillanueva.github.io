@@ -109,10 +109,6 @@ con peor cobertura”.    *Un océano para llegar a ti*     de  Sandra B
 
 Su nombre es Talavera de la Reina, un municipio y ciudad española de la provincia de Toledo de Castilla-La Mancha.  Ubicada al noroeste de la comunidad autónoma, la ciudad propiamente dicha se extiende por la margen derecha del río Tajo, ​ a unos 4 km al oeste de la desembocadura del río Alberche, que también se encuentra dentro del término municipal.
 
-
-
-
-
 ![](/assets/img/sitios-de-un-ocesno-para-llegar-a-ti.png)
 
 # Etiquetas:
@@ -121,18 +117,19 @@ DOP: Disminuidos Emocionales para Siempre
 
 # Obra de Arte:
 
-
-
-
 ![](/assets/img/mienina.jpg){:width="200" style="float: right"}
 **Menina de Velázquez:** 
 
 Obra del artista visual Diego Velázquez en el año 1656. Es una obra con
 historia. Su nombre ha cambiado y actualmente se titula menina que en portugués significa niña y en España se refería a las cuidadoras reales.
 
-
-
 ![](/assets/img/pinacotecas.jpg){:width="300" style="float: left"}
 **Pinacotecas:** 
 
-Inmueble reservado a la conservación y manifestación de colecciones pictóricas
+Inmueble reservado a la conservación y manifestación de colecciones pictóricas.
+
+
+
+# Animales:
+
+**Dos perros:** Grego  y  Menina
