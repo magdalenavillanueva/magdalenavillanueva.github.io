@@ -120,3 +120,14 @@ Su nombre es Talavera de la Reina, un municipio y ciudad española de la provinc
 DOP: Disminuidos Emocionales para Siempre
 
 # Obra de Arte:
+
+
+**Menina de Velázquez:** 
+
+Obra del artista visual Diego Velázquez en el año 1656. Es una obra con
+historia. Su nombre ha cambiado y actualmente se titula menina que en portugués
+significa niña y en España se refería a las cuidadoras reales.
+
+**Pinacotecas:** 
+
+Inmueble reservado a la conservación y manifestación de colecciones pictóricas
