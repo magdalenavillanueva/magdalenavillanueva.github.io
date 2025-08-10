@@ -152,3 +152,21 @@ Inmueble reservado a la conservación y manifestación de colecciones pictórica
 Es un término japonés para referirse a un tipo de arte o práctica creativa digital, callejero de la cultura japonesa.
 
 Mikto ( japonés) Lo observamos en este ejemplo —Sí, a la exposición de Mikto, el artista japonés del que te hablé. Con este me retiro, pequeña, y me voy a Hawái a vivir y a olvidarme de los hombres europeos que me desquician.   *Un océano para llegar a ti*  de   Sandra Barneda.
+
+
+
+
+
+
+# Deporte:
+
+
+
+
+
+
+![](/assets/img/spinning.jpg)
+
+Spinning: 
+
+ Un ejercicio físico colectivo que se realiza en una bicicleta estática
