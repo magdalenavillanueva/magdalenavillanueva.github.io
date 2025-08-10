@@ -86,4 +86,4 @@ Schubert. Su contenido fue inspirado en la lectura de un poema épico del britá
 
 
 
-![](/assets/img/ejemplo.png)
+![](/assets/img/ejemplo.png){:width="300" style="float: left"} 
