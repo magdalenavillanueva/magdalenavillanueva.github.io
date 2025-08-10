@@ -142,3 +142,52 @@ Inmueble reservado a la conservación y manifestación de colecciones pictórica
 
 
 ![](/assets/img/actores-y-peliculas-de-un-oceano-para-llegar-a-ti.png)
+
+
+
+
+
+
+
+# LIibro:
+
+
+
+
+
+
+
+
+![](/assets/img/carta-a-theo-de-vicent-van-gogh.-1914.jpg)
+
+***Carta a Theo de Vicent Van Gogh. 1914:***
+
+ Autobiografía por medio de cartas.  Un último beso, apenas un roce de labios sin que Félix despegara la  mirada del libro que andaba releyendo, Cartas a Theo, un recopilatorio de la correspondencia que Vincent Van Gogh mantuvo con su hermano.   *Un océano para llegar a ti*  de Sandra Barneda.
+
+
+
+
+
+
+
+
+
+# Pintura Japonesa:
+
+
+**Mikto ( japonés):** 
+
+
+
+
+
+
+ Es un término japonés para referirse a un tipo de arte o práctica creativa digital,
+callejero de la cultura japonesa.
+
+Mikto ( japonés)
+Lo observamos en este ejemplo —Sí, a la exposición de Mikto, el artista japonés
+del que te hablé. Con este me retiro, pequeña, y me voy a Hawái a vivir y a
+olvidarme de los hombres europeos que me desquician.   Pág. 64. 
+*Un océano para llegar a ti*    
+de   Sandra Barneda.
