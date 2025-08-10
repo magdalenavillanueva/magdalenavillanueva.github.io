@@ -134,7 +134,7 @@ Inmueble reservado a la conservación y manifestación de colecciones pictórica
 
 # Películas:
 
-![](/assets/img/actores-y-peliculas-de-un-oceano-para-llegar-a-ti.png)
+![](/assets/img/actores-y-peliculas-de-un-oceano-para-llegar-a-ti.png){:width="200" style="float: right"}
 
 # Libro:
 
@@ -147,7 +147,7 @@ Inmueble reservado a la conservación y manifestación de colecciones pictórica
 
 **Mikto ( japonés):** 
 
-![](/assets/img/mikto.jpg)
+![](/assets/img/mikto.jpg){:width="300" style="float: left"}
 
 Es un término japonés para referirse a un tipo de arte o práctica creativa digital, callejero de la cultura japonesa.
 
@@ -165,7 +165,7 @@ Mikto ( japonés) Lo observamos en este ejemplo —Sí, a la exposición de Mikt
 
 
 
-![](/assets/img/spinning.jpg)
+![](/assets/img/spinning.jpg){:width="300" style="float: left"}
 
 Spinning: 
 
