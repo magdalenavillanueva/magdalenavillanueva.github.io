@@ -20,3 +20,23 @@ Fue premiada con: un Óscar a la mejor actriz en  “Vacaciones en Roma**"** (
 Noventero de Cher Believe:
 
 El 19 de octubre de 1998 el artista estadounidense Cher incorpora la canción en su tercer álbum Believe, convirtiéndose en el éxito de la cantante en toda su carrera. Brian Higgins en 1989 escribió la letra sobre la raza humana y su habilidad de crear para la vida.
+
+
+Moon River
+
+
+
+
+El compositor fue el estadounidense Henry Mancini, compositor, director de orquesta, arreglista, flautista y pianista. La letra pertenece a Johnny Mercer.  La canción ganó un óscar, vendiéndose 40.000 copias, logrando el top de las más vendidas.  Después de ser incorporada en la película:  *Desayuno con diamantes,* donde la canta Audrey Hepburn.
+
+
+
+
+
+
+
+La vie en Rose
+
+
+
+1946 fue el año en que la autora y cantante Edith Piaf graba para ofrecer al público una canción de amor en París. La letra expresa que el amor hacia un hombre y como al estar en contacto de un abrazo siente una emoción que la aleja de sus pesares. La autora fue la voz de París, enamorándose de Marcel Cerdán, el Puño de Francia, campeon mundial
