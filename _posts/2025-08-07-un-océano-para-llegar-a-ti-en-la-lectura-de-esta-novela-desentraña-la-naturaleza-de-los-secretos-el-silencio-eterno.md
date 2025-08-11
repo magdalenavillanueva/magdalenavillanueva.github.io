@@ -18,7 +18,7 @@ Año: **2020**
 
 Premio: **Planeta 2020**
 
-Editorial: **Planeta**
+Editorial: **Alfaguara**
 
 ![](/assets/img/emociones-silenciadas.png){:width="300" style="float: right"}  La novela presenta una situación que día a día se vive, donde un pasado oculto es revelado sin ninguna explicación, engranando los motivos o el porqué la persona actuó en cada momento. Una vez más las acciones tienen unas consecuencias 
 
