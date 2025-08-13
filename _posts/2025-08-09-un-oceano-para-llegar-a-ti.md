@@ -2,7 +2,7 @@
 layout: single
 categories:
   - El instinto
-title: "El instinto: Ejemplo"
-date: 2025-08-11 T08:16:00.000Z
+title: "El instinto: Orden de Análisis"
+date: 2025-08-13T19:51:00.000-04:00
 ---
-Ejemplo
+![](/assets/img/banner-el-instinto.png)
