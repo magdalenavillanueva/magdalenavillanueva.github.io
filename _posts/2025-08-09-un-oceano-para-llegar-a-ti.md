@@ -19,3 +19,7 @@ Orden de análisis:
  	Personajes secundarios.
 
  	Ambiente sicológico.
+
+
+
+<img height="32" width="32" src="img/admin-fill.svg" />
