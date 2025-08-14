@@ -7,11 +7,9 @@ date: 2025-08-13T19:51:00.000-04:00
 ---
 ![](/assets/img/banner-el-instinto.png)
 
-# <center>\*\*El Instinto.\*\*
-
-# **Ashley Audrain**
-
-# **Orden de análisis:**
+<center>El Instinto.</center>
+<center>**Ashley Audrain**</center>
+<center>**Orden de análisis:**</center>
 
 
 
