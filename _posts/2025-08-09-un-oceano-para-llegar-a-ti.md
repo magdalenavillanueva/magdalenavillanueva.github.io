@@ -14,7 +14,7 @@ date: 2025-08-13T19:51:00.000-04:00
 <i class="fas fa-camera">
 
 
-1. ## Biografía de Ashley Audrain.
+<i class="fas fa-camera"> ## Biografía de Ashley Audrain.
 2. ## Reseña de El Instinto.
 3. ## Personaje principal: Blythe.
 4. ## Personajes secundarios.
