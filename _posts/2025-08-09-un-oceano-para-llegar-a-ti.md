@@ -12,7 +12,7 @@ date: 2025-08-13T19:51:00.000-04:00
 <center>Ashley Audrain</center>
 
 
-<i class="fas fa-AiFillCaretRight"
+<i class="fas fa-AiFillCaretRight">
 
 1. ## Biografía de Ashley Audrain.
 2. ## Reseña de El Instinto.
