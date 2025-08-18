@@ -36,12 +36,12 @@ El instinto se observa como un comportamiento automático e inconsciente que fue
 
 ![](/assets/img/la-mano-que-mece-la-cuna.png){:width="300" style="float: left"}A su vez estos comportamientos no razonados se ven en las estadísticas ocultas socialmente para no aceptar que es posible el rechazo de lazos consanguíneos directos. Ser madre es una responsabilidad social.  Poemas, ensayos, dibujos tanto infantiles como pintores han realizado la influencia de las madres sobre los hijos.William Ross Wallace, Andrés Eloy Blanco, Leonardo da Vinci, Miguel Ángel, Gustav Klimt y en cada casa un niño dibujó a su madre. 
 
-Dos realidades, una historia para reflexionar.
+**Dos realidades, una historia para reflexionar:**
 
-a. Personas con traumas emocionales que pasan de una generación a otra.
+**a. Personas con traumas emocionales que pasan de una generación a otra.**
 
-b.- Mantenemos comportamientos innatos que afloran en situaciones semejantes.
+**b.- Mantenemos comportamientos innatos que afloran en situaciones semejantes.**
 
-c.- Existe la agresividad pasiva, donde socialmente es aceptada. Niños o adolescentes agreden a sus compañeros y queda en silencio.
+**c.- Existe la agresividad pasiva, donde socialmente es aceptada. Niños o adolescentes agreden a sus compañeros y queda en silencio.**
 
-d.- Familia cómplice.
+**d.- Familia cómplice.**
