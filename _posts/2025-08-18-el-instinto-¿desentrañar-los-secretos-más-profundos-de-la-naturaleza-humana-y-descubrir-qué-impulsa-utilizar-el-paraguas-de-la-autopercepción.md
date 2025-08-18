@@ -8,9 +8,7 @@ date: 2025-08-18T16:51:00.000-04:00
 ---
 ![](/assets/img/banner-el-instinto.png)
 
-![](/assets/img/ficha-sin-fondo.png)
-
-{:width="300" style="float: left"}… “la cabeza y el cuerpo en otra parte” …, esta línea de la novela resume el sentir del personaje principal. Su relación con su pareja se resiente porque ella no se siente
+![](/assets/img/ficha-sin-fondo.png){:width="300" style="float: left"}… “la cabeza y el cuerpo en otra parte” …, esta línea de la novela resume el sentir del personaje principal. Su relación con su pareja se resiente porque ella no se siente
 involucrada en la cotidianidad que significaba ser esposa y madre a la vez. Mientras era solo esposa, pudo congeniar sus labores domésticas con su pasión que era la escritura, luego al ser madre se auto percibe encerrada en ese nuevo rol sin protagonismo. No era feliz siendo madre y todo lo que ve a su alrededor lo valoriza según su perspectiva: su relación con su esposo después de ser padres, el hecho de que él se preocupe por ella cuando le dice que duerma algo, aunque ella misma no deja de sentirse resentida por no poder dormir y que su pequeña hija la rechaza.
 
 "Para ella a él le importaba más su descanso para que pudiera ser madre y cuando dejó de preguntar sobre su escritura siente que ya no la ve como mujer sino como madre de su hija". 
