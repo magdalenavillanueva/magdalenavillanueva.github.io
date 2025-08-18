@@ -8,69 +8,24 @@ date: 2025-08-18T16:51:00.000-04:00
 ---
 ![](/assets/img/banner-el-instinto.png)
 
-![](/assets/img/ficha-tecnica-el-instinto.png)
+![](/assets/img/ficha-tecnica-el-instinto.png){:width="300" style="float: left"}… “la cabeza y el cuerpo en otra parte” …, esta línea de la novela resume el sentir del personaje principal. Su relación con su pareja se resiente porque ella no se siente
+involucrada en la cotidianidad que significaba ser esposa y madre a la vez. Mientras era solo esposa, pudo congeniar sus labores domésticas con su pasión que era la escritura, luego al ser madre se auto percibe encerrada en ese nuevo rol sin protagonismo. No era feliz siendo madre y todo lo que ve a su alrededor lo valoriza según su perspectiva: su relación con su esposo después de ser padres, el hecho de que él se preocupe por ella cuando le dice que duerma algo, aunque ella misma no deja de sentirse resentida por no poder dormir y que su pequeña hija la rechaza.
 
-{:width="300" style="float: left"}
+"Para ella a él le importaba más su descanso para que pudiera ser madre y cuando dejó de preguntar sobre su escritura siente que ya no la ve como mujer sino como madre de su hija". 
 
-
-… “la cabeza y el cuerpo en otra parte” …, esta línea de la novela resume el sentir del personaje principal. Su relación con su pareja se resiente porque ella no se siente
-involucrada en la cotidianidad que significaba ser esposa y madre a la vez.
-Mientras era solo esposa, pudo congeniar sus labores domésticas con su pasión
-que era la escritura, luego al ser madre se auto percibe encerrada en ese nuevo
-rol sin protagonismo. No era feliz siendo madre y todo lo que ve a su alrededor
-lo valoriza según su perspectiva: su relación con su esposo después de ser
-padres, el hecho de que él se preocupe por ella cuando le dice que duerma algo,
-aunque ella misma no deja de sentirse resentida por no poder dormir y que su
-pequeña hija la rechaza.
-
-
-
-Para ella a él le importaba más su descanso para que pudiera ser madre y cuando dejó
-de preguntar sobre su escritura siente que ya no la ve como mujer sino como
-madre de su hija. (p.49)
-
-En su afán de escribir se olvida de su niña y aun así sentía vergüenza ante el
-rechazo de la hija y su falta de compromiso, mirándose ante un esposo que la
-desdibujaba ante las críticas al descubrirse indiferente a los gritos de la
-niña, mientras ella está absorta escribiendo. Su pasión por la escritura era
-más fuerte que el placer que pudiera darle el ser madre. El escribir se
-convirtió en una vía de escape, pero no terapéutico. La escritora Isabel Allende
-habló en una conferencia sobre el beneficio de la escritura para superar la
-muerte de su hija, en el caso de Blythe el contenido de la escritura se ve
-omitido como un recurso para superar los traumas. 
+En su afán de escribir se olvida de su niña y aun así sentía vergüenza ante el rechazo de la hija y su falta de compromiso, mirándose ante un esposo que la desdibujaba ante las críticas al descubrirse indiferente a los gritos de la niña, mientras ella está absorta escribiendo. Su pasión por la escritura era más fuerte que el placer que pudiera darle el ser madre. El escribir se convirtió en una vía de escape, pero no terapéutico. La escritora Isabel Allende habló en una conferencia sobre el beneficio de la escritura para superar la muerte de su hija, en el caso de Blythe el contenido de la escritura se ve omitido como un recurso para superar los traumas. 
 
 La novela narra la vida de Blythe. Una madre con dos hijos. La primera se llama Violet y el segundo Sammy. El segundo hijo muere en un accidente vial. El  proyecto de vida de Blythe giró en torno a ser una escritora, pero al quedar embarazada de Fox, vivió situaciones de rechazo.
 
+Para ella a él le importaba más su descanso para que pudiera ser madre y cuando dejó de preguntar sobre su escritura siente que ya no la ve como mujer sino como madre de su hija. (p.49)
+
+En su afán de escribir se olvida de su niña y aun así sentía vergüenza ante el rechazo de la hija y su falta de compromiso, mirándose ante un esposo que la desdibujaba ante las críticas al descubrirse indiferente a los gritos de la niña, mientras ella está absorta escribiendo. Su pasión por la escritura era más fuerte que el placer que pudiera darle el ser madre. El escribir se convirtió en una vía de escape, pero no terapéutico. La escritora Isabel Allende habló en una conferencia sobre el beneficio de la escritura para superar la muerte de su hija, en el caso de Blythe el contenido de la escritura se ve omitido como un recurso para superar los traumas. 
+
+La novela narra la vida de Blythe. Una madre con dos hijos. La primera se llama Violet y el segundo Sammy. El segundo hijo muere en un accidente vial. El  proyecto de vida de Blythe giró en torno a ser una escritora, pero al quedar embarazada de Fox, vivió situaciones de rechazo bidireccional entre madre e hija. Se divorcia y Violet solamente la va a visitar, viviendo con su padre, su nueva esposa y su hermanastro Jet. 
 
 
-
-
-
-Para ella a él le importaba más su descanso para que pudiera ser madre y cuando dejó
-de preguntar sobre su escritura siente que ya no la ve como mujer sino como
-madre de su hija. (p.49)
-
-En su afán de escribir se olvida de su niña y aun así sentía vergüenza ante el
-rechazo de la hija y su falta de compromiso, mirándose ante un esposo que la
-desdibujaba ante las críticas al descubrirse indiferente a los gritos de la
-niña, mientras ella está absorta escribiendo. Su pasión por la escritura era
-más fuerte que el placer que pudiera darle el ser madre. El escribir se
-convirtió en una vía de escape, pero no terapéutico. La escritora Isabel Allende
-habló en una conferencia sobre el beneficio de la escritura para superar la
-muerte de su hija, en el caso de Blythe el contenido de la escritura se ve
-omitido como un recurso para superar los traumas. 
-
-**La novela
-narra la vida de Blythe. Una madre con dos hijos. La primera se llama Violet y
-el segundo Sammy. El segundo hijo muere en un accidente vial. El  proyecto de vida de Blythe giró en torno a ser una escritora, pero al quedar embarazada de Fox, vivió situaciones de rechazo bidireccional entre madre e hija. Se divorcia y Violet solamente la va a visitar, viviendo con su padre, su nueva esposa y su hermanastro Jet.** 
-
-
-**Blythe es una del porcentaje de mujeres que no logra
-establecer un vínculo emocional con su hija al momento de nacer. Sin embargo,
-la escritora narra información sobre la madre y la abuela con características
-postraumáticas manteniéndose en el tiempo. Etta y Cecilia abandonan a sus hijas
-y esposos para llevar una vida sin compromisos hasta que mueren. En Blythe se
-da el rechazo de ambas: Madre e Hija**
+Blythe es una del porcentaje de mujeres que no logra establecer un vínculo emocional con su hija al momento de nacer. Sin embargo,
+la escritora narra información sobre la madre y la abuela con características postraumáticas manteniéndose en el tiempo. Etta y Cecilia abandonan a sus hijas y esposos para llevar una vida sin compromisos hasta que mueren. En Blythe se da el rechazo de ambas: Madre e Hija
 
 
 
