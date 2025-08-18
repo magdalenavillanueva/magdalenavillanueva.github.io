@@ -40,6 +40,8 @@ El instinto se observa como un comportamiento automático e inconsciente que fue
 
 
 
+
+
 **Dos realidades, una historia para reflexionar:**
 
 **a. Personas con traumas emocionales que pasan de una generación a otra.**
