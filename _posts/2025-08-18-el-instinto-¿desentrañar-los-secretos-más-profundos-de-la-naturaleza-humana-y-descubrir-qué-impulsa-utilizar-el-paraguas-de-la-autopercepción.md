@@ -40,7 +40,7 @@ A su vez estos comportamientos no razonados se ven en las estadísticas ocultas 
 
 
 
-<i class="fi fi-rr-star" style="color: red;"></i>
+
 
 
 **Dos realidades, una historia para reflexionar:**
