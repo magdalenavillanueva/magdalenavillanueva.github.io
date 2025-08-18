@@ -27,9 +27,9 @@ Blythe personifica esta complejidad.Ella posee una imagen mental global de sí m
 sus propios comportamientos y emociones (su autopercepción). Desde pequeña, esta autopercepción se vio teñida por una herida profunda: la indefensión ante la indiferencia de su madre. Esta experiencia inicial sembró en ella un torbellino de emociones: rabia, impotencia y, sobre todo, una sensación abrumadora de abandono. Esta vivencia temprana no solo definió cómo se percibía a sí misma en esos momentos, sino que también comenzó a moldear el autoconcepto que la acompañaría, reflejando el eco de las generaciones anteriores. A su vez,
 con el nacimiento de su segundo hijo, Sammy, el miedo en Blythe se agudiza. La inseguridad se manifiesta en la preocupación por lo que Violet, su primogénita,pudiera hacerle a Sammy. Esta nueva capa de ansiedad subraya la urgencia de su situación: Blythe necesitaba, de forma imperativa, un tratamiento psicológico.
 
+![](/assets/img/imagen5.png)
 
-
-![](/assets/img/videos.png){:width="300" style="float: left"}
+{:width="300" style="float: left"}
 
 **<https://www.iepp.es/autoconcepto/>**
 
@@ -40,12 +40,10 @@ con el nacimiento de su segundo hijo, Sammy, el miedo en Blythe se agudiza. La i
 **IEPP (Instituto Europeo de Psicología Positiva - iepp.es):** Este instituto español tiene un blog con artículos sobre
 autoconcepto, autoestima y temas relacionados, con un enfoque práctico y de desarrollo personal.
 
-
 [psicoveritas.com](psicoveritas.com)
 
 [](psicoveritas.com)
 
 [asispa.org](asispa.org)[](psicoveritas.com)
-
 
 [](positivepsychology.com)[](positivepsychology.com)
