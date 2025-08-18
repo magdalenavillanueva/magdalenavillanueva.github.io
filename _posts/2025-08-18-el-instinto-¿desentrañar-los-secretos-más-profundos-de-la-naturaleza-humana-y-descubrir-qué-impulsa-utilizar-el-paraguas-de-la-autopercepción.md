@@ -37,7 +37,7 @@ El instinto se observa como un comportamiento automático e inconsciente que fue
 ![](/assets/img/la-mano-que-mece-la-cuna.png){:width="200" style="float: left"}A su vez estos comportamientos no razonados se ven en las estadísticas ocultas socialmente para no aceptar que es posible el rechazo de lazos consanguíneos directos. Ser madre es una responsabilidad social.  Poemas, ensayos, dibujos tanto infantiles como pintores han realizado la influencia de las madres sobre los hijos.William Ross Wallace, Andrés Eloy Blanco, Leonardo da Vinci, Miguel Ángel, Gustav Klimt y en cada casa un niño dibujó a su madre. 
 
 
-<i class="fi fi-rr-star"></i>
+
 
 <i class="fi fi-rr-star" style="color: red;"></i>
 
