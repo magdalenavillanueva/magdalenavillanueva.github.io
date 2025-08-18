@@ -13,4 +13,16 @@ conocimiento del sector editorial. Tardó tres años en escribirla.
 ![](/assets/img/la-escritora.png){:width="300" style="float: left"} Fue directora de publicidad
 de Penguin Canadá. Después del 2015 se jubila por las condiciones de salud de
 su primer hijo, dedicándose a escribir. Recibió el premio Crime Writers en el
-2022 – Toronto. Es una asociación de autores especializados en el Reino Unido
+2022 – Toronto. Es una asociación de autores especializados en el Reino Unido.
+
+
+
+<p style="color: red;">¿TENGO LA DECISIÓN DE CREAR O DESTRUIR A LA FAMILIA?</p>
+
+
+
+
+
+
+
+**¿TENGO LA DECISIÓN DE CREAR O DESTRUIR A LA FAMILIA?**
