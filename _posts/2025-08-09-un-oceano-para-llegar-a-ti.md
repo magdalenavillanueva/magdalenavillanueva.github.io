@@ -18,10 +18,10 @@ date: 2025-08-13T19:51:00.000-04:00
 
 <i class="fas fa-arrow-right" style="color: red;"></i> **Biografía de Ashley Audrain.**
 
-<i class="fas fa-arrow-right">**Reseña de El Instinto.**
+<i class="fas fa-arrow-right" style="color: red;"></i>**Reseña de El Instinto.**
 
-<i class="fas fa-arrow-right">**Personaje principal: Blythe.**
+<i class="fas fa-arrow-right" style="color: red;"></i>**Personaje principal: Blythe.**
 
-<i class="fas fa-arrow-right">**Personajes secundarios.**
+<i class="fas fa-arrow-right" style="color: red;"></i>**Personajes secundarios.**
 
-<i class="fas fa-arrow-right"> **Ambiente sicológico.**
+<i class="fas fa-arrow-right" style="color: red;"></i> **Ambiente sicológico.**
