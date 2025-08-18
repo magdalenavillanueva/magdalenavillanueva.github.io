@@ -38,15 +38,7 @@ segunda persona, así como los saltos temporales. Hay un cruce de estas líneas
 narrativas: las historias de la abuela de Blythe, Etta, y la de la madre de
 Blythe, Celia.
 
-![](/assets/img/el-rumor.jpg)
-
-
-
-
-
-
-
- Su segunda
+![](/assets/img/el-rumor.jpg){:width="200" style="float: right"} Su segunda
 novela, The Whispers,  se publicó en
 febrero del 2024.  El rumor examina el
 papel de la envidia entre grupos de amigas, el poder del amor maternal y los
