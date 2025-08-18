@@ -17,4 +17,4 @@ su primer hijo, dedicándose a escribir. Recibió el premio Crime Writers en el
 
 <center>**RESEÑA**</center>
 
-<p style="color: red;">¿TENGO LA DECISIÓN DE CREAR O DESTRUIR A LA FAMILIA?</p>
+<p style="color: red;"><center>¿TENGO LA DECISIÓN DE CREAR O DESTRUIR A LA FAMILIA?</center></p>
