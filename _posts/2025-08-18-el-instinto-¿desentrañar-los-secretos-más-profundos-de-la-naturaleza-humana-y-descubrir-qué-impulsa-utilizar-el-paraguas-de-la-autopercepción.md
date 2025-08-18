@@ -39,7 +39,7 @@ El instinto se observa como un comportamiento automático e inconsciente que fue
 
 
 
-<iclass= "fi fi-rr-star" style="color: red;"></i>
+<i class="fi fi-rr-star" style="color: red;"></i>
 
 
 **Dos realidades, una historia para reflexionar:**
