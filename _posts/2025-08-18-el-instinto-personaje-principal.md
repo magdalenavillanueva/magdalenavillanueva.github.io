@@ -29,38 +29,23 @@ con el nacimiento de su segundo hijo, Sammy, el miedo en Blythe se agudiza. La i
 
 
 
-![](/assets/img/videos.png)
-
-{:width="300" style="float: left"}
+![](/assets/img/videos.png){:width="300" style="float: left"}
 
 **<https://www.iepp.es/autoconcepto/>**
-
-
 
 **[positivepsychology.com](positivepsychology.com)**
 
 [](positivepsychology.com)
 
-
-
-
-
-
-**IEPP (Instituto Europeo de Psicología
-Positiva - iepp.es):** Este instituto español tiene un blog con artículos sobre
-autoconcepto, autoestima y temas relacionados, con un enfoque práctico y de
-desarrollo personal.
+**IEPP (Instituto Europeo de Psicología Positiva - iepp.es):** Este instituto español tiene un blog con artículos sobre
+autoconcepto, autoestima y temas relacionados, con un enfoque práctico y de desarrollo personal.
 
 
 [psicoveritas.com](psicoveritas.com)
 
 [](psicoveritas.com)
 
-
-
 [asispa.org](asispa.org)[](psicoveritas.com)
-
-
 
 
 [](positivepsychology.com)[](positivepsychology.com)
