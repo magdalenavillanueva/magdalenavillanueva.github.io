@@ -17,4 +17,4 @@ El ambiente psicológico es un escultor silencioso constante, en la novela se de
 ¿En esa construcción, Blythe no tuvo otra alternativa de cómo actuar? Tener un pensamiento woke es darle el 100 %, se sintió víctima de la situación para convertirse en victimaria de su hija. Hay que reconocer que se puede cambiar, al modificar la autopercepción. La neurociencia lo está confirmando. Somos dueños de nuestras decisiones y necesitamos estar consciente de nuestras acciones solapadas en emociones. Somos uno dentro de otros, los otros están en nosotros. En conclusión, la historia no tiene futuro, el lápiz lo tiene el escritor. Cada persona tiene una amplia gama de actividades mentales, como el razonamiento, la contemplación, la deliberación, la imaginación y la memoria
 
 ***Pero el Siglo XXI ha avanzado un poco más en esa deriva: lo  que se busca no es crear a un humano sino encontrar al “humano auténtico” atrapado en un error de la naturaleza.***
->                                ***Karina Mariani (2025)***
+                                ***Karina Mariani (2025)***
