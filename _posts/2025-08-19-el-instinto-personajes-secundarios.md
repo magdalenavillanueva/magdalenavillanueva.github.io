@@ -39,6 +39,8 @@ unos cinturones de Henry, dejando a Cecilia.
 
  
 
+![](/assets/img/gemini_generated_image_7ep43l7ep43l7ep4.png)
+
 **Louis:** 
 
 Fue el esposo de Etta. Se casó con
