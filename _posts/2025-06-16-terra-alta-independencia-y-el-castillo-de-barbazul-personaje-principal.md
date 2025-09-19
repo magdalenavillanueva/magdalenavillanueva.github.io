@@ -90,3 +90,52 @@ Terminó sus días violada y asesinada como si su existencia no valiese nada, co
  ´´y con  una piedra en la mano, empezó a pegar con
 ella a la mujer, le pegó en la cabeza hasta que Rosell le quitó la piedra y él
 también empezó a pegarle, y luego le pegó Vidal, al cabo de un rato, la mujer estaba muerta´´.  *Terra Alta II*.
+
+
+
+3.3.  **La importancia de *Los Miserables*  en la  vida  de Melchor Marín.**
+
+![](/assets/img/portada-los-miserables.webp)
+
+
+
+
+
+
+La  vida de Melchor Marín  está marcada por un antes y después de la lectura que realiza en la cárcel de Quatre Camins,  mientras cumplía una condena de cuatro años en prisión, cuando Gilles  el bibliotecario le proporciona *Los miserables* de Victor Hugo: “—Ya te dije que no hay ninguna novela como Los miserables —le recordó el Francés—. En realidad, no hay dos novelas iguales ni dos personas que hayan leído la misma novela“.    * Terra Alta I*.
+
+ 
+
+Cuando ocurre la muerte de Rosario Marín, las dos únicas actividades que aliviaban en apariencia su pensamiento  obsesionado con lo que le había ocurrido a su madre eran:  “hablar con Vivales y leer *Los miserables*, que en aquellos días de luto dejó de ser para él una novela y se transformó en otra cosa, una cosa sin nombre o con muchos nombres“.  *Terra Alta I.*
+
+ 
+
+En esos días solo leía *Los miserables*.  Pensaba en Jean Valjean sentía que era él.
+Pero sobre todo pensaba en Javert, en su sentido de la justicia  que nunca permitiría que el asesinato de su
+madre quedara impune, como hasta ahora que está en los casos sin resolver. 
+
+De esta manera,  en una de sus visitas le dice a Vivales que quiere estudiar y ser policía y  a través
+de sus páginas descubre su vocación de policía, con el objetivo de vengar la muerte de su madre.   Cuando Olga le pregunta:  “¿Tú por qué te hiciste policía? Melchor no tuvo necesidad de meditar la respuesta. —Por *Los miserables*“.*Terra Alta I*.
+
+Descubrió que le gustaba estudiar.  preparó los exámenes de ingreso en el  Institut de Seguretat
+Pública, la escuela de policía. Al término se graduó.  Ejerció su profesión sin dejar de buscar al
+asesino de su madre. Y precisamente, cuando resuelve la muerte de Rosario Marín
+en ese episodio oscuro que ocurrió en *Terra Alta II* deja de ser policía del cuerpo de los Mossos d'Esquadra y
+presentarse a las oposiciones de bibliotecario de Terra Alta.
+
+Repetía desde que mató a cuatro terroristas en el paseo marítimo de Cambrils la misma frase de *Los miserables*:  “Melchor no se sentía particularmente orgulloso de lo que había hecho, y vivía la situación con un desasosiego creciente, paralizado por aquel alboroto que le impedía pensar mientras una frase de Los miserables no paraba de martillearle el cerebro: “Es un hombre que hace el bien a tiros”,  *Terra Alta I*.
+
+
+
+Lo que más transformó su vida en la Terra Alta fue que nunca había dispuesto de tanto tiempo para sí
+mismo. Resolvió acercarse a la biblioteca pública, donde la bibliotecaria Olga Ribera le facilitó *El extranjero*  de Albert Camus y luego,  *Doctor Zhivago* de Boris Pasternak. Como le dijo que le gustaban las novelas del
+siglo diecinueve le trajo otra novela de ese siglo escrita en el siglo veinte.
+Melchor leyó el título y el autor: *El Gatopardo* de Giuseppe Tomasi di Lampedusa. Motivó a la bibliotecaria a leer *Los miserables* y luego la leyeron juntos. 
+
+A la trágica muerte de Olga se hace la misma pregunta de Jean Valjean:  “—¿Puede acaso el destino ser malo como un ser inteligente, y llegar a ser monstruoso como el corazón humano?—“.  *Terra Alta I*.
+
+ 
+
+Como vemos en todos los párrafos anteriores, la omnipresencia de *Los Miserables* de Víctor Hugo y su influencia en todo lo que ocurre es una constante  en esta novela,  no solo en la historia, sino también en la
+vida personal de Melchor Marín.  Así que podemos decir sin lugar a dudas, que a  Melchor
+le salvó *Los Miserables*, le salvó Javert, le salvó la literatura.
