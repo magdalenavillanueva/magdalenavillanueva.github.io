@@ -8,8 +8,8 @@ date: 2025-06-23T08:16:00.000Z
 <img src="/assets/img/banner.jpg" width="700" height="200">
 
 # **Terra Alta I:**
-<img src="/assets/img/libro-de-terra.jpg" alt="libro-de-terra" width="400" height="300" style="float: left; margin-right: 15px;">
 
+<img src="/assets/img/libro-de-terra.jpg" alt="libro-de-terra" width="400" height="300" style="float: left; margin-right: 15px;">
 
 **Blai:**   de ojos azules,  sin pelo. Ha cumplido cuarenta y cinco años.
 Es el sargento inspector de la Terra Alta. Está casado con Glòria.
@@ -101,7 +101,7 @@ calvo. Ambos habían nacido en El Llano de Molina, Murcia.
 **Daniel Armengol:**   era de Bot, Terra Alta, pero se fue a México. De ojos claros, piel cerosa y cráneo pelado, párpados rugosos y lacrados, mejillas
 y labios sin carne, papada abacial, conserva un tórax poderoso, manos
 artríticas.  De la cintura para abajo, su apariencia es la de un hombre frágil, disminuido: rodillas pálidas, enfermizas y afiladas, y unos pies tan pequeños que parecen incapaces de sostener su cuerpo. Tiene no menos de ochenta años. 
-Fue quien indujo a Ferrer a preparar los asesinatos   de los  Adell, y contrató a los asesinos
+Fue quien indujo a Ferrer a preparar los asesinatos   de los  Adell, y contrató a los asesinos.
 
 <img src="/assets/img/libro-2.jpg" width="250" height="300">
 
@@ -145,7 +145,6 @@ Gerona, Cataluña.
 **Verónica**:  es una mujer de treinta y tantos años, menuda, morena y vivaracha. Es la encargada de prensa del cuerpo. 
 
 **Vàzquez:**   un cuarentón rapado, musculoso e hiperactivo, con fama de policía  rectilíneo y peleón. Es sargento  y Jefe de la Unidad de Secuestros y Extorsiones.
-
 
 <img src="/assets/img/libro-final.jpg" alt="libro-final" width="200" height="300" style="float: left; margin-right: 15px;">
 
@@ -198,7 +197,7 @@ financiero no podrá protegerle. A pesar de la magnitud de la alarma social cre
 el juez que recibe la querella, la archiva,  y  el volumen del escándalo se multiplica 
 y  se  desborda, porque no es ya sólo el prestigio de Mattson, sino también la
 credibilidad de la justicia española,  la que ponen en la picota.  Esto hace que la
-situación se desborde   y  así, Rafael Mattson es encarcelado. 
+situación se desboca   y  así, Rafael Mattson es encarcelado. 
 
 **Matías Vallés**:   periodista estrella del *Diario de Mallorca.*
 
@@ -223,4 +222,4 @@ y traumas diversos, así como anorexia, alcoholismo y drogadicción.
 **Lluís Arbeloa:**  psicólogo especializado en tratamiento de traumas. Fue recomendado por el doctor Mercadal. Cossette acudía cada semana a su consulta en Tortosa.  Según 
 el doctor Mercadal:  ´´La ayudará a quitarse cada semana la venda y a curarse la herida hasta que cicatrice´´.   *Terra Alta III*   de Javier Cercas.
 
-![]()
+![](<>)
