@@ -27,7 +27,7 @@ Constitucional, el 7 de septiembre de 2017 y finalmente,  celebrado de manera i
 compañeros solo les dije que te mandan como refuerzo durante unos meses, por lo
 del proceso independentista y tal´´.   *Terra Alta I.*  de Javier Cercas.
 
-![](/assets/img/cataluña.png)
+
 
 <img src="/assets/img/cataluña.png" alt="cataluña" width="400" height="300" style="float: right; margin-left: 15px;">
 
