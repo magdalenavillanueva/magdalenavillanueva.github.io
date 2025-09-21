@@ -9,9 +9,7 @@ date: 2025-06-23T08:20:00.000Z
 ---
 <img src="/assets/img/banner.jpg" width="700" height="200">
 
-El 17 de agosto del 2017, horas después de que  Youness Abouyaaqoub arrollará a más de cien personas en la Rambla de Barcelona –mató a 14 de ellas–, cinco yihadistas integrantes de la misma célula de Ripoll que Youness, atacaron el paseo marítimo de Cambrils. Todo comienza en Cambrils, cuando un mosso d’esquadra abate a cuatro terroristas yihadistas. Los días 17 y 18 de agosto de 2017 se cometieron dos atentados terroristas en Barcelona y Cambrils. Sus autores  utilizaron vehículos y   cuchillos para ocasionar 16 muertos y cerca de 140 heridos, pertenecían a una célula yihadista. Fue el mayor atentado yihadista de la historia de Cataluña, en el  emblemático paseo de la Rambla. 
-
-<img src="/assets/img/la-rambla.png" width="700" height="200">
+El 17 de agosto del 2017, horas después de que  Youness Abouyaaqoub arrollará a más de cien personas en la Rambla de Barcelona –mató a 14 de ellas–, cinco yihadistas integrantes de la misma célula de Ripoll que Youness, atacaron el paseo marítimo de Cambrils. Todo comienza en Cambrils, cuando un mosso d’esquadra abate a cuatro terroristas yihadistas. Los días 17 y 18 de agosto de 2017 se cometieron dos atentados terroristas en Barcelona y Cambrils. Sus autores  utilizaron vehículos y   cuchillos para ocasionar 16 muertos y cerca de 140 heridos, pertenecían a una célula yihadista. Fue el mayor atentado yihadista de la historia de Cataluña, en el  emblemático paseo de la Rambla. <img src="/assets/img/la-rambla.png" width="700" height="200">
 
 El mosso que abatió a cuatro yihadistas en los atentados del 17  de Agosto, 
 quedó atrapado en el suceso que cambió su vida, con sentimiento de culpa
@@ -26,8 +24,6 @@ convocado por el Gobierno de Cataluña, suspendido por el Tribunal
 Constitucional, el 7 de septiembre de 2017 y finalmente,  celebrado de manera ilegal e irregular en la comunidad autónoma española de Cataluña el 1 de octubre de 2017.  De ahí  que, se observa que el sargento Blai le dice a Melchor: ´´A tus
 compañeros solo les dije que te mandan como refuerzo durante unos meses, por lo
 del proceso independentista y tal´´.   *Terra Alta I.*  de Javier Cercas.
-
-
 
 <img src="/assets/img/cataluña.png" alt="cataluña" width="400" height="300" style="float: right; margin-left: 15px;">
 
