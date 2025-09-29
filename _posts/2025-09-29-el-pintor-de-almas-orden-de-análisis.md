@@ -2,7 +2,7 @@
 layout: single
 categories:
   - El Pintor de Almas
-title: El Pintor de Almas:Orden de análisis
+title: "El Pintor de Almas: Orden de análisis"
 date: 2025-09-29T18:56:00.000-04:00
 ---
 *
