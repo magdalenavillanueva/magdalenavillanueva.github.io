@@ -9,30 +9,30 @@ date: 2025-09-29T18:56:00.000-04:00
 
 * ![](/assets/img/banner-el-pintor-de-almas.png)
 
-  1. Biografía de Ildefonso María Falcones de Sierra.
+  **1. Biografía de Ildefonso María Falcones de Sierra.**
 
-  2. Cuando el arte y la historia tienen mucho que contar en El pintor de
+  **2. Cuando el arte y la historia tienen mucho que contar en El pintor de**
 
-  almas.
-
-
-
-  3. Análisis de los personajes principales de la novela: Dalmau Sala y
-
-  Emma Tàsies.
-
-  4. Análisis de los personajes secundarios.
-
-  5. Ambiente histórico en el que se desarrollan los acontecimientos de la
-
-  obra.
+  **almas.**
 
 
 
-  6. Ambiente físico: Barcelona.
+  **3. Análisis de los personajes principales de la novela: Dalmau Sala y**
+
+  **Emma Tàsies.**
+
+  **4. Análisis de los personajes secundarios.**
+
+  **5. Ambiente histórico en el que se desarrollan los acontecimientos de la**
+
+  **obra.**
 
 
 
-  7. Monumentos y sitios emblemáticos en El pintor de almas.
+  **6. Ambiente físico: Barcelona.**
 
-  8. Gastronomía: una serie de recetas catalanas.
+
+
+  **7. Monumentos y sitios emblemáticos en El pintor de almas.**
+
+  **8. Gastronomía: una serie de recetas catalanas.**
