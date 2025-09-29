@@ -14,39 +14,39 @@ Trabajó en el Museo del Prado, al jubilarse se trasladó a Candeleda con su fam
 
 ## Tía Sole:
 
-La hermana de Félix es la tercera en leer y hacer cumplir las voluntades de su cuñada post mortem. Una mujer con temple en enfrentar las desavenencias, dirige un bar restaurante llamado El Pimentón. Mantenía una relación con Ana a escondidas de su familia y ciudadanos del pueblo Candeleda. Cuando muere Ángela asumió su rol de conciliadora entre Félix y Gabriele y hace de  acompañante para buscar al hermano de Gabriele en Barcelona.
+La hermana de Félix es la tercera en leer y hacer cumplir las voluntades de su cuñada post mortem. Una mujer con temple en enfrentar las desavenencias, dirige un bar restaurante llamado El Pimentón. Mantenía una relación con Ana a escondidas de su familia y ciudadanos del pueblo de Candeleda. Cuando muere Ángela asumió su rol de conciliadora entre Félix y Gabriele y hace de  acompañante para buscar al hermano de Gabriele en Barcelona.
 
 ## Luis:
 
-El amigo de Gabriele, fiel al grupo de dos llamado DEP. Hombre contemporáneo, profesional exitoso y fracasado en el amor. Siempre fracasaba y compartía sus emociones con su fiel amiga. Al igual que Gabriele, estaba distanciado de su padre.  En este caso,  por su patrón conductual homosexual. Motivado a la muerte de Ángela, Luis se dirige a acompañar a Gabriele en el pueblo Candeleda. Al participar en la situación que estaba viviendo Gabriele con Félix, Luis decide conversar con su papá para darse otra oportunidad de relacionarse. Descubre las condiciones de salud de su padre, lo que hace que entienda y comprenda, reiniciando la aceptación de su padre de su condición sexual.
+El amigo de Gabriele, fiel al grupo de dos llamado DEP. Hombre contemporáneo, profesional exitoso y fracasado en el amor. Siempre fracasaba y compartía sus emociones con su fiel amiga. Al igual que Gabriele, estaba distanciado de su padre.  En este caso,  por su patrón conductual homosexual. Motivado a la muerte de Ángela, Luis se dirige a acompañar a Gabriele en el pueblo de Candeleda. Al participar en la situación que estaba viviendo Gabriele con Félix, Luis decide conversar con su papá para darse otra oportunidad de relacionarse. Descubre las condiciones de salud de su padre, lo que hace que entienda y comprenda, reiniciando la aceptación de su padre de su condición sexual.
 
 ![](/assets/img/personajes-secundarios.png)
 
-## Joseph: 
+## Joseph:
 
-Hombre artista era el exnovio de Gabriele.
+Artista, era el exnovio de Gabriele.
 
 ## Abuela Martina:
 
 Era la madre de Félix y Sole, la nuera de Ángela y la abuela de Gabriele. 
 
-## Ada: 
+## Ada:
 
-La pareja de Sole y la cocinera del Bar El Pimentón.
+Es la pareja de Sole y la cocinera del Bar El Pimentón.
 
-## Lola: 
+## Lola:
 
 Sastre del barrio de Salamanca de Madrid,  tenía un taller donde Ángela trabajó como diseñadora y costurera. Siempre quiso hacer contacto con Ángela para conversar sobre el hijo abandonado. Siendo una anciana de aproximadamente 90 años, Gabriele y su tía Sole se comunican con ella, la única vía para conocer al hijo de Ángela.
 
-## Julio:  
+## Julio:
 
 Diseñador de moda que fue el amante de Ángela. Tenía una familia adinerada, desde su posición de niño mimado se dedicó a hacer de su vida una libertad sin compromiso y responsabilidad. Los padres se responsabilizaron del hijo de Julio con Ángela.
 
-## Paco: 
+## Paco:
 
 Ex novio artista de Gabriele. 
 
-## Amparo: 
+## Amparo:
 
 Es la amiga de Ángela y la segunda esposa del Farmacéutico. Era una mujer con una cultura budista y motivada por la amistad, se expresó en la misa funeraria de Ángela. 
 
@@ -54,24 +54,35 @@ Es la amiga de Ángela y la segunda esposa del Farmacéutico. Era una mujer con 
 
 El ex novio de Gabriele.
 
-Uriel: es el hijo de Asun y Cosme. Al igual que su padre, su esposa se murió y le deja una hija llamada Cloe. Ambos se van a vivir al pueblo  de Candeleda. Ahí, comienza a cuidar caballos en un establo llamado Santuario y consigue su segundo amor: Gabriele.
+### **Uriel:** 
 
-## Asun:  
+Es el hijo de Asun y Cosme. Al igual que su padre, su esposa se murió y le deja una hija llamada Cloe. Ambos se van a vivir al pueblo  de Candeleda. Ahí, comienza a cuidar caballos en un establo llamado Santuario y consigue su segundo amor: Gabriele.
 
-La madre muerta de Uriel 
+## Asun:
 
-## Cosme: 
+Es la madre muerta de Uriel 
 
-Amigo de Félix y Sole. El actúa como conciliador dentro de la Familia. Tiene una pareja llamada Manuela. Ellos mantienen una relación estable y armoniosa.
+## Cosme:
 
-## Manuela: 
+Es el amigo de Félix y Sole. El actúa como conciliador dentro de la Familia. Tiene una pareja llamada Manuela. Ellos mantienen una relación estable y armoniosa.
 
-La pareja de Cosme, una mujer hogareña.
+## Manuela:
 
-## Candela: 
+Es la pareja de Cosme, una mujer hogareña.
+
+## Candela:
 
 Trabaja en el Bar El Pimentón y vive con sus padres en Candeleda.
 
-## Cloe: 
+## Cloe:
 
-La hija de Uriel y la nieta de Cosme. Una preadolescente que le gustaba dibujar y conversar sobre lo que trasmitía su dibujo en relación a los sentimientos y los motivos. Creía en la presencia de su mamá muerta.
+Es la hija de Uriel y la nieta de Cosme. Una preadolescente que le gustaba dibujar y conversar sobre lo que trasmitía su dibujo en relación a los sentimientos y los motivos. Creía en la presencia de su mamá muerta.
+
+
+
+
+
+### Gerardo Doriga: 
+
+Es el hijo de Julio y Greta, fue educado por sus abuelos por parte del padre. Él descubre quien fue su madre
+biológica después que esta muere. Al principio le era indiferente enterarse de la existencia de su madre y su hermana. Pero se fue integrando para estar presente en cumplir el sueño de Ángela, al esparcir sus  cenizas.
