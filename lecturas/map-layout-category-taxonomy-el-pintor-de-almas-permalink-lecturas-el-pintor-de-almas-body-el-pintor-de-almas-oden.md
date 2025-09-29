@@ -3,4 +3,4 @@ layout: category
 taxonomy: El Pintor de Almas
 permalink: /lecturas/el-pintor-de-almas
 ---
-El Pintor de Almas. Oden
+# El Pintor de Almas. Oden de Análisis
