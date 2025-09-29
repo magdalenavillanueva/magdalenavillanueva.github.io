@@ -27,7 +27,7 @@ El compositor fue el estadounidense Henry Mancini, compositor, director de orque
 
 **La vie en Rose:**
 
-1946 fue el año en que la autora y cantante Edith Piaf graba para ofrecer al público una canción de amor en París. La letra expresa que el amor hacia un hombre y como al estar en contacto de un abrazo siente una emoción que la aleja de sus pesares. La autora fue la voz de París, enamorándose de Marcel Cerdán, el Puño de Francia, campeon mundial
+1946 fue el año en que la autora y cantante Edith Piaf graba para ofrecer al público una canción de amor en París. La letra expresa que el amor hacia un hombre y como al estar en contacto de un abrazo siente una emoción que la aleja de sus pesares. La autora fue la voz de París, enamorándose de Marcel Cerdán, el Puño de Francia, campeon mundial.
 
 **Cabalgata de los Valkirias de  Richard Wagner:**
 
@@ -37,7 +37,7 @@ la música, la danza, la poesía, la pintura, la escultura y la arquitectura.
 **Ave María**:
 
 Pertenece al ciclo de siete canciones del compositor austriaco Franz
-Schubert. Su contenido fue inspirado en la lectura de un poema épico del británico Walter Scott de 1810. Las canciones se encuentran publicadas en el opus 52. El compositor de los principios del Romanticismo musical y continuaba con el modelo de Ludwig van Beethoven
+Schubert. Su contenido fue inspirado en la lectura de un poema épico del británico Walter Scott de 1810. Las canciones se encuentran publicadas en el opus 52. El compositor de los principios del Romanticismo musical que continuaba con el modelo de Ludwig van Beethoven.
 
 ![](/assets/img/musica-un-oceano-para-llegar-a-ti.png)
 
@@ -45,16 +45,23 @@ Schubert. Su contenido fue inspirado en la lectura de un poema épico del britá
 
 **Iglesia de Nuestra Señora de la Asunción:** 
 
-Es un templo religioso de culto católico bajo el nombre mariano de Nuestra Señora de la Asunción de la localidad de Candeleda, provincia de Ávila, comunidad autónoma de Castilla y León, en España. Declarado monumento de interés cultural en el año de 1991
+Es un templo religioso de culto católico bajo el nombre mariano de Nuestra Señora de la Asunción de la localidad de Candeleda, provincia de Ávila, comunidad autónoma de Castilla y León, en España. Declarado monumento de interés cultural en el año de 1991.
 
 **Lanzarote:** 
 
 Pertenece al grupo de las islas Canarias frente a la costa de
-África Occidental dependientes de España. Tiene un clima cálido todo el año, playas y paisaje volcánico. El paisaje rocoso del Parque Nacional Timanfaya fue creado por erupciones volcánicas en la década de 1730. La Cueva de los Verdes tiene cavernas formadas por un río subterráneo de lava. Puerto del Carmen, un centro turístico de la costa este, cuenta con villas encaladas, playas y centros de buceo
+África Occidental dependientes de España. Tiene un clima cálido todo el año, playas y paisaje volcánico. El paisaje rocoso del Parque Nacional Timanfaya fue creado por erupciones volcánicas en la década de 1730. La Cueva de los Verdes tiene cavernas formadas por un río subterráneo de lava. Puerto del Carmen, un centro turístico de la costa este, cuenta con villas encaladas, playas y centros de buceo.
+
+
+**Talavera:** 
+
+ Su nombre es Talavera de la Reina, un municipio y ciudad española de la provincia de Toledo de Castilla-La Mancha.  Ubicada al noroeste de la comunidad autónoma, la ciudad propiamente dicha se extiende por la margen
+derecha del río Tajo, ​ a unos 4 km al oeste de la desembocadura del río Alberche, que también se encuentra dentro del término municipal.
+
 
 **Túneles de los Monegros:** 
 
-Es un canal pensado en el Plan de Riegos del Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo estaban pasando la zona de túneles de los Monegros, era la parte del trayecto con peor cobertura”.    *Un océano para llegar a ti* de Sandra Barneda
+Es un canal pensado en el Plan de Riegos del Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo estaban pasando la zona de túneles de los Monegros, era la parte del trayecto con peor cobertura”.    *Un océano para llegar a ti* de Sandra Barneda.
 
 **Candeleda:** 
 
@@ -66,11 +73,11 @@ En el pueblo de Candeleda, existen comercios que llevan el nombre de pimentón, 
 
 **Estación de Atocha:** 
 
-Complejo ferroviario ubicado en las cercanías de la Plaza del Emperador Carlos V, en Madrid (España).  En la obra observamos el ejemplo Después de perderse varias veces por los pasillos de la estación de Atocha, atrapada por los nervios, la angustia y las ganas de llegar, vio cómo de lejos  la saludaba con la mano su tía Sole.  Pág. 25.    de   Sandra Barneda.
+Complejo ferroviario ubicado en las cercanías de la Plaza del Emperador Carlos V, en Madrid (España).  En la obra observamos el ejemplo Después de perderse varias veces por los pasillos de la estación de Atocha, atrapada por los nervios, la angustia y las ganas de llegar, vio cómo de lejos  la saludaba con la mano su tía Sole.  Un Océano para llegar a ti  de  Sandra Barneda.
 
 **Hospital de Talavera:** 
 
-Se llama Hospital Nuestra Señora del Prado. Inaugurado el 19 de febrero de \[1974]en Talavera de la Reina en España.
+Se llama Hospital Nuestra Señora del Prado. Inaugurado el 19 de febrero de \[1974] en Talavera de la Reina en España.
 
 **Glorieta de la plaza del Emperador Carlos V:** 
 
@@ -80,7 +87,7 @@ converge el paseo del Prado, las calles: Atocha, Santa Isabel. En 1941 su nombre
 **Almanzor:** 
 
 Es un pico montañoso que lo citan como la Plaza del Moro
-Almanzor. Queda en la península ibérica de la sierra de Gredos. Está ubicado en la provincia española de Avila
+Almanzor. Queda en la península ibérica de la sierra de Gredos. Está ubicado en la provincia española de Avila.
 
 **La Massana:**
 
@@ -93,29 +100,23 @@ remodelación de la plaza de la Garduña.
 
 **Madrid:** 
 
- Es una ciudad principal de España, donde albergan las principales sedes gubernamentales. A su vez, es donde existe la mayor concentración de población
+ Es una ciudad principal de España, donde albergan las principales sedes gubernamentales. A su vez, es donde existe la mayor concentración de población.
 
 **Museo del Prado:**
 
 Sede en Madrid, España. Es la institución cultural más importante del país. Tiene cuadros tanto españoles como del resto de Europa entre los siglos XV y XVIII, y españoles del XIX, De acuerdo al inventario del 2017 hay más de 35000 objetos entre pinturas, dibujos, estampas, esculturas, decorativas y etc. 
 
-**Túneles de los Monegros:** 
 
-Es un canal pensado en el Plan de Riegos del Alto Aragón de 1902. Su construcción comenzó en 1915 y tiene 130 km de longitud.   Observamos el ejemplo: “Justo
-estaban pasando la zona de túneles de los Monegros, era la parte del trayecto
-con peor cobertura”.    *Un océano para llegar a ti*     de  Sandra Barneda
 
-**Talavera:** 
 
-Su nombre es Talavera de la Reina, un municipio y ciudad española de la provincia de Toledo de Castilla-La Mancha.  Ubicada al noroeste de la comunidad autónoma, la ciudad propiamente dicha se extiende por la margen derecha del río Tajo, ​ a unos 4 km al oeste de la desembocadura del río Alberche, que también se encuentra dentro del término municipal.
 
 ![](/assets/img/sitios-de-un-ocesno-para-llegar-a-ti.png)
 
 # Etiquetas:
 
-DOP: Disminuidos Emocionales para Siempre
+**DOP:** Disminuidos Emocionales para Siempre.
 
-# Obra de Arte:
+# Obra de Arte:Se observa en el siguiente ejemplo
 
 ![](/assets/img/mienina.jpg){:width="200" style="float: right"}
 **Menina de Velázquez:** 
@@ -141,7 +142,7 @@ Inmueble reservado a la conservación y manifestación de colecciones pictórica
 ![](/assets/img/carta-a-theo-de-vicent-van-gogh.-1914.jpg)
 ***Carta a Theo de Vicent Van Gogh. 1914:***
 
- Autobiografía por medio de cartas.  Un último beso, apenas un roce de labios sin que Félix despegara la  mirada del libro que andaba releyendo, Cartas a Theo, un recopilatorio de la correspondencia que Vincent Van Gogh mantuvo con su hermano.   *Un océano para llegar a ti*  de Sandra Barneda.
+ Autobiografía por medio de cartas.  Se observa en el siguiente ejemplo: Un último beso, apenas un roce de labios sin que Félix despegara la  mirada del libro que andaba releyendo, Cartas a Theo, un recopilatorio de la correspondencia que Vincent Van Gogh mantuvo con su hermano.   *Un océano para llegar a ti*  de Sandra Barneda.
 
 # Pintura Japonesa:
 
@@ -153,20 +154,10 @@ Es un término japonés para referirse a un tipo de arte o práctica creativa di
 
 Mikto ( japonés) Lo observamos en este ejemplo —Sí, a la exposición de Mikto, el artista japonés del que te hablé. Con este me retiro, pequeña, y me voy a Hawái a vivir y a olvidarme de los hombres europeos que me desquician.   *Un océano para llegar a ti*  de   Sandra Barneda.
 
-
-
-
-
-
 # Deporte:
-
-
-
-
-
 
 ![](/assets/img/spinning.jpg){:width="300" style="float: left"}
 
-Spinning: 
+**Spinning:** 
 
- Un ejercicio físico colectivo que se realiza en una bicicleta estática
+ Un ejercicio físico colectivo que se realiza en una bicicleta estática.
