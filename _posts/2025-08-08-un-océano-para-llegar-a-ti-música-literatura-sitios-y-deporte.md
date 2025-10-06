@@ -27,7 +27,7 @@ El compositor fue el estadounidense Henry Mancini, compositor, director de orque
 
 **La vie en Rose:**
 
-1946 fue el año en que la autora y cantante Edith Piaf graba para ofrecer al público una canción de amor en París. La letra expresa que el amor hacia un hombre y como al estar en contacto de un abrazo siente una emoción que la aleja de sus pesares. La autora fue la voz de París, enamorándose de Marcel Cerdán, el Puño de Francia, campeon mundial.
+1946 fue el año en que la autora y cantante Edith Piaf graba para ofrecer al público una canción de amor en París. La letra expresa que el amor hacia un hombre y como al estar en contacto de un abrazo siente una emoción que la aleja de sus pesares. La autora fue la voz de París, enamorándose de Marcel Cerdán, el Puño de Francia, campeón mundial.
 
 **Cabalgata de los Valkirias de  Richard Wagner:**
 
@@ -52,12 +52,10 @@ Es un templo religioso de culto católico bajo el nombre mariano de Nuest
 Pertenece al grupo de las islas Canarias frente a la costa de
 África Occidental dependientes de España. Tiene un clima cálido todo el año, playas y paisaje volcánico. El paisaje rocoso del Parque Nacional Timanfaya fue creado por erupciones volcánicas en la década de 1730. La Cueva de los Verdes tiene cavernas formadas por un río subterráneo de lava. Puerto del Carmen, un centro turístico de la costa este, cuenta con villas encaladas, playas y centros de buceo.
 
-
 **Talavera:** 
 
  Su nombre es Talavera de la Reina, un municipio y ciudad española de la provincia de Toledo de Castilla-La Mancha.  Ubicada al noroeste de la comunidad autónoma, la ciudad propiamente dicha se extiende por la margen
 derecha del río Tajo, ​ a unos 4 km al oeste de la desembocadura del río Alberche, que también se encuentra dentro del término municipal.
-
 
 **Túneles de los Monegros:** 
 
@@ -106,10 +104,6 @@ remodelación de la plaza de la Garduña.
 
 Sede en Madrid, España. Es la institución cultural más importante del país. Tiene cuadros tanto españoles como del resto de Europa entre los siglos XV y XVIII, y españoles del XIX, De acuerdo al inventario del 2017 hay más de 35000 objetos entre pinturas, dibujos, estampas, esculturas, decorativas y etc. 
 
-
-
-
-
 ![](/assets/img/sitios-de-un-ocesno-para-llegar-a-ti.png)
 
 # Etiquetas:
@@ -118,13 +112,17 @@ Sede en Madrid, España. Es la institución cultural más importante del país. 
 
 # Obra de Arte:Se observa en el siguiente ejemplo
 
-![](/assets/img/mienina.jpg){:width="200" style="float: right"}
+![](/assets/img/mienina.jpg)
+
+{:width="200" style="float: right"}
 **Menina de Velázquez:** 
 
 Obra del artista visual Diego Velázquez en el año 1656. Es una obra con
 historia. Su nombre ha cambiado y actualmente se titula menina que en portugués significa niña y en España se refería a las cuidadoras reales.
 
-![](/assets/img/pinacotecas.jpg){:width="300" style="float: left"}
+![](/assets/img/pinacotecas.jpg)
+
+{:width="300" style="float: left"}
 **Pinacotecas:** 
 
 Inmueble reservado a la conservación y manifestación de colecciones pictóricas.
@@ -135,11 +133,14 @@ Inmueble reservado a la conservación y manifestación de colecciones pictórica
 
 # Películas:
 
-![](/assets/img/actores-y-peliculas-de-un-oceano-para-llegar-a-ti.png){:width="200" style="float: right"}
+![](/assets/img/actores-y-peliculas-de-un-oceano-para-llegar-a-ti.png)
+
+{:width="200" style="float: right"}
 
 # Libro:
 
 ![](/assets/img/carta-a-theo-de-vicent-van-gogh.-1914.jpg)
+
 ***Carta a Theo de Vicent Van Gogh. 1914:***
 
  Autobiografía por medio de cartas.  Se observa en el siguiente ejemplo: Un último beso, apenas un roce de labios sin que Félix despegara la  mirada del libro que andaba releyendo, Cartas a Theo, un recopilatorio de la correspondencia que Vincent Van Gogh mantuvo con su hermano.   *Un océano para llegar a ti*  de Sandra Barneda.
@@ -148,7 +149,9 @@ Inmueble reservado a la conservación y manifestación de colecciones pictórica
 
 **Mikto ( japonés):** 
 
-![](/assets/img/mikto.jpg){:width="300" style="float: left"}
+![](/assets/img/mikto.jpg)
+
+{:width="300" style="float: left"}
 
 Es un término japonés para referirse a un tipo de arte o práctica creativa digital, callejero de la cultura japonesa.
 
@@ -156,7 +159,9 @@ Mikto ( japonés) Lo observamos en este ejemplo —Sí, a la exposición de Mikt
 
 # Deporte:
 
-![](/assets/img/spinning.jpg){:width="300" style="float: left"}
+![](/assets/img/spinning.jpg)
+
+{:width="300" style="float: left"}
 
 **Spinning:** 
 
