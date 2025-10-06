@@ -9,21 +9,10 @@ date: 2025-08-19T18:32:00.000-04:00
 
 **Etta:** 
 
-
-
-
-
-
-Nace en el año 1939 en el inicio
-de la Segunda Guerra Mundial. Era una chica con características físicas
-normales. Crece y estudia hasta que conoce a Louis, quedando embarazada. La
-familia de Etta vivía en el campo, dueños de hectáreas de maizales. El esposo
-muere en un accidente en el campo, asumiendo el embarazo con aislamiento. Era
-una mujer alta, con sobrepeso. Esto hacia que 
+Nace en el año 1939 en el inicio de la Segunda Guerra Mundial. Era una chica con características físicas normales. Crece y estudia hasta que conoce a Louis, quedando embarazada. La familia de Etta vivía en el campo, dueños de hectáreas de maizales. El esposo muere en un accidente en el campo, asumiendo el embarazo con aislamiento. Era una mujer alta, con sobrepeso. Esto hacia que 
 el embarazo no se notara, dando luz en la cocina sin asistencia médica.
 
-Con Cecilia continuó viviendo en
-aislamiento y medicada, cuidando a la niña la madre de Etta.  Posteriormente deja de consumir drogas,
+Con Cecilia continuó viviendo en aislamiento y medicada, cuidando a la niña la madre de Etta.  Posteriormente deja de consumir drogas,
 saliendo en  busca de  compañías masculinas y maltratando a
 Cecilia.  
 
@@ -33,13 +22,9 @@ Se mantenía sola, acostada, no se dedicaba a asear ni a cocinar ocasionando que
 Cecilia desmejorara. Etta se suicida a los 32 años, colgándose de un árbol con
 unos cinturones de Henry, dejando a Cecilia.
 
- 
+![](/assets/img/gemini_generated_image_7ep43l7ep43l7ep4.png)
 
- 
-
- 
-
-![](/assets/img/gemini_generated_image_7ep43l7ep43l7ep4.png){:width="300" style="float: left"}
+{:width="300" style="float: left"}
 
 **Louis:** 
 
@@ -54,8 +39,6 @@ Un recién llegado al pueblo que se
 enamora de Etta. Se van a vivir juntos con Cecilia. Compró una vivienda y
 mantenía comunicación con su familia. Era cariñoso y le gustaban los niños.
 Tenía una empresa de golosinas.
-
- 
 
 **Cecilia:** 
 
@@ -104,7 +87,6 @@ de mantenimiento del hospital y tenía buen sueldo.
 La única amiga de Blythe.
 Mantenían contacto después de licenciarse. 
 
-
 **Familia Ellington:** 
 
 Era una familia que vivía cerca de la casa donde residía  Blythe. Tenían dos hijos: Thomas y Daniel. En
@@ -122,7 +104,7 @@ gustaba inventar historias.
 **Daniel Ellington:** 
 
 El hermano menor de Thomas. Tenía muy buena comunicación con
-Blythe, jugaban y disfrutaban de estar juntos
+Blythe, jugaban y disfrutaban de estar juntos.
 
 **Violet:**
 
