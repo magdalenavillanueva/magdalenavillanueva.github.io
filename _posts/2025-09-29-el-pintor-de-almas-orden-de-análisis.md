@@ -5,11 +5,9 @@ categories:
 title: "El Pintor de Almas: Orden de análisis"
 date: 2025-09-29T18:56:00.000-04:00
 ---
-![](/assets/img/banner-el-pintor-de-almas.png)
-
-<center>**El PINTOR DE ALMAS</center> 
+<center>El PINTOR DE ALMAS</center> 
 <center>ILDEFONSO ALCONES DE SIERRA</center>
-                       Orden de análisis:** 
+                       Orden de análisis*
 
 * **1. Biografía de Ildefonso María Falcones de Sierra .**
 * **2. Cuando el arte y la historia tienen mucho que contar en El pintor de**
