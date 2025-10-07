@@ -5,6 +5,8 @@ categories:
 title: "El Pintor de Almas: Orden de análisis"
 date: 2025-09-29T18:56:00.000-04:00
 ---
+![](/assets/img/banner-el-pintor-de-almas.png)
+
 <center>El PINTOR DE ALMAS</center> 
 <center>ILDEFONSO ALCONES DE SIERRA</center>
  
