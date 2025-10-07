@@ -11,9 +11,6 @@ date: 2025-09-29T18:56:00.000-04:00
 <center>ILDEFONSO ALCONES DE SIERRA</center>
  
 
-
-
-
 * **1. Biografía de Ildefonso María Falcones de Sierra .**
 * **2. Cuando el arte y la historia tienen mucho que contar en El pintor de**
 
@@ -29,4 +26,6 @@ date: 2025-09-29T18:56:00.000-04:00
 * **7. Monumentos y sitios emblemáticos en El pintor de almas.**
 * **8. Gastronomía: una serie de recetas catalanas.**
 
-> "En realidad no hay otro infierno que este, el que sufrimos nosotros, con la miseria, los salarios exiguos, humillante..."   Vicente Blasco Ibáñez.1904
+> ##### "En realidad no hay otro infierno que este, el que sufrimos nosotros, con la miseria, los salarios exiguos, humillante..."   
+>
+> ###### Vicente Blasco Ibáñez.1904
