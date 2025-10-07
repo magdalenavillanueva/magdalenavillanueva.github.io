@@ -7,7 +7,11 @@ date: 2025-09-29T18:56:00.000-04:00
 ---
 ![](/assets/img/banner-el-pintor-de-almas.png)
 
-*  **1. Biografía de Ildefonso María Falcones de Sierra .**
+**El PINTOR DE ALMAS
+ILDEFONSO ALCONES DE SIERRA
+                       Orden de análisis:** 
+
+* **1. Biografía de Ildefonso María Falcones de Sierra .**
 * **2. Cuando el arte y la historia tienen mucho que contar en El pintor de**
 
   **almas.**
