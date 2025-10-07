@@ -26,6 +26,11 @@ date: 2025-09-29T18:56:00.000-04:00
 * **7. Monumentos y sitios emblemáticos en El pintor de almas.**
 * **8. Gastronomía: una serie de recetas catalanas.**
 
-> ##### "En realidad no hay otro infierno que este, el que sufrimos nosotros, con la miseria, los salarios exiguos, humillante..."   
+> ##### "
 >
-> ###### Vicente Blasco Ibáñez.1904
+>
+> **<center>"LA BÚSQUEDA DE LA BELLEZA EN LA FEALDAD"</center>**
+>
+> ##### 
+>
+>
