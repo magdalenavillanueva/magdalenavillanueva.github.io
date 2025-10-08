@@ -33,4 +33,5 @@ El 10 de junio de 2009 publicó su segunda obra, *La mano de Fátima*, que se co
 En 2019, publica *El pintor de almas* ambientada en la Barcelona de principios del siglo XX, donde el autor retrata los albores del siglo XX cuando el Modernismo arquitectónico cambió la faz de Barcelona,  tras la intervención de los arquitectos más famosos de comienzos de ese siglo.![](/assets/img/6.png){:width="300" style="float: left"}
 
 
+
 En 2022  publica *Esclava de la libertad*, una novela histórica  que describe la esclavitud en las colonias españolas. Después de  *Los herederos de la tierra*,  aparece ocho años  más tarde, en febrero de 2025  *En el amor y en la guerra*  que es la tercera parte  de la Trilogía *La catedral del mar*. ![](/assets/img/7.png){:width="200" style="float: right"}
