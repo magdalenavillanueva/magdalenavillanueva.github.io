@@ -16,7 +16,9 @@ Ildefonso María Falcones de Sierra es un abogado y escritor español, que naci�
 ![](/assets/img/3.png){:width="300" style="float: left"}
 Aunque ya se había iniciado en la literatura, en estos últimos años había compaginado el Derecho  con su pasión de escribir libros. Tardó mucho en dejar la abogacía para dedicarse a la literatura, pero al final  tuvo que hacerlo.
 
+
 Es casado y con cuatro hijos, criado en la zona alta de Barcelona, educado en los mejores colegios y socio de los clubes más elitistas catalanes. Conocido por ser el autor de *La catedral del mar* (2006), ganó el premio Euskadi de Plata, el Qué leer, el Fundación José Manuel Lara y el prestigioso galardón italiano Giovanni Bocaccio al mejor autor extranjero. Fue el libro más leído del año 2007 en España.
+
 
 El 10 de junio de 2009 publicó su segunda obra, *La mano de Fátima*, que se convirtió en un gran éxito vendiendo cincuenta mil ejemplares el día de su estreno. ​ *La mano de Fátima* fue galardonada en 2010 con el premio Roma en la categoría Literatura extranjera.​![](/assets/img/fatima.png){:width="200" style="float: right"}
 
