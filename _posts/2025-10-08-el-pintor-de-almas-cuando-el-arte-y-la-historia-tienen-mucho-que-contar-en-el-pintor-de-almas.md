@@ -15,7 +15,7 @@ date: 2025-09-29T18:56:00.000-04:00
 
  Por otro lado, su trabajo en el taller de cerámica de don Manuel Bello, su mentor y un conservador burgués de férreas creencias católicas, lo acerca a un ambiente donde imperan la riqueza y la innovación creativa. 
 
-![](/assets/img/casa-milà-en-1911.png){:width="200" style="float: right"}De este modo, seducido por las tentadoras ofertas de una burguesía dispuesta a comprar
+![](/assets/img/casa-milà-en-1911.png){:width="500" style="float: right"}De este modo, seducido por las tentadoras ofertas de una burguesía dispuesta a comprar
 su obra y su conciencia, Dalmau tendrá que encontrar su auténtico camino, como
 hombre y como artista, y alejarse de las noches de vino y drogas en las que ha
 caído, para descubrir lo que de verdad le importa: sus valores, su esencia, el
