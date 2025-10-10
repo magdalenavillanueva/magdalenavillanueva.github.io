@@ -9,7 +9,7 @@ date: 2025-09-29T18:56:00.000-04:00
 ![](/assets/img/banner-el-pintor-de-almas.png)
 
 <center>El PINTOR DE ALMAS</center> 
-<center>ILDEFONSO ALCONES DE SIERRA</center>
+<center>ILDEFONSO FALCONES DE SIERRA</center>
 
  Dalmau Sala, el personaje principal es hijo de un anarquista ajusticiado, un joven pintor que vive atrapado entre dos mundos. Por un lado, su familia y Emma, la mujer que ama, son firmes defensores de la lucha obrera; hombres y mujeres que no conocen el miedo a la hora de exigir los derechos de los trabajadores que se enfrentan a la guardia civil o al ejército, como se observa en este ejemplo: ´´Al día siguiente, 17 de febrero, cien mil trabajadores paralizaron Barcelona. Esa misma mañana se produjeron los primeros enfrentamientos con la Guardia Civil, que dejaron el resultado de varios muertos y heridos. *El pintor de almas* de Ildefonso Falcones.
 
