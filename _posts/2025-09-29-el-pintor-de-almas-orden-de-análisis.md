@@ -27,11 +27,9 @@ date: 2025-09-29T18:56:00.000-04:00
 
 * **8. Gastronomía: una serie de recetas catalanas.**
 
-> ##### 
->
->
-> **<center>"LA BÚSQUEDA DE LA BELLEZA EN LA FEALDAD"</center>**
->
-> ##### 
->
->
+
+
+ **<center>"LA BÚSQUEDA DE LA BELLEZA EN LA FEALDAD"</center>**
+
+
+
