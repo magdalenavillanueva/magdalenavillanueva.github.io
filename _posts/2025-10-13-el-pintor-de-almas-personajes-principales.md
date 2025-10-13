@@ -32,11 +32,6 @@ Y después de superar el infierno en el que había caído, el nuevo Dalmau, mode
  
 
 
-![](/assets/img/emma.jpg)
-
-
-
-
-{:width="200" style="float: left"}De rostro ovalado, ojos grandes y castaños, labios carnosos, pómulos algo prominentes, nariz recta, pechos grandes, vientre plano, cintura estrecha y caderas redondas.  Era proporcionada y voluptuosa, pero también, apasionada, vehemente e inteligente. Fue  la novia de Dalmau, y la mejor amiga de su hermana Montserrat e hija de un compañero anarquista del padre de Dalmau Sala.  Emma solo tenía doce años  cuando perdió a su padre. Había estudiado en un ateneo obrero, donde le enseñaron a leer y escribir, a contar y sumar, cocinar, coser,  bordar y poco más antes de que empezara a trabajar, primero en el matadero, con su tío, durante poco tiempo, y luego labora como cocinera en la casa de comidas de Bertrán.  Cuando la echaron Emma comenzó a faenar con   Matías, el pollero.
+![](/assets/img/emma.jpg){:width="200" style="float: left"}De rostro ovalado, ojos grandes y castaños, labios carnosos, pómulos algo prominentes, nariz recta, pechos grandes, vientre plano, cintura estrecha y caderas redondas.  Era proporcionada y voluptuosa, pero también, apasionada, vehemente e inteligente. Fue  la novia de Dalmau, y la mejor amiga de su hermana Montserrat e hija de un compañero anarquista del padre de Dalmau Sala.  Emma solo tenía doce años  cuando perdió a su padre. Había estudiado en un ateneo obrero, donde le enseñaron a leer y escribir, a contar y sumar, cocinar, coser,  bordar y poco más antes de que empezara a trabajar, primero en el matadero, con su tío, durante poco tiempo, y luego labora como cocinera en la casa de comidas de Bertrán.  Cuando la echaron Emma comenzó a faenar con   Matías, el pollero.
 
 Desde el principio de la novela Emma, es una luchadora incansable por la igualdad de todos los ciudadanos, es una defensora de los derechos de los obreros y acude a toda manifestación que se convoca junto con Montserrat, como se observa en el ejemplo: *´´*Emma se vio arrastrada por un grupo de huelguistas que huía de la barricada y que corrió a ponerse a salvo. No quería perder de vista a Montserrat. Trastabilló y se encontró sola en la calle, la mayoría de la gente por detrás de ella, alejada; las anarquistas con sus banderas rojas y algunos huelguistas parapetados por delante, y más allá, los soldados.  Montserrat continuaba en pie, de espaldas a la barricada, mirándola*´´*.   *El pintor de almas* de Ildefonso Falcones.
