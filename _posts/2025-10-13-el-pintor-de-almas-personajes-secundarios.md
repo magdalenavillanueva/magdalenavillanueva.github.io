@@ -10,44 +10,22 @@ date: 2025-09-29T18:56:00.000-04:00
 <center>El PINTOR DE ALMAS</center> 
 <center>ILDEFONSO FALCONES DE SIERRA</center>
 
-
-
-
-
 {:width="200" style="float: left"}
 
+**Josefa Port**:   
 
+Madre de Tomás, Dalmau y Montserrat.  Es una costurera que siempre  está pegada a la máquina de coser, como todas las costureras de Barcelona. Es trabajadora y decidida y lucha por sacar adelante a su familia. Incluso defiende a Emma de Expedito. Su manera de pensar y vivir estaba supeditada a la creencia
+anarquista que su esposo tenía y que ella continuó como parte de visión de vida. Se convirtió en
+una verdadera abuela para Julia, la hija de Emma.  Le escondía a su hijo Dalmau  los achaques propios de una vida de duro trabajo en  condiciones poco saludables. 
 
+**Tomás Sala:**   
 
+Es el hermano mayor de Dalmau. Es anarquista como el padre muerto: idealista, libertario, utópico.  Su visión de mundo estaba centrada en la ideología anarquista. Un día se cayó bajo las patas de un caballo de la
+policía, que lo pisoteó hasta herirlo de gravedad que no superó, a pesar de las intervenciones quirúrgicas a las que lo sometieron.  Escapó al destierro en París, donde recibió la ayuda de su  hermano.
 
+**Montserrat  Sala:**  
 
-Josefa Port:   madre
-de Tomás, Dalmau y Montserrat.  Es una
-costurera que siempre  está pegada a la
-máquina de coser, como todas las costureras de Barcelona. Es trabajadora y
-decidida y lucha por sacar adelante a su familia. Incluso defiende a Emma de
-Expedito. Su manera de pensar y vivir estaba supeditada a la creencia
-anarquista que su esposo tenía y que ella continuó como parte de visión de
-vida. Se convirtió en
-una verdadera abuela para Julia, la hija de Emma.  Le escondía a su hijo Dalmau  los achaques propios de una vida de duro
-trabajo en  condiciones poco saludables. 
-
-Tomás Sala:    es
-el hermano mayor de Dalmau. Es anarquista como el padre
-muerto: idealista, libertario, utópico.  Su visión de mundo estaba centrada en la
-ideología anarquista. Un día se cayó bajo las patas de un caballo de la
-policía, que lo pisoteó hasta herirlo de gravedad que no superó, a pesar de las
-intervenciones quirúrgicas a las que lo sometieron.  Escapó 
-al destierro en París, donde recibió la ayuda de su  hermano.
-
-Montserrat
- Sala:  tenía dieciocho años,  hermana  menor de Dalmau.
-Es apasionada en sus convicciones y no se frena ante el peligro de una
-manifestación. La detienen y encarcelan en la cárcel de Amalia, donde la
-violan, como se lo confiesa a Dalmau: ´´Aquí los presos te venden por menos
-dinero del que cobra una prostituta vieja en la calle´´.
-
- 
+Tenía dieciocho años,  hermana  menor de Dalmau. Es apasionada en sus convicciones y no se frena ante el peligro de una manifestación. La detienen y encarcelan en la cárcel de Amalia, donde la violan, como se lo confiesa a Dalmau: ´´Aquí los presos te venden por menos dinero del que cobra una prostituta vieja en la calle´´.
 
 Salió
 de la cárcel sucia y maloliente, silenciosa y desquiciada, con una visión más
@@ -58,8 +36,6 @@ producido por  las atrocidades padecidas.
 sectaria, lo que la ha convertido en una mente cerrada, que solo cree en
 lo que vive y le han enseñado.
 
- 
-
 El 17
 de febrero Barcelona estaba paralizada.  Los
 militares montaron una ametralladora frente a los revolucionarios  y en una barricada Montserrat discutía con
@@ -69,8 +45,6 @@ ráfaga de ametralladora barrió la calle:
 como si quisiera escapar del cuerpo que la sostenía, mientras su rostro
 explotaba´´.   Pág. 98.  *El
 pintor de almas* de Ildefonso Falcones.
-
- 
 
 Manuel Bello: 
 de patillas anchas y tupidas que llegaban a
@@ -91,8 +65,6 @@ era burguesa, reaccionaria, conservadora y católica recalcitrante, sin embargo,
 menospreciaba a los humildes. Tenía tres hijos.  El aprecio que pudiera tener el maestro por
 Dalmau no era compartido por ella.
 
- 
-
 Ursula
 Bello:  hija de Celia y
 Manuel Bello.  Era la mayor de los
@@ -100,13 +72,9 @@ hermanos  Bello. Aunque aparentaba
 desprecio siempre anduvo detrás de Dalmau. Tenía curiosidad por la vida y los
 escarceos sexuales.
 
- 
-
 Anna:  rostro de mofletes colorados, le faltaban
 dientes. Era  la cocinera de  los 
 Bello.
-
- 
 
 Irene Amat:   hija
 de uno de los grandes industriales textiles de Barcelona.
@@ -117,8 +85,6 @@ duras, rectilíneas, que contrastaban con una nariz chata, quizá a causa de un
 golpe o de un accidente, unas cejas pobladas que se unían en el centro de su
 frente y el cabello negro ensortijado, voz ronca  y potente, de contextura grande y fuerte,
 manos ásperas, de dedos gordos y toscos.
-
- 
 
 Fue
 la  pareja de Emma Tàsies  y  tuvo
@@ -134,8 +100,6 @@ estuviera muerto*´´*.  Pág. 321.  
 *El pintor de almas* de
 Ildefonso Falcones.   
 
- 
-
 Julia:  hija de Antonio y Emma. Siempre
 acompañó  a su madre a las
 manifestaciones.  Era solo una niña 
@@ -143,42 +107,28 @@ cuando se fue a Francia. Julia ya mujer, estaba casada con un parisino con
 el que había tenido dos  hijos, y
 trabajaba como abogada defendiendo a obreros y a gente humilde. 
 
- 
-
 Rosa:    prima de Emma y siempre mantiene contacto con
 ella a pesar de las circunstancias.
-
- 
 
 Dora:  amiga 
 de Emma.  Inocente en su manera de
 ver el mundo y se deja llevar por los acontecimientos para evitar problemas.
 
- 
-
 José
 María Fuster:  de pelo corto y canoso, abogado. Defendió a Montserrat.
-
- 
 
 Don Ricardo:  de tez morena, aunque conservaba
 rasgos orientales, obeso, casado con una catalana,  y padre de cinco hijos.  Es un traficante  que funge de jefe del barrio Pekín, todo lo
 que pasa dentro y fuera del lugar es conocido y dirigido por él.
 
- 
-
 Teresa:    esposa
 de Don Ricardo.
-
- 
 
 Joaquín
 Truchero: joven
 y bien parecido, líder republicano.  Era atrevido
 y, desvergonzado.  Se aprovecha de su
 condición de líder para seducir a las mujeres del partido.
-
- 
 
 Alejandro
 Lerroux:  de frente despejada en un
@@ -192,8 +142,6 @@ obreros de entre dieciséis y veinticinco años, como milicia contra los grupos
 opositores y la  Iglesia.  Su discurso era extremista e incitaba al odio
 y la violencia.
 
- 
-
 Matías: viejo desdentado  que vendía pollos y gallinas.  Cuando Emma buscó
 trabajo, él le ofreció ayuda y logra así sobrevivir: *´´*—¿Acaso crees que te
 he contratado por tu belleza? —ironizó el viejo —. Hace tiempo que esta cesta
@@ -201,30 +149,20 @@ pesa demasiado para mí —explicó al  tiempo
 que la sopesaba y se la tendía para que la cogiera*´´*.  Pág. 153.  *El
 pintor de almas* de Ildefonso Falcones. 
 
- 
-
 Anastasi: 
 subarrendatario
 de Josefa Port. en  el piso de la calle Bertrellans.  Era un matón de poca monta, peligroso  y violento.
-
- 
 
 Remei: 
  esposa de Anastasi.  Era basta, inculta, analfabeta y tiene una
 actitud sumisa ante Anastasi.
 
- 
-
 Vicenç:   es el
 capitán de los jóvenes bárbaros que recorrían Barcelona. Vivía en el barrio
 fabril de Sant Martí de Provençals,
 
- 
-
 Félix:    jefe de cocinas del restaurante de la Casa
 del Pueblo. Es indiferente a las situaciones que pasaban sus empleados.
-
- 
 
 Expedito:   obeso 
 y repulsivo, asmático y siempre estaba sudoroso.  Era cocinero 
@@ -232,13 +170,9 @@ del restaurante de la Casa del Pueblo. 
 Aprovechó su rango para violentar a Emma.  Ante su rechazo la despide.  Tuvo que someterse.  Hacía más de un año se aprovechaba de ella y
 le hacia cualquier perversión  inimaginable.
 
- 
-
 Engracia: superaba la treintena, era otra
 cocinera de segunda del restaurante de la Casa del Pueblo. Se hace amiga de
 Emma y la aconsejaba y le hacía ver cual era la realidad de las cosas.
-
- 
 
 Maragliano: 
 era
@@ -249,15 +183,11 @@ bizantinos.  Contrató a Dalmau,  sabía de su trabajo con don Manuel. Trabaja
 en bastantes obras, tanto en Barcelona como fuera de ella:  tenía abierto un taller en
 Madrid. 
 
- 
-
 Gregoria:  una joven atractiva  de aproximadamente
 de veinte años. era católica fervorosa, recatada, silenciosa y prudente. Es una
 trabajadora minuciosa, compañera de Dalmau en el taller de mosaicos de
 Maragliano.  Fue novia de Dalmau por un
 tiempo hasta que la realidad los separó.
-
- 
 
 Pedro
 Sabater:  galerista  barcelonés. 
