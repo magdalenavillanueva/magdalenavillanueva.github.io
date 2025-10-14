@@ -137,19 +137,13 @@ Emma y la aconsejaba y le hacía ver cual era la realidad de las cosas.
 
 era un  italiano de unos cuarenta años que había aprendido su oficio en Génova, desde donde se trasladó a Barcelona ya con el reconocimiento y la consideración de maestro en mosaicos romanos y bizantinos.  Contrató a Dalmau,  sabía de su trabajo con don Manuel. Trabajaba en bastantes obras, tanto en Barcelona como fuera de ella:  tenía abierto un taller en Madrid. 
 
-Gregoria:  una joven atractiva  de aproximadamente
-de veinte años. era católica fervorosa, recatada, silenciosa y prudente. Es una
-trabajadora minuciosa, compañera de Dalmau en el taller de mosaicos de
-Maragliano.  Fue novia de Dalmau por un
-tiempo hasta que la realidad los separó.
+**Gregoria:**  
 
-Pedro
-Sabater:  galerista  barcelonés. 
-Su galería de arte se encuentra en la calle Diputació del Eixample.  Expone un cuadro de Dalmau Sala: *´´*En
-lugar destacado de la galería, un cuadro bien iluminado, quizá
+una joven atractiva  de aproximadamente de veinte años. era católica fervorosa, recatada, silenciosa y prudente. Es una trabajadora minuciosa, compañera de Dalmau en el taller de mosaicos de Maragliano.  Fue novia de Dalmau por un tiempo hasta que la realidad los separó.
 
-excesivamente, a juicio de
+**Pedro Sabater:**  
+
+galerista  barcelonés.  Su galería de arte se encuentra en la calle Diputació del Eixample.  Expone un cuadro de Dalmau Sala: *´´*En lugar destacado de la galería, un cuadro bien iluminado, quizá excesivamente, a juicio de
 Dalmau, puesto que mataba la luz que surgía de las hadas en la playa: *El taller de mosaicos*, la obra que le
 dijeron que habían tirado a la basura junto con la escultura de Rodin durante
-la Exposición de Bellas Artes de Barcelona de 1907*´´*.  Pág. 611.   *El
-pintor de almas* de Ildefonso Falcones.
+la Exposición de Bellas Artes de Barcelona de 1907*´´*.   *El pintor de almas* de Ildefonso Falcones.
