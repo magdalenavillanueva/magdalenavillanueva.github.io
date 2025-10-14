@@ -32,59 +32,38 @@ Salió de la cárcel sucia y maloliente, silenciosa y desquiciada, con una visi�
 El 17 de febrero Barcelona estaba paralizada.  Los militares montaron una ametralladora frente a los revolucionarios  y en una barricada Montserrat discutía con Emma sin bajar la cabeza. A principios del año de 1902 falleció cuando una ráfaga de ametralladora barrió la calle: ´´Emma vio la cabeza de su amiga sacudirse violentamente hacia delante, como si quisiera escapar del cuerpo que la sostenía, mientras su rostro
 explotaba´´.  *El pintor de almas* de Ildefonso Falcones.
 
-Manuel Bello: 
-de patillas anchas y tupidas que llegaban a
-juntársele con el bigote,  es el dueño de
-la fábrica de azulejos, mentor  y  jefe
-de Dalmau.  Era un conservador burgués de
-fuertes creencias católicas  y con amigos
-influyentes en los círculos monárquicos, religiosos y, por supuesto, militares.   El aprecio que pudiera tener el maestro por
-Dalmau no era  compartido por doña Celia,
-su esposa.  Se convirtió  en un fanático religioso que necesitaba hacer
-méritos ante su dios.  Bajo su doble
-moral se presenta como creyente católico, 
+**Manuel Bello:** 
+
+
+De patillas anchas y tupidas que llegaban a juntársele con el bigote,  es el dueño de la fábrica de azulejos, mentor  y  jefe de Dalmau.  Era un conservador burgués de fuertes creencias católicas  y con amigos
+influyentes en los círculos monárquicos, religiosos y, por supuesto, militares.   El aprecio que pudiera tener el maestro por Dalmau no era  compartido por doña Celia, su esposa.  Se convirtió  en un fanático religioso que necesitaba hacer méritos ante su dios.  Bajo su doble moral se presenta como creyente católico, 
 pero por lo sucedido a Ursula persigue a Dalmau  y a su familia  hasta que logran salir de España. 
 
-Celia:  esposa de Manuel
-Bello,
-era burguesa, reaccionaria, conservadora y católica recalcitrante, sin embargo,
-menospreciaba a los humildes. Tenía tres hijos.  El aprecio que pudiera tener el maestro por
-Dalmau no era compartido por ella.
+**Celia:**  
 
-Ursula
-Bello:  hija de Celia y
-Manuel Bello.  Era la mayor de los
-hermanos  Bello. Aunque aparentaba
-desprecio siempre anduvo detrás de Dalmau. Tenía curiosidad por la vida y los
-escarceos sexuales.
+Esposa de Manuel Bello, era burguesa, reaccionaria, conservadora y católica recalcitrante, sin embargo,
+menospreciaba a los humildes. Tenía tres hijos.  El aprecio que pudiera tener el maestro por Dalmau no era compartido por ella.
 
-Anna:  rostro de mofletes colorados, le faltaban
-dientes. Era  la cocinera de  los 
-Bello.
+**Ursula Bello:**  
 
-Irene Amat:   hija
-de uno de los grandes industriales textiles de Barcelona.
+Hija de Celia y Manuel Bello.  Era la mayor de los hermanos  Bello. Aunque aparentaba desprecio siempre anduvo detrás de Dalmau. Tenía curiosidad por la vida y los escarceos sexuales.
 
-Antonio:   era
-albañil. Debía de contar unos veintidós o veintitrés años, Tenía unas facciones
-duras, rectilíneas, que contrastaban con una nariz chata, quizá a causa de un
-golpe o de un accidente, unas cejas pobladas que se unían en el centro de su
-frente y el cabello negro ensortijado, voz ronca  y potente, de contextura grande y fuerte,
+**Anna:**  
+
+Rostro de mofletes colorados, le faltaban dientes. Era  la cocinera de  los Bello.
+
+**Irene Amat:**   
+
+Hija de uno de los grandes industriales textiles de Barcelona.
+
+Antonio:  
+
+Era albañil. Debía de contar unos veintidós o veintitrés años, Tenía unas facciones duras, rectilíneas, que contrastaban con una nariz chata, quizá a causa de un golpe o de un accidente, unas cejas pobladas que se unían en el centro de su frente y el cabello negro ensortijado, voz ronca  y potente, de contextura grande y fuerte,
 manos ásperas, de dedos gordos y toscos.
 
-Fue
-la  pareja de Emma Tàsies  y  tuvo
-una hija con ella:   Julia.  Murió en un accidente provocado por Maravillas,
-la trinxeraire,  que asustó a un caballo
-percherón  y una de las ruedas del carro había
-chocado con las maderas que sostenían el andamiaje por delante de la fachada de
-la  obra en la que trabajaba el albañil: *´´*Emma
-se arrodilló junto al cadáver de Antonio ajena a las tareas de desescombro. Con
-la mano izquierda, por encima del pañuelo, agarraba la cabeza de su niña, con
-la derecha acariciaba el cabello astroso de Antonio. No podía creer que
-estuviera muerto*´´*.  Pág. 321.  
-*El pintor de almas* de
-Ildefonso Falcones.   
+Fue la  pareja de Emma Tàsies  y  tuvo una hija con ella:   Julia.  Murió en un accidente provocado por Maravillas,
+la trinxeraire,  que asustó a un caballo percherón  y una de las ruedas del carro había chocado con las maderas que sostenían el andamiaje por delante de la fachada de la  obra en la que trabajaba el albañil: *´´*Emma
+se arrodilló junto al cadáver de Antonio ajena a las tareas de desescombro. Con la mano izquierda, por encima del pañuelo, agarraba la cabeza de su niña, con la derecha acariciaba el cabello astroso de Antonio. No podía creer que estuviera muerto*´´*. *El pintor de almas* de Ildefonso Falcones.   
 
 Julia:  hija de Antonio y Emma. Siempre
 acompañó  a su madre a las
