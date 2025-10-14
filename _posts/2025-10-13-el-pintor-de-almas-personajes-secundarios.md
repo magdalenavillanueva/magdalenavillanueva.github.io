@@ -56,7 +56,7 @@ Rostro de mofletes colorados, le faltaban dientes. Era  la cocinera de  los B
 
 Hija de uno de los grandes industriales textiles de Barcelona.
 
-Antonio:  
+**Antonio:**  
 
 Era albañil. Debía de contar unos veintidós o veintitrés años, Tenía unas facciones duras, rectilíneas, que contrastaban con una nariz chata, quizá a causa de un golpe o de un accidente, unas cejas pobladas que se unían en el centro de su frente y el cabello negro ensortijado, voz ronca  y potente, de contextura grande y fuerte,
 manos ásperas, de dedos gordos y toscos.
