@@ -27,24 +27,10 @@ policía, que lo pisoteó hasta herirlo de gravedad que no superó, a pesar de l
 
 Tenía dieciocho años,  hermana  menor de Dalmau. Es apasionada en sus convicciones y no se frena ante el peligro de una manifestación. La detienen y encarcelan en la cárcel de Amalia, donde la violan, como se lo confiesa a Dalmau: ´´Aquí los presos te venden por menos dinero del que cobra una prostituta vieja en la calle´´.
 
-Salió
-de la cárcel sucia y maloliente, silenciosa y desquiciada, con una visión más
-extremista de sus opiniones. La percepción de su cuerpo descarnado y amoratado,
-los pechos colgando, todo esto,   fue
-producido por  las atrocidades padecidas.
- Es muy 
-sectaria, lo que la ha convertido en una mente cerrada, que solo cree en
-lo que vive y le han enseñado.
+Salió de la cárcel sucia y maloliente, silenciosa y desquiciada, con una visión más extremista de sus opiniones. La percepción de su cuerpo descarnado y amoratado, los pechos colgando, todo esto,   fue producido por  las atrocidades padecidas.  Es muy  sectaria, lo que la ha convertido en una mente cerrada, que solo cree en lo que vive y le han enseñado.
 
-El 17
-de febrero Barcelona estaba paralizada.  Los
-militares montaron una ametralladora frente a los revolucionarios  y en una barricada Montserrat discutía con
-Emma sin bajar la cabeza. A principios del año de 1902 falleció cuando una
-ráfaga de ametralladora barrió la calle:
-´´Emma vio la cabeza de su amiga sacudirse violentamente hacia delante,
-como si quisiera escapar del cuerpo que la sostenía, mientras su rostro
-explotaba´´.   Pág. 98.  *El
-pintor de almas* de Ildefonso Falcones.
+El 17 de febrero Barcelona estaba paralizada.  Los militares montaron una ametralladora frente a los revolucionarios  y en una barricada Montserrat discutía con Emma sin bajar la cabeza. A principios del año de 1902 falleció cuando una ráfaga de ametralladora barrió la calle: ´´Emma vio la cabeza de su amiga sacudirse violentamente hacia delante, como si quisiera escapar del cuerpo que la sostenía, mientras su rostro
+explotaba´´.  *El pintor de almas* de Ildefonso Falcones.
 
 Manuel Bello: 
 de patillas anchas y tupidas que llegaban a
