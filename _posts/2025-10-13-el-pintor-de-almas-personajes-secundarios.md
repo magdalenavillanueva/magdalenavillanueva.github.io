@@ -65,35 +65,35 @@ Fue la  pareja de Emma Tàsies  y  tuvo una hija con ella:   Julia.  Muri�
 la trinxeraire,  que asustó a un caballo percherón  y una de las ruedas del carro había chocado con las maderas que sostenían el andamiaje por delante de la fachada de la  obra en la que trabajaba el albañil: *´´*Emma
 se arrodilló junto al cadáver de Antonio ajena a las tareas de desescombro. Con la mano izquierda, por encima del pañuelo, agarraba la cabeza de su niña, con la derecha acariciaba el cabello astroso de Antonio. No podía creer que estuviera muerto*´´*. *El pintor de almas* de Ildefonso Falcones.   
 
-Julia:  hija de Antonio y Emma. Siempre
-acompañó  a su madre a las
-manifestaciones.  Era solo una niña 
-cuando se fue a Francia. Julia ya mujer, estaba casada con un parisino con
-el que había tenido dos  hijos, y
+**Julia:** 
+
+Hija de Antonio y Emma. Siempre acompañó  a su madre a las manifestaciones.  Era solo una niña 
+cuando se fue a Francia. Julia ya mujer, estaba casada con un parisino con el que había tenido dos  hijos, y
 trabajaba como abogada defendiendo a obreros y a gente humilde. 
 
-Rosa:    prima de Emma y siempre mantiene contacto con
-ella a pesar de las circunstancias.
+**Rosa:**   
 
-Dora:  amiga 
-de Emma.  Inocente en su manera de
-ver el mundo y se deja llevar por los acontecimientos para evitar problemas.
+ Prima de Emma y siempre mantiene contacto con ella a pesar de las circunstancias.
 
-José
-María Fuster:  de pelo corto y canoso, abogado. Defendió a Montserrat.
+**Dora:**  
 
-Don Ricardo:  de tez morena, aunque conservaba
-rasgos orientales, obeso, casado con una catalana,  y padre de cinco hijos.  Es un traficante  que funge de jefe del barrio Pekín, todo lo
-que pasa dentro y fuera del lugar es conocido y dirigido por él.
+Amiga de Emma.  Inocente en su manera de ver el mundo y se deja llevar por los acontecimientos para evitar problemas.
 
-Teresa:    esposa
-de Don Ricardo.
+**José María Fuster**: 
 
-Joaquín
-Truchero: joven
-y bien parecido, líder republicano.  Era atrevido
-y, desvergonzado.  Se aprovecha de su
-condición de líder para seducir a las mujeres del partido.
+ De pelo corto y canoso, abogado. Defendió a Montserrat.
+
+**Don Ricardo:**  
+
+De tez morena, aunque conservaba rasgos orientales, obeso, casado con una catalana,  y padre de cinco hijos.  Es un traficante  que funge de jefe del barrio Pekín, todo lo que pasa dentro y fuera del lugar es conocido y dirigido por él.
+
+**Teresa:**    
+
+Esposa de Don Ricardo.
+
+**Joaquín Truchero:**
+
+Joven y bien parecido, líder republicano.  Era atrevido y, desvergonzado.  Se aprovecha de su condición de líder para seducir a las mujeres del partido.
 
 Alejandro
 Lerroux:  de frente despejada en un
