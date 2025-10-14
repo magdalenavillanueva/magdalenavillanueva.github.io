@@ -95,58 +95,47 @@ Esposa de Don Ricardo.
 
 Joven y bien parecido, líder republicano.  Era atrevido y, desvergonzado.  Se aprovecha de su condición de líder para seducir a las mujeres del partido.
 
-Alejandro
-Lerroux:  de frente despejada en un
-rostro alargado con
+**Alejandro Lerroux:**  
 
-bigote con las puntas
-hacia arriba, era un político republicano revolucionario.  Se había rodeado de muchachos de ideas
-radicales. Lerroux, con sus dos escaños en Madrid, abría el camino al ejercicio
-de la política a los obreros. Así, el movimiento  obrero entraba en la política española.  Utilizaba partidas de radicales de barrios
-obreros de entre dieciséis y veinticinco años, como milicia contra los grupos
-opositores y la  Iglesia.  Su discurso era extremista e incitaba al odio
-y la violencia.
+De frente despejada en un rostro alargado con bigote con las puntas hacia arriba, era un político republicano revolucionario.  Se había rodeado de muchachos de ideas radicales. Lerroux, con sus dos escaños en Madrid, abría el camino al ejercicio de la política a los obreros. Así, el movimiento  obrero entraba en la política española.  Utilizaba partidas de radicales de barrios obreros de entre dieciséis y veinticinco años, como milicia contra los grupos opositores y la  Iglesia.  Su discurso era extremista e incitaba al odio y la violencia.
 
-Matías: viejo desdentado  que vendía pollos y gallinas.  Cuando Emma buscó
-trabajo, él le ofreció ayuda y logra así sobrevivir: *´´*—¿Acaso crees que te
-he contratado por tu belleza? —ironizó el viejo —. Hace tiempo que esta cesta
-pesa demasiado para mí —explicó al  tiempo
-que la sopesaba y se la tendía para que la cogiera*´´*.  Pág. 153.  *El
-pintor de almas* de Ildefonso Falcones. 
+**Matías:** 
 
-Anastasi: 
-subarrendatario
-de Josefa Port. en  el piso de la calle Bertrellans.  Era un matón de poca monta, peligroso  y violento.
+Viejo desdentado  que vendía pollos y gallinas.  Cuando Emma buscó trabajo, él le ofreció ayuda y logra así sobrevivir: *´´*—¿Acaso crees que te he contratado por tu belleza? —ironizó el viejo —. Hace tiempo que esta cesta
+pesa demasiado para mí —explicó al  tiempo que la sopesaba y se la tendía para que la cogiera*´´*.  *El pintor de almas* de Ildefonso Falcones. 
 
-Remei: 
- esposa de Anastasi.  Era basta, inculta, analfabeta y tiene una
-actitud sumisa ante Anastasi.
+**Anastasi:** 
 
-Vicenç:   es el
-capitán de los jóvenes bárbaros que recorrían Barcelona. Vivía en el barrio
-fabril de Sant Martí de Provençals,
 
-Félix:    jefe de cocinas del restaurante de la Casa
-del Pueblo. Es indiferente a las situaciones que pasaban sus empleados.
+Subarrendatario de Josefa Port. en  el piso de la calle Bertrellans.  Era un matón de poca monta, peligroso  y violento.
 
-Expedito:   obeso 
-y repulsivo, asmático y siempre estaba sudoroso.  Era cocinero 
-del restaurante de la Casa del Pueblo. 
-Aprovechó su rango para violentar a Emma.  Ante su rechazo la despide.  Tuvo que someterse.  Hacía más de un año se aprovechaba de ella y
-le hacia cualquier perversión  inimaginable.
+**Remei:** 
 
-Engracia: superaba la treintena, era otra
-cocinera de segunda del restaurante de la Casa del Pueblo. Se hace amiga de
+
+ Esposa de Anastasi.  Era basta, inculta, analfabeta y tiene una actitud sumisa ante Anastasi.
+
+**Vicenç:**   
+
+Es el capitán de los jóvenes bárbaros que recorrían Barcelona. Vivía en el barrio fabril de Sant Martí de Provençals,
+
+**Félix:**   
+
+ jefe de cocinas del restaurante de la Casa del Pueblo. Es indiferente a las situaciones que pasaban sus empleados.
+
+**Expedito:**  
+
+obeso  y repulsivo, asmático y siempre estaba sudoroso.  Era cocinero del restaurante de la Casa del Pueblo. 
+Aprovechó su rango para violentar a Emma.  Ante su rechazo la despide.  Tuvo que someterse.  Hacía más de un año se aprovechaba de ella y le hacia cualquier perversión  inimaginable.
+
+**Engracia:** 
+
+superaba la treintena, era otra cocinera de segunda del restaurante de la Casa del Pueblo. Se hace amiga de
 Emma y la aconsejaba y le hacía ver cual era la realidad de las cosas.
 
-Maragliano: 
-era
-un  italiano de unos cuarenta años que
-había aprendido su oficio en Génova, desde donde se trasladó a Barcelona ya con
-el reconocimiento y la consideración de maestro en mosaicos romanos y
-bizantinos.  Contrató a Dalmau,  sabía de su trabajo con don Manuel. Trabajaba
-en bastantes obras, tanto en Barcelona como fuera de ella:  tenía abierto un taller en
-Madrid. 
+**Maragliano**: 
+
+
+era un  italiano de unos cuarenta años que había aprendido su oficio en Génova, desde donde se trasladó a Barcelona ya con el reconocimiento y la consideración de maestro en mosaicos romanos y bizantinos.  Contrató a Dalmau,  sabía de su trabajo con don Manuel. Trabajaba en bastantes obras, tanto en Barcelona como fuera de ella:  tenía abierto un taller en Madrid. 
 
 Gregoria:  una joven atractiva  de aproximadamente
 de veinte años. era católica fervorosa, recatada, silenciosa y prudente. Es una
