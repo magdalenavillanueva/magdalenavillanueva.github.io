@@ -17,7 +17,7 @@ date: 2025-09-29T18:56:00.000-04:00
 
 ![](/assets/img/ilustracion-de-la-epocaa-de-barcelona.jpg)
 
-{:width="300" style="float: left"}La obra describe a la España de finales del siglo XIX con el ascenso al trono de Alfonso XIII. En el periodo comprendido entre 1870 y la década de 1920. Nos presentan el atentado de la Procesión del Corpus Christi en la Barcelona, de 1896. Fue una acción terrorista   que causó la muerte de 12 personas.  Los supuestos
+{:width="200" style="float: left"}La obra describe a la España de finales del siglo XIX con el ascenso al trono de Alfonso XIII. En el periodo comprendido entre 1870 y la década de 1920. Nos presentan el atentado de la Procesión del Corpus Christi en la Barcelona, de 1896. Fue una acción terrorista   que causó la muerte de 12 personas.  Los supuestos
 implicados fueron llevados a   juicio militar que se conoce con el nombre de los procesos de Montjuic
 
 
