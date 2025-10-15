@@ -47,3 +47,37 @@ El Eixample:
 
 
 Es el nombre que recibe el distrito segundo de la ciudad de Barcelona, que ocupa la parte central de la ciudad, en una amplia zona de 7,46 km² que fue diseñada por Ildefonso Cerdá. Es el distrito más poblado de Barcelona. En el distrito del Ensanche es donde se pueden encontrar algunas de las vías y plazas más conocidas de Barcelona, como el paseo de Gracia, la rambla de Cataluña, la plaza de Cataluña, la avenida Diagonal, la calle de Aragón, la Gran Vía de las Cortes Catalanas, la calle de Balmes, la ronda de San Antonio, la ronda de San Pedro, el paseo de San Juan, la plaza de la Sagrada Familia, la plaza de Gaudí, y en sus extremos, la plaza de las Glorias Catalanas y la plaza Francesc Macià.
+
+
+### 
+
+Casa Amatller:
+
+
+
+ Es un edificio modernista de Barcelona colindante con la Casa Batlló y cerca de la Casa Lleó Morera. Fue proyectado por el arquitecto Josep Puig i Cadafalch entre 1898 y 1900. Los tres edificios forman lo que se conoce como La manzana de la discordia, en alusión a la disputa mitológica protagonizadas entre las diosas Hera, Afrodita y Atenea, por
+considerarse como las de mayor belleza. Es Monumento histórico desde 1976.
+
+### 
+
+Casa Batlló:
+
+
+
+
+
+Es un edificio obra del arquitecto Antonio Gaudí, máximo representante del modernismo catalán. Se trata de una remodelación integral de un edificio previamente existente en el solar, obra de Emilio Sala Cortés. Está situado en el número 43 del paseo de Gracia de
+Barcelona. Alberga además de este edificio otras obras de arquitectos modernistas: la Casa Amatller, que colinda con la de Gaudí, obra de Josep Puig i Cadafalch; la Casa Lleó Morera, obra de Lluís Domènech i Montaner; la Casa Mulleras, de Enric Sagnier; y la Casa Josefina Bonet, de Marceliano Coquillat. La construcción se realizó entre los años 1904 y 1906.​
+
+
+
+### 
+
+Casa Calvet:  
+
+
+
+
+
+Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas
+de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
