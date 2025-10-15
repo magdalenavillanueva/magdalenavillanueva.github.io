@@ -13,13 +13,11 @@ date: 2025-09-29T18:56:00.000-04:00
 #### Barcelona:
 
 
-Es una ciudad española, capital de la comunidad autónoma de Cataluña, de la provincia homónima y de la comarca del Barcelonés. Es la segunda ciudad más poblada de España y de la península ibérica después de Madrid, y la décima de la Unión Europea.  Se ubica a la orilla del mar Mediterráneo, a unos 120 km al sur de la cadena montañosa de los Pirineos y de la frontera con Francia, en un pequeño llano litoral limitado por
-el mar al este, la sierra de Collserola al oeste, el río Llobregat al sur y el río Besós al norte. La historia de Barcelona se extiende a lo largo de 4000 años, desde finales del Neolítico, hasta la actualidad. 
+Es una ciudad española, capital de la comunidad autónoma de Cataluña, de la provincia homónima y de la comarca del Barcelonés. Es la segunda ciudad más poblada de España y de la península ibérica después de Madrid, y la décima de la Unión Europea.  Se ubica a la orilla del mar Mediterráneo, a unos 120 km al sur de la cadena montañosa de los Pirineos y de la frontera con Francia, en un pequeño llano litoral limitado por el mar al este, la sierra de Collserola al oeste, el río Llobregat al sur y el río Besós al norte. La historia de Barcelona se extiende a lo largo de 4000 años, desde finales del Neolítico, hasta la actualidad. 
 
-La novela *El pintor de almas* se desarrolla en la Barcelona modernista de 1901. A medida que avanzamos en la lectura de la obra se van presentando los siguientes monumentos o sitios emblemáticos de la Barcelona de
-aquella época:  
+La novela *El pintor de almas* se desarrolla en la Barcelona modernista de 1901. A medida que avanzamos en la lectura de la obra se van presentando los siguientes monumentos o sitios emblemáticos de la Barcelona de aquella época:  
 
-### 
+
 
 
 
