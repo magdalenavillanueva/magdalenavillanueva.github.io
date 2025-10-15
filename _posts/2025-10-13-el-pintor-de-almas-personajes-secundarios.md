@@ -10,7 +10,7 @@ date: 2025-09-29T18:56:00.000-04:00
 <center>El PINTOR DE ALMAS</center> 
 <center>ILDEFONSO FALCONES DE SIERRA</center>
 
-{:width="200" style="float: left"}
+
 
 **Josefa Port**:   
 
@@ -146,4 +146,45 @@ una joven atractiva  de aproximadamente de veinte años. era católica fervoros
 galerista  barcelonés.  Su galería de arte se encuentra en la calle Diputació del Eixample.  Expone un cuadro de Dalmau Sala: *´´*En lugar destacado de la galería, un cuadro bien iluminado, quizá excesivamente, a juicio de
 Dalmau, puesto que mataba la luz que surgía de las hadas en la playa: *El taller de mosaicos*, la obra que le
 dijeron que habían tirado a la basura junto con la escultura de Rodin durante
-la Exposición de Bellas Artes de Barcelona de 1907*´´*.   *El pintor de almas* de Ildefonso Falcones.
+la Exposición de Bellas Artes de Barcelona de 1907*´´*. *El pintor de almas* de Ildefonso Falcones.
+
+
+
+
+
+
+![](/assets/img/los-trinxe.jpg)
+
+
+
+
+{:width="200" style="float: left"}
+
+
+
+**Los trinxeraires:**  
+
+Eran niños mendigos desnutridos y analfabetos  incapaces de actuar con coherencia. Como lo expresa Dalmau son: *´´*un ejército de muchachos, se calculaba que en cifra superior a los diez mil, trinxeraires los llamaban, malvivían en las calles de Barcelona, mendigando, hurtando y durmiendo a la intemperie, en cualquier hueco en el que pudieran acomodarse; se trataba de huérfanos o simplemente niños abandonados*´´*.*El pintor de almas* de
+Ildefonso Falcones.
+
+ 
+
+**Maravillas:**  
+
+es una de las trinxeraires de ojos hundidos en cuencas moradas, los labios resecos y partidos, costras en su frente y sus mejillas. La delgadez le marcaba los huesos. Está desnutrida, sucia, maloliente y harapienta. Tenía el cabello cortado a trasquilones. Es una niña vagabunda y desamparada, que vemos crecer a medida que transcurre la
+historia.  Confiesa a Emma y Josefa que está enamorada de  Dalmau: 
+´´—Porque mi alma, si es que alguna vez la tuve, me la robó su hijo. ¿Recuerda? —dijo la trinxeraire. Josefa abrió los ojos cuanto le permitieron sus párpados. Emma retiró las manos de su rostro´´.   *El pintor de almas* de Ildefonso Falcones.
+
+ 
+
+Es un personaje bien construido, lleno de aristas:  contradictorio e incoherente.  Ella misma se describe así:  *´´*Yo me miré en un espejo que había y... —Aprovechó ese momento para volver a examinar su pecho inexistente y su vientre, sus piernas, todo indefinible, cubierto por harapos. En su rostro se dibujó una mueca difícil de interpretar*´´*.  *El pintor de almas* de Ildefonso Falcones.
+
+ 
+
+Según Dalmau, habría muerto, porque los desahuciados como ella, que corrían por las calles de Barcelona, no estaban  destinados a una vida larga.
+
+ 
+
+**Delfín:**  
+
+Otro de los trinxeraires, es  posible que sea hermano de Maravillas.
