@@ -23,11 +23,10 @@ aquella época:  
 
 
 
-![](/assets/img/barrios-de-gracias-barcelona.jpg)
-
-### {:width="300" style="float: left"} Barrio de Gràcia
-
-
+![](/assets/img/barrios-de-gracias-barcelona.jpg)### {:width="300" style="float: left"} Barrio de Gràcia:
 
 El Coll es un barrio de Barcelona ubicado en el distrito de Gracia. Limita con los barrios de La Salud y Vallcarca y los Penitentes del distrito de Gracia, y La Teixonera y El Carmelo del distrito de Horta-Guinardó.  En la obra se observa que: *´´*Se decía que se habían reunido más de sesenta mil personas en la primera comida democrática
 organizada por el partido republicano en un monte por encima del barrio de Gràcia: el Coll*´´*.  *El pintor de almas de* Ildefonso Falcones.
+
+### 
+Barrio San Martín de Provençals:
