@@ -149,19 +149,7 @@ dijeron que habían tirado a la basura junto con la escultura de Rodin durante
 la Exposición de Bellas Artes de Barcelona de 1907*´´*. *El pintor de almas* de Ildefonso Falcones.
 
 
-
-
-
-
-![](/assets/img/los-trinxe.jpg)
-
-
-
-
-{:width="200" style="float: left"}
-
-
-
+![](/assets/img/los-trinxe.jpg){:width="200" style="float: left"}
 **Los trinxeraires:**  
 
 Eran niños mendigos desnutridos y analfabetos  incapaces de actuar con coherencia. Como lo expresa Dalmau son: *´´*un ejército de muchachos, se calculaba que en cifra superior a los diez mil, trinxeraires los llamaban, malvivían en las calles de Barcelona, mendigando, hurtando y durmiendo a la intemperie, en cualquier hueco en el que pudieran acomodarse; se trataba de huérfanos o simplemente niños abandonados*´´*.*El pintor de almas* de
