@@ -13,7 +13,11 @@ date: 2025-09-29T18:56:00.000-04:00
 
 
 
-La obra describe a la España de finales del siglo XIX con el ascenso al trono de Alfonso XIII. En el periodo comprendido entre 1870 y la década de 1920. Nos presentan el atentado de la Procesión del Corpus Christi en la Barcelona, de 1896. Fue una acción terrorista   que causó la muerte de 12 personas.  Los supuestos
+
+
+![](/assets/img/ilustracion-de-la-epocaa-de-barcelona.jpg)
+
+{:width="300" style="float: left"}La obra describe a la España de finales del siglo XIX con el ascenso al trono de Alfonso XIII. En el periodo comprendido entre 1870 y la década de 1920. Nos presentan el atentado de la Procesión del Corpus Christi en la Barcelona, de 1896. Fue una acción terrorista   que causó la muerte de 12 personas.  Los supuestos
 implicados fueron llevados a   juicio militar que se conoce con el nombre de los procesos de Montjuic
 
 
@@ -22,7 +26,11 @@ sino también acontecimientos capaces de evocar un conjunto de emociones e imág
 siguiente: ´´Más de treinta mil trabajadores, de los que catorce mil eran albañiles, vivieron la huelga del
 verano de 1903. Fue un salto cualitativo para Emma. Los albañiles, fueran oficiales o peones, constituían el oficio que más recurría a la violencia en la defensa de sus reivindicaciones´´.  *El pintor de almas de* Ildefonso Falcones.
 
-En la ciudad de Barcelona se desarrolló la Semana Trágica  de 1909,  por el programa reformista de Maura. Como se observa en el ejemplo siguiente: ´´Es posible que la causa inmediata de la revuelta que originó la Semana Trágica pueda encontrarse en la reacción de la clase obrera ante la guerra del Rif, pero no cabe afirmar que
+
+
+![](/assets/img/la-guerra-del-rif.jpg)
+
+{:width="200" style="float: right"}En la ciudad de Barcelona se desarrolló la Semana Trágica  de 1909,  por el programa reformista de Maura. Como se observa en el ejemplo siguiente: ´´Es posible que la causa inmediata de la revuelta que originó la Semana Trágica pueda encontrarse en la reacción de la clase obrera ante la guerra del Rif, pero no cabe afirmar que
 esa fuera la única´´. *El pintor de almas de* Ildefonso Falcones.
 
 
@@ -32,7 +40,11 @@ El poeta catalán Joan Maragall después de los sucesos ocurridos hizo una crít
 sin amor´´.   *El pintor de almas de* Ildefonso Falcones.
 
 
-En 1914 llegó la Gran Guerra y poco después España cayó bajo el  control de una dictadura militar, la del
+
+
+![](/assets/img/personajes.jpg)
+
+{:width="300" style="float: left"}En 1914 llegó la Gran Guerra y poco después España cayó bajo el  control de una dictadura militar, la del
 general Primo de Rivera, que abarca desde 1923 y se alargaría hasta 1930.  En la novela se introduce así: ´´En julio de 1909 existía en Cádiz, en el sur de España, a veinticuatro horas de estar plenamente operativos en la zona del Rif con solo cruzar el estrecho de Gibraltar, un ejército de dieciséis mil hombres perfectamente preparados y pertrechados por orden del general Primo de Rivera´´.  *El pintor de almas de* Ildefonso Falcones.
 
 
