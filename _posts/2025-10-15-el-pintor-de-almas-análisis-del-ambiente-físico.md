@@ -10,14 +10,29 @@ date: 2025-09-29T18:56:00.000-04:00
 <center>El PINTOR DE ALMAS</center> 
 <center>ILDEFONSO FALCONES DE SIERRA</center>
 
+
+
+
+
+### 
+
+
+ Barcelona 1901
+
+
+
+
+![](/assets/img/barcelona-1901.jpg)
+
 {:width="200" style="float: left"}
 
 
+
+
+
+
+
 *El pintor de almas*  está  ambientada en Barcelona, durante los primeros años del siglo XX y discurre entre el mar y el monte Montjuïc.
-
-
-
-
 
 
 El hilo conductor de *El pintor de almas* se desarrolla en la Barcelona de comienzos de siglo, más concretamente en 1901, hasta 1917,  y  termina en  1932. 
