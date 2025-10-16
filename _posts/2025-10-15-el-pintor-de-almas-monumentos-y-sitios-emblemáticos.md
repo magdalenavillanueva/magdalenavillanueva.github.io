@@ -24,9 +24,7 @@ La novela *El pintor de almas* se desarrolla en la Barcelona modernista de 1901.
 Es un barrio del distrito de San Martín de Barcelona. Es un antiguo municipio creado a raíz de las reformas emprendidas por el rey Felipe V con el Decreto de Nueva Planta y localizado en el sector noreste del llano de Barcelona, en Cataluña, España. El pueblo y
 municipio tuvo desde el siglo X una población discreta, que aumentó considerablemente durante el siglo XIX y principios del siglo XX a causa de la influencia expansiva de la vecina Barcelona y la pujante industria asentada en el municipio. 
 
-![](/assets/img/barrio-el-rabal.jpg)
-
-{:width="200" style="float: right"}
+![](/assets/img/barrio-el-rabal.jpg){:width="200" style="float: right"}
 
 ### 
 Barrio El Raval: 
