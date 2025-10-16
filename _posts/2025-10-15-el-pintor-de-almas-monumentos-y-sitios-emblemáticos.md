@@ -16,9 +16,7 @@ Es una ciudad española, capital de la comunidad autónoma de Cataluña, de la p
 
 La novela *El pintor de almas* se desarrolla en la Barcelona modernista de 1901. A medida que avanzamos en la lectura de la obra se van presentando los siguientes monumentos o sitios emblemáticos de la Barcelona de aquella época:  
 
-![](/assets/img/barrios-de-gracias-barcelona.jpg)
-
-{:width="200" style="float: left"} El Coll es un barrio de Barcelona ubicado en el distrito de Gracia. Limita con los barrios de La Salud y Vallcarca y los Penitentes del distrito de Gracia, y La Teixonera y El Carmelo del distrito de Horta-Guinardó.  En la obra se observa que: *´´*Se decía que se habían reunido más de sesenta mil personas en la primera comida democrática organizada por el partido republicano en un monte por encima del barrio de Gràcia: el Coll*´´*.  *El pintor de almas de* Ildefonso Falcones.
+![](/assets/img/barrios-de-gracias-barcelona.jpg){:width="200" style="float: left"} El Coll es un barrio de Barcelona ubicado en el distrito de Gracia. Limita con los barrios de La Salud y Vallcarca y los Penitentes del distrito de Gracia, y La Teixonera y El Carmelo del distrito de Horta-Guinardó.  En la obra se observa que: *´´*Se decía que se habían reunido más de sesenta mil personas en la primera comida democrática organizada por el partido republicano en un monte por encima del barrio de Gràcia: el Coll*´´*.  *El pintor de almas de* Ildefonso Falcones.
 
 ### Barrio San Martín de Provençals:
 
@@ -26,7 +24,9 @@ La novela *El pintor de almas* se desarrolla en la Barcelona modernista de 1901.
 Es un barrio del distrito de San Martín de Barcelona. Es un antiguo municipio creado a raíz de las reformas emprendidas por el rey Felipe V con el Decreto de Nueva Planta y localizado en el sector noreste del llano de Barcelona, en Cataluña, España. El pueblo y
 municipio tuvo desde el siglo X una población discreta, que aumentó considerablemente durante el siglo XIX y principios del siglo XX a causa de la influencia expansiva de la vecina Barcelona y la pujante industria asentada en el municipio. 
 
+![](/assets/img/barrio-el-rabal.jpg)
 
+{:width="200" style="float: right"}
 
 ### 
 Barrio El Raval: 
