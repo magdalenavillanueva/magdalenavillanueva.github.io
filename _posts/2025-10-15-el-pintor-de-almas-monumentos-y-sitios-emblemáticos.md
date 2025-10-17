@@ -17,12 +17,9 @@ Es una ciudad española, capital de la comunidad autónoma de Cataluña, de la p
 La novela *El pintor de almas* se desarrolla en la Barcelona modernista de 1901. A medida que avanzamos en la lectura de la obra se van presentando los siguientes monumentos o sitios emblemáticos de la Barcelona de aquella época:  
 ![](/assets/img/barrios-de-gracias-barcelona.jpg){:width="200" style="float: left"} 
 
-### 
 Barrio de Gràcia: 
 
 El Coll es un barrio de Barcelona ubicado en el distrito de Gracia. Limita con los barrios de La Salud y Vallcarca y los Penitentes del distrito de Gracia, y La Teixonera y El Carmelo del distrito de Horta-Guinardó.  En la obra se observa que: *´´*Se decía que se habían reunido más de sesenta mil personas en la primera comida democrática organizada por el partido republicano en un monte por encima del barrio de Gràcia: el Coll*´´*.  *El pintor de almas de* Ildefonso Falcones.
-
-
 
 ### Barrio San Martín de Provençals:
 
@@ -40,7 +37,9 @@ Es el nombre que recibe el distrito segundo de la ciudad de Barcelona, que ocupa
 
 ### Casa Amatller:
 
- Es un edificio modernista de Barcelona colindante con la Casa Batlló y cerca de la Casa Lleó Morera. Fue proyectado por el arquitecto Josep Puig i Cadafalch entre 1898 y 1900. Los tres edificios forman lo que se conoce como La manzana de la discordia, en alusión a la disputa mitológica protagonizadas entre las diosas Hera, Afrodita y Atenea, por
+![](/assets/img/casa-amallet.jpg)
+
+{:width="200" style="float: left"} Es un edificio modernista de Barcelona colindante con la Casa Batlló y cerca de la Casa Lleó Morera. Fue proyectado por el arquitecto Josep Puig i Cadafalch entre 1898 y 1900. Los tres edificios forman lo que se conoce como La manzana de la discordia, en alusión a la disputa mitológica protagonizadas entre las diosas Hera, Afrodita y Atenea, por
 considerarse como las de mayor belleza. Es Monumento histórico desde 1976.
 
 ### Casa Batlló:
