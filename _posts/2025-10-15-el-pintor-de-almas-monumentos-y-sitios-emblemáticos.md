@@ -49,39 +49,26 @@ Barcelona. Alberga además de este edificio otras obras de arquitectos modernist
 
 ### Casa Calvet: 
 
-![](/assets/img/casa-calvet.jpg)
-
- {:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
+![](/assets/img/casa-calvet.jpg) {:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
      
 
-### 
-Casa Francesc Burés: 
+### Casa Francesc Burés: 
 
 Es un edificio modernista barcelonés obra de Francesc Berenguer i Mestres.
 
 
 
-### 
-Casa Mulleras:  
+### Casa Mulleras:  
 
 Es una casa ubicada en el Passeig de Gràcia en el distrito del Eixample. Construida originalmente en 1868, fue remodelada en estilo neoclásico por Enric Sagnier entre 1906 y 1911.
 
        
 
-### 
-Casa La Pedrera: o Casa Milà:
+### Casa La Pedrera: o Casa Milà:
 
 
-![](/assets/img/casa-la-pedrera.jpg)
+![](/assets/img/casa-la-pedrera.jpg){:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
 
-{:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
+### Casa Lleó:  
 
-### 
-
-Casa Lleó:  
-
-Es un edificio modernista obra del arquitecto Lluís Domènech i Montaner situada
-en el paseo de Gracia Nº 35 de Barcelona. El proyecto fue un encargo hecho en
-1902 por Francesca Morera. Después de su muerte en 1904, su hijo Albert Lleó i
-Morera continuó las obras y dio nombre al edificio. La obra finalizó el 10 de
-marzo de 1905
+Es un edificio modernista obra del arquitecto Lluís Domènech i Montaner situada en el paseo de Gracia Nº 35 de Barcelona. El proyecto fue un encargo hecho en 1902 por Francesca Morera. Después de su muerte en 1904, su hijo Albert Lleó Morera continuó las obras y dio nombre al edificio. La obra finalizó el 10 de marzo de 1905
