@@ -58,3 +58,31 @@ Barcelona. Alberga además de este edificio otras obras de arquitectos modernist
 Casa Francesc Burés: 
 
 Es un edificio modernista barcelonés obra de Francesc Berenguer i Mestres.
+
+
+
+### 
+Casa Mulleras:  
+
+Es una casa ubicada en el Passeig de Gràcia en el distrito del Eixample. Construida originalmente en 1868, fue remodelada en estilo neoclásico por Enric Sagnier entre 1906 y 1911.
+
+       
+
+### 
+Casa La Pedrera: o Casa Milà:
+
+
+Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio
+modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y
+1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y
+Roser Segimon.
+
+### 
+
+Casa Lleó:  
+
+Es un edificio modernista obra del arquitecto Lluís Domènech i Montaner situada
+en el paseo de Gracia Nº 35 de Barcelona. El proyecto fue un encargo hecho en
+1902 por Francesca Morera. Después de su muerte en 1904, su hijo Albert Lleó i
+Morera continuó las obras y dio nombre al edificio. La obra finalizó el 10 de
+marzo de 1905
