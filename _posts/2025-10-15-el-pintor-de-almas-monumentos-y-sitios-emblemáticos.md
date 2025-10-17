@@ -17,7 +17,7 @@ Es una ciudad española, capital de la comunidad autónoma de Cataluña, de la p
 La novela *El pintor de almas* se desarrolla en la Barcelona modernista de 1901. A medida que avanzamos en la lectura de la obra se van presentando los siguientes monumentos o sitios emblemáticos de la Barcelona de aquella época:  
 ![](/assets/img/barrios-de-gracias-barcelona.jpg){:width="200" style="float: left"} 
 
-### Barrio de Gràcia: 
+### Barrio de Gràcia:
 
 El Coll es un barrio de Barcelona ubicado en el distrito de Gracia. Limita con los barrios de La Salud y Vallcarca y los Penitentes del distrito de Gracia, y La Teixonera y El Carmelo del distrito de Horta-Guinardó.  En la obra se observa que: *´´*Se decía que se habían reunido más de sesenta mil personas en la primera comida democrática organizada por el partido republicano en un monte por encima del barrio de Gràcia: el Coll*´´*.  *El pintor de almas de* Ildefonso Falcones.
 
@@ -49,26 +49,35 @@ Barcelona. Alberga además de este edificio otras obras de arquitectos modernist
 
 ### Casa Calvet: 
 
-![](/assets/img/casa-calvet.jpg) {:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
-     
+![](/assets/img/casa-calvet.jpg)
+
+ {:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
 
 ### Casa Francesc Burés: 
 
 Es un edificio modernista barcelonés obra de Francesc Berenguer i Mestres.
 
-
-
-### Casa Mulleras:  
+### Casa Mulleras:
 
 Es una casa ubicada en el Passeig de Gràcia en el distrito del Eixample. Construida originalmente en 1868, fue remodelada en estilo neoclásico por Enric Sagnier entre 1906 y 1911.
 
-       
-
 ### Casa La Pedrera: o Casa Milà:
 
+![](/assets/img/casa-la-pedrera.jpg)
 
-![](/assets/img/casa-la-pedrera.jpg){:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
+{:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
 
-### Casa Lleó:  
+### Casa Lleó: 
 
-Es un edificio modernista obra del arquitecto Lluís Domènech i Montaner situada en el paseo de Gracia Nº 35 de Barcelona. El proyecto fue un encargo hecho en 1902 por Francesca Morera. Después de su muerte en 1904, su hijo Albert Lleó Morera continuó las obras y dio nombre al edificio. La obra finalizó el 10 de marzo de 1905
+Es un edificio modernista obra del arquitecto Lluís Domènech i Montaner situada en el paseo de Gracia Nº 35 de Barcelona. El proyecto fue un encargo hecho en 1902 por Francesca Morera. Después de su muerte en 1904, su hijo Albert Lleó Morera continuó las obras y dio nombre al edificio. La obra finalizó el 10 de marzo de 1905.
+
+###     
+Casa Malagrida: 
+
+Construida a principios del siglo XX, entre 1905 y 1908, por el arquitecto Joaquim Codina,
+la fachada de la Casa Malagrida está llena de elementos modernistas. 
+
+###      
+Casa Modest Andreu:  
+
+Es un edificio de estilo modernista, de fachada con composición convencional simétrica que ordena cuatro pisos, coronados por un remate decorativo y una balaustrada. Destaca la forma redondeada de las barandillas de los balcones.
