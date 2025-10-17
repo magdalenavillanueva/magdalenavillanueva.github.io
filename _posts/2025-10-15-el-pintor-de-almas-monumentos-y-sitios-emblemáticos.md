@@ -72,10 +72,9 @@ Es una casa ubicada en el Passeig de Gràcia en el distrito del Eixample. Constr
 Casa La Pedrera: o Casa Milà:
 
 
-Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio
-modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y
-1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y
-Roser Segimon.
+![](/assets/img/casa-la-pedrera.jpg)
+
+{:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
 
 ### 
 
