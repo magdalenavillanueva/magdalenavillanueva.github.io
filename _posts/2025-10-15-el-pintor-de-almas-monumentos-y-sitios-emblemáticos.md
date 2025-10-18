@@ -37,7 +37,9 @@ Es el nombre que recibe el distrito segundo de la ciudad de Barcelona, que ocupa
 
 ### Casa Amatller:
 
-![](/assets/img/casa-amallet.jpg){:width="200" style="float: left"} Es un edificio modernista de Barcelona colindante con la Casa Batlló y cerca de la Casa Lleó Morera. Fue proyectado por el arquitecto Josep Puig i Cadafalch entre 1898 y 1900. Los tres edificios forman lo que se conoce como La manzana de la discordia, en alusión a la disputa mitológica protagonizadas entre las diosas Hera, Afrodita y Atenea, por considerarse como las de mayor belleza. Es Monumento histórico desde 1976.
+![](/assets/img/casa-amallet.jpg)
+
+{:width="200" style="float: left"} Es un edificio modernista de Barcelona colindante con la Casa Batlló y cerca de la Casa Lleó Morera. Fue proyectado por el arquitecto Josep Puig i Cadafalch entre 1898 y 1900. Los tres edificios forman lo que se conoce como La manzana de la discordia, en alusión a la disputa mitológica protagonizadas entre las diosas Hera, Afrodita y Atenea, por considerarse como las de mayor belleza. Es Monumento histórico desde 1976.
 
 ### Casa Batlló:
 
@@ -46,7 +48,9 @@ Barcelona. Alberga además de este edificio otras obras de arquitectos modernist
 
 ### Casa Calvet: 
 
-![](/assets/img/casa-calvet.jpg) {:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
+![](/assets/img/casa-calvet.jpg)
+
+ {:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
 
 ### Casa Francesc Burés: 
 
@@ -58,43 +62,37 @@ Es una casa ubicada en el Passeig de Gràcia en el distrito del Eixample. Constr
 
 ### Casa La Pedrera: o Casa Milà:
 
-![](/assets/img/casa-la-pedrera.jpg){:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
+![](/assets/img/casa-la-pedrera.jpg)
+
+{:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
 
 ### Casa Lleó: 
 
 Es un edificio modernista obra del arquitecto Lluís Domènech i Montaner situada en el paseo de Gracia Nº 35 de Barcelona. El proyecto fue un encargo hecho en 1902 por Francesca Morera. Después de su muerte en 1904, su hijo Albert Lleó Morera continuó las obras y dio nombre al edificio. La obra finalizó el 10 de marzo de 1905.
 
-
-
-### Casa Malagrida: 
+### Casa Malagrida:
 
 Construida a principios del siglo XX, entre 1905 y 1908, por el arquitecto Joaquim Codina,
 la fachada de la Casa Malagrida está llena de elementos modernistas. 
 
-     
-
-### Casa Modest Andreu:  
+### Casa Modest Andreu: 
 
 Es un edificio de estilo modernista, de fachada con composición convencional simétrica que ordena cuatro pisos, coronados por un remate decorativo y una balaustrada. Destaca la forma redondeada de las barandillas de los balcones.
 
-
-
 ### Casa Pons:
 
+![](/assets/img/casa-poin.jpg)
 
-![](/assets/img/casa-poin.jpg){:width="200" style="float: right"}En realidad, son dos edificios pertenecientes a las familias homónimas. Se construyeron entre los años 1890 y 1891 y llaman la atención por su fachada de estilo neogótico. Se trata de uno de los inmuebles imprescindibles en la ruta del modernismo del Passeig de Gràcia. El arquitecto catalán Enric Sagnier fue el encargado de dar vida a la emblemática Casa Pascual i Pons.  
+{:width="200" style="float: right"}En realidad, son dos edificios pertenecientes a las familias homónimas. Se construyeron entre los años 1890 y 1891 y llaman la atención por su fachada de estilo neogótico. Se trata de uno de los inmuebles imprescindibles en la ruta del modernismo del Passeig de Gràcia. El arquitecto catalán Enric Sagnier fue el encargado de dar vida a la emblemática Casa Pascual i Pons.  
 
-
-### Casa Terradas: 
+### Casa Terradas:
 
 Conocida popularmente como Casa de los Pinchos, está situada entre las calles de Rosellón, Bruc y la avenida Diagonal, en el Ensanche de Barcelona. Es un edificio diseñado por el arquitecto modernista Puig i Cadafalch, inspirado en el castillo de Neuschwanstein, en Baviera, Alemania, con seis esquinas, que coinciden con las intersecciones de las tres calles, y con la fachada principal de la casa en la esquina de la calle de Rosellón con la avenida Diagonal.
 
-
-Castillo de Montjuïc:   
+### Castillo de Montjuïc:   
 
 Es una antigua fortaleza militar situada en la montaña de Montjuic, en la ciudad de Barcelona.
 
-### La catedral del mar:  
+### La catedral del mar: 
 
-        
 Es una basílica menor situada en la ciudad de Barcelona, España. Fue construida entre 1329 y 1383. Desde 1931, tiene la catalogación de Bien de Interés Cultural.  Algunos estudios actuales afirman que se levanta sobre un antiguo anfiteatro o arenas romanas. Sus orígenes se remontan a la iglesia paleocristiana de Santa María de las Arenas, donde se dice que descansaba el cuerpo de la mártir Santa Eulalia, patrona de Barcelona.
