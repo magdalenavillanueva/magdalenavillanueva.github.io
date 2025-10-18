@@ -83,3 +83,24 @@ la fachada de la Casa Malagrida está llena de elementos modernistas.
 ### Casa Modest Andreu:  
 
 Es un edificio de estilo modernista, de fachada con composición convencional simétrica que ordena cuatro pisos, coronados por un remate decorativo y una balaustrada. Destaca la forma redondeada de las barandillas de los balcones.
+
+
+
+### 
+Casa Pons:
+
+
+En realidad, son dos edificios pertenecientes a las familias homónimas. Se construyeron entre los años 1890 y 1891 y llaman la atención por su fachada de estilo neogótico. Se trata de uno de los inmuebles imprescindibles en la ruta del modernismo del Passeig de Gràcia. El arquitecto catalán Enric Sagnier fue el encargado de dar vida a la emblemática Casa Pascual i Pons.  
+
+
+
+
+### 
+
+Casa Terradas: 
+
+
+
+
+
+Conocida popularmente como Casa de los Pinchos, está situada entre las calles de Rosellón, Bruc y la avenida Diagonal, en el Ensanche de Barcelona. Es un edificio diseñado por el arquitecto modernista Puig i Cadafalch, inspirado en el castillo de Neuschwanstein, en Baviera, Alemania, con seis esquinas, que coinciden con las intersecciones de las tres calles, y con la fachada principal de la casa en la esquina de la calle de Rosellón con la avenida Diagonal.
