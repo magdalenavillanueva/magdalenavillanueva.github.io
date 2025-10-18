@@ -72,12 +72,14 @@ Es una casa ubicada en el Passeig de Gràcia en el distrito del Eixample. Constr
 Es un edificio modernista obra del arquitecto Lluís Domènech i Montaner situada en el paseo de Gracia Nº 35 de Barcelona. El proyecto fue un encargo hecho en 1902 por Francesca Morera. Después de su muerte en 1904, su hijo Albert Lleó Morera continuó las obras y dio nombre al edificio. La obra finalizó el 10 de marzo de 1905.
 
 ###     
-Casa Malagrida: 
+
+### Casa Malagrida: 
 
 Construida a principios del siglo XX, entre 1905 y 1908, por el arquitecto Joaquim Codina,
 la fachada de la Casa Malagrida está llena de elementos modernistas. 
 
 ###      
-Casa Modest Andreu:  
+
+### Casa Modest Andreu:  
 
 Es un edificio de estilo modernista, de fachada con composición convencional simétrica que ordena cuatro pisos, coronados por un remate decorativo y una balaustrada. Destaca la forma redondeada de las barandillas de los balcones.
