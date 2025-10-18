@@ -89,11 +89,9 @@ Es un edificio de estilo modernista, de fachada con composición convencional si
 
 Conocida popularmente como Casa de los Pinchos, está situada entre las calles de Rosellón, Bruc y la avenida Diagonal, en el Ensanche de Barcelona. Es un edificio diseñado por el arquitecto modernista Puig i Cadafalch, inspirado en el castillo de Neuschwanstein, en Baviera, Alemania, con seis esquinas, que coinciden con las intersecciones de las tres calles, y con la fachada principal de la casa en la esquina de la calle de Rosellón con la avenida Diagonal.
 
-![](/assets/img/la-catedral-del-mar.jpg)
+![](/assets/img/la-catedral-del-mar.jpg){:width="200" style="float: left"}
 
-{:width="200" style="float: left"}
 
-### 
 
 
 
