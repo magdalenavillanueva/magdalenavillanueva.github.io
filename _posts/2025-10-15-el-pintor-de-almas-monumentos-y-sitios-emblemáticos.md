@@ -108,17 +108,9 @@ Conocida popularmente como Casa de los Pinchos, está situada entre las calles d
 
 
 
-### 
+
 Castillo de Montjuïc:   
 
 
 
-
-
-
-
-
-·        
 Es una antigua fortaleza militar situada en la montaña de Montjuic, en la ciudad de Barcelona.
-
-###
