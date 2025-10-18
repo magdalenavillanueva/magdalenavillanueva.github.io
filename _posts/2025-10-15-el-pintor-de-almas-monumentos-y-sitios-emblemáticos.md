@@ -90,7 +90,11 @@ Es un edificio de estilo modernista, de fachada con composición convencional si
 Casa Pons:
 
 
-En realidad, son dos edificios pertenecientes a las familias homónimas. Se construyeron entre los años 1890 y 1891 y llaman la atención por su fachada de estilo neogótico. Se trata de uno de los inmuebles imprescindibles en la ruta del modernismo del Passeig de Gràcia. El arquitecto catalán Enric Sagnier fue el encargado de dar vida a la emblemática Casa Pascual i Pons.  
+
+
+![](/assets/img/casa-poin.jpg)
+
+{:width="200" style="float: right"}En realidad, son dos edificios pertenecientes a las familias homónimas. Se construyeron entre los años 1890 y 1891 y llaman la atención por su fachada de estilo neogótico. Se trata de uno de los inmuebles imprescindibles en la ruta del modernismo del Passeig de Gràcia. El arquitecto catalán Enric Sagnier fue el encargado de dar vida a la emblemática Casa Pascual i Pons.  
 
 
 
