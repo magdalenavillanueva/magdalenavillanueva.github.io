@@ -114,3 +114,15 @@ Castillo de Montjuïc:  
 
 
 Es una antigua fortaleza militar situada en la montaña de Montjuic, en la ciudad de Barcelona.
+
+### 
+
+
+La catedral del mar:  
+
+
+
+
+
+        
+Es una basílica menor situada en la ciudad de Barcelona, España. Fue construida entre 1329 y 1383. Desde 1931, tiene la catalogación de Bien de Interés Cultural.  Algunos estudios actuales afirman que se levanta sobre un antiguo anfiteatro o arenas romanas. Sus orígenes se remontan a la iglesia paleocristiana de Santa María de las Arenas, donde se dice que descansaba el cuerpo de la mártir Santa Eulalia, patrona de Barcelona.
