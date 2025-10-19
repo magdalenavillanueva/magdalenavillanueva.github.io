@@ -114,38 +114,164 @@ Está situado en un conjunto de edificios ubicados en Barcelona, proyectados por
 
 Fue un café y restaurante ubicado en la plaza de Cataluña de Barcelona, España, que funcionó de 1897 a 1918. Destacaba por su decoración, de inspiración modernista, y por ser lugar de encuentro y tertulia de intelectuales, artistas y burguesía barcelonesa de la época.
 
-
-
 ### Mercado de la Boquería:
 
-
-     
 Es un mercado municipal que se encuentra en la Rambla de Barcelona, España. Además de ser un lugar donde se puede comprar todo tipo de productos frescos, es también una atracción turística. Tiene una superficie de 2583 m²  con más 300 puestos ofreciendo una gran variedad de productos locales y exóticos, tanto a los compradores particulares como a los restauradores de la ciudad. Es el mercado más grande de Cataluña, el más variado en oferta alimentaria y también el más visitado por los turistas. En el ejemplo se observa: *´´*En el mercado de la Boquería un sinfín de carros de transporte  con sus toldos y sus caballos esperaban estacionados en hilera, costado contra costado, a un par de pasos escasos de las vías del tranvía*´´*. *El pintor de almas de* Ildefonso
 Falcones.
 ![](/assets/img/montjuïc.jpg)
 
-
-
-
 ### Montjuïc:
 
-
 La atribución tradicional de la etimología de Montjuich es la de Monte de los judíos, supuestamente del catalán medieval, motivada por la existencia, confirmada por los documentos y la arqueología, de un cementerio judío en la montaña.  El Montjuïc de 173 metros de altura es junto con el Tibidabo una de las dos montañas locales de la capital catalana.                                                                                                    
-                                                                                                                   
-### Monasterio de San Pablo del Campo:  
 
+### Monasterio de San Pablo del Campo: 
 
-       
 Es un antiguo monasterio benedictino que se   encuentra en pleno barrio de El Raval de la ciudad española de Barcelona, en la que es uno de los edificios románicos mejor conservados. Fue fundado a finales del siglo IX.
 
-### Plaza de toros de las Arenas:  
+### Plaza de toros de las Arenas: 
 
 Antigua plaza de toros de Barcelona. Fue construida en la plaza de España, con el tradicional estilo neomudéjar, por el arquitecto Augusto Font Carreras. 
 
-![](/assets/img/plaza-de-cataluya.jpg){:width="200" style="float: right"}
+![](/assets/img/plaza-de-cataluya.jpg)
+
+{:width="200" style="float: right"}
 
 ### Plaza de Catalunya:
 
-       
 Es una céntrica plaza de Barcelona, uno de los centros neurálgicos de la ciudad. Tiene una superficie de 5 hectáreas. Constituye el punto de unión entre el núcleo viejo de la ciudad y el Ensanche. De aquí, parten importantes vías de la ciudad como la Rambla, el paseo de Gracia, la rambla de Cataluña o las rondas de la Universidad y de San Pedro, y la calle de Pelayo, así como la avenida de Portal del Ángel, la gran arteria comercial de la ciudad, y antigua puerta de las murallas.
 
+
+
+
+
+### 
+Paseo de Gràcia:
+
+
+
+
+
+Es una de las avenidas principales y más famosas de Barcelona (España), debido a su importancia
+turística, áreas comerciales, negocios y un gran escaparate de obras destacadas de arquitectura modernista, como las edificaciones de los arquitectos Antoni Gaudí y Lluís Domènech i Montaner, declaradas Patrimonio de la Humanidad. 
+
+
+
+
+### 
+Park Güell:
+
+
+
+
+
+
+Es un parque público con jardines y elementos arquitectónicos situado en la parte superior de la ciudad de Barcelona (España), en las estribaciones de la sierra de Collserola. El parque se halla en la ladera sur del monte Carmelo (barrio de La Salud, en el distrito de Gracia) y colindante a la ladera norte donde se encuentra el parque del Carmelo (barrio de El Carmelo, del distrito de Horta-Guinardó).  Fue diseñado por el arquitecto Antoni Gaudí, por encargo del empresario Eusebi Güell. Construido entre 1900 y 1914, fue inaugurado como parque público en 1926.
+
+
+
+
+
+
+
+Rambla  de Barcelona:  
+
+
+
+
+Es un emblemático paseo de la ciudad de Barcelona que discurre entre la plaza de Cataluña, centro
+neurálgico de la ciudad, y el puerto antiguo.  Paseando por La Rambla pueden verse varios edificios de interés, como el Palacio de la Virreina, así como el mercado de La Boquería y el teatro de El Liceo, en el que se representan óperas y ballets.  
+
+
+
+
+
+
+Rambla de Canaletes:  
+
+
+
+
+Es la parte alta de Las Ramblas, junto a la Plaça de Catalunya. Se llama así por la presencia de la
+fuente de Canaletes.  El motivo por el que al primer tramo de las Ramblas se lo conoce como
+Canaletas fue debido a sus orígenes. Por aquel entonces la ciudad se encontraba dentro de la segunda muralla.
+
+
+
+
+
+Rec Comtal: 
+
+
+
+
+
+
+
+
+·        
+Es un canal de riego que sirvió a los habitantes del  llano de Barcelona desde su construcción hasta
+inicios del siglo XIX. La construcción tiene su origen en un antiguo acueducto romano que canalizaba el agua desde el río Besós, como se observa en la cita: *´´*No debía juzgarlas, se reprochó mientras lavaba la ropa de Antonio y la suya en un lavadero cercano al Rec Comtal: un antiguo acueducto romano convertido en canal
+de riego que nacía en el río Besos y que discurría por detrás de la iglesia de Santa María de la Mar*´´*.  *El pintor de almas de* Ildefonso Falcones.    
+
+
+
+
+
+
+Palacio de la Música Catalana: 
+
+
+
+
+
+
+
+
+       
+Es un auditorio de música situado en la calle Sant Pere més Alt en el barrio de la Ribera de Barcelona, España. Fue proyectado por el arquitecto barcelonés Lluís Domènech i Montaner, uno de los máximos representantes del modernismo catalán. La construcción se llevó a cabo entre los años 1905 y 1908.
+
+
+
+
+
+
+
+
+
+
+·       
+Templo Expiatorio de la Sagrada Familia:  
+
+
+
+
+
+Es una basílica católica de Barcelona (España), diseñada por el arquitecto Antoni Gaudí. Iniciada en 1882, todavía está en construcción. Es la obra maestra de Gaudí y el máximo exponente de la arquitectura modernista catalana. 
+
+
+
+
+
+
+Torre Bellesguard:  
+
+
+
+Fue proyectada por el arquitecto modernista  Antoni Gaudí y construida entre 1900 y 1909, aunque diversos trabajos secundarios se prolongaron hasta 1916, finalizados ya por los ayudantes de Gaudí.​ Se encuentra a los pies de la sierra de Collserola, en Barcelona, en el barrio que fue la antigua localidad de San Gervasio de Cassolas, hoy parte integrante de la Ciudad Condal
+
+
+
+
+
+Universidad de Barcelona: 
+
+
+
+
+
+Es una universidad pública española con sede en la ciudad de Barcelona. Sus facultades están distribuidas en Barcelona y alrededores: el campus de Universidad, el del Raval, el de Diagonal, el de Bellvitge, el de Torribera, el de Mundet, el de Sants y el de Hospital Clínico.   Fundada en 1450, es considerada como una de las universidades más antiguas de España. 
+
+En determinados pasajes el autor realiza descripciones de la arquitectura modernista. Tal es así, que el protagonista se entremezcla con conocidos personajes como Antoni Gaudí, Doménech i Montaner y Josep Puig i Cadafalch, entre otros y de esta manera los lectores podemos ser partícipes de la construcción de los primeros
+edificios modernistas.
+
+A continuación le damos unos links donde pueden profundizar en la arquitectura modernista:
