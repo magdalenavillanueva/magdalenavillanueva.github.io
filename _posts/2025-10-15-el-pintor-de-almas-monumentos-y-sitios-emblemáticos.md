@@ -129,3 +129,18 @@ Mercado de la Boquería:
 ·       
 Es un mercado municipal que se encuentra en la Rambla de Barcelona, España. Además de ser un lugar donde se puede comprar todo tipo de productos frescos, es también una atracción turística. Tiene una superficie de 2583 m²  con más 300 puestos ofreciendo una gran variedad de productos locales y exóticos, tanto a los compradores particulares como a los restauradores de la ciudad. Es el mercado más grande de Cataluña, el más variado en oferta alimentaria y también el más visitado por los turistas. En el ejemplo se observa: *´´*En el mercado de la Boquería un sinfín de carros de transporte  con sus toldos y sus caballos esperaban estacionados en hilera, costado contra costado, a un par de pasos escasos de las vías del tranvía*´´*. *El pintor de almas de* Ildefonso
 Falcones.
+
+![](/assets/img/montjuïc.jpg)
+
+
+
+
+### 
+
+Montjuïc:
+
+
+
+
+
+La atribución tradicional de la etimología de Montjuich es la de Monte de los judíos, supuestamente del catalán medieval, motivada por la existencia, confirmada por los documentos y la arqueología, de un cementerio judío en la montaña.  El Montjuïc de 173 metros de altura es junto con el Tibidabo una de las dos montañas locales de la capital catalana.
