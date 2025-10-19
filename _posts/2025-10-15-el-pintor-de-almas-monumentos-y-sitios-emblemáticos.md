@@ -103,51 +103,21 @@ Es una basílica menor situada en la ciudad de Barcelona, España. Fue construid
 
 
 
-### 
-La Barceloneta:  
-
-
-
+### La Barceloneta:  
 
 
 
 Es un barrio costero adonde acuden los lugareños para hacer surf y tomar el sol en la playa de Sant Sebastià, y para comer al aire libre en marisquerías y bares de tapas tradicionales.        
 
 
+### Hospital de la Santa Cruz y San Pablo: 
 
 
-### 
-Hospital de la Santa Cruz y San Pablo: 
+Está situado en un conjunto de edificios ubicados en Barcelona, proyectados por el arquitecto Lluís Domènech i Montaner, uno de los principales representantes del modernismo catalán. Fue construido entre 1902 y 1930 en dos fases: la primera por el propio Domènech, entre 1902 y 1913, consta de trece edificios modernistas; la segunda, realizada por su hijo Pere Domènech i Roura a partir de 1920, consta de otros seis edificios de un modernismo moderado y de otras edificaciones posteriores. Lo observamos en el ejemplo:  *´´*El nuevo hospital de la Santa Creu i Sant Pau iba a ser, con toda seguridad, un alarde de modernismo y un homenaje al azulejo y a su diseño, lo que garantizaba buenos ingresos para sus  proveedores*´´*. *El pintor de almas de* Ildefonso Falcones.
+![](/assets/img/hospital-de-la-santa-cruz.jpg){:width="200" style="float: right"}
 
 
+### Maison Dorée:
 
 
-
-
-
-Está situado en un conjunto de edificios ubicados en Barcelona, proyectados por el arquitecto Lluís
-Domènech i Montaner, uno de los principales representantes del modernismo catalán. Fue construido entre 1902 y 1930 en dos fases: la primera por el propio Domènech, entre 1902 y 1913, consta de trece edificios modernistas; la segunda, realizada por su hijo Pere Domènech i Roura a partir de 1920, consta de otros seis edificios de un modernismo moderado y de otras edificaciones posteriores. Lo observamos en el ejemplo:  *´´*El nuevo hospital de la Santa Creu i Sant Pau iba a ser, con toda seguridad, un alarde de modernismo y un homenaje al azulejo y a su diseño, lo que garantizaba buenos ingresos para sus  proveedores*´´*.    *El pintor de almas de* Ildefonso Falcones.
-
-
-
-![](/assets/img/hospital-de-la-santa-cruz.jpg)
-
-{:width="200" style="float: right"}
-
-
-
-
-
-
-### 
-
-Maison Dorée:
-
-
-
-
-
-
-
-Fue un café y restaurante ubicado en la plaza de Cataluña de Barcelona, España, que funcionó de 1897 a
-1918. Destacaba por su decoración, de inspiración modernista, y por ser lugar de encuentro y tertulia de intelectuales, artistas y burguesía barcelonesa de la época.
+Fue un café y restaurante ubicado en la plaza de Cataluña de Barcelona, España, que funcionó de 1897 a 1918. Destacaba por su decoración, de inspiración modernista, y por ser lugar de encuentro y tertulia de intelectuales, artistas y burguesía barcelonesa de la época.
