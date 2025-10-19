@@ -37,9 +37,7 @@ Es el nombre que recibe el distrito segundo de la ciudad de Barcelona, que ocupa
 
 ### Casa Amatller:
 
-![](/assets/img/casa-amallet.jpg)
-
-{:width="200" style="float: left"} Es un edificio modernista de Barcelona colindante con la Casa Batlló y cerca de la Casa Lleó Morera. Fue proyectado por el arquitecto Josep Puig i Cadafalch entre 1898 y 1900. Los tres edificios forman lo que se conoce como La manzana de la discordia, en alusión a la disputa mitológica protagonizadas entre las diosas Hera, Afrodita y Atenea, por considerarse como las de mayor belleza. Es Monumento histórico desde 1976.
+![](/assets/img/casa-amallet.jpg){:width="200" style="float: left"} Es un edificio modernista de Barcelona colindante con la Casa Batlló y cerca de la Casa Lleó Morera. Fue proyectado por el arquitecto Josep Puig i Cadafalch entre 1898 y 1900. Los tres edificios forman lo que se conoce como La manzana de la discordia, en alusión a la disputa mitológica protagonizadas entre las diosas Hera, Afrodita y Atenea, por considerarse como las de mayor belleza. Es Monumento histórico desde 1976.
 
 ### Casa Batlló:
 
@@ -48,9 +46,7 @@ Barcelona. Alberga además de este edificio otras obras de arquitectos modernist
 
 ### Casa Calvet: 
 
-![](/assets/img/casa-calvet.jpg)
-
-{:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
+![](/assets/img/casa-calvet.jpg){:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
 
 ### Casa Francesc Burés: 
 
@@ -62,9 +58,7 @@ Es una casa ubicada en el Passeig de Gràcia en el distrito del Eixample. Constr
 
 ### Casa La Pedrera: o Casa Milà:
 
-![](/assets/img/casa-la-pedrera.jpg)
-
-{:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
+![](/assets/img/casa-la-pedrera.jpg){:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
 
 ### Casa Lleó: 
 
@@ -81,17 +75,12 @@ Es un edificio de estilo modernista, de fachada con composición convencional si
 
 ### Casa Pons:
 
-![](/assets/img/casa-poin.jpg)
-
-{:width="200" style="float: right"}En realidad, son dos edificios pertenecientes a las familias homónimas. Se construyeron entre los años 1890 y 1891 y llaman la atención por su fachada de estilo neogótico. Se trata de uno de los inmuebles imprescindibles en la ruta del modernismo del Passeig de Gràcia. El arquitecto catalán Enric Sagnier fue el encargado de dar vida a la emblemática Casa Pascual i Pons.  
+![](/assets/img/casa-poin.jpg){:width="200" style="float: right"}En realidad, son dos edificios pertenecientes a las familias homónimas. Se construyeron entre los años 1890 y 1891 y llaman la atención por su fachada de estilo neogótico. Se trata de uno de los inmuebles imprescindibles en la ruta del modernismo del Passeig de Gràcia. El arquitecto catalán Enric Sagnier fue el encargado de dar vida a la emblemática Casa Pascual i Pons.  
 
 ### Casa Terradas:
 
 Conocida popularmente como Casa de los Pinchos, está situada entre las calles de Rosellón, Bruc y la avenida Diagonal, en el Ensanche de Barcelona. Es un edificio diseñado por el arquitecto modernista Puig i Cadafalch, inspirado en el castillo de Neuschwanstein, en Baviera, Alemania, con seis esquinas, que coinciden con las intersecciones de las tres calles, y con la fachada principal de la casa en la esquina de la calle de Rosellón con la avenida Diagonal.
-
-![](/assets/img/la-catedral-del-mar.jpg)
-
-{:width="200" style="float: left"}
+![](/assets/img/la-catedral-del-mar.jpg){:width="200" style="float: left"}
 
 ### Castillo de Montjuïc:  
 
@@ -131,10 +120,7 @@ Es un antiguo monasterio benedictino que se   encuentra en pleno barrio de El
 ### Plaza de toros de las Arenas: 
 
 Antigua plaza de toros de Barcelona. Fue construida en la plaza de España, con el tradicional estilo neomudéjar, por el arquitecto Augusto Font Carreras. 
-
-![](/assets/img/plaza-de-cataluya.jpg)
-
-{:width="200" style="float: right"}
+![](/assets/img/plaza-de-cataluya.jpg){:width="200" style="float: right"}
 
 ### Plaza de Catalunya:
 
@@ -147,11 +133,7 @@ Es una de las avenidas principales y más famosas de Barcelona (España), debido
 ### Park Güell:
 
 Es un parque público con jardines y elementos arquitectónicos situado en la parte superior de la ciudad de Barcelona (España), en las estribaciones de la sierra de Collserola. El parque se halla en la ladera sur del monte Carmelo (barrio de La Salud, en el distrito de Gracia) y colindante a la ladera norte donde se encuentra el parque del Carmelo (barrio de El Carmelo, del distrito de Horta-Guinardó).  Fue diseñado por el arquitecto Antoni Gaudí, por encargo del empresario Eusebi Güell. Construido entre 1900 y 1914, fue inaugurado como parque público en 1926.
-
-![](/assets/img/parque-guell.jpg)
-
-{:width="200" style="float: left"}
-
+![](/assets/img/parque-guell.jpg){:width="200" style="float: left"}
 
 ### Rambla  de Barcelona:  
 
@@ -160,14 +142,9 @@ Es un emblemático paseo de la ciudad de Barcelona que discurre entre la plaza d
 ### Rambla de Canaletes:  
 
 Es la parte alta de Las Ramblas, junto a la Plaça de Catalunya. Se llama así por la presencia de la fuente de Canaletes.  El motivo por el que al primer tramo de las Ramblas se lo conoce como Canaletas fue debido a sus orígenes. Por aquel entonces la ciudad se encontraba dentro de la segunda muralla.
+![](/assets/img/rambla-canaletes.jpg){:width="200" style="float: right"}
 
-![](/assets/img/rambla-canaletes.jpg)
-
-{:width="200" style="float: right"}
-
-
-### 
-Rec Comtal: 
+### Rec Comtal: 
 
 Es un canal de riego que sirvió a los habitantes del  llano de Barcelona desde su construcción hasta inicios del siglo XIX. La construcción tiene su origen en un antiguo acueducto romano que canalizaba el agua desde el río Besós, como se observa en la cita: *´´*No debía juzgarlas, se reprochó mientras lavaba la ropa de Antonio y la suya en un lavadero cercano al Rec Comtal: un antiguo acueducto romano convertido en canal
 de riego que nacía en el río Besos y que discurría por detrás de la iglesia de Santa María de la Mar*´´*.  *El pintor de almas de* Ildefonso Falcones.    
@@ -176,12 +153,7 @@ de riego que nacía en el río Besos y que discurría por detrás de la iglesia 
 
 Es un auditorio de música situado en la calle Sant Pere més Alt en el barrio de la Ribera de Barcelona, España. Fue proyectado por el arquitecto barcelonés Lluís Domènech i Montaner, uno de los máximos representantes del modernismo catalán. La construcción se llevó a cabo entre los años 1905 y 1908.
 
-![](/assets/img/templo-ex-sagrada-familia.jpg)
-
-{:width="200" style="float: left"}
-
-
-
+![](/assets/img/templo-ex-sagrada-familia.jpg){:width="200" style="float: left"}
 
 
 ### Templo Expiatorio de la Sagrada Familia:  
@@ -194,14 +166,9 @@ Fue proyectada por el arquitecto modernista  Antoni Gaudí y construida entre 1
 
 ### Universidad de Barcelona: 
 
-Es una universidad pública española con sede en la ciudad de Barcelona. Sus facultades están distribuidas en Barcelona y alrededores: el campus de Universidad, el del Raval, el de Diagonal, el de Bellvitge, el de Torribera, el de Mundet, el de Sants y el de Hospital Clínico.   Fundada en 1450, es considerada como una de las universidades más antiguas de España. 
+Es una universidad pública española con sede en la ciudad de Barcelona. Sus facultades están distribuidas en Barcelona y alrededores: el campus de Universidad, el del Raval, el de Diagonal, el de Bellvitge, el de Torribera, el de Mundet, el de Sants y el de Hospital Clínico. Fundada en 1450, es considerada como una de las universidades más antiguas de España. 
 
-![](/assets/img/universidad-de-barcellona.jpg)
-
-
-{:width="200" style="float: right"}
-
-
+![](/assets/img/universidad-de-barcellona.jpg){:width="200" style="float: right"}
 
 En determinados pasajes el autor realiza descripciones de la arquitectura modernista. Tal es así, que el protagonista se entremezcla con conocidos personajes como Antoni Gaudí, Doménech i Montaner y Josep Puig i Cadafalch, entre otros y de esta manera los lectores podemos ser partícipes de la construcción de los primeros
 edificios modernistas.
