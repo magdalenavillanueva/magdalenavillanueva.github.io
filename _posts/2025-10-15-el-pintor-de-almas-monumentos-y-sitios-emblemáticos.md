@@ -143,4 +143,26 @@ Montjuïc:
 
 
 
-La atribución tradicional de la etimología de Montjuich es la de Monte de los judíos, supuestamente del catalán medieval, motivada por la existencia, confirmada por los documentos y la arqueología, de un cementerio judío en la montaña.  El Montjuïc de 173 metros de altura es junto con el Tibidabo una de las dos montañas locales de la capital catalana.
+La atribución tradicional de la etimología de Montjuich es la de Monte de los judíos, supuestamente del catalán medieval, motivada por la existencia, confirmada por los documentos y la arqueología, de un cementerio judío en la montaña.  El Montjuïc de 173 metros de altura es junto con el Tibidabo una de las dos montañas locales de la capital catalana.                                                                                                    
+                                                                                                                        
+
+
+
+
+### 
+
+Monasterio de San Pablo del Campo:  
+
+
+
+
+
+### 
+
+
+
+
+·       
+Es un antiguo monasterio benedictino que se   encuentra en pleno barrio de El Raval de la ciudad española de Barcelona, en la que es uno de los edificios románicos mejor conservados. Fue fundado a finales del siglo IX.
+
+###
