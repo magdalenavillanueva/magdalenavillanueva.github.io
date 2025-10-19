@@ -165,4 +165,18 @@ Monasterio de San Pablo del Campo: 
 ·       
 Es un antiguo monasterio benedictino que se   encuentra en pleno barrio de El Raval de la ciudad española de Barcelona, en la que es uno de los edificios románicos mejor conservados. Fue fundado a finales del siglo IX.
 
-###
+### 
+
+
+
+
+
+Plaza de toros de las Arenas:  
+
+
+
+
+
+
+Antigua plaza de toros de Barcelona. Fue construida en la plaza de España, con el tradicional estilo
+neomudéjar, por el arquitecto Augusto Font Carreras.
