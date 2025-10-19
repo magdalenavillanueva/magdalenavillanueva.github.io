@@ -132,43 +132,22 @@ Es un antiguo monasterio benedictino que se   encuentra en pleno barrio de El
 
 Antigua plaza de toros de Barcelona. Fue construida en la plaza de España, con el tradicional estilo neomudéjar, por el arquitecto Augusto Font Carreras. 
 
-![](/assets/img/plaza-de-cataluya.jpg)
-
-{:width="200" style="float: right"}
+![](/assets/img/plaza-de-cataluya.jpg){:width="200" style="float: right"}
 
 ### Plaza de Catalunya:
 
 Es una céntrica plaza de Barcelona, uno de los centros neurálgicos de la ciudad. Tiene una superficie de 5 hectáreas. Constituye el punto de unión entre el núcleo viejo de la ciudad y el Ensanche. De aquí, parten importantes vías de la ciudad como la Rambla, el paseo de Gracia, la rambla de Cataluña o las rondas de la Universidad y de San Pedro, y la calle de Pelayo, así como la avenida de Portal del Ángel, la gran arteria comercial de la ciudad, y antigua puerta de las murallas.
 
+### Paseo de Gràcia:
+
+Es una de las avenidas principales y más famosas de Barcelona (España), debido a su importancia turística, áreas comerciales, negocios y un gran escaparate de obras destacadas de arquitectura modernista, como las edificaciones de los arquitectos Antoni Gaudí y Lluís Domènech i Montaner, declaradas Patrimonio de la Humanidad. 
 
 
 
 
-### 
-Paseo de Gràcia:
-
-
-
-
-
-Es una de las avenidas principales y más famosas de Barcelona (España), debido a su importancia
-turística, áreas comerciales, negocios y un gran escaparate de obras destacadas de arquitectura modernista, como las edificaciones de los arquitectos Antoni Gaudí y Lluís Domènech i Montaner, declaradas Patrimonio de la Humanidad. 
-
-
-
-
-### 
-Park Güell:
-
-
-
-
-
+### Park Güell:
 
 Es un parque público con jardines y elementos arquitectónicos situado en la parte superior de la ciudad de Barcelona (España), en las estribaciones de la sierra de Collserola. El parque se halla en la ladera sur del monte Carmelo (barrio de La Salud, en el distrito de Gracia) y colindante a la ladera norte donde se encuentra el parque del Carmelo (barrio de El Carmelo, del distrito de Horta-Guinardó).  Fue diseñado por el arquitecto Antoni Gaudí, por encargo del empresario Eusebi Güell. Construido entre 1900 y 1914, fue inaugurado como parque público en 1926.
-
-
-
 
 
 
@@ -178,8 +157,7 @@ Rambla  de Barcelona:  
 
 
 
-Es un emblemático paseo de la ciudad de Barcelona que discurre entre la plaza de Cataluña, centro
-neurálgico de la ciudad, y el puerto antiguo.  Paseando por La Rambla pueden verse varios edificios de interés, como el Palacio de la Virreina, así como el mercado de La Boquería y el teatro de El Liceo, en el que se representan óperas y ballets.  
+Es un emblemático paseo de la ciudad de Barcelona que discurre entre la plaza de Cataluña, centro neurálgico de la ciudad, y el puerto antiguo.  Paseando por La Rambla pueden verse varios edificios de interés, como el Palacio de la Virreina, así como el mercado de La Boquería y el teatro de El Liceo, en el que se representan óperas y ballets.  
 
 
 
@@ -191,9 +169,7 @@ Rambla de Canaletes: 
 
 
 
-Es la parte alta de Las Ramblas, junto a la Plaça de Catalunya. Se llama así por la presencia de la
-fuente de Canaletes.  El motivo por el que al primer tramo de las Ramblas se lo conoce como
-Canaletas fue debido a sus orígenes. Por aquel entonces la ciudad se encontraba dentro de la segunda muralla.
+Es la parte alta de Las Ramblas, junto a la Plaça de Catalunya. Se llama así por la presencia de la fuente de Canaletes.  El motivo por el que al primer tramo de las Ramblas se lo conoce como Canaletas fue debido a sus orígenes. Por aquel entonces la ciudad se encontraba dentro de la segunda muralla.
 
 
 
@@ -208,9 +184,8 @@ Rec Comtal:
 
 
 
-·        
-Es un canal de riego que sirvió a los habitantes del  llano de Barcelona desde su construcción hasta
-inicios del siglo XIX. La construcción tiene su origen en un antiguo acueducto romano que canalizaba el agua desde el río Besós, como se observa en la cita: *´´*No debía juzgarlas, se reprochó mientras lavaba la ropa de Antonio y la suya en un lavadero cercano al Rec Comtal: un antiguo acueducto romano convertido en canal
+      
+Es un canal de riego que sirvió a los habitantes del  llano de Barcelona desde su construcción hasta inicios del siglo XIX. La construcción tiene su origen en un antiguo acueducto romano que canalizaba el agua desde el río Besós, como se observa en la cita: *´´*No debía juzgarlas, se reprochó mientras lavaba la ropa de Antonio y la suya en un lavadero cercano al Rec Comtal: un antiguo acueducto romano convertido en canal
 de riego que nacía en el río Besos y que discurría por detrás de la iglesia de Santa María de la Mar*´´*.  *El pintor de almas de* Ildefonso Falcones.    
 
 
@@ -239,7 +214,7 @@ Es un auditorio de música situado en la calle Sant Pere més Alt en el barrio d
 
 
 
-·       
+       
 Templo Expiatorio de la Sagrada Familia:  
 
 
