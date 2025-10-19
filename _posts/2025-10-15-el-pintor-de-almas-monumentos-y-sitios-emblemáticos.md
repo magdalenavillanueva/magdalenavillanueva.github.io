@@ -132,7 +132,9 @@ Es un antiguo monasterio benedictino que se   encuentra en pleno barrio de El
 
 Antigua plaza de toros de Barcelona. Fue construida en la plaza de España, con el tradicional estilo neomudéjar, por el arquitecto Augusto Font Carreras. 
 
-![](/assets/img/plaza-de-cataluya.jpg){:width="200" style="float: right"}
+![](/assets/img/plaza-de-cataluya.jpg)
+
+{:width="200" style="float: right"}
 
 ### Plaza de Catalunya:
 
@@ -142,107 +144,43 @@ Es una céntrica plaza de Barcelona, uno de los centros neurálgicos de la ciuda
 
 Es una de las avenidas principales y más famosas de Barcelona (España), debido a su importancia turística, áreas comerciales, negocios y un gran escaparate de obras destacadas de arquitectura modernista, como las edificaciones de los arquitectos Antoni Gaudí y Lluís Domènech i Montaner, declaradas Patrimonio de la Humanidad. 
 
-
-
-
 ### Park Güell:
 
 Es un parque público con jardines y elementos arquitectónicos situado en la parte superior de la ciudad de Barcelona (España), en las estribaciones de la sierra de Collserola. El parque se halla en la ladera sur del monte Carmelo (barrio de La Salud, en el distrito de Gracia) y colindante a la ladera norte donde se encuentra el parque del Carmelo (barrio de El Carmelo, del distrito de Horta-Guinardó).  Fue diseñado por el arquitecto Antoni Gaudí, por encargo del empresario Eusebi Güell. Construido entre 1900 y 1914, fue inaugurado como parque público en 1926.
 
+![](/assets/img/parque-guell.jpg)
+
+### 
+{:width="200" style="float: left"}
 
 
 
-Rambla  de Barcelona:  
-
-
-
+### Rambla  de Barcelona:  
 
 Es un emblemático paseo de la ciudad de Barcelona que discurre entre la plaza de Cataluña, centro neurálgico de la ciudad, y el puerto antiguo.  Paseando por La Rambla pueden verse varios edificios de interés, como el Palacio de la Virreina, así como el mercado de La Boquería y el teatro de El Liceo, en el que se representan óperas y ballets.  
 
-
-
-
-
-
-Rambla de Canaletes:  
-
-
-
+### Rambla de Canaletes:  
 
 Es la parte alta de Las Ramblas, junto a la Plaça de Catalunya. Se llama así por la presencia de la fuente de Canaletes.  El motivo por el que al primer tramo de las Ramblas se lo conoce como Canaletas fue debido a sus orígenes. Por aquel entonces la ciudad se encontraba dentro de la segunda muralla.
 
+### Rec Comtal: 
 
-
-
-
-Rec Comtal: 
-
-
-
-
-
-
-
-
-      
 Es un canal de riego que sirvió a los habitantes del  llano de Barcelona desde su construcción hasta inicios del siglo XIX. La construcción tiene su origen en un antiguo acueducto romano que canalizaba el agua desde el río Besós, como se observa en la cita: *´´*No debía juzgarlas, se reprochó mientras lavaba la ropa de Antonio y la suya en un lavadero cercano al Rec Comtal: un antiguo acueducto romano convertido en canal
 de riego que nacía en el río Besos y que discurría por detrás de la iglesia de Santa María de la Mar*´´*.  *El pintor de almas de* Ildefonso Falcones.    
 
+### Palacio de la Música Catalana: 
 
-
-
-
-
-Palacio de la Música Catalana: 
-
-
-
-
-
-
-
-
-       
 Es un auditorio de música situado en la calle Sant Pere més Alt en el barrio de la Ribera de Barcelona, España. Fue proyectado por el arquitecto barcelonés Lluís Domènech i Montaner, uno de los máximos representantes del modernismo catalán. La construcción se llevó a cabo entre los años 1905 y 1908.
 
-
-
-
-
-
-
-
-
-
-       
-Templo Expiatorio de la Sagrada Familia:  
-
-
-
-
+### Templo Expiatorio de la Sagrada Familia:  
 
 Es una basílica católica de Barcelona (España), diseñada por el arquitecto Antoni Gaudí. Iniciada en 1882, todavía está en construcción. Es la obra maestra de Gaudí y el máximo exponente de la arquitectura modernista catalana. 
 
-
-
-
-
-
-Torre Bellesguard:  
-
-
+### Torre Bellesguard:  
 
 Fue proyectada por el arquitecto modernista  Antoni Gaudí y construida entre 1900 y 1909, aunque diversos trabajos secundarios se prolongaron hasta 1916, finalizados ya por los ayudantes de Gaudí.​ Se encuentra a los pies de la sierra de Collserola, en Barcelona, en el barrio que fue la antigua localidad de San Gervasio de Cassolas, hoy parte integrante de la Ciudad Condal
 
-
-
-
-
-Universidad de Barcelona: 
-
-
-
-
+### Universidad de Barcelona: 
 
 Es una universidad pública española con sede en la ciudad de Barcelona. Sus facultades están distribuidas en Barcelona y alrededores: el campus de Universidad, el del Raval, el de Diagonal, el de Bellvitge, el de Torribera, el de Mundet, el de Sants y el de Hospital Clínico.   Fundada en 1450, es considerada como una de las universidades más antiguas de España. 
 
