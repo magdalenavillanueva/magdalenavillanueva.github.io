@@ -116,67 +116,36 @@ Fue un café y restaurante ubicado en la plaza de Cataluña de Barcelona, Españ
 
 
 
-### 
-Mercado de la Boquería:
+### Mercado de la Boquería:
 
 
-
-
-
-
-
-
-·       
+     
 Es un mercado municipal que se encuentra en la Rambla de Barcelona, España. Además de ser un lugar donde se puede comprar todo tipo de productos frescos, es también una atracción turística. Tiene una superficie de 2583 m²  con más 300 puestos ofreciendo una gran variedad de productos locales y exóticos, tanto a los compradores particulares como a los restauradores de la ciudad. Es el mercado más grande de Cataluña, el más variado en oferta alimentaria y también el más visitado por los turistas. En el ejemplo se observa: *´´*En el mercado de la Boquería un sinfín de carros de transporte  con sus toldos y sus caballos esperaban estacionados en hilera, costado contra costado, a un par de pasos escasos de las vías del tranvía*´´*. *El pintor de almas de* Ildefonso
 Falcones.
-
 ![](/assets/img/montjuïc.jpg)
 
 
 
 
-### 
-
-Montjuïc:
-
-
-
+### Montjuïc:
 
 
 La atribución tradicional de la etimología de Montjuich es la de Monte de los judíos, supuestamente del catalán medieval, motivada por la existencia, confirmada por los documentos y la arqueología, de un cementerio judío en la montaña.  El Montjuïc de 173 metros de altura es junto con el Tibidabo una de las dos montañas locales de la capital catalana.                                                                                                    
-                                                                                                                        
+                                                                                                                   
+### Monasterio de San Pablo del Campo:  
 
 
-
-
-### 
-
-Monasterio de San Pablo del Campo:  
-
-
-
-
-
-### 
-
-
-
-
-·       
+       
 Es un antiguo monasterio benedictino que se   encuentra en pleno barrio de El Raval de la ciudad española de Barcelona, en la que es uno de los edificios románicos mejor conservados. Fue fundado a finales del siglo IX.
 
-### 
+### Plaza de toros de las Arenas:  
 
+Antigua plaza de toros de Barcelona. Fue construida en la plaza de España, con el tradicional estilo neomudéjar, por el arquitecto Augusto Font Carreras. 
 
+![](/assets/img/plaza-de-cataluya.jpg){:width="200" style="float: right"}
 
+### Plaza de Catalunya:
 
+       
+Es una céntrica plaza de Barcelona, uno de los centros neurálgicos de la ciudad. Tiene una superficie de 5 hectáreas. Constituye el punto de unión entre el núcleo viejo de la ciudad y el Ensanche. De aquí, parten importantes vías de la ciudad como la Rambla, el paseo de Gracia, la rambla de Cataluña o las rondas de la Universidad y de San Pedro, y la calle de Pelayo, así como la avenida de Portal del Ángel, la gran arteria comercial de la ciudad, y antigua puerta de las murallas.
 
-Plaza de toros de las Arenas:  
-
-
-
-
-
-
-Antigua plaza de toros de Barcelona. Fue construida en la plaza de España, con el tradicional estilo
-neomudéjar, por el arquitecto Augusto Font Carreras.
