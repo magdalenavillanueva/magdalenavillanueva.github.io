@@ -101,23 +101,31 @@ Es una antigua fortaleza militar situada en la montaña de Montjuic, en la ciuda
 
 Es una basílica menor situada en la ciudad de Barcelona, España. Fue construida entre 1329 y 1383. Desde 1931, tiene la catalogación de Bien de Interés Cultural.  Algunos estudios actuales afirman que se levanta sobre un antiguo anfiteatro o arenas romanas. Sus orígenes se remontan a la iglesia paleocristiana de Santa María de las Arenas, donde se dice que descansaba el cuerpo de la mártir Santa Eulalia, patrona de Barcelona.
 
-
-
-### La Barceloneta:  
-
-
+### La Barceloneta: 
 
 Es un barrio costero adonde acuden los lugareños para hacer surf y tomar el sol en la playa de Sant Sebastià, y para comer al aire libre en marisquerías y bares de tapas tradicionales.        
 
-
-### Hospital de la Santa Cruz y San Pablo: 
-
+### Hospital de la Santa Cruz y San Pablo:
 
 Está situado en un conjunto de edificios ubicados en Barcelona, proyectados por el arquitecto Lluís Domènech i Montaner, uno de los principales representantes del modernismo catalán. Fue construido entre 1902 y 1930 en dos fases: la primera por el propio Domènech, entre 1902 y 1913, consta de trece edificios modernistas; la segunda, realizada por su hijo Pere Domènech i Roura a partir de 1920, consta de otros seis edificios de un modernismo moderado y de otras edificaciones posteriores. Lo observamos en el ejemplo:  *´´*El nuevo hospital de la Santa Creu i Sant Pau iba a ser, con toda seguridad, un alarde de modernismo y un homenaje al azulejo y a su diseño, lo que garantizaba buenos ingresos para sus  proveedores*´´*. *El pintor de almas de* Ildefonso Falcones.
 ![](/assets/img/hospital-de-la-santa-cruz.jpg){:width="200" style="float: right"}
 
-
 ### Maison Dorée:
 
-
 Fue un café y restaurante ubicado en la plaza de Cataluña de Barcelona, España, que funcionó de 1897 a 1918. Destacaba por su decoración, de inspiración modernista, y por ser lugar de encuentro y tertulia de intelectuales, artistas y burguesía barcelonesa de la época.
+
+
+
+### 
+Mercado de la Boquería:
+
+
+
+
+
+
+
+
+·       
+Es un mercado municipal que se encuentra en la Rambla de Barcelona, España. Además de ser un lugar donde se puede comprar todo tipo de productos frescos, es también una atracción turística. Tiene una superficie de 2583 m²  con más 300 puestos ofreciendo una gran variedad de productos locales y exóticos, tanto a los compradores particulares como a los restauradores de la ciudad. Es el mercado más grande de Cataluña, el más variado en oferta alimentaria y también el más visitado por los turistas. En el ejemplo se observa: *´´*En el mercado de la Boquería un sinfín de carros de transporte  con sus toldos y sus caballos esperaban estacionados en hilera, costado contra costado, a un par de pasos escasos de las vías del tranvía*´´*. *El pintor de almas de* Ildefonso
+Falcones.
