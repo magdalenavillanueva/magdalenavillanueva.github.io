@@ -46,7 +46,7 @@ Barcelona. Alberga además de este edificio otras obras de arquitectos modernist
 
 ### Casa Calvet: 
 
-![](/assets/img/casa-calvet.jpg) {:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
+![](/assets/img/casa-calvet.jpg){:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
 
 ### Casa Francesc Burés: 
 
