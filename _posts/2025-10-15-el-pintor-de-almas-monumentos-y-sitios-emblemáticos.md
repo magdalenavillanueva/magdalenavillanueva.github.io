@@ -150,9 +150,7 @@ Es un parque público con jardines y elementos arquitectónicos situado en la pa
 
 ![](/assets/img/parque-guell.jpg)
 
-### 
 {:width="200" style="float: left"}
-
 
 
 ### Rambla  de Barcelona:  
@@ -163,7 +161,13 @@ Es un emblemático paseo de la ciudad de Barcelona que discurre entre la plaza d
 
 Es la parte alta de Las Ramblas, junto a la Plaça de Catalunya. Se llama así por la presencia de la fuente de Canaletes.  El motivo por el que al primer tramo de las Ramblas se lo conoce como Canaletas fue debido a sus orígenes. Por aquel entonces la ciudad se encontraba dentro de la segunda muralla.
 
-### Rec Comtal: 
+![](/assets/img/rambla-canaletes.jpg)
+
+{:width="200" style="float: right"}
+
+
+### 
+Rec Comtal: 
 
 Es un canal de riego que sirvió a los habitantes del  llano de Barcelona desde su construcción hasta inicios del siglo XIX. La construcción tiene su origen en un antiguo acueducto romano que canalizaba el agua desde el río Besós, como se observa en la cita: *´´*No debía juzgarlas, se reprochó mientras lavaba la ropa de Antonio y la suya en un lavadero cercano al Rec Comtal: un antiguo acueducto romano convertido en canal
 de riego que nacía en el río Besos y que discurría por detrás de la iglesia de Santa María de la Mar*´´*.  *El pintor de almas de* Ildefonso Falcones.    
@@ -171,6 +175,14 @@ de riego que nacía en el río Besos y que discurría por detrás de la iglesia 
 ### Palacio de la Música Catalana: 
 
 Es un auditorio de música situado en la calle Sant Pere més Alt en el barrio de la Ribera de Barcelona, España. Fue proyectado por el arquitecto barcelonés Lluís Domènech i Montaner, uno de los máximos representantes del modernismo catalán. La construcción se llevó a cabo entre los años 1905 y 1908.
+
+![](/assets/img/templo-ex-sagrada-familia.jpg)
+
+{:width="200" style="float: left"}
+
+
+
+
 
 ### Templo Expiatorio de la Sagrada Familia:  
 
@@ -183,6 +195,13 @@ Fue proyectada por el arquitecto modernista  Antoni Gaudí y construida entre 1
 ### Universidad de Barcelona: 
 
 Es una universidad pública española con sede en la ciudad de Barcelona. Sus facultades están distribuidas en Barcelona y alrededores: el campus de Universidad, el del Raval, el de Diagonal, el de Bellvitge, el de Torribera, el de Mundet, el de Sants y el de Hospital Clínico.   Fundada en 1450, es considerada como una de las universidades más antiguas de España. 
+
+![](/assets/img/universidad-de-barcellona.jpg)
+
+
+{:width="200" style="float: right"}
+
+
 
 En determinados pasajes el autor realiza descripciones de la arquitectura modernista. Tal es así, que el protagonista se entremezcla con conocidos personajes como Antoni Gaudí, Doménech i Montaner y Josep Puig i Cadafalch, entre otros y de esta manera los lectores podemos ser partícipes de la construcción de los primeros
 edificios modernistas.
