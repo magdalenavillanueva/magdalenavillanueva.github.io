@@ -12,4 +12,6 @@ date: 2025-09-29T18:56:00.000-04:00
 
 [](https://www.barcelona-life.com/barcelona/modernisme)
 
+![](/assets/img/gastronomía.png)
+
 [](https://www.barcelona-life.com/barcelona/modernisme)[](https://www.viajarabarcelona.org/el-modernismo-en-barcelona/ruta-modernista-por-barcelona/)
