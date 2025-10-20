@@ -37,7 +37,9 @@ Es el nombre que recibe el distrito segundo de la ciudad de Barcelona, que ocupa
 
 ### Casa Amatller:
 
-![](/assets/img/casa-amallet.jpg){:width="200" style="float: left"} Es un edificio modernista de Barcelona colindante con la Casa Batlló y cerca de la Casa Lleó Morera. Fue proyectado por el arquitecto Josep Puig i Cadafalch entre 1898 y 1900. Los tres edificios forman lo que se conoce como La manzana de la discordia, en alusión a la disputa mitológica protagonizadas entre las diosas Hera, Afrodita y Atenea, por considerarse como las de mayor belleza. Es Monumento histórico desde 1976.
+![](/assets/img/casa-amallet.jpg)
+
+{:width="200" style="float: left"} Es un edificio modernista de Barcelona colindante con la Casa Batlló y cerca de la Casa Lleó Morera. Fue proyectado por el arquitecto Josep Puig i Cadafalch entre 1898 y 1900. Los tres edificios forman lo que se conoce como La manzana de la discordia, en alusión a la disputa mitológica protagonizadas entre las diosas Hera, Afrodita y Atenea, por considerarse como las de mayor belleza. Es Monumento histórico desde 1976.
 
 ### Casa Batlló:
 
@@ -46,7 +48,9 @@ Barcelona. Alberga además de este edificio otras obras de arquitectos modernist
 
 ### Casa Calvet: 
 
-![](/assets/img/casa-calvet.jpg){:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
+![](/assets/img/casa-calvet.jpg)
+
+{:width="200" style="float: right"}Es un reflejo de la lenitud artística de Gaudí: pertenece a su etapa naturalista, periodo en que el arquitecto perfecciona su estilo personal, inspirándose en las formas orgánicas de la naturaleza, para lo que puso en práctica toda una serie de nuevas soluciones estructurales originadas en los profundos análisis efectuados por Gaudí de la geometría reglada.
 
 ### Casa Francesc Burés: 
 
@@ -58,7 +62,9 @@ Es una casa ubicada en el Passeig de Gràcia en el distrito del Eixample. Constr
 
 ### Casa La Pedrera: o Casa Milà:
 
-![](/assets/img/casa-la-pedrera.jpg){:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
+![](/assets/img/casa-la-pedrera.jpg)
+
+{:width="200" style="float: left"}Llamada popularmente «La Pedrera» («cantera» en catalán), es un edificio modernista,​ obra del arquitecto Antoni Gaudí, construido entre los años 1906 y 1910. La casa fue edificada por encargo del matrimonio Pedro Milá y Camps y Roser Segimon.
 
 ### Casa Lleó: 
 
@@ -75,7 +81,9 @@ Es un edificio de estilo modernista, de fachada con composición convencional si
 
 ### Casa Pons:
 
-![](/assets/img/casa-poin.jpg){:width="200" style="float: right"}En realidad, son dos edificios pertenecientes a las familias homónimas. Se construyeron entre los años 1890 y 1891 y llaman la atención por su fachada de estilo neogótico. Se trata de uno de los inmuebles imprescindibles en la ruta del modernismo del Passeig de Gràcia. El arquitecto catalán Enric Sagnier fue el encargado de dar vida a la emblemática Casa Pascual i Pons.  
+![](/assets/img/casa-poin.jpg)
+
+{:width="200" style="float: right"}En realidad, son dos edificios pertenecientes a las familias homónimas. Se construyeron entre los años 1890 y 1891 y llaman la atención por su fachada de estilo neogótico. Se trata de uno de los inmuebles imprescindibles en la ruta del modernismo del Passeig de Gràcia. El arquitecto catalán Enric Sagnier fue el encargado de dar vida a la emblemática Casa Pascual i Pons.  
 
 ### Casa Terradas:
 
@@ -139,38 +147,49 @@ Es un parque público con jardines y elementos arquitectónicos situado en la pa
 
 Es un emblemático paseo de la ciudad de Barcelona que discurre entre la plaza de Cataluña, centro neurálgico de la ciudad, y el puerto antiguo.  Paseando por La Rambla pueden verse varios edificios de interés, como el Palacio de la Virreina, así como el mercado de La Boquería y el teatro de El Liceo, en el que se representan óperas y ballets.  
 
-### Rambla de Canaletes:  
+### Rambla de Canaletes: 
 
 Es la parte alta de Las Ramblas, junto a la Plaça de Catalunya. Se llama así por la presencia de la fuente de Canaletes.  El motivo por el que al primer tramo de las Ramblas se lo conoce como Canaletas fue debido a sus orígenes. Por aquel entonces la ciudad se encontraba dentro de la segunda muralla.
 ![](/assets/img/rambla-canaletes.jpg){:width="200" style="float: right"}
 
-### Rec Comtal: 
+### Rec Comtal:
 
 Es un canal de riego que sirvió a los habitantes del  llano de Barcelona desde su construcción hasta inicios del siglo XIX. La construcción tiene su origen en un antiguo acueducto romano que canalizaba el agua desde el río Besós, como se observa en la cita: *´´*No debía juzgarlas, se reprochó mientras lavaba la ropa de Antonio y la suya en un lavadero cercano al Rec Comtal: un antiguo acueducto romano convertido en canal
 de riego que nacía en el río Besos y que discurría por detrás de la iglesia de Santa María de la Mar*´´*.  *El pintor de almas de* Ildefonso Falcones.    
 
-### Palacio de la Música Catalana: 
+### Palacio de la Música Catalana:
 
 Es un auditorio de música situado en la calle Sant Pere més Alt en el barrio de la Ribera de Barcelona, España. Fue proyectado por el arquitecto barcelonés Lluís Domènech i Montaner, uno de los máximos representantes del modernismo catalán. La construcción se llevó a cabo entre los años 1905 y 1908.
 
-![](/assets/img/templo-ex-sagrada-familia.jpg){:width="200" style="float: left"}
+![](/assets/img/templo-ex-sagrada-familia.jpg)
 
+{:width="200" style="float: left"}
 
-### Templo Expiatorio de la Sagrada Familia:  
+### Templo Expiatorio de la Sagrada Familia: 
 
 Es una basílica católica de Barcelona (España), diseñada por el arquitecto Antoni Gaudí. Iniciada en 1882, todavía está en construcción. Es la obra maestra de Gaudí y el máximo exponente de la arquitectura modernista catalana. 
 
-### Torre Bellesguard:  
+### Torre Bellesguard: 
 
 Fue proyectada por el arquitecto modernista  Antoni Gaudí y construida entre 1900 y 1909, aunque diversos trabajos secundarios se prolongaron hasta 1916, finalizados ya por los ayudantes de Gaudí.​ Se encuentra a los pies de la sierra de Collserola, en Barcelona, en el barrio que fue la antigua localidad de San Gervasio de Cassolas, hoy parte integrante de la Ciudad Condal
 
-### Universidad de Barcelona: 
+### Universidad de Barcelona:
 
 Es una universidad pública española con sede en la ciudad de Barcelona. Sus facultades están distribuidas en Barcelona y alrededores: el campus de Universidad, el del Raval, el de Diagonal, el de Bellvitge, el de Torribera, el de Mundet, el de Sants y el de Hospital Clínico. Fundada en 1450, es considerada como una de las universidades más antiguas de España. 
 
-![](/assets/img/universidad-de-barcellona.jpg){:width="200" style="float: right"}
+![](/assets/img/universidad-de-barcellona.jpg)
+
+{:width="200" style="float: right"}
 
 En determinados pasajes el autor realiza descripciones de la arquitectura modernista. Tal es así, que el protagonista se entremezcla con conocidos personajes como Antoni Gaudí, Doménech i Montaner y Josep Puig i Cadafalch, entre otros y de esta manera los lectores podemos ser partícipes de la construcción de los primeros
 edificios modernistas.
 
 A continuación le damos unos links donde pueden profundizar en la arquitectura modernista:
+
+<https://www.viajarabarcelona.org/el-modernismo-en-barcelona/ruta-modernista-por-barcelona/>
+
+<https://www.barcelona-life.com/barcelona/modernisme>
+
+
+
+[](https://www.barcelona-life.com/barcelona/modernisme)[](https://www.viajarabarcelona.org/el-modernismo-en-barcelona/ruta-modernista-por-barcelona/)
