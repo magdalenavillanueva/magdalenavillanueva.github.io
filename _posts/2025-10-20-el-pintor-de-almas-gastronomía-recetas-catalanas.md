@@ -11,3 +11,5 @@ date: 2025-09-29T18:56:00.000-04:00
 <center>ILDEFONSO FALCONES DE SIERRA</center>
 
 ![](/assets/img/gastronomía.png)
+
+![](/assets/img/gastronomía-2.png)
