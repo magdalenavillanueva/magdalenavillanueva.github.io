@@ -15,8 +15,7 @@ date: 2025-09-29T18:56:00.000-04:00
 
  Por otro lado, su trabajo en el taller de cerámica de don Manuel Bello, su mentor y un conservador burgués de férreas creencias católicas, lo acerca a un ambiente donde imperan la riqueza y la innovación creativa. 
 
-![](/assets/img/casa-milà-en-1911.png){:width="500" style="float: right"}De este modo, seducido por las tentadoras ofertas de una burguesía dispuesta a comprar su obra y su conciencia, Dalmau tendrá que encontrar su auténtico camino, como hombre y como artista, y alejarse de las noches de vino y drogas en las que ha caído, para descubrir lo que de verdad le importa: sus valores, su esencia, el amor de una mujer valiente y luchadora y, sobre todo, esos cuadros que brotan
-de su imaginación y capturan en un lienzo las almas más miserables que deambulan por las calles de una ciudad agitada por el germen de la rebeldía.  De ahí, el nombre de la novela:  *El pintor de almas*. 
+![](/assets/img/casa-milà-en-1911.png){:width="500" style="float: right"}De este modo, seducido por las tentadoras ofertas de una burguesía dispuesta a comprar su obra y su conciencia, Dalmau tendrá que encontrar su auténtico camino, como hombre y como artista, y alejarse de las noches de vino y drogas en las que ha caído, para descubrir lo que de verdad le importa: sus valores, su esencia, el amor de una mujer valiente y luchadora y, sobre todo, esos cuadros que brotan de su imaginación y capturan en un lienzo las almas más miserables que deambulan por las calles de una ciudad agitada por el germen de la rebeldía.  De ahí, el nombre de la novela:  *El pintor de almas*. 
 
 En *El Pintor de Almas* el autor ha logrado retratar a la perfección la sociedad barcelonesa de principios del siglo XX y logra captar a la Barcelona de  1901,  tras la Exposición  Universal de 1888 en el  Parque de La Ciudadela.
 
