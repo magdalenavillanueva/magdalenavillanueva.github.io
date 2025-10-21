@@ -5,7 +5,7 @@ categories:
 title: "El Pintor de Almas: Gastronomía:  recetas catalanas:           "
 date: 2025-09-29T18:56:00.000-04:00
 ---
-![](/assets/img/gastronomía.png)
+![](/assets/img/gastronomía-1-.png)
 
 <center>El PINTOR DE ALMAS</center> 
 <center>ILDEFONSO FALCONES DE SIERRA</center>
