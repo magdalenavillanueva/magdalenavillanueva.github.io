@@ -10,6 +10,8 @@ date: 2025-09-29T18:56:00.000-04:00
 <center>El PINTOR DE ALMAS</center> 
 <center>ILDEFONSO FALCONES DE SIERRA</center>
 
-![](/assets/img/gastronomía.png)
+![](/assets/img/gastronomia-1.png)
 
-![]()
+![](/assets/img/gastronomia-2.png)
+
+![](/assets/img/gastronomia-3.png)
