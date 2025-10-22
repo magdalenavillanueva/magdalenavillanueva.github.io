@@ -15,3 +15,51 @@ date: 2025-09-29T18:56:00.000-04:00
 ![](/assets/img/gastronomia-2.png)
 
 ![](/assets/img/gastronomia-3.png)
+
+### 
+Dulces:
+
+
+
+
+
+
+
+###      
+Crema catalana:  
+
+Consiste en una crema pastelera con base de yema de huevo que se suele cubrir con una capa de azúcar caramelizado en su superficie para aportar un contraste crujiente.​ 
+
+
+
+
+
+
+
+
+
+·       
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+ 
+ 
+Mató de monja:  
+
+Es un postre tradicional de la gastronomía catalana similar a la crema catalana más fina, desmoldada, en forma oval, ya menudo acompañada de nata o miel. En este ejemplo vemos que sirvieron de postre: ´´crema catalana y mató de monja. Se regó todo con agua y vino tinto, para luego pasar a los vinos dulces con los postres y a licores con los cafés´´.  *El pintor de almas* de Ildefonso Falcones.
