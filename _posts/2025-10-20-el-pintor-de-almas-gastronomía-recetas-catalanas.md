@@ -10,43 +10,15 @@ date: 2025-09-29T18:56:00.000-04:00
 <center>El PINTOR DE ALMAS</center> 
 <center>ILDEFONSO FALCONES DE SIERRA</center>
 
-![]()
 
-![]()
 
-![]()
 
-### Dulces:
 
-![](/assets/img/crema-catalana.jpg)
 
-{:width="300" style="float: left"}
 
-###  Crema catalana:
 
-Consiste en una crema pastelera con base de yema de huevo que se suele cubrir con una capa de azúcar caramelizado en su superficie para aportar un contraste crujiente.​ 
 
-![](/assets/img/mató.jpg)
 
-{:width="200" style="float: right"}
-
-### Mató de monja: 
-
-Es un postre tradicional de la gastronomía catalana similar a la crema catalana más fina, desmoldada, en forma oval, ya menudo acompañada de nata o miel. En este ejemplo vemos que sirvieron de postre: ´´crema catalana y mató de monja. Se regó todo con agua y vino tinto, para luego pasar a los vinos dulces con los postres y a licores con los cafés´´.  *El pintor de almas* de Ildefonso Falcones.
-
-### Bebidas
-
-![](/assets/img/absenta.jpg)
-
-{:width="300" style="float: left"}
-
-### Absenta: 
-
-Es una bebida alcohólica de ligero sabor anisado, con un fondo amargo de tintes complejos debido a la contribución de las hierbas que contiene, principalmente Artemisia absinthium.  Vemos el ejemplo: ´´Mientras tanto,Dalmau  había ocupado una mesa solitaria y el tabernero ya le había servido su  primera bebida: absenta´´.   *El pintor de almas* de Ildefonso Falcones.
-
-![](/assets/img/ratafia.jpg)
-
-{:width="200" style="float: right"}
 
 ### Ratafía: 
 
