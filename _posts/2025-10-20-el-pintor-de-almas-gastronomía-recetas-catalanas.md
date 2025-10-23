@@ -12,7 +12,7 @@ date: 2025-09-29T18:56:00.000-04:00
 
 ![](/assets/img/1-gastronomia-alma.png)
 
-![](/assets/img/2-gastronomia-alma.png)
+![](/assets/img/gastronomía-22.png)
 
 ![](/assets/img/3-gastronomia-alma.png)
 
