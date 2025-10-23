@@ -12,6 +12,10 @@ date: 2025-09-29T18:56:00.000-04:00
 
 ![](/assets/img/1-gastronomia-alma.png)
 
+![](/assets/img/2-gastronomia-alma.png)
+
+![](/assets/img/3-gastronomia-alma.png)
+
 ### Ratafía: 
 
 Un licor dulce típico catalán elaborado a base de aguardiente o anís, o los dos juntos, con azúcar, nueces verdes maceradas y hierbas aromáticas: menta, marialuisa y algo de nuez moscada y canela. Como se observa en el ejemplo: ´´Tras la fruta aparecieron tres botellas de licor, una de anís y dos de ratafía, un licor típico catalán
