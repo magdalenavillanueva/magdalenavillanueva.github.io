@@ -18,7 +18,7 @@ date: 2025-12-16T18:56:00.000-04:00
 
 ## 2) Al leer A fuego lento encontramos la sospecha y el suspensos estimulados.
 
-![](/assets/img/paula-hawkins.png){:width="200" style="float: right"}
+![](/assets/img/paula-hawkins.png){:width="500" style="float: right"}
 
 ## 3) Personaje principal.
 
