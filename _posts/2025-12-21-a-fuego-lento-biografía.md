@@ -19,6 +19,8 @@ Su catálogo de novelas hasta ahora conocido:
 
  **Con el seudónimo de Amy Silver:**
 
+![](/assets/img/3.png)
+
 
 <center>2009 - Confessions of a Reluctant Recessionista
 
@@ -30,6 +32,8 @@ Su catálogo de novelas hasta ahora conocido:
 
 >
 > **Como Paula Hawkins** 
+>
+> ![](/assets/img/4.png)
 
 
 
