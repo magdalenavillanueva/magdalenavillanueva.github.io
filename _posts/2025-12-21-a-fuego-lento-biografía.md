@@ -17,8 +17,8 @@ En 2016 la BBC la incluye en su lista de las mujeres más influyentes del año, 
 
 ![](/assets/img/3.png)
 
-{:width="300" style="float: left"}
+{:width="200" style="float: left"}
 
 ![](/assets/img/4.png)
 
-{:width="300" style="float: right"}
+{:width="200" style="float: right"}
