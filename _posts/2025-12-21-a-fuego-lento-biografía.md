@@ -15,6 +15,4 @@ En 2016 la BBC la incluye en su lista de las mujeres más influyentes del año, 
 
 **Su catálogo de novelas hasta ahora conocido:** 
 
-![](/assets/img/3.png){:width="200" style="float: left"}
-
-![](/assets/img/4.png){:width="200" style="float: right"}
+![](/assets/img/3.png){:width="200" style="float: left"}![](/assets/img/4.png){:width="200" style="float: right"}
