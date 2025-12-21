@@ -7,11 +7,7 @@ date: 2025-12-21T17:38:00.000-04:00
 ---
 ![](/assets/img/banner-definitivo.png)
 
-**ÁNGELA SUTHERLAND:**  (Angie) hermana de Carla, trabajaba en edición y corrección de textos, le gustaba leer novelas policiacas y pertenecía a clubes de lectura de ficción. Lo que para unos era maltratar, para ella era participar en la trama novelística al subrayar el texto, escribir preguntas e identificarse con el personaje. Es una mujer frustrada, que ha tomado malas decisiones en su vida y no logra conciliar su tragedia personal con su realidad. Su familia la ha dejado de lado, tienen poco contacto con ella. Se vuelve alcohólica cuando descubre que su hijo es responsable de un accidente y de su obsesión por su tía. 
-
-![](/assets/img/angela.png)
-
-{:width="300" style="float: right"}
+**ÁNGELA SUTHERLAND:**  (Angie) hermana de Carla, trabajaba en edición y corrección de textos, le gustaba leer novelas policiacas y pertenecía a clubes de lectura de ficción. Lo que para unos era maltratar, para ella era participar en la trama novelística al subrayar el texto, escribir preguntas e identificarse con el personaje. Es una mujer frustrada, que ha tomado malas decisiones en su vida y no logra conciliar su tragedia personal con su realidad. Su familia la ha dejado de lado, tienen poco contacto con ella. Se vuelve alcohólica cuando descubre que su hijo es responsable de un accidente y de su obsesión por su tía. ![](/assets/img/angela.png){:width="300" style="float: right"}
 
 Su muerte fue producto de una caída por las escaleras de su casa. Ocho semanas antes que la muerte de su hijo Daniel.
 
