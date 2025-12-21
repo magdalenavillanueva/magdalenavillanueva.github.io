@@ -15,4 +15,8 @@ A lo largo de su vida sufre la indiferencia, la descalificación, la humillació
 
 … “Una chica extraña vestida con ropa extraña: llevaba unos pantalones con estampado de flores y una voluminosa cazadora plateada. Era menuda y delgada, con el pelo rubio platino y un reguero de pecas sobre el puente de la nariz. Tenía unos enormes ojos azules cuyas pupilas parecían agujeros negros...”
 
-**CARLA MYERSON**:  hermana de Ángela y tía de Daniel. Ex esposa de Theo. La pérdida de su hijo en un accidente doméstico la desestabiliza y no logra superar el dolor. Vive la vida llena de inseguridades y tristezas envueltas en un lindo peinado, costosa vestimenta y físico perfecto. Se separa de su esposo amistosamente, pero mantienen contacto íntimo. Se siente desprovista de emociones, aunque sigue intentando seguir adelante para continuar viviendo.![](/assets/img/carla.png){:width="300" style="float: right"}
+**CARLA MYERSON**:  hermana de Ángela y tía de Daniel. Ex esposa de Theo. La pérdida de su hijo en un accidente doméstico la desestabiliza y no logra superar el dolor. Vive la vida llena de inseguridades y tristezas envueltas en un lindo peinado, costosa vestimenta y físico perfecto. Se separa de su esposo amistosamente, pero mantienen contacto íntimo. Se siente desprovista de emociones, aunque sigue intentando seguir adelante para continuar viviendo.
+
+![](/assets/img/carla.png)
+
+{:width="300" style="float: right"}
