@@ -12,10 +12,13 @@ Paula Hawkins (1973), nace en Salisbury, Rhodesia, hoy en día se conoce como Ha
 En sus inicios como escritora toma el seudónimo de Amy Silver, sus primeras novelas fueron de corte romántico que no le dieron reconocimiento. Para 2015 cambia el estilo hacia el suspenso o thrillers psicológicos y algunos críticos consideran que su obra tiene influencias de Agatha Christie,  Margaret Atwood, entre otros. Su trabajo como periodista le dio material para la temática que había resuelto tomar: el machismo, la mujer maltratada, el alcoholismo, la violencia doméstica tanto física como psicológica. 
 
 En 2016 la BBC la incluye en su lista de las mujeres más influyentes del año,  100 woman 2016. Y en 2015 y 2017 fue galardonada con el Goodreads Choice Award en la Categoría Misterio y Suspenso. 
-Su catálogo de novelas hasta ahora conocido: 
 
+**Su catálogo de novelas hasta ahora conocido:** 
 
+![](/assets/img/3.png)
 
-![](/assets/img/3.png){:width="300" style="float: left"}
+{:width="300" style="float: left"}
 
-> ![](/assets/img/4.png){:width="300" style="float: left"}
+![](/assets/img/4.png)
+
+{:width="300" style="float: left"}
