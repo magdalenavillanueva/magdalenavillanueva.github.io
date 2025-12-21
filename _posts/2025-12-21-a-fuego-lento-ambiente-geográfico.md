@@ -7,8 +7,6 @@ date: 2025-12-21T18:42:00.000-04:00
 ---
 ![](/assets/img/banner-definitivo.png)
 
-![](/assets/img/londres.png)
-
 Londres es la ciudad donde acontece la novela y estos son algunos de los lugares que presenta la obra:
 
 ![](/assets/img/hayward’s-place.jpg)
@@ -24,3 +22,5 @@ Londres es la ciudad donde acontece la novela y estos son algunos de los lugares
 **Noel Road**: calle de Islington, Londres.  Vemos en el siguiente ejemplo: “—Vive a cinco minutos de aquí —explicó Carla—. En Noel Road. ¿Conocen  la calle? ”. 
 
 **Teatro Red Bull:** está  ubicado en Upper Street. Fue construido en 1600-05.
+
+![](/assets/img/londres.png)
