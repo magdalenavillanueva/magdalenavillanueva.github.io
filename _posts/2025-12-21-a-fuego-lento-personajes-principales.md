@@ -17,6 +17,4 @@ A lo largo de su vida sufre la indiferencia, la descalificación, la humillació
 
 **CARLA MYERSON**:  hermana de Ángela y tía de Daniel. Ex esposa de Theo. La pérdida de su hijo en un accidente doméstico la desestabiliza y no logra superar el dolor. Vive la vida llena de inseguridades y tristezas envueltas en un lindo peinado, costosa vestimenta y físico perfecto. Se separa de su esposo amistosamente, pero mantienen contacto íntimo. Se siente desprovista de emociones, aunque sigue intentando seguir adelante para continuar viviendo.
 
-![](/assets/img/carla.png)
-
-{:width="300" style="float: right"}
+![](/assets/img/carla.png){:width="300" style="float: right"}
