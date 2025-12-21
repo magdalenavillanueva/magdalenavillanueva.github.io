@@ -2,7 +2,7 @@
 layout: single
 categories:
   - A fuego lento
-title: A fuego lento:Personajes Principales
+title: "A fuego lento: Personajes Principales"
 date: 2025-12-21T11:46:00.000-04:00
 ---
 ![](/assets/img/banner-definitivo.png)
