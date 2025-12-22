@@ -15,5 +15,70 @@ En 2016 la BBC la incluye en su lista de las mujeres más influyentes del año, 
 
 **Su catálogo de novelas hasta ahora conocido:** 
 
-![](/assets/img/3.png){:width="300" style="float: left"}
+
+***Con el seudónimo de Amy Silver:***
+
+2009 - Confessions of a Reluctant Recessionista
+
+2010 - All I Want for Christmas
+
+2011 - One Minute to Midnight
+
+2013 - The Reunion
+
+***Como Paula Hawkins*** 
+
+2015 La chica del tren (The Girl On the Train). 
+
+2017 Escrito en el agua (Into the Water). 
+
+2021 A fuego lento (A Slow Fire Burning). 
+
+2022  Punto ciego (Blind Spot). 
+
+2024 La hora azul (The Blue Hour).
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](/assets/img/3.png)
+
+{:width="300" style="float: left"}
 ![](/assets/img/4.png){:width="300" style="float: right"}
