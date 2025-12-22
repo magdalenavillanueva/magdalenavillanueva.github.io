@@ -86,14 +86,17 @@ consagración como escritora, que también publicará Alianza. Actualmente traba
 en su tercera novela.
 
 
-La viuda
+**La viuda**
 
- "La historia comenzó con Jean, ella es la voz que yo podía escuchar en mi cabeza y que guía La Viuda. Para mí, este libro es la historia de un matrimonio con secretos, es un
-libro cuánto podemos llegar a conocer a las personas”, explica Fiona Barton
-reportera de tribunales durante 30 años en el Daily Mail o el Daily Telegraph, quien,
-tras jubilarse decidió escribir su primera novela.
+![](/assets/img/a-fuego-lento.-la-viuda-libro.png)
+
+{:width="300" style="float: right"} "La historia comenzó con Jean, ella es la voz que yo podía escuchar en mi cabeza y que guía La Viuda. Para mí, este libro es la historia de un matrimonio con secretos, es un libro cuánto podemos llegar a conocer a las personas”, explica Fiona Barton reportera de tribunales durante 30 años en el Daily Mail o el Daily Telegraph, quien, tras jubilarse decidió escribir su primera novela.
+
+
 
 *La muerte, cuatro años después, del marido ejemplar al que ella creyó inocente abrirá paso a la duda.*  
+
+
 
 En La viuda, decidió asumir la mirada de una mujer asustadiza, sometida a un hombre
 brillante y ambicioso involucrado en la desaparición de una niña. La muerte,
@@ -104,6 +107,8 @@ en varias voces. La de la periodista Kate Waters, la de Jean Taylor, la del
 inspector de policía Bob Sparkes y la de la madre de la niña desaparecida. Esas
 las cuatro voces que se intercalan en la novela, que cuenta además con
 constantes saltos temporales.
+
+
 
 El texto, escrito en primera persona cuando habla Jean y en tercera cuando lo hace el resto, cuenta con una prosa directa en la que es perceptible en la que Barton se delata. Hay periodismo y vocación reporteril: "Es muy difícil desaprender lo que has
 puesto en práctica durante tres décadas, hay muchas técnicas periodísticas en
