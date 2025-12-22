@@ -20,16 +20,11 @@ La maldición** de Hill House Shirley Jackson.\*\*
 
 ***No es país para viejos*** Cormac McCarthy.<https://www.kobo.com/us/es/ebook/no-es-pais-para-viejos>
 
-**Tema central**: Intercambio de drogas
+**Tema central**: Intercambio de drogas.
 
+**En el silencio del bosque** Tana French<https://www.adnovelas.com/libro/el-silencio-del-bosque/>
 
+**Tema central;** asesinato infantil.
+Jardín de cemento Ian McEwan.<https://www.goodreads.com/book/show/310917>
 
-
-
-
-
-
-
-
-
-[](https://www.goodreads.com/book/show/83422.A_Dark_Adapted_Eye)
+**Tema central**: Adolescentes sin autoridad patriarcal.
