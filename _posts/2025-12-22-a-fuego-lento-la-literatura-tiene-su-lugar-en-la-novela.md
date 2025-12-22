@@ -11,7 +11,6 @@ date: 2025-12-21T19:24:00.000-04:00
 Libros mencionados en la obra:
 
 **Cocinar con una sola olla.
-La nueva cocina con vegetales.**[](https://www.buscalibre.us/libro-maldicion-de-hill-house-la/9786073161855/p/49505577:)
-**La maldición de Hill House Shirley Jackson.** <https://www.buscalibre.us/libro-maldicion-de-hill-house-la/9786073161855/p/49505577:>
-
+La nueva cocina con vegetales.
+**La maldición de Hill House Shirley Jackson.** 
 [](https://www.buscalibre.us/libro-maldicion-de-hill-house-la/9786073161855/p/49505577:)
