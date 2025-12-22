@@ -16,22 +16,21 @@ Libros mencionados en la obra:
 La nueva cocina con vegetales.
 La maldición** de Hill House Shirley Jackson.\*\* 
 [](https://www.buscalibre.us/libro-maldicion-de-hill-house-la/9786073161855/p/49505577:)
-**A Dark-Adapted** Ey Barbara Vine.<https://www.goodreads.com/book/show/83422.A_Dark_Adapted_Eye>
+**A Dark-Adapted** Ey Barbara Vine. <https://www.goodreads.com/book/show/83422.A_Dark_Adapted_Eye>
 
-***No es país para viejos*** Cormac McCarthy.<https://www.kobo.com/us/es/ebook/no-es-pais-para-viejos>
+***No es país para viejos*** Cormac McCarthy. <https://www.kobo.com/us/es/ebook/no-es-pais-para-viejos>
 
 **Tema central**: Intercambio de drogas.
 
-**En el silencio del bosque** Tana French<https://www.adnovelas.com/libro/el-silencio-del-bosque/>
+**En el silencio del bosque** Tana French. <https://www.adnovelas.com/libro/el-silencio-del-bosque/>
 
 **Tema central;** asesinato infantil.
-Jardín de cemento Ian McEwan.<https://www.goodreads.com/book/show/310917>
+Jardín de cemento Ian McEwan.  <https://www.goodreads.com/book/show/310917>
 
 **Tema central**: Adolescentes sin autoridad patriarcal.
 
 
-*La liebre con ojos de ámbar*   de  Edmund
-de Waal.
+***La liebre con ojos de ámbar***   de  Edmund de Waal.
 
  
 
@@ -40,9 +39,7 @@ de Waal.
 A continuación una cita de la obra donde se observa el interés por el género de la novela
 negra:
 
- 
-
-“El hecho de que Irene hubiera leído ya la mayor parte era irrelevante. Lo importante, aquello que con toda seguridad Carla no sabía, a pesar de que era su propia hermana de quien estaban hablando, era que Ángela maltrataba los libros: rompía los lomos, doblaba las esquinas de las páginas, garabateaba en los márgenes. Así, al hojear el ejemplar de Ángela Sutherland de *La maldición* de Hill House , por ejemplo, una podía advertir que había subrayado ciertas frases («A la pobre chica la odiaban a muerte; se ahorcó, por
+ “El hecho de que Irene hubiera leído ya la mayor parte era irrelevante. Lo importante, aquello que con toda seguridad Carla no sabía, a pesar de que era su propia hermana de quien estaban hablando, era que Ángela maltrataba los libros: rompía los lomos, doblaba las esquinas de las páginas, garabateaba en los márgenes. Así, al hojear el ejemplar de Ángela Sutherland de *La maldición* de Hill House , por ejemplo, una podía advertir que había subrayado ciertas frases («A la pobre chica la odiaban a muerte; se ahorcó, por
 cierto»); o, al pasar las páginas del manoseado ejemplar de Ángela de *A Dark-Adapted Eye*, podía descubrir hasta qué punto simpatizaba con los sentimientos de Vera respecto a su hermana («¡Exactamente!», había escrito en el margen junto a la frase que nos decía que «Nada mata como el desdén, y el desdén que sentía por ella me sobrevenía con
 intensos sofocos»). De vez en cuando una podía incluso encontrar un pequeño
 fragmento del pasado de Ángela: un punto de libro, por ejemplo, o un billete de
