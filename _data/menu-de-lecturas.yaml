@@ -59,7 +59,7 @@ links:
     link: /lecturas/a-fuego-lento
     image: /assets/img/a fuego lento portada.jpg
     description: A fuego lento
--   title: De ninguna parte
+  - title: De ninguna parte
     link: /lecturas/de-ninguna-parte
     image: /assets/img/portada De ninguna parte.jpg
     description: De ninguna parte
