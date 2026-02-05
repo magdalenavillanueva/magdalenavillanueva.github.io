@@ -3,5 +3,6 @@ layout: single
 categories:
   - De ninguna parte
 title: "De ninguna parte: Orden del Análisis"
-date: 2026-04-02 12:00:00 +0100
+date: 2026-02-04T21:23:00.000-04:00
 ---
+![](/assets/img/de-ninguna-parte-banner.jpg)
