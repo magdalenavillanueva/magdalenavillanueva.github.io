@@ -30,5 +30,5 @@ main:
     url: /a-fuego-lento
   - title: "De ninguna parte"
     url: /de-ninguna-parte
--   title: "Últimos días en berlin"
+  - title: "Últimos días en berlin"
     url: /ultimos-dias-en-berlin

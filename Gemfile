@@ -44,3 +44,6 @@ gem "liquid", "~> 4.0", ">= 4.0.4"
 
 # Fix for Ruby 3.4 compatibility
 gem "bigdecimal", "~> 3.1"
+
+# Explicit logger gem (stdlib default gem, required by Jekyll on some Ruby installs)
+gem "logger"

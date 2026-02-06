@@ -20,7 +20,8 @@ layout: section
         <h2 class="card-title">
           {{ link.title }}
           <div class="badge badge-success">
-            {{ site.categories[link.title].size }}
+            {% assign cat = site.categories[link.title] %}
+            {{ cat.size | default: 0 }}
           </div>
         </h2>
         <!-- <p>{{ link.description }}</p> -->
