@@ -22,8 +22,7 @@ Análisis de los personajes principales:  Abir Nasr, Jacob Baudin
 Análisis de los personajes secundarios.
 
 5.                
-Ambiente físico en el que se
-esarrollan los acontecimientos de la 
+Ambiente físico en el que se desarrollan los acontecimientos de la 
 novela.
 
 6.                
@@ -32,11 +31,9 @@ femeninos árabque aparecen en la novela.
 
 7.                
 El choque de costumbres y tradiciones
-del mundo musulmán regidos por
-la religión al enfrentarse a la visión del mundo occidental.
+del mundo musulmán regidos por la religión al enfrentarse a la visión del mundo occidental.
 
 8.                
 La temática recurrente de Julia Navarro en sus  obras: 
-*La*  he*rman dad de la 
-Sábana Santa,  La biblia de barro, La sangre*  *de los inocentes*,  *Dispara,
+*La*  he*rman dad de la  a Santa,  La biblia de barro, La sangre*  *de los inocentes*,  *Dis     para,
 ya yo estoy muerto* y  *De ninguna*  *parte*.
