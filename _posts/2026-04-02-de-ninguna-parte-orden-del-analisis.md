@@ -34,4 +34,4 @@ El choque de costumbres y tradiciones
 del mundo musulmán regidos por la religión al enfrentarse a la visión del mundo occidental.
 
 8.                
-La temática recurrente de Julia Navarro en sus obras:  *La  Hermandad de la Sábana Santa, La biblia de barro, La sang de los inocentes*, Dispara*, ya yo estoy muerto* y De *ninguna parte.*
+La temática recurrente de Julia Navarro en sus obras:  *La  Hermandad de la Sábana Santa, La biblia de barro, La sangre de los inocentes*, Dispara*, ya yo estoy muerto* y De *ninguna parte.*
