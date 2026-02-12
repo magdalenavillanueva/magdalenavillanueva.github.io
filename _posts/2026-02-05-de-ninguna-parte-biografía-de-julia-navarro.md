@@ -7,17 +7,9 @@ date: 2026-02-04 21:23:00.000-04:00
 ---
 ![](/assets/img/banner-de-ninguna-parte.png)
 
-
-
-
-
-
 Biografía de Julia Navarro:                                                                                          
 
-                                                                                  
-                       
-
-![]()
+![](/assets/img/frase-de-julia-navarro.png)
 
 Julia Navarro nació en Madrid el 8 de octubre de 1953.  Es una periodista y escritora
 española. Desarrolló una carrera dentro del mundo del periodismo.  Durante más de 35 años se especializó en
