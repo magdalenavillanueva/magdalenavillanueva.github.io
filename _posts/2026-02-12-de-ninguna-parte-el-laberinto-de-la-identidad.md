@@ -7,4 +7,4 @@ date: 2026-02-11T21:13:00.000-04:00
 ---
 ![](/assets/img/banner-de-ninguna-parte.png)
 
-<center>!\[](/assets/img/pregunta-de-julia-navarro.png)</center>
+<center>![](/assets/img/pregunta-de-julia-navarro.png)</center>
