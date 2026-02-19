@@ -7,10 +7,13 @@ date: 2026-02-11T21:13:00.000-04:00
 ---
 ![](/assets/img/banner-de-ninguna-parte.png)
 
-![](/assets/img/pregunta-de-julia-navarro.png){:width="500" style="float: right"}
+![](/assets/img/pregunta-de-julia-navarro.png)
 
-![](/assets/img/ficha-tecnica-de-julia-navarro.png){:width="200" style="float: left"}
+{:width="500" style="float: right"}
 
+![](/assets/img/ficha-tecnica-de-julia-navarro.png)
+
+{:width="200" style="float: left"}
 
 Abir
 Nasr es un adolescente que presencia el asesinato de su familia durante una
@@ -26,9 +29,6 @@ forma obsesiva.  Esta lucha interior
 marca la vida de Abir.  Además de esto, no
 es fácil vivir en un lugar donde siempre te sientes inmigrante
 
-
-
-
 Mientras tanto, noche
 tras noche la amenaza de Abir irrumpe en el sueño de Jacob Baudin, uno de los
 soldados que participó en la acción cuando cumplía con el servicio militar
@@ -36,6 +36,8 @@ obligatorio, enfrentándose al dilema de luchar contra enemigos que no ha
 elegido. Jacob, es hijo de padres franceses, y no deja de sentirse un emigrante
 en Israel, aunque intenta reconciliarse con una identidad que le viene dada por
 su condición de judío.
+
+![](/assets/img/libro-de-julia-navarro.png)
 
 *De ninguna parte* es una historia de desarraigo y supervivencia  que se desarrolla a través de un viaje a la
 conciencia de dos hombres que se ven obligados a vivir de acuerdo a unas
@@ -63,21 +65,11 @@ una periodista comprometida con su trabajo y donde nos muestra el control que
 el poder sea político o económico, tiene sobre los medios de comunicación, una
 crítica sobre las noticias que se deben dar y cómo darlas.  
 
-
-
-
-
-
 E igualmente, se presenta
 la situación
 compleja de la mujer en Oriente Medio impregnada de violaciones, desigualdad de
 género, abusos, machismo y, sobre todo, por la carencia de derechos que las
 respalden.
-
-
-
-
-
 
 De ninguna parte es una novela que hunde sus
 raíces en la naturaleza humana y sus contradicciones. El reto de la escritora
@@ -99,33 +91,5 @@ ninguna parte* de Julia Navarro es lineal pero a medida  que se van describiend
 entrelazan las historias de los dos personajes principales, donde un narrador
 omnisciente  va adentrándose en su interior para narrar por todo lo que han pasado hasta
 llevarlos al presente.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .
