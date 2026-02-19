@@ -7,13 +7,9 @@ date: 2026-02-11T21:13:00.000-04:00
 ---
 ![](/assets/img/banner-de-ninguna-parte.png)
 
-![](/assets/img/pregunta-de-julia-navarro.png)
+![](/assets/img/pregunta-de-julia-navarro.png){:width="500" style="float: right"}
 
-{:width="500" style="float: right"}
-
-![](/assets/img/ficha-tecnica-de-julia-navarro.png)
-
-{:width="200" style="float: left"}
+![](/assets/img/ficha-tecnica-de-julia-navarro.png){:width="200" style="float: left"}
 
 
 Abir
