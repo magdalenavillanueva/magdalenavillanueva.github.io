@@ -9,7 +9,7 @@ date: 2026-02-11T21:13:00.000-04:00
 
 ![]()
 
-Biografía de Julia Navarro:                                                                                          
+# Biografía de Julia Navarro:                                                                                          
 
 Julia Navarro nació en
 Madrid el 8 de octubre de 1953.  Es una
