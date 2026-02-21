@@ -26,12 +26,12 @@ Empezó tarde a escribir ficción.   Por ello, en 2004 dió el salto a la litera
 A partir de ese momento, el peso de su carrera literaria superó su trabajo como periodista, publicando desde entonces otros éxitos como:
 
 <center>*La Biblia de barro*, 2005</center>
-<center>*La sangre de los inocen* 2007</center>
+<center>*La sangre de los inocentes*, 2007</center>
 <center>*Dime quién soy*, 2010, </center>
-<center>*Dispara, yo ya estoy muerto*, 2013,</center>
-<center> *Historia de un canalla*, 2016,</center>
+<center>*Dispara, yo ya estoy muerto*, 2013</center>
+<center> *Historia de un canalla*, 2016</center>
 <center> *Tú no matarás*, 2018</center>
-<center>*De ninguna parte*, 2021,</center>
-<center> Una *historia compartida 2023*</center>
+<center>*De ninguna parte*, 2021</center>
+<center> Una *historia compartida*, 2023</center>
 <center>*El niño que perdió la guerra*, 2024 </center>
 <center>y *Cuando ellos se van*, 2025</center>
