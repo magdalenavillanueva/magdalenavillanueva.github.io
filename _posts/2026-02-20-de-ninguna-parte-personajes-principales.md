@@ -11,7 +11,7 @@ Los protagonistas de esta historia son Abir Nasr y Jacob Baudin, y a la vez, son
 
 ![](/assets/img/abir-nasr.png)
 
-{:width="300" style="float: left"}
+{:width="400" style="float: left"}
 
 **Abir Nasr**:   había nacido en Ein el-Helwe, donde vivió hace años
 un suceso traumático. Cuando era un adolescente presencia el asesinato de su
