@@ -9,9 +9,7 @@ date: 2026-02-20T12:03:00.000-04:00
 
 Los protagonistas de esta historia son Abir Nasr y Jacob Baudin, y a la vez, son antagonistas entre sí, sin embargo, comparten un objetivo común:  la  búsqueda de su identidad  a pesar de sus diferencias culturales.   
 
-![](/assets/img/abir-nasr.png)
-
-{:width="400" style="float: left"}
+![](/assets/img/abir-nasr.png){:width="400" style="float: left"}
 
 **Abir Nasr**:   había nacido en Ein el-Helwe, donde vivió hace años
 un suceso traumático. Cuando era un adolescente presencia el asesinato de su
@@ -62,3 +60,26 @@ embargo, no deja de sentirse un emigrante en Israel e intenta reconciliarse con
 una identidad que le viene dada por su condición de judío. Había obtenido las
 mejores calificaciones en ingeniería informática y en ingeniería cuántica. Estaba
 entre los mejores de esa nueva disciplina que era la inteligencia artificial.
+
+
+Aunque
+judío, por ser esta la religión de sus padres, la verdad es que no siente una
+especial inclinación religiosa, y cuando se establecen en Israel se siente como
+un extranjero.  Jacob, es una persona que
+siempre se está cuestionando quién es, era un objetor de conciencia en un país
+como Israel, que está en permanente estado de guerra, era una osadía o acaso
+una estupidez, siendo un militar perteneciente al ejército israelí.
+
+
+
+A
+pesar de sus creencias intenta no participar en la lucha armada. En su servicio
+militar obligatorio ha tenido que intervenir en un bombardeo en un campo de
+refugiados en el Líbano, situación que lo marcó definitivamente al sentirse responsable
+de los sucesos acaecidos en esta  
+operación, donde fue asesinada la familia de Abir Nasr. 
+
+A
+través de su relación con su terapeuta sabemos que vive  atormentado por la culpa que le genera una   profunda
+crisis moral y de identidad que lo acompaña durante toda la obra, porque  se siente atrapado por un odio que él no
+generó y a su vez, lo convierte en víctima en un país que está en un  conflicto interminable.
