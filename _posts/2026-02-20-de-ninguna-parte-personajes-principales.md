@@ -9,9 +9,7 @@ date: 2026-02-20T12:03:00.000-04:00
 
 Los protagonistas de esta historia son Abir Nasr y Jacob Baudin, y a la vez, son antagonistas entre sí, sin embargo, comparten un objetivo común:  la  búsqueda de su identidad  a pesar de sus diferencias culturales.   
 
-![](/assets/img/abir-nasr.png)
-
-{:width="400" style="float: left"}
+![](/assets/img/abir-nasr.png){:width="400" style="float: left"}
 
 **Abir Nasr**:   había nacido en Ein el-Helwe, donde vivió hace años
 un suceso traumático. Cuando era un adolescente presencia el asesinato de su
@@ -43,9 +41,7 @@ también lo es. En su clase ve como sus compañeras van vestidas distintas a su
 tía que va con la hiyab, totalmente tapada. Tampoco él era  francés. Ni un solo día le habían permitido ser
 uno de ellos. No era de ninguna parte.  Había
 terminado su ciclo de estudios con unas notas excelentes. Sin embargo, se va a Afganistán
-formarse como muyahidín.
-
-![](/assets/img/abir-nasr-en-evolucion.png)
+formarse como muyahidín.![](/assets/img/abir-nasr-en-evolucion.png){:width="300" style="float: right"}
 
 Abir
 es entregado por su tío al jeque Mohsin que lo lleva junto a su hermano  a Afganistán y es preparado para ser un
