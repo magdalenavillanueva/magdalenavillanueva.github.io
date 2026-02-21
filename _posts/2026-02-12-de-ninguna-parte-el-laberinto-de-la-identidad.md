@@ -7,12 +7,14 @@ date: 2026-02-11T21:13:00.000-04:00
 ---
 ![](/assets/img/banner-de-ninguna-parte.png)
 
-<center>![](/assets/img/pregunta-de-julia-navarro.png)</center>
+<center>!\[](/assets/img/pregunta-de-julia-navarro.png)</center>
 
-![](/assets/img/ficha-tecnica-de-julia-navarro.png){:width="200" style="float: left"}
+![](/assets/img/ficha-tecnica-de-julia-navarro.png)
 
-Abir
-Nasr es un adolescente que presencia el asesinato de su familia durante una
+{:width="200" style="float: left"}
+
+**Abir
+Nasr** es un adolescente que presencia el asesinato de su familia durante una
 misión del ejército israelí en Ein el-Helwe, al sur de Líbano.  Ante los
 cadáveres de su madre y hermana pequeña, jura que perseguirá a los culpables
 durante el resto de su vida.  Después de
@@ -33,7 +35,9 @@ elegido. Jacob, es hijo de padres franceses, y no deja de sentirse un emigrante
 en Israel, aunque intenta reconciliarse con una identidad que le viene dada por
 su condición de judío.
 
-![](/assets/img/libro-de-julia-navarro.png){:width="300" style="float: right"} *De ninguna parte* es una historia de desarraigo y supervivencia  que se desarrolla a través de un viaje a la
+![](/assets/img/libro-de-julia-navarro.png)
+
+{:width="300" style="float: right"} *De ninguna parte* es una historia de desarraigo y supervivencia  que se desarrolla a través de un viaje a la
 conciencia de dos hombres que se ven obligados a vivir de acuerdo a unas
 identidades que no han escogido y de las que es difícil escapar, cuyas vidas se
 vuelven a cruzar años más tarde en Bruselas bajo el humo de las bombas con las
