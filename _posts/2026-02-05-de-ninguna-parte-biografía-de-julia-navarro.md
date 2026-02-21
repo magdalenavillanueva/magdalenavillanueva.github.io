@@ -20,11 +20,9 @@ trabajado en los principales medios de comunicación del país, desde la radio
 como Cadena SER, COPE, medios como Europa Press, Panorama, Interviú, o
 las televisiones TVE y Telecinco
 
-![](/assets/img/pensamiento-de-julia-navarro.png)
+![](/assets/img/pensamiento-de-julia-navarro.png){:width="300" style="float: right"}   También escribió sus primeros libros de ensayo, en los que analiza la Transición Española, así como la actualidad política de los años 90. Deja el periodismo, al convertirse en una novelista de éxito.
 
-{:width="300" style="float: right"}   También escribió sus primeros libros de ensayo, en los que analiza la Transición Española, así como la actualidad política de los años 90. Deja el periodismo, al convertirse en una novelista de éxito.
-
-Empezó tarde a escribir ficción .   Por ello, en 2004 dió el salto a la literatura con la publicación de *La Hermandad de la Sábana Sant*, una novela histórica cargada de intriga y buenos personajes que fue traducida y publicada en casi toda Europa. 
+Empezó tarde a escribir ficción.   Por ello, en 2004 dió el salto a la literatura con la publicación de *La Hermandad de la Sábana Sant*, una novela histórica cargada de intriga y buenos personajes que fue traducida y publicada en casi toda Europa. 
 A partir de ese momento, el peso de su carrera literaria superó su trabajo como periodista, publicando desde entonces otros éxitos como:
 
  *La Biblia de barro*, 2005,
