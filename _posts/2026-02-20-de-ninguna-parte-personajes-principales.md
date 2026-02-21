@@ -9,7 +9,9 @@ date: 2026-02-20T12:03:00.000-04:00
 
 Los protagonistas de esta historia son Abir Nasr y Jacob Baudin, y a la vez, son antagonistas entre sí, sin embargo, comparten un objetivo común:  la  búsqueda de su identidad  a pesar de sus diferencias culturales.   
 
-![](/assets/img/abir-nasr.png){:width="400" style="float: left"}
+![](/assets/img/abir-nasr.png)
+
+{:width="400" style="float: left"}
 
 **Abir Nasr**:   había nacido en Ein el-Helwe, donde vivió hace años
 un suceso traumático. Cuando era un adolescente presencia el asesinato de su
@@ -49,4 +51,14 @@ combatiente, y deja de ser ese niño que soñaba con ser ingeniero para
 convertirse en un terrorista. Había viajado por distintos países con un
 pasaporte falso a nombre de Rémi Dufort, un comerciante francés, soltero  y católico, como lo vemos en este ejemplo: “Así  que, pese a las protestas de Gibram, sacó del
 doble fondo de su maleta un pasaporte francés. Era falso pero perfecto. Había
-viajado por distintos países con aquel pasaporte a nombre de Rémi Dufort“.   Pág.  66.  *De ninguna parte* de Julia Navarro
+viajado por distintos países con aquel pasaporte a nombre de Rémi Dufort“.   Pág.  66.  *De ninguna parte* de Julia Navarro.
+
+
+**Jacob Baudin:**  libanés y francés, pero también judío porque su
+madre lo es, lo mismo que los padres de su madre y el resto de sus
+antepasados.  Nació en Beirut,  hijo de André Baudin y Joanna.  Cuando muere su padre, su madre decide que se
+instalarán a vivir en Israel.  Sin
+embargo, no deja de sentirse un emigrante en Israel e intenta reconciliarse con
+una identidad que le viene dada por su condición de judío. Había obtenido las
+mejores calificaciones en ingeniería informática y en ingeniería cuántica. Estaba
+entre los mejores de esa nueva disciplina que era la inteligencia artificial.
