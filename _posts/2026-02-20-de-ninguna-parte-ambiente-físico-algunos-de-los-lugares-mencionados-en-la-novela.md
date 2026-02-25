@@ -248,17 +248,17 @@ corto, sin teñir; debió de ser castaño, pero 
 estaba salpicado de canas, amable y de ademanes contenidos. Era psiquiatra.
 De origen sefardí, su familia vivía en Salónica, Grecia.
 
-Orit Singer:  era una leyenda dentro del Mossad.  Estaba enferma de cáncer. 
+**Orit Singer**:  era una leyenda dentro del Mossad.  Estaba enferma de cáncer. 
 
-Miriam:  su
+**Miriam**:  su
 aspecto era común y esa  apariencia le
 permitía camuflajearse dentro de la población árabe palestina.   Era un agente de campo que se hacía pasar
 por musulmán  en Bruselas.
 
-Austin Turner:  trabaja en la CIA.
+**Austin Turner:**  trabaja en la CIA.
 
-Anthony
-Jones:  trabaja en la 
+**Anthony
+Jones:**  trabaja en la 
 OTAN.
 
 
