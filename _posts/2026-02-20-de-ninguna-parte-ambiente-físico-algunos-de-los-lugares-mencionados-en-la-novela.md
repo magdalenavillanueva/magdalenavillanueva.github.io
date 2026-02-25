@@ -9,35 +9,18 @@ date: 2026-02-22T18:58:00.000-04:00
 
 
 
-
-
-
-
-
 **Helen Morris/Marion Cloutier:**  es francesa, cabello castaño casi rubio, ojos color
 de miel, vivió toda su infancia y adolescencia en París. Su nombre verdadero
-era Marie Hélène Cloutier.  Marion fue
-amiga de Noura y representa a una chica que ha elegido ser libre y se construye
-ella misma sin haber tenido una vida fácil. Marion tenía abiertas las puertas
-de cualquier universidad debido a sus calificaciones.  
+era Marie Hélène Cloutier.  Marion fue amiga de Noura y representa a una chica que ha elegido ser libre y se construye ella misma sin haber tenido una vida fácil. Marion tenía abiertas las puertas de cualquier universidad debido a sus calificaciones.  
 
-Actualmente
-es una periodista muy respetada, es la presentadora del programa *El mundo de las 7*.  Está casada con Andrew Morris,
-vicepresidente del Canal Internacional y uno de los hombres más importantes de
-la industria de la televisión. 
+Actualmente es una periodista muy respetada, es la presentadora del programa *El mundo de las 7*.  Está casada con Andrew Morris, vicepresidente del Canal Internacional y uno de los hombres más importantes de la industria de la televisión. 
 
-**Lissette  Cloutier:**  es la hermana mayor de 
-Marion.
+**Lissette  Cloutier:**  es la hermana mayor de Marion.
 
-**Alí Amrani:**   novio 
-de Lissette  Cloutier, es
-un camello conocido en los ambientes bohemios de París.
+**Alí Amrani:**   novio de Lissette  Cloutier, es un camello conocido en los ambientes bohemios de París.
 
-**Benjamin Holz:**  es
-un periodista y presentador que trabajaba
-en El mundo a las 7,  un programa sobre
-política  internacional.   Comparte la conducción del mismo con Helen
-Morris.
+**Benjamin Holz:**  es un periodista y presentador que trabajaba
+en El mundo a las 7,  un programa sobre política  internacional.   Comparte la conducción del mismo con Helen Morris.
 
 **Lauren  Scott:**   productora de *El mundo a las 7 .*
 
@@ -50,8 +33,7 @@ complexión fuerte y una mirada sagaz. Discart estaba casado, tenía dos hijas y
 ninguna intención de separarse de su esposa, aunque era el amante de Noura
 Adoum.  Era el dueño del café-*concierto El Sueño de Marolles*.
 
-#### **PERSONAJES
-RELACIONADOS CON ABIR NASR:**   
+#### PERSONAJES RELACIONADOS CON ABIR NASR: 
 
 **Ismail:**  hermano menor de Abir.  Le gustaba su empleo  e incluso estaba satisfecho con la retribución que recibía. Trabajaba como joven del reparto.  Su tarea era sencilla: ´´repartir por varias plantas los paquetes ya seleccionados, además de ayudar al equipo de mantenimiento a reparar cualquier desperfecto del que les avisaran´´.  Pág. 282. 
 *De ninguna parte* de Julia Navarro.
