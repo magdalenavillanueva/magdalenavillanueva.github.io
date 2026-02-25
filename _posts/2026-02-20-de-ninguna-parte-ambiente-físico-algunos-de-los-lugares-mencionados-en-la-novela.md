@@ -33,7 +33,7 @@ complexión fuerte y una mirada sagaz. Discart estaba casado, tenía dos hijas y
 ninguna intención de separarse de su esposa, aunque era el amante de Noura
 Adoum.  Era el dueño del café-*concierto El Sueño de Marolles*.
 
-#### PERSONAJES RELACIONADOS CON ABIR NASR: 
+#### **PERSONAJES RELACIONADOS CON ABIR NASR:**   
 
 **Ismail:**  hermano menor de Abir.  Le gustaba su empleo  e incluso estaba satisfecho con la retribución que recibía. Trabajaba como joven del reparto.  Su tarea era sencilla: ´´repartir por varias plantas los paquetes ya seleccionados, además de ayudar al equipo de mantenimiento a reparar cualquier desperfecto del que les avisaran´´.  Pág. 282. 
 *De ninguna parte* de Julia Navarro.
@@ -52,7 +52,7 @@ grande!», y después se sumió en la eternidad´´. 
 **Fátima Adoum**:   es un ama de casa, discreta y amable, como mujer  árabe es buena,
 obediente y callada.  Es la madre de Noura y Farid, el hijo  mayor.  Era demasiado débil. Intuía que Abir e Ismail al estar bajo la tutela del jeque pertenecían al Círculo, un grupo que utilizaba el terrorismo como medio para lograr sus fines.
 
-**Noura/Nora Adoum**:   de cabello cobrizo, es de origen libanés-magrebí, es alegre y confiada, prima de Abir Nasr.  Van al mismo Liceo.  Adopta las costumbres de  sus compañeras, eso hace que se enfrente a las tradiciones de la familia y quiere la misma libertad y no casarse como su padre le tiene concertado, que es lo que su cultura manda, esto hace que escape de su familia para ganar esa libertad.  
+**Noura/Nora Adoum**:   Cabello cobrizo, es de origen libanés-magrebí, es alegre y confiada, prima de Abir Nasr.  Van al mismo Liceo.  Adopta las costumbres de  sus compañeras, eso hace que se enfrente a las tradiciones de la familia y quiere la misma libertad y no casarse como su padre le tiene concertado, que es lo que su cultura manda, esto hace que escape de su familia para ganar esa libertad.  
 
 Trabaja en el café-concierto Les Marolles. La familia considera que: ´´Noura
 se había entregado a los infieles. Vivía como ellos, pensaba como ellos, pecaba
