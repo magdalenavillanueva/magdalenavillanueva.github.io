@@ -14,9 +14,7 @@ Así, en La Hermandad de la Sábana Santa hace un recorrido  histórico desde la
 
 
 
-![](/assets/img/libros-julia-navarro.png)
-
-*En La sangre de los inocentes*  observamos como  un grupo de musulmanes radicales se inmola
+![](/assets/img/libros-julia-navarro.png){:width="300" style="float: left"}*En La sangre de los inocentes*  observamos como  un grupo de musulmanes radicales se inmola
 en  Frankfurt dejando tras de sí un
 mensaje críptico que pone en estado de 
 alerta al Centro Antiterrorista de la Unión Europea, cuyos agentes,
