@@ -23,13 +23,7 @@ el mundo occidental.  sacrificando su vida por la yihad, como
 se dijo anteriormente
 
 
-![](/assets/img/yihad.jpg)
-
-
-
-
-
-El
+![](/assets/img/yihad.jpg){:width="300" style="float: left"}El
 traslado de una familia musulmana a un país 
 cristiano va a generar tensiones
 en los miembros de la misma familia, porque unos estarán dispuestos a seguir
