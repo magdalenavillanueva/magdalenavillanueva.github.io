@@ -38,3 +38,16 @@ capaz de enfrentarse a su marido: ´´—El que no comprendes eres tú, ella só
 sus compañeras… Sólo hay otras dos chicas que lleven hiyab en el liceo…
 Vivimos en Francia, Jamal…  Si no te gusta cómo se comportan los franceses, entonces volvamos al Líbano,  a Argelia o a donde quieras´´.   Pág. 37.  *De
 ninguna parte* de Julia Navarro.
+
+
+
+
+Jamal  considera  que los 
+musulmanes tienen  que defenderse,
+contra la impiedad de los occidentales. No admite que se  le impongan costumbres que considera
+perniciosas.  Según Jamal el estado le
+cercena su derecho a ser como son. No toman en cuenta, que se fueron de sus
+países y que están en otro país con otras leyes, otra cultura, religión, costumbres
+y tradiciones diametralmente opuestas a las de ellos. Y esto, crea
+enfrentamientos entre los que llegan y los que están, porque ni los unos ni los
+otros se aceptan, creando constantes fricciones.
