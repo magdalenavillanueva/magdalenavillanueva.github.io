@@ -8,13 +8,6 @@ date: 2026-02-22T18:58:00.000-04:00
 ---
 ![](/assets/img/banner-de-ninguna-parte.png)
 
-
-
-
-
-
-
-
 **ÁRABES:**
 
  La
@@ -26,8 +19,11 @@ Julia Navarro  expresa que:
 voluntaria" En la obra nos asomamos a esa situación a través de dos
 personajes:  Noura y su madre Fátima. 
 
-**Los personajes
-femeninos son tan importantes como los masculinos**.  Noura es una mujer que lucha por su
+![](/assets/img/tipos-de-velos-islamicos.jpeg)
+
+**Los personajes femeninos son tan importantes como los masculinos.**  
+
+Noura es una mujer que lucha por su
 propia libertad, por su identidad. Es hija de una familia musulmana y
 quiere  salir de esa dualidad de una
 familia integrista y lo que es una vida cotidiana en París.  Es una situación complicada, no es fácil y
@@ -37,12 +33,6 @@ establecido y las pautas familiares, cuando le dice a su madre: “que no se cas
 lo único que ansiaba era terminar sus estudios en el liceo y luego buscar una buena
 academia de canto donde le educaran la voz. No estaba dispuesta a que nadie
 truncara el camino que se había marcado“.  Pág. 31. *De ninguna parte* de Julia Navarro.
-
-
-
-
-
-
 
 Noura rompe con esa imposición y se libera de todos
 los dogmas de su religión. Ha podido huir del destino que su padre, un
@@ -60,3 +50,5 @@ aunque ella siga las costumbres del islam, no rompe el vínculo con su hija.  F
  a pesar de todo,siempre  estará a su lado. Hay muchas mujeres actualmente
 que viven situaciones como la de Noura,  y
 también como la de su madre.
+
+![](/assets/img/varias-fotos-de-la-mujer-en-julia-navarro.png)
