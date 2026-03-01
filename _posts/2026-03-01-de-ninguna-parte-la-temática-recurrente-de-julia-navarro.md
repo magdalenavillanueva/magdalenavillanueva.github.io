@@ -12,6 +12,10 @@ Julia Navarro hace mención en la mayoría de sus libros a esa zona del Oriente 
 Así, en La Hermandad de la Sábana Santa hace un recorrido  histórico desde la actualidad hasta la época de Jesucristo.  En La biblia de barro nos sumerge nuevamente en los tiempos bíblicos.  
 
 
+
+
+![](/assets/img/libros-julia-navarro.png)
+
 *En La sangre de los inocentes*  observamos como  un grupo de musulmanes radicales se inmola
 en  Frankfurt dejando tras de sí un
 mensaje críptico que pone en estado de 
