@@ -23,6 +23,10 @@ el mundo occidental.  sacrificando su vida por la yihad, como
 se dijo anteriormente
 
 
+![](/assets/img/yihad.jpg)
+
+
+
 
 
 El
