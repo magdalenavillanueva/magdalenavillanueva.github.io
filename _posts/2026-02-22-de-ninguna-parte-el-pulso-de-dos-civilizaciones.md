@@ -34,7 +34,7 @@ Noura, Fátima  habla para defender a su
 hija con tanta vehemencia que  Abir e Ismail  miran  con perplejidad  la escena, al contemplar como una mujer es
 capaz de enfrentarse a su marido: ´´—El que no comprendes eres tú, ella sólo imita a
 sus compañeras… Sólo hay otras dos chicas que lleven hiyab en el liceo…
-Vivimos en Francia, Jamal…  Si no te gusta cómo se comportan los franceses, entonces volvamos al Líbano,  a Argelia o a donde quieras´´.   Pág. 37.  *De
+Vivimos en Francia, Jamal…  Si no te gusta cómo se comportan los franceses, entonces volvamos al Líbano,  a Argelia o a donde quieras´´. *De
 ninguna parte* de Julia Navarro.
 
 
