@@ -9,9 +9,7 @@ date: 2026-02-11T21:13:00.000-04:00
 
 <center>!\[](/assets/img/pregunta-de-julia-navarro.png)</center>
 
-![](/assets/img/ficha-tecnica-de-julia-navarro.png)
-
-{:width="200" style="float: left"}
+![](/assets/img/ficha-tecnica-de-julia-navarro.png){:width="200" style="float: left"}
 
 **Abir
 Nasr** es un adolescente que presencia el asesinato de su familia durante una
@@ -35,9 +33,7 @@ elegido. Jacob, es hijo de padres franceses, y no deja de sentirse un emigrante
 en Israel, aunque intenta reconciliarse con una identidad que le viene dada por
 su condición de judío.
 
-![](/assets/img/libro-de-julia-navarro.png)
-
-{:width="300" style="float: right"} *De ninguna parte* es una historia de desarraigo y supervivencia  que se desarrolla a través de un viaje a la
+![](/assets/img/libro-de-julia-navarro.png){:width="300" style="float: right"} *De ninguna parte* es una historia de desarraigo y supervivencia  que se desarrolla a través de un viaje a la
 conciencia de dos hombres que se ven obligados a vivir de acuerdo a unas
 identidades que no han escogido y de las que es difícil escapar, cuyas vidas se
 vuelven a cruzar años más tarde en Bruselas bajo el humo de las bombas con las
@@ -54,7 +50,7 @@ e Ismael  que siendo adolescentes el jeque
 Mohsin  los llevó a Afganistán para
 convertirlos en  soldados de Alá:   ´´bajo la tutela del jeque Mohsin, en Afganistán, Abir había aprendido a
 combatir, a preparar explosivos, a fundirse con el paisaje para no caer en
-manos del enemigo´´.   Pág. 55. *De ninguna parte* de Julia Navarro.    
+manos del enemigo´´. *De ninguna parte* de Julia Navarro.    
 
 Otros temas importantes
 en *De ninguna parte* es el mundo de
