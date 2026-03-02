@@ -11,10 +11,9 @@ Julia Navarro hace mención en la mayoría de sus libros a esa zona del Oriente 
 
 Así, en La Hermandad de la Sábana Santa hace un recorrido  histórico desde la actualidad hasta la época de Jesucristo.  En La biblia de barro nos sumerge nuevamente en los tiempos bíblicos.  
 
+![](/assets/img/libros-julia-navarro.png)
 
-
-
-![](/assets/img/libros-julia-navarro.png){:width="300" style="float: left"}*En La sangre de los inocentes*  observamos como  un grupo de musulmanes radicales se inmola
+{:width="300" style="float: left"}*En La sangre de los inocentes*  observamos como  un grupo de musulmanes radicales se inmola
 en  Frankfurt dejando tras de sí un
 mensaje críptico que pone en estado de 
 alerta al Centro Antiterrorista de la Unión Europea, cuyos agentes,
@@ -25,13 +24,6 @@ Inquisición, la sinrazón fascista y  el
 integrismo islámico en una frase: algún día alguien vengará la sangre de los
 inocentes.
 
-
-
-
-
-
-
-
 En *Dispara, ya yo
 estoy muerto* describe el origen del conflicto palestino  desde sus inicios de una manera muy humana y
 sin faltar al rigor histórico. Es la historia de dos sagas familiares, la de la
@@ -41,8 +33,6 @@ judíos desde que fueron deportados por el Zar en Rusia hasta que consiguen
 tener su propia tierra. Julia Navarro nos hace un retrato exhaustivo y
 documentado de la historia de Palestina del siglo XX y la creación del Estado
 de Israel.
-
-
 
 Y en  *De
 ninguna parte* se adentra en un plano más íntimo, el que afecta a quienes  se ven obligados a estar en una u otra parte, es
