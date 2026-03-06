@@ -18,11 +18,14 @@ La acción sigue cuando el tío entrega a Abir e Ismail  al jeque Mohsin,  que
 
 ![](/assets/img/amman.png)
 
-Al concluir su entrenamiento, Abir convertido en terrorista se traslada a Beirut para tratar una venta de  armas y descubre a Jacob Baudin  a través de las páginas del periódico. Lo hace ir a Ammán, Jordania, para burlar la frontera con Israel pero sufre un amago de infarto. 
-Es operado en  Beirut. 
+Al concluir su entrenamiento, Abir convertido en terrorista se traslada a Beirut para tratar una venta de  armas y descubre a Jacob Baudin  a través de las páginas del periódico. Lo hace ir a Ammán, Jordania, para burlar la frontera con Israel pero sufre un amago de infarto. Es operado en  Beirut. 
 
 Después de los sucesos anteriores, nuestros protagonistas se reencontrarán en Bruselas, capital de la Unión Europea  y a su vez, 
 un centro político y cultural cosmopolita que  combina el encanto de una ciudad histórica con la vibrante vida de una gran metrópoli.  
 
+![](/assets/img/afganistán.png)
+
 Es ahí, donde  Jacob intentara  detener en una carrera
 frenética a Abir  que ha comenzado una ola de terror al explotar bombas humanas en diversos sitios de la ciudad  belga
+
+![](/assets/img/bruselas.png)
