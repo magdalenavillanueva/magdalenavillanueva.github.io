@@ -99,10 +99,7 @@ Obediente, recatada, piadosa, siempre prudente, tenía poco más de veinte años
 
 Tendría unos cuarenta años, alta, delgada, con el cabello ondulado, segura de sí misma. Es médico y trabaja en Urgencias.
 
-### \
-PERSONAJES RELACIONADOS CON  JACOB BAUDIN: 
-
-
+### PERSONAJES RELACIONADOS CON  JACOB BAUDIN: 
 
 **André Baudin:**   
 
