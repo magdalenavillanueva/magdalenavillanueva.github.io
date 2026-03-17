@@ -114,4 +114,44 @@ Era de origen judío. Es la madre de Jacob.
 
 **Efraim**:   
 
-Es el único y  mejor amigo  de Jacob y lo continúa siendo. Se habían conocido cuando ambos cumplían el servicio militar. Trabajaba para Dor.  Gabriella Sabatello:  experta en informática  aplicada a la medicina. Trabaja con el Mossad. Monitorea a Abir Nasr  para hackear el desfibrilador de  Abir  y poder manipular a distancia su marcapasos provocándole una fuerte taquicardia.  Louise Moos:   sobrepasaba  los cincuenta,  vestía con elegancia. Es estricta y metódica.  Era directora de los servicios de seguridad belgas.   Alba Fernández:  española, pasaba de los cuarenta, de aspecto desenfadado. Pertenece al Centro de Inteligencia de la Unión Europea. Es competente, decidida y analítica. Apoya emocionalmente a  su compañero Jacob Baudin.  Maoz Levin:     superaba los sesenta años, experto en Historia Antigua y hablaba media docena de idiomas a la perfección. Además, tocaba el contrabajo. Era uno de sus principales especialistas sobre la yihad y el mejor agente que habían tenido jamás en los países musulmanes. Es especialista en misiones detrás  de las líneas enemigas.  Era capaz de fundirse con el paisaje. Sus padres, judíos de Irak, a duras penas habían llegado a hablar hebreo cuando se vieron obligados a dejar Bagdad después de la guerra de 1948.  Mientras vivieron sus padres, en casa de Maoz se habló árabe y ésa había sido su lengua materna, aunque él había nacido en Israel.  Dor:  es alto y fuerte. Es un agente de inteligencia israelí y alto mando del Mossad. Le ofrece a Jacob trabajar en un departamento de inteligencia virtual.  Ariel Weiss:  jefe de estación del Mossad.  Es el hombre de Dor en Bruselas.  Natan Lewin:  era  un cerebro de la informática.  Es el jefe directo  de Jacob Baudin.  Tudela:   ojos oscuros y de  rostro aceitunado, cabello corto, sin teñir; debió de ser castaño, pero  estaba salpicado de canas, amable y de ademanes contenidos. Era psiquiatra. De origen sefardí, su familia vivía en Salónica, Grecia.  Orit Singer:  era una leyenda dentro del Mossad.  Estaba enferma de cáncer.  Miriam:  su aspecto era común y esa  apariencia le permitía camuflajearse dentro de la población árabe palestina.   Era un agente de campo que se hacía pasar por musulmán  en Bruselas.  Austin Turner:  trabaja en la CIA.  Anthony Jones:  trabaja en la  OTAN.
+Es el único y  mejor amigo  de Jacob y lo continúa siendo. Se habían conocido cuando ambos cumplían el servicio militar. Trabajaba para Dor.  
+
+**Gabriella Sabatello**:  
+
+Experta en informática  aplicada a la medicina. Trabaja con el Mossad. Monitorea a Abir Nasr  para hackear el desfibrilador de  Abir  y poder manipular a distancia su marcapasos provocándole una fuerte taquicardia.  
+
+**Louise Moos:**   
+
+Sobrepasaba  los cincuenta,  vestía con elegancia. Es estricta y metódica.  Era directora de los servicios de seguridad belgas.   
+
+**Alba Fernández:**  
+
+Española, pasaba de los cuarenta, de aspecto desenfadado. Pertenece al Centro de Inteligencia de la Unión Europea. Es competente, decidida y analítica. Apoya emocionalmente a  su compañero Jacob Baudin.  
+
+**Maoz Levin:**     
+
+Superaba los sesenta años, experto en Historia Antigua y hablaba media docena de idiomas a la perfección. Además, tocaba el contrabajo. Era uno de sus principales especialistas sobre la yihad y el mejor agente que habían tenido jamás en los países musulmanes. Es especialista en misiones detrás  de las líneas enemigas.  Era capaz de fundirse con el paisaje. Sus padres, judíos de Irak, a duras penas habían llegado a hablar hebreo cuando se vieron obligados a dejar Bagdad después de la guerra de 1948.  Mientras vivieron sus padres, en casa de Maoz se habló árabe y ésa había sido su lengua materna, aunque él había nacido en Israel.  
+
+**Dor:**  
+
+Es alto y fuerte. Es un agente de inteligencia israelí y alto mando del Mossad. Le ofrece a Jacob trabajar en un departamento de inteligencia virtual.  
+
+**Ariel Weiss:** 
+
+Jefe de estación del Mossad.  Es el hombre de Dor en Bruselas.  
+
+**Natan Lewin:** 
+
+ Era  un cerebro de la informática.  Es el jefe directo  de Jacob Baudin.  
+
+**Tudela:**  
+
+Ojos oscuros y de  rostro aceitunado, cabello corto, sin teñir; debió de ser castaño, pero  estaba salpicado de canas, amable y de ademanes contenidos. Era psiquiatra. De origen sefardí, su familia vivía en Salónica, Grecia.  Orit Singer:  era una leyenda dentro del Mossad.  Estaba enferma de cáncer.  
+
+**Miriam:**  
+
+Su aspecto era común y esa  apariencia le permitía camuflajearse dentro de la población árabe palestina.   Era un agente de campo que se hacía pasar por musulmán  en Bruselas.  Austin Turner:  trabaja en la CIA.  
+
+**Anthony Jones:**  
+
+Trabaja en la  OTAN.
