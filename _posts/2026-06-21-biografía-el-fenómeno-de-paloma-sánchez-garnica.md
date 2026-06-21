@@ -7,11 +7,9 @@ date: 2026-06-21T09:20:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
 
-Es una escritora española,  nacidaen Madrid el  1 de abril de 1962.  
+Es una escritora española,  nacida en Madrid el  1 de abril de 1962.  
 
-![](/assets/img/biografia-de-paloma-sanchez.png)
-
-Cursó estudios de Geografía e Historia que nollegó a terminar, completó su formación licenciándose en Derecho, trabajó comoabogada, pero lo abandonó para dedicarse a la literatura, una de sus pasiones.  En lo narrativo, ha  destacado por sus novelas de género histórico donde imprime elementos propios del thriller y el  misterio, mezclando el pasado con el presente.   Se considera una lectora voraz, utilizando la escritura como un método de investigación, después de haber sido esposa, madre de dos hijos y abandonar su profesión para sentarse en su escritorio con su café, té de jengibre con limón y una botella de 2 litros de agua siempre llena. Revista literaria Zenda (5 de marzo de 2023).
+![](/assets/img/biografia-de-paloma-sanchez.png){:width="300" style="float: right"}Cursó estudios de Geografía e Historia que nollegó a terminar, completó su formación licenciándose en Derecho, trabajó comoabogada, pero lo abandonó para dedicarse a la literatura, una de sus pasiones.  En lo narrativo, ha  destacado por sus novelas de género histórico donde imprime elementos propios del thriller y el  misterio, mezclando el pasado con el presente.   Se considera una lectora voraz, utilizando la escritura como un método de investigación, después de haber sido esposa, madre de dos hijos y abandonar su profesión para sentarse en su escritorio con su café, té de jengibre con limón y una botella de 2 litros de agua siempre llena. Revista literaria Zenda (5 de marzo de 2023).
 
 ![](/assets/img/libros-de-paloma-sánchez-garnica.png)
 
