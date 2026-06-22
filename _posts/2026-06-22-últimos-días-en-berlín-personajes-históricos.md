@@ -9,9 +9,7 @@ date: 2026-06-22T17:32:00.000-04:00
 
 La novela comienza con un personaje histórico de nefasto recuerdo:  Adolf Hitler que está celebrando su nombramiento como nuevo canciller de Alemania con las  SA  desfilando. Paul von Hindenburg,  como presidente de Alemania, le había entregado la llave maestra para acabar definitivamente con la democracia en Alemania.  Hindenburg murió el 2 de agosto de 1934, y con su muerte desapareció el último obstáculo para la posesión total del poder por parte del Führer. 
 
-![](/assets/img/personajer-historicos-en-ultimos-dias-en-berlin.png)
-
-El partido nazi toma las riendas del país y Hitler, gobernaría Alemania en los próximos años. Entre las figuras más importantes del Partido Nacional socialista  Obrero Alemán estánPaul Joseph Goebbels, que  poco  tiempo después sería nombrado ministro de Propaganda en el primer gobierno de Hitler. Otro miembro fue Heinrich Himmler, comandante en jefe y mariscal de campo de las Schutzstaffel SS. También aparece Hermann Göring, uno de sus hombres de confianza y presidente del Parlamento alemán.
+![](/assets/img/personajer-historicos-en-ultimos-dias-en-berlin.png){:width="300" style="float: left"}El partido nazi toma las riendas del país y Hitler, gobernaría Alemania en los próximos años. Entre las figuras más importantes del Partido Nacional socialista  Obrero Alemán estánPaul Joseph Goebbels, que  poco  tiempo después sería nombrado ministro de Propaganda en el primer gobierno de Hitler. Otro miembro fue Heinrich Himmler, comandante en jefe y mariscal de campo de las Schutzstaffel SS. También aparece Hermann Göring, uno de sus hombres de confianza y presidente del Parlamento alemán.
 
 Las elecciones convocadas para el 5 marzo estuvieron precedidas de un hecho insólito que alteró por completo la marcha de la campaña electoral, sobre todo para los miembros de los partidos opositores de izquierdas al omnipresente partido nazi. En la noche del 27 defebrero, un incendio intencionado arrasó el Reichstag, precipitando los acontecimientos al aprobarse la llamada ley de habilitación, en la cual el Reichstag concedía de facto el poder absoluto a Adolfo Hitler.
 
