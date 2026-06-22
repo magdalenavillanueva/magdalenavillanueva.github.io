@@ -2,7 +2,7 @@
 layout: single
 categories:
   - Últimos días en Berlín
-title: "Orden del análisis:"
+title: "Últimos días en Berlín: Orden del análisis:"
 date: 2026-06-21T09:20:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
