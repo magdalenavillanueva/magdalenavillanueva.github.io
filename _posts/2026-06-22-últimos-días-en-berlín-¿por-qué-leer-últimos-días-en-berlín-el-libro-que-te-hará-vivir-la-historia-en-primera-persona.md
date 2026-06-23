@@ -8,9 +8,9 @@ date: 2026-06-21T22:32:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
 
+![](/assets/img/ficha-tecnica-ultimos-dias-en-berlin.png)
 
-
-![](/assets/img/ficha-tecnica-ultimos-dias-en-berlin.png){:width="200" style="float: left"}La finalista del Premio Planeta de 2021 PalomaSánchez-Garnica, autora de *Últimos días en Berlín* nos lleva al Berlín de1933, en el momento en que Hitler llega al poder. En ese contexto, nosencontramos con Yuri Santacruz Filatov, envuelto en una conmovedora y a la vez,trágica historia sobre supervivencia, lucha y amor en el marco histórico de la Alemanianazi  y la revolución rusa.  Yuri es el hijo de un matrimonio formado por una rusa y un español.Miguel y Verónica Santacruz tienen tres hijos criados en la Rusia antes de larevolución y que luego son separados por las circunstancias políticas delmomento.  Es la época donde Stalin subeal poder y el terror cotidiano se encuentra en pleno desarrollo.
+{:width="200" style="float: left"}La finalista del Premio Planeta de 2021 PalomaSánchez-Garnica, autora de *Últimos días en Berlín* nos lleva al Berlín de1933, en el momento en que Hitler llega al poder. En ese contexto, nosencontramos con Yuri Santacruz Filatov, envuelto en una conmovedora y a la vez,trágica historia sobre supervivencia, lucha y amor en el marco histórico de la Alemanianazi  y la revolución rusa.  Yuri es el hijo de un matrimonio formado por una rusa y un español.Miguel y Verónica Santacruz tienen tres hijos criados en la Rusia antes de larevolución y que luego son separados por las circunstancias políticas delmomento.  Es la época donde Stalin subeal poder y el terror cotidiano se encuentra en pleno desarrollo.
 
 Ante la inminencia de la guerra y laenfermedad de uno de los niños intentan regresar a España, pero la madre esretenida en la aduana y Kolia se pierde en el andén del tren. En 1921, dejandoatrás a su madre y a su hermano, regresan el padre, Yuri y su hermana Ekaterina.   En la travesía muere  Sasha, el más pequeño. En España la estadía noes agradable, Yuri se distancia de su padre y comienza a trabajar en Berlín enla embajada española. 
 
@@ -19,6 +19,8 @@ Tenía veinticuatro años, se había instaladoen una vivienda situada en Mohrens
 Descubre noticias de su familia en Rusia ydecide ir allí para saber la verdad. Encuentra a su madre y hermanastra y larazón de lo que había pasado. También encuentra a su hermano que es un oficialde alto rango y que a primera vista parece ser su enemigo.  Cuando ha aclarado toda la historia lograescapar con sus sobrinos y su hermanastra. Se sacrifica para que ellos puedansalvarse.  Lo habían localizado y lopersiguen hasta que lo atrapan.  
 
 A partir de ahí, la vorágine de acontecimientos envuelve su vida sin darle descanso. Lossucesos lo arrojan al Gulag donde estuvo cinco años sin libertad, hasta que porfin puede salir y parte otra vez hacia Berlín buscando la vida que dejó atrás.  Al llegar a Berlín después de la guerra sereencuentra con la mujer que amaba.       
+
+![](/assets/img/berlin-1933.png)
 
 Al leer esta novela, el lector no solorecorre los hechos históricos, sino que se proyecta siendo participante de lasdecisiones y miedos de los personajes. Esta obra trasciende el género bélico;no es simplemente un tema de guerra y posguerra, sino una historia de personasde carne y hueso atrapadas en un contexto impregnado por la opresión delnazismo en Alemania y el estalinismo en la Unión Soviética.
 
