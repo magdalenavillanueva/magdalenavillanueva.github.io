@@ -20,9 +20,7 @@ Descubre noticias de su familia en Rusia ydecide ir allí para saber la verdad. 
 
 A partir de ahí, la vorágine de acontecimientos envuelve su vida sin darle descanso. Lossucesos lo arrojan al Gulag donde estuvo cinco años sin libertad, hasta que porfin puede salir y parte otra vez hacia Berlín buscando la vida que dejó atrás.  Al llegar a Berlín después de la guerra sereencuentra con la mujer que amaba.       
 
-![](/assets/img/berlin-1933.png)
-
-Al leer esta novela, el lector no solorecorre los hechos históricos, sino que se proyecta siendo participante de lasdecisiones y miedos de los personajes. Esta obra trasciende el género bélico;no es simplemente un tema de guerra y posguerra, sino una historia de personasde carne y hueso atrapadas en un contexto impregnado por la opresión delnazismo en Alemania y el estalinismo en la Unión Soviética.
+![](/assets/img/berlin-1933.png){:width="300" style="float: right"}Al leer esta novela, el lector no solorecorre los hechos históricos, sino que se proyecta siendo participante de lasdecisiones y miedos de los personajes. Esta obra trasciende el género bélico;no es simplemente un tema de guerra y posguerra, sino una historia de personasde carne y hueso atrapadas en un contexto impregnado por la opresión delnazismo en Alemania y el estalinismo en la Unión Soviética.
 
 Más allá de la narrativa de los hechos,  por qué no puedesignorar *Últimos días en Berlín*?  porqueson hechos históricos como herramienta para entender y comprender el hoy. A suvez, el miedo en las decisiones de los personajes, invitando al lector aactivar la reflexión ante acciones que no están lejos de vivir. 
 
