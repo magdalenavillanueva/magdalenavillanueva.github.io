@@ -8,9 +8,7 @@ date: 2026-06-21T22:32:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
 
-![](/assets/img/ultimos-dias-en-berlin.-ficha-técnica.png)
-
-{:width="200" style="float: left"}La finalista del Premio Planeta de 2021 PalomaSánchez-Garnica, autora de *Últimos días en Berlín* nos lleva al Berlín de1933, en el momento en que Hitler llega al poder. En ese contexto, nosencontramos con Yuri Santacruz Filatov, envuelto en una conmovedora y a la vez,trágica historia sobre supervivencia, lucha y amor en el marco histórico de la Alemanianazi  y la revolución rusa.  Yuri es el hijo de un matrimonio formado por una rusa y un español.Miguel y Verónica Santacruz tienen tres hijos criados en la Rusia antes de larevolución y que luego son separados por las circunstancias políticas delmomento.  Es la época donde Stalin subeal poder y el terror cotidiano se encuentra en pleno desarrollo.
+![](/assets/img/ultimos-dias-en-berlin.-ficha-técnica.png){:width="200" style="float: left"}La finalista del Premio Planeta de 2021 PalomaSánchez-Garnica, autora de *Últimos días en Berlín* nos lleva al Berlín de1933, en el momento en que Hitler llega al poder. En ese contexto, nosencontramos con Yuri Santacruz Filatov, envuelto en una conmovedora y a la vez,trágica historia sobre supervivencia, lucha y amor en el marco histórico de la Alemanianazi  y la revolución rusa.  Yuri es el hijo de un matrimonio formado por una rusa y un español.Miguel y Verónica Santacruz tienen tres hijos criados en la Rusia antes de larevolución y que luego son separados por las circunstancias políticas delmomento.  Es la época donde Stalin subeal poder y el terror cotidiano se encuentra en pleno desarrollo.
 
 Ante la inminencia de la guerra y laenfermedad de uno de los niños intentan regresar a España, pero la madre esretenida en la aduana y Kolia se pierde en el andén del tren. En 1921, dejandoatrás a su madre y a su hermano, regresan el padre, Yuri y su hermana Ekaterina.   En la travesía muere  Sasha, el más pequeño. En España la estadía noes agradable, Yuri se distancia de su padre y comienza a trabajar en Berlín enla embajada española. 
 
