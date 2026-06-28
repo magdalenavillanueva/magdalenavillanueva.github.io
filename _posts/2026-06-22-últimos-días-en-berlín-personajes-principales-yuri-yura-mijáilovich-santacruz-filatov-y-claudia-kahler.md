@@ -8,9 +8,8 @@ date: 2026-06-21T23:32:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
 
-![](/assets/img/isabel-ayende.jpg)
+![](/assets/img/isabel-ayende.jpg){:width="300" style="float: left"}
 
-{:width="300" style="float: left"}
 **Yuri/Yura Mijáilovich Santacruz Filatov:**  
 
 Es el hijo mayor de los Santacruz Filatov, nació en la antigua San Petersburgo en 1909.  Es alto, de pelo castañoabundante y algo ondulado, piel morena, ojos grises, muy claros, con largaspestañas negras. Elegante, atlético, y de sonrisa cautivadora. Es leal, discretoe idealista. Su origen ruso y español, hace que hable estos idiomas, y también aprendiófrancés y alemán. En la obra lo describen así: ´´Aunque su piel eramorena como la de su padre, había heredado de ella sus mismos ojos grises, y la misma manera de ver el mundo, susensibilidad, sus cualidades para la música´´.
