@@ -54,7 +54,7 @@ Con Glaudia se aprende la resistencia. Nos muestra que resistir no siempre es em
 
 **Personajes relacionados con Yuri y Claudia**
 
-
+![](/assets/img/yuri-y-claudia.png){:width="300" style="float: right"}
 
 **Hans**:  lo llamaron así  por el abuelo, es el  hijo mayor de Yuri y Claudia, de ojos color ámbar, pelo muy oscuro y rizado,  labios carnosos.  Se parecía a Kolia a su edad.   Sokolov le dice:  ´´Es sorprendente el parecido de tu hermano Kolia con el hijo de la vecina del segundo, la señora Von Schönberg. —Se volvió hacia él con una mueca irónica—.Teniendo en cuenta que Kolia está a miles de kilómetros... Y siguiendo las reglas de la genética, cualquiera podría llegar a pensar que el pequeño Hans es hijo tuyo´´.  
 
