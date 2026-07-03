@@ -8,9 +8,7 @@ date: 2026-06-21T23:32:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
 
-![](/assets/img/isabel-ayende.jpg)
-
-{:width="200" style="float: left"}
+![](/assets/img/isabel-ayende.jpg){:width="200" style="float: left"}
 
 **Yuri/Yura Mijáilovich Santacruz Filatov:**  
 
