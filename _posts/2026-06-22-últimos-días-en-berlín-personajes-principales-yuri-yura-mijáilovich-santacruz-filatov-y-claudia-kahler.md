@@ -8,7 +8,9 @@ date: 2026-06-21T23:32:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
 
-![](/assets/img/isabel-ayende.jpg){:width="200" style="float: left"}
+![](/assets/img/isabel-ayende.jpg)
+
+{:width="200" style="float: left"}
 
 **Yuri/Yura Mijáilovich Santacruz Filatov:**  
 
@@ -16,7 +18,9 @@ Es el hijo mayor de los Santacruz Filatov, nació en la antigua San Petersburgo 
 
 Su infancia fue acomodada y feliz,  su familia estaba muy unida y vivían sin preocupaciones, su madre consagró su vida al cuidado de sus hijos. La revolución bolchevique de 1917 trastoca todo y, los separó como familia. La pesadilla recién comenzaba, hasta que Miguel Santacruz consiguió los salvoconductos para salir de ese infierno.  El traslado que hizo a  Madrid con parte de la familia que salió de Rusia lo hizo sentir siempre ajeno:  ´´Nunca sintió como suya la casa de Madrid, nunca sintió que aquella fuera su ciudad, allí nunca dejó de considerarse un extraño´´  
 
-![](/assets/img/yuri-m-santacruz-filatov.png){:width="300" style="float: right"}Había llegado a Madrid unos meses atrás con doce años después de haber huido, junto con parte de su familia, de San Petersburgo. Crece con rencor hacia el padre porque nunca buscó a su madre y hermano. Años más tarde se dió cuenta de lo arbitrario que había sido con su padre, culpándolo de todo. A pesar de eso, fue un alumno ejemplar, aprobaba los cursos con notas excelentes, pero no quiso integrarse al resto de sus compañeros.  Fue un adolescente solitario y desconfiado. A diferencia de su padre, de deshacerse, sin excepción, de todo lo proveniente de Rusia,  el  afán secreto de Yuri era volver a encontrar a la madre y el hermano.  Y el trabajo que se le presentaba en Berlín era su oportunidad de encontrarlos.
+![](/assets/img/yuri-m-santacruz-filatov.png)
+
+{:width="300" style="float: right"}Había llegado a Madrid unos meses atrás con doce años después de haber huido, junto con parte de su familia, de San Petersburgo. Crece con rencor hacia el padre porque nunca buscó a su madre y hermano. Años más tarde se dió cuenta de lo arbitrario que había sido con su padre, culpándolo de todo. A pesar de eso, fue un alumno ejemplar, aprobaba los cursos con notas excelentes, pero no quiso integrarse al resto de sus compañeros.  Fue un adolescente solitario y desconfiado. A diferencia de su padre, de deshacerse, sin excepción, de todo lo proveniente de Rusia,  el  afán secreto de Yuri era volver a encontrar a la madre y el hermano.  Y el trabajo que se le presentaba en Berlín era su oportunidad de encontrarlos.
 
 Se trasladó a Berlín el primer día de enero de 1933 para trabajar como asistente de Erich Villanueva. Tenía veinticuatro años cuando en una refriega en las calles conoce a la mujer que le marcará su destino y se adueñará de su corazón: Claudia Kahler. Fue una historia de amor muy breve, pero intensa  e imposible porque ella estaba casada con un nazi. Yuri le pidió que dejase a su marido y se fuera con él,  lejos de Alemania:  ´´—Divórciate y cásate conmigo —le dijo Yuri... Nos iremos a España, o a América...´´.  
 
@@ -32,11 +36,11 @@ El mariscal Zhúkov le pidió a Yuri a travésde Alex Laufer su colaboración co
 
 Al caminar junto a Yuri, como lector nosconectamos con sus vivencias. Cabe preguntarse: ¿Qué nos enseña? ¿Nos vemosreflejados o incómodos por la manera como Yuri fue resolviendo las diferentessituaciones para lograr sus deseos? ¿Es lícito colaborar con un régimenopresor, como el nazi o el estalinista, si el fin último es proteger a lafamilia, o existe un límite moral que no debería cruzarse nunca? ¿Hasta quépunto nuestras heridas del pasado condicionan nuestras decisiones presentes,impidiéndonos ver las nuevas amenazas que tenemos delante? ¿Es posible serrealmente neutral cuando los derechos humanos de quienes nos rodean estánsiendo vulnerados? ¿Qué señales de advertencia en nuestra sociedad actualestamos ignorando, tal como la sociedad berlinesa ignoró el ascenso delfanatismo en los años 30? ¿Quiénes somos cuando nos quedamos sin nada?  A menudo juzgamos a los personajes deuna obra por sus acciones finales, olvidando que la verdadera esencia de unindividuo reside en la brecha que separa lo que muestra al mundo y lo que calla en la oscuridad.  De ahí, que Yuri sea un  personaje que batalla constantemente con sus luces y sombras.
 
-
-
 **Claudia Kahler**
 
-![](/assets/img/claudia-kahler.png){:width="300" style="float: left"}Pelo rubio, ojos de un verde intenso, casi transparente.    Tenía una belleza extraña, una combinación de fuerza y delicadeza, cara redonda de facciones perfectas, labios carnosos y rosados y cuando sonreía resaltaban los dientes blancos y bien alineados. Le gustaba divertirse:  jugar al tenis, acudir a las fiestas, su única preocupación es saber qué vestido ponerse o elegir el perfume adecuado y reconocía que se aburría soberanamente al lado de su esposo. En sí, tanto ella como su marido Ulrich representaban el matrimonio ario perfecto, según la ideología nazi.  Convencida de las bondades del nazismo, la misma Claudia le dice a Yuri:  ´´—Alemania no es como los demás países. Las mujeres alemanas tenemos la obligación desalvaguardar la pureza de la raza aria, y para eso debemos casarnos con hombres arios´´.  
+![](/assets/img/claudia-kahler.png)
+
+{:width="300" style="float: left"}Pelo rubio, ojos de un verde intenso, casi transparente.    Tenía una belleza extraña, una combinación de fuerza y delicadeza, cara redonda de facciones perfectas, labios carnosos y rosados y cuando sonreía resaltaban los dientes blancos y bien alineados. Le gustaba divertirse:  jugar al tenis, acudir a las fiestas, su única preocupación es saber qué vestido ponerse o elegir el perfume adecuado y reconocía que se aburría soberanamente al lado de su esposo. En sí, tanto ella como su marido Ulrich representaban el matrimonio ario perfecto, según la ideología nazi.  Convencida de las bondades del nazismo, la misma Claudia le dice a Yuri:  ´´—Alemania no es como los demás países. Las mujeres alemanas tenemos la obligación desalvaguardar la pureza de la raza aria, y para eso debemos casarnos con hombres arios´´.  
 
 A pesar de todo lo que ledijo a Yuri, hasta Krista se dio cuenta de que estaba enamorada de él. Tuvo dos hijos de él, estando casada con Ulrich Von Schönberg. Ella misma se lo confiesa:  ´´—Mis dos hijos son tuyos, Yuri. Mi marido no puede tenerlos. Está incapacitado para engendrar, aunque él no lo sabe. Me lo confesó mi suegro. Son tuyos —sentenció. Yuri la miraba estupefacto por la revelación´´. 
 
@@ -46,10 +50,22 @@ Claudia va cambiando a medida que se desarrolla la trama. Comienza como una nazi
 
  Al terminar la guerra, se apunta en el ayuntamiento para que le den trabajo, ya que se le pagaría un sueldo. Al regreso de Yuri de Rusia, él quiere irse a Suiza con ella y los niños:  ´´ —Quiero que vengas conmigo. —Se giró un instante hacia atrás, para luego volver a mirarla—. Nuestros hijos también. Empezaremos de nuevo... Si tú quieres. Se quedó impactada. No respondió, solo lo miraba absorta, embobada en aquellos ojos tanto tiempo añorado´´.  
 
- 
-
 Con Glaudia se aprende la resistencia. Nos muestra que resistir no siempre es empuñar un arma, sino tener la valentía de decidir cómo enfrentar el dolor y romper con la ignorancia como recurso para negar la realidad. A su vez, es el papel de la mujer en su evolución ante la hegemonía masculina.
 
-
-
 **Personajes relacionados con Yuri y Claudia**
+
+
+
+**Hans**:  lo llamaron así  por el abuelo, es el  hijo mayor de Yuri y Claudia, de ojos color ámbar, pelo muy oscuro y rizado,  labios carnosos.  Se parecía a Kolia a su edad.   Sokolov le dice:  ´´Es sorprendente el parecido de tu hermano Kolia con el hijo de la vecina del segundo, la señora Von Schönberg. —Se volvió hacia él con una mueca irónica—.Teniendo en cuenta que Kolia está a miles de kilómetros... Y siguiendo las reglas de la genética, cualquiera podría llegar a pensar que el pequeño Hans es hijo tuyo´´.  
+
+ 
+
+El niño suscita comentarios por su aspecto poco ario, incluso del propio Ulrich, que lo observa con desasosiego por su físico demasiado moreno, y el pelo tan oscuro. Claudia se rebela contra él por esa actitud despectiva hacia el  niño y hace que  le diga firme:  ´´—¡Es nuestro hijo! —replicaba ella—. Hitler también tiene el pelo oscuro y  no creo que pongas en duda la raza del Führer´´.   
+
+ 
+
+**Jenell:**  hija  deYuri y Claudia, nació a finales de abril de 1937, rubia, de piel blanca y ojos claros, es idéntica a Claudia.  Desde su nacimiento, Jenell fue atendida por Mina, la niñera judía que había permanecido a su lado hasta que fue detenida. No se había vuelto a saber nada de ella tras su detención.
+
+ 
+
+**Krista**: una vez que se instalaron en Brienz, nuevamente Claudia se quedó embarazada, y así nació en el verano de 1946, una niña morena y de ojos verdes, a la que le pusieron Krista.
