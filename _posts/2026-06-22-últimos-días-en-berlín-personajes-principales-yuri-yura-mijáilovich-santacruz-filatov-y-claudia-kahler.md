@@ -8,9 +8,7 @@ date: 2026-06-21T23:32:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
 
-![](/assets/img/isabel-ayende.jpg)
-
-{:width="200" style="float: left"}
+![](/assets/img/isabel-ayende.jpg){:width="200" style="float: left"}
 
 **Yuri/Yura Mijáilovich Santacruz Filatov:**  
 
@@ -18,9 +16,7 @@ Es el hijo mayor de los Santacruz Filatov, nació en la antigua San Petersburgo 
 
 Su infancia fue acomodada y feliz,  su familia estaba muy unida y vivían sin preocupaciones, su madre consagró su vida al cuidado de sus hijos. La revolución bolchevique de 1917 trastoca todo y, los separó como familia. La pesadilla recién comenzaba, hasta que Miguel Santacruz consiguió los salvoconductos para salir de ese infierno.  El traslado que hizo a  Madrid con parte de la familia que salió de Rusia lo hizo sentir siempre ajeno:  ´´Nunca sintió como suya la casa de Madrid, nunca sintió que aquella fuera su ciudad, allí nunca dejó de considerarse un extraño´´  
 
-![](/assets/img/yuri-m-santacruz-filatov.png)
-
-{:width="300" style="float: right"}Había llegado a Madrid unos meses atrás con doce años después de haber huido, junto con parte de su familia, de San Petersburgo. Crece con rencor hacia el padre porque nunca buscó a su madre y hermano. Años más tarde se dió cuenta de lo arbitrario que había sido con su padre, culpándolo de todo. A pesar de eso, fue un alumno ejemplar, aprobaba los cursos con notas excelentes, pero no quiso integrarse al resto de sus compañeros.  Fue un adolescente solitario y desconfiado. A diferencia de su padre, de deshacerse, sin excepción, de todo lo proveniente de Rusia,  el  afán secreto de Yuri era volver a encontrar a la madre y el hermano.  Y el trabajo que se le presentaba en Berlín era su oportunidad de encontrarlos.
+![](/assets/img/yuri-m-santacruz-filatov.png){:width="300" style="float: right"}Había llegado a Madrid unos meses atrás con doce años después de haber huido, junto con parte de su familia, de San Petersburgo. Crece con rencor hacia el padre porque nunca buscó a su madre y hermano. Años más tarde se dió cuenta de lo arbitrario que había sido con su padre, culpándolo de todo. A pesar de eso, fue un alumno ejemplar, aprobaba los cursos con notas excelentes, pero no quiso integrarse al resto de sus compañeros.  Fue un adolescente solitario y desconfiado. A diferencia de su padre, de deshacerse, sin excepción, de todo lo proveniente de Rusia,  el  afán secreto de Yuri era volver a encontrar a la madre y el hermano.  Y el trabajo que se le presentaba en Berlín era su oportunidad de encontrarlos.
 
 Se trasladó a Berlín el primer día de enero de 1933 para trabajar como asistente de Erich Villanueva. Tenía veinticuatro años cuando en una refriega en las calles conoce a la mujer que le marcará su destino y se adueñará de su corazón: Claudia Kahler. Fue una historia de amor muy breve, pero intensa  e imposible porque ella estaba casada con un nazi. Yuri le pidió que dejase a su marido y se fuera con él,  lejos de Alemania:  ´´—Divórciate y cásate conmigo —le dijo Yuri... Nos iremos a España, o a América...´´.  
 
@@ -38,9 +34,7 @@ Al caminar junto a Yuri, como lector nosconectamos con sus vivencias. Cabe pregu
 
 **Claudia Kahler**
 
-![](/assets/img/claudia-kahler.png)
-
-{:width="300" style="float: left"}Pelo rubio, ojos de un verde intenso, casi transparente.    Tenía una belleza extraña, una combinación de fuerza y delicadeza, cara redonda de facciones perfectas, labios carnosos y rosados y cuando sonreía resaltaban los dientes blancos y bien alineados. Le gustaba divertirse:  jugar al tenis, acudir a las fiestas, su única preocupación es saber qué vestido ponerse o elegir el perfume adecuado y reconocía que se aburría soberanamente al lado de su esposo. En sí, tanto ella como su marido Ulrich representaban el matrimonio ario perfecto, según la ideología nazi.  Convencida de las bondades del nazismo, la misma Claudia le dice a Yuri:  ´´—Alemania no es como los demás países. Las mujeres alemanas tenemos la obligación desalvaguardar la pureza de la raza aria, y para eso debemos casarnos con hombres arios´´.  
+![](/assets/img/claudia-kahler.png){:width="300" style="float: left"}Pelo rubio, ojos de un verde intenso, casi transparente. Tenía una belleza extraña, una combinación de fuerza y delicadeza, cara redonda de facciones perfectas, labios carnosos y rosados y cuando sonreía resaltaban los dientes blancos y bien alineados. Le gustaba divertirse:  jugar al tenis, acudir a las fiestas, su única preocupación es saber qué vestido ponerse o elegir el perfume adecuado y reconocía que se aburría soberanamente al lado de su esposo. En sí, tanto ella como su marido Ulrich representaban el matrimonio ario perfecto, según la ideología nazi.  Convencida de las bondades del nazismo, la misma Claudia le dice a Yuri:  ´´—Alemania no es como los demás países. Las mujeres alemanas tenemos la obligación desalvaguardar la pureza de la raza aria, y para eso debemos casarnos con hombres arios´´.  
 
 A pesar de todo lo que ledijo a Yuri, hasta Krista se dio cuenta de que estaba enamorada de él. Tuvo dos hijos de él, estando casada con Ulrich Von Schönberg. Ella misma se lo confiesa:  ´´—Mis dos hijos son tuyos, Yuri. Mi marido no puede tenerlos. Está incapacitado para engendrar, aunque él no lo sabe. Me lo confesó mi suegro. Son tuyos —sentenció. Yuri la miraba estupefacto por la revelación´´. 
 
