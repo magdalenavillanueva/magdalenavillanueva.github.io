@@ -1,6 +1,6 @@
 ---
 layout: category
-taxonomy: Ultimos dias en Berlin
+taxonomy: Últimos días en Berlín
 permalink: /lecturas/ultimos-dias-en-berlin
 ---
 

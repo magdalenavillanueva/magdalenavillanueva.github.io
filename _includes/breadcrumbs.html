@@ -31,11 +31,11 @@ crumb_path = '/' %} {% else %} {% assign crumb_path = "lecturas/" %} {% endif %}
       itemtype="https://schema.org/ListItem"
     >
       <a
-        href="{{ crumb | replace: '%C3%A1', 'a' | replace: '%C3%B1', 'n' | replace: '%20', '-' | downcase | prepend: path_type | prepend: crumb_path | relative_url }}"
+        href="{{ crumb  | replace: '%C3%A1', 'a' | replace: '%C3%A9', 'e' | replace: '%C3%AD', 'i' | replace: '%C3%B3', 'o' | replace: '%C3%BA', 'u' | replace: "%C3%B1", 'n' | replace: '-', '-' | replace: '%20', '-' | downcase | prepend: path_type | prepend: crumb_path | relative_url }}"
         itemprop="item"
         >
         <span itemprop="name"
-          >{{ crumb | replace: '%C3%A1', 'á' | replace: '%C3%A9', 'é' | replace: '%C3%AD', 'í' | replace: '%C3%B3', 'ó' | replace: '%C3%BA', 'ú' | replace: "%C3%B1", 'ñ' | replace: '-', ' ' | replace: '%20', ' ' | capitalize
+          >{{ crumb  | replace: '%C3%A1', 'a' | replace: '%C3%A9', 'e' | replace: '%C3%AD', 'i' | replace: '%C3%B3', 'o' | replace: '%C3%BA', 'u' | replace: "%C3%B1", 'n' | replace: '-', '-' | replace: '%20', '-' | capitalize
           }}</span>
       </a>
       <meta itemprop="position" content="{{ i }}" />
