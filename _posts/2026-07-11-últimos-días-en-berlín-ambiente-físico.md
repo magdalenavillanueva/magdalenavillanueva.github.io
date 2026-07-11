@@ -18,3 +18,6 @@ A partir de ahí, se desatan todos los acontecimientos que van a durar seis año
 Ese mismo año regresa a un Berlín destruido y devastado, con una población ocupada y culpabilizada de todos los males para seguir a Suiza y se queda  unos días en Berna, una vasta ciudad-estado al norte de los Alpes, construida en torno a un recodo del río Aar, con arquitectura medieval y preservada en el Altstadt (Ciudad vieja).  
 
 Seguirá con su familia al pueblo de Brienz, una  comuna suiza  a las orillas del Brienzrsee, donde se instalará con Claudia y los niños, una vez que arregló los asuntos pendientes en la notaría que le había dejado Erich Villanueva al nombrarlo heredero universal de toda su fortuna  y firmar toda la documentación.
+
+
+![](/assets/img/ambiente-fisico-en-ultimos-dias-en-berlin.png)
