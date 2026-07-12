@@ -12,7 +12,7 @@ date: 2026-07-11T18:24:00.000-04:00
 
 
 
-![](/assets/img/comida-y-dulces-en-ultimos-dias-en-berlin.png)**Comida:**
+![](/assets/img/comida-y-dulces-en-ultimos-dias-en-berlin.png){:width="300" style="float: left"}**Comida:**
 
 **Goulash:** es uno de los más antiguos guisos de carne que existen, su ingrediente característico es la paprika.  Se cree que tiene su origen en el reino medieval de Hungría y ha ganado popularidad en muchos otros países. Lo vemos en este ejemplo: *´´*la escueta carne de los caballos muertos de inanición acabó convertida en tropezones de sopas y  goulash*´´*.   *Últimos días en Berlín* de Paloma Sánchez-Garnica.
 
