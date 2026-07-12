@@ -8,7 +8,9 @@ date: 2026-07-11T18:24:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
 
-![](/assets/img/comida-y-dulces-ultimos-dias-en-berlin.png){:width="300" style="float: left"}**Comida:**
+![](/assets/img/comida-y-dulces-ultimos-dias-en-berlin.png)
+
+{:width="300" style="float: left"}**Comida:**
 
 **Goulash:** es uno de los más antiguos guisos de carne que existen, su ingrediente característico es la paprika.  Se cree que tiene su origen en el reino medieval de Hungría y ha ganado popularidad en muchos otros países. Lo vemos en este ejemplo: *´´*la escueta carne de los caballos muertos de inanición acabó convertida en tropezones de sopas y  goulash*´´*. *Últimos días en Berlín* de Paloma Sánchez-Garnica.
 
@@ -31,3 +33,5 @@ date: 2026-07-11T18:24:00.000-04:00
 **Käsekuchen**: es un postre muy popular desde el siglo XX hecho a base de ricota, queso quark, azúcar y algunas veces otros ingredientes, tales como: huevos, crema de leche o nata, harina, patata, almendras o frutas. En la obra observamos que: *´´*Claudia recordó que tenía que pasar por la confitería Rothman a recoger un käsekuchen: (la tarta de queso que elaboraba la señora Rothman y que la había hecho famosa en Berlín) y una bandeja de pastas de Pascua que su madre le había encargado el día anterior para una de sus reuniones*´´. Últimos días en Berlín* de Paloma Sánchez-Garnica,
 
 **Pastel de manzana con azúcar**: es una tarta de fruta elaborada con una masa recubierta de manzana. Existen muchas variantes, y la manzana puede ser troceada o en compota. Las manzanas pueden colocarse directamente encima de la masa o sobre una base de crema. Existen variantes en las que la masa envuelve toda la fruta, como en la apple pie tradicional anglosajona, o que se elaboran al revés, colocando la masa sobre la fruta para darle luego la vuelta, como en la Tarte Tatin francesa. Es una de las tartas de fruta más populares e internacionales. En el ejemplo se observa cuando: *´´*Claudia, los niños y Krista estaban sentados alrededor de la mesa, degustando un pastel de manzana con azúcar que Angela Blumenfeld había horneado muy temprano*´´*. *Últimos días en Berlín* de Paloma Sánchez-Garnica.
+
+**Szarlotka:**  es un pastel de manzana polaco y ruso. La receta original fue desarrollada a principios del siglo XIX por el famoso pastelero francés Antoine Carême. Se compone de una pasta quebrada más o menos espesa y un relleno de manzanas, cortadas en tiras o en trocitos muy pequeños, incluso ralladas o en forma de compota. Esto a veces también se cubre con masa, estilo crumble o con una fina capa de merengue. Puedes agregar especias, como canela y clavo. A menudo, se sirve todavía caliente, con helado de vainilla y nata montada. Además de manzanas, es posible utilizar peras, melocotones, albaricoques o ciruelas y añadir pasas. En este ejemplo vemos: *´´*—Buenos días, Theresa. —La señora Rothman llevaba una bandeja envuelta en las manos. Se la mostró con una sonrisa forzada—. Le traigo una *szarlotka* de mi tierra, la tarta de queso polaca que tanto le gusta, recién horneada*´´. Últimos días en Berlín* de Paloma Sánchez-Garnica.
