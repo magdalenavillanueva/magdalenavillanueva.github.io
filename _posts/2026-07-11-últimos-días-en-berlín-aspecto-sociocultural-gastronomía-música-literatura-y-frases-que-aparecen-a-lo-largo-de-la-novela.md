@@ -20,6 +20,7 @@ date: 2026-07-11T18:24:00.000-04:00
 
 **Sopa de avena**:  es un saludable caldo salado que se prepara con avena. Esta receta permite que se incluyan las verduras que más gusten o aquellas que estén a mano en casa. Las sopas forman parte de la tradición culinaria mediterránea y universal, son un alimento económico que hidrata el organismo y ayuda a recuperar nutrientes. Además, son fáciles de digerir por su gran contenido de agua. Incluir avena a la sopa da sensación de saciedad; por un lado, ofrece grandes beneficios nutricionales y, por el otro, aumenta la consistencia del caldo, haciéndolo más espeso. Observamos en este ejemplo:   *´´*cuando les servían en los tazones la sopa de avena, quedaba cubierta por una masa oscura y moviente antes incluso de haber dado el primer sorbo*´´.*    *Últimos días en Berlín* de Paloma Sánchez-Garnica.   
 
+
 **Dulces**
 
 **Apfelstrudel**:  es un postre típico tradicional de la cocina austríaca y del sur de Alemania, cuyos orígenes podrían remontarse a antiguas recetas de las cocinas bizantina, armenia o turca. Consiste en un rollo muy fino de masa, a veces también de hojaldre, relleno de compota de manzana, azúcar, canela, pasas y pan rallado que una vez preparado se cocina en el horno. Observamos en el ejemplo siguiente: *´´*El único que se movía era el señor Rothman que, lentamente, sin perder de vista a la pareja, colocaba una bandeja de apfelstrudel en una vitrina de cristal*´´*.  *Últimos días en Berlín* de Paloma Sánchez-Garnica.  
