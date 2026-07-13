@@ -25,3 +25,13 @@ Este principio se observa cuando a través de la historia de varios judíos en l
  **Principio de la transposición: *cargar sobre el adversario los propios errores o defectos, respondiendo el ataque con el ataque. “Si no puedes negar las malas noticias, inventa otras que las distraigan”.***
 
 Pretenden doblegar la libertad de pensamiento. De ahí que Fritz Siegel lea en tono grave y pausado, primero en inglés, luego en alemán la frase inmortal de Voltaire: «I disapprove of whatyou say, but I will defend to the death your right to say it». «No estoy de acuerdo con lo que dices, pero defenderé hasta la muerte tu derecho a decirlo.» *Los amigos de Voltaire* de Evelyn Beatrice Hall.
+
+**Principio de la unanimidad:  *llegar a convencer a mucha gente de que se piensa «como todo el mundo», creando impresión de unanimidad.***
+
+Las leyes de Núremberg de 1935 fueron creadas por Wilhelm Frick para convencer a las masas alemanas que el judío era una lacra social que debía ser extirpada como un tumor cancerígeno. El objetivo fundamental era preservar la aricidad del pueblo alemán y de expulsara los judíos y otros grupos raciales considerados peligrosos para la comunidad:  comunistas, homosexuales,discapacitados, gitanos. La intromisión del Estado era total.  La mayoría de la población lo aceptaba.  A los disidentes de cualquier orden, se los llevaba la Gestapo y los hacía desaparecer.
+
+**Principio de la transfusión:  *por regla general, la propaganda opera siempre a partir de un sustrato preexistente, ya sea una mitología nacional o un complejo de odios y prejuicios tradicionales; se trata de difundir argumentos que puedan arraigar en actitudes primitivas.***
+
+
+
+Esta propaganda se desata contra los judíos. Los hechos acaecidos el 7 de noviembre de 1938, fueron presentados por la propaganda nazi como una reacción espontánea de la población tras el asesinato de Ernst vom Rath, secretario de la embajada alemana en París por un judío polaco de origen alemán, Herschel Grynszpan. La prensa lo  denominó la noche de los cristales rotos, Kristallnacht, al quedar las calzadas de la ciudad sembradas de ellos. En todo el país, incluida Austria, que había quedado incorporada al Tercer Reich desde marzo de aquel año, fueron incendiadas y destruidas miles de sinagogas, calcinando libros sagrados y de oración, biblias, archivos, imágenes y mobiliario; se destrozaron y desvalijaron la gran mayoría de los comercios y locales que dirigían o aún eran propiedad de judíos, se saquearon consultas médicas, despachos de abogados y de todo profesional regentados por hebreos.
