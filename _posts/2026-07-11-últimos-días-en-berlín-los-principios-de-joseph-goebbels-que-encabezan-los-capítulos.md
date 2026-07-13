@@ -20,15 +20,13 @@ Al comienzo de la novela vemos a Yuri Santacruz defender a Axel Laufer, un joven
 
 <i class="fi fi-rr-star" style="color: red;">**Principio del método de contagio: *Reunirdiversos adversarios en una sola categoría o individuo; Los adversarios han deconstituirse en suma individualizada.***</i>
 
-![](/assets/img/ultimos-dias-en-berlin.-campos-de-concentracion.png)
-
-Este principio se observa cuando a través de la historia de varios judíos en la novela nos van relatando como el nazismo los va acorralando quitándole todos sus derechos como ciudadanos a consecuencia de las nuevas leyes del gobierno, que empezaban a complicar la vida a muchos alemanes de origen hebreo, hasta abrir y habilitar en todos los rincones del país campos de concentración y exterminio, donde eran trasladados hacinados como animales para exterminarlos en forma sistemática.  Con esto, han borrado del mapa al disidente, al crítico, al opositor. La propaganda está encadenando las mentes más lúcidas con un mensaje monótono, simple, insistente, suscitando desde la absoluta indiferencia hasta la peligrosa insensibilidad, cuando la reacción normal debería ser repugnancia y rebelión.   
+![](/assets/img/ultimos-dias-en-berlin.-campos-de-concentracion.png){:width="300" style="float: left"}Este principio se observa cuando a través de la historia de varios judíos en la novela nos van relatando como el nazismo los va acorralando quitándole todos sus derechos como ciudadanos a consecuencia de las nuevas leyes del gobierno, que empezaban a complicar la vida a muchos alemanes de origen hebreo, hasta abrir y habilitar en todos los rincones del país campos de concentración y exterminio, donde eran trasladados hacinados como animales para exterminarlos en forma sistemática.  Con esto, han borrado del mapa al disidente, al crítico, al opositor. La propaganda está encadenando las mentes más lúcidas con un mensaje monótono, simple, insistente, suscitando desde la absoluta indiferencia hasta la peligrosa insensibilidad, cuando la reacción normal debería ser repugnancia y rebelión.   
 
  **Principio de la transposición: *cargar sobre el adversario los propios errores o defectos, respondiendo el ataque con el ataque. “Si no puedes negar las malas noticias, inventa otras que las distraigan”.***
 
 Pretenden doblegar la libertad de pensamiento. De ahí que Fritz Siegel lea en tono grave y pausado, primero en inglés, luego en alemán la frase inmortal de Voltaire: «I disapprove of whatyou say, but I will defend to the death your right to say it». «No estoy de acuerdo con lo que dices, pero defenderé hasta la muerte tu derecho a decirlo.» *Los amigos de Voltaire* de Evelyn Beatrice Hall.
 
-**Principio de la unanimidad:  *llegar a convencer a mucha gente de que se piensa «como todo el mundo», creando impresión de unanimidad.***
+**Principio de la unanimidad: *llegar a convencer a mucha gente de que se piensa «como todo el mundo», creando impresión de unanimidad.***
 
 Las leyes de Núremberg de 1935 fueron creadas por Wilhelm Frick para convencer a las masas alemanas que el judío era una lacra social que debía ser extirpada como un tumor cancerígeno. El objetivo fundamental era preservar la aricidad del pueblo alemán y de expulsara los judíos y otros grupos raciales considerados peligrosos para la comunidad:  comunistas, homosexuales,discapacitados, gitanos. La intromisión del Estado era total.  La mayoría de la población lo aceptaba.  A los disidentes de cualquier orden, se los llevaba la Gestapo y los hacía desaparecer.
 
