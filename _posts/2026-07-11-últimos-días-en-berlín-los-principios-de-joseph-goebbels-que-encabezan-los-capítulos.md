@@ -10,7 +10,9 @@ date: 2026-07-11T18:24:00.000-04:00
 
 Joseph Goebbels llevó la propaganda política y la manipulación hasta unos límites jamás alcanzados antes o después del gobierno nazi.  Paul Joseph Goebbels, doctorado en Filología Germánica, dirigió el Ministerio de Educación Popular y Propaganda, una cartera que fue creada por Adolf Hitler a su llegada al poder en 1933.  Antes había sido el director de Comunicación del Partido Nacional-Socialista y arquitecto del ascenso al poder de quien fue conocido como el Führer.
 
-![](/assets/img/ultimos-dias-en-berlin.-joseph-goebbels.png){:width="300" style="float: left"}Era un temido demagogo y agitador de masas que monopolizó el aparato mediático estatal, prohibió todas las publicaciones y medios de comunicación que no estuvieran bajo su control y orquestó un sistema de consignas que eran transmitidas desde un poder centralizado al cine, la radio, el teatro, la literatura y la prensa. Durante el transcurso de la Segunda Guerra Mundial, el papel que tuvo el ministerio de Goebbels fue centralizar el control de la vida cultural e intelectual de Alemania. Y desde ese puesto desarrolló los 11 principios de la propaganda nazi que operaron con gran eficacia. La inclusión de los principios de Goebbels no por conocidos dejan de ser menos impactantes: 
+![](/assets/img/ultimos-dias-en-berlin.-joseph-goebbels.png)
+
+{:width="300" style="float: left"}Era un temido demagogo y agitador de masas que monopolizó el aparato mediático estatal, prohibió todas las publicaciones y medios de comunicación que no estuvieran bajo su control y orquestó un sistema de consignas que eran transmitidas desde un poder centralizado al cine, la radio, el teatro, la literatura y la prensa. Durante el transcurso de la Segunda Guerra Mundial, el papel que tuvo el ministerio de Goebbels fue centralizar el control de la vida cultural e intelectual de Alemania. Y desde ese puesto desarrolló los 11 principios de la propaganda nazi que operaron con gran eficacia. La inclusión de los principios de Goebbels no por conocidos dejan de ser menos impactantes: 
 
 <i class="fi fi-rr-star" style="color: red;">**Principio desimplificación y del enemigo único: *adoptar una única idea, un único símbolo.Individualizar al adversario en un único enemigo*.**</i>
 
@@ -39,3 +41,17 @@ El hecho de que los Laufer fueran los padres de Alex, un comunista militante que
 **Principio de la verosimilitud:  *construir argumentos a partir de fuentes diversas, a través de los llamados globos sondas o de informaciones fragmentarias***
 
 Hans Litten fue el único abogado que ha osado llamar como testigo a Adolf Hitler, en el juicio del Tanzpalast Eden contra varios miembros de las SA que atacaron a unos jóvenes detractores, y lo mejor de todo es que lo sacó de sus casillas yl o puso en ridículo. Fue detenido e internado en la prisión de Spandau. Posteriormente, pasó por el campo de concentración de Sonnenburg y la cárcel de Brandeburgo, donde fue torturado y humillado, y recorrió después los campos de concentración de Esterwegen, Lichtenburg y Buchenwald. En octubre de 1937 fue trasladado a Dachau, donde el 5 de febrero de 1938 fue hallado ahorcado en una letrina, vestido solo con una camisa. Dejó una nota con la explicación de susuicidio.
+
+**Principio de la silenciación:  *acallar las cuestiones sobre las que no se tienen argumentos y disimular las noticias que favorecen al adversario, también contra programando con la ayuda de medios de comunicación afines.*** 
+
+En la noche del 27 de febrero, un incendio claramente intencionado arrasó el Reichstag. Marinus van der Lubbe, un comunista holandés, fue detenido y acusado de ocasionar el fuego. Hitler lo toma como prueba irrefutable de la existencia de un complot bolchevique orquestado con la pretensión de hacerse con el poder por la fuerza mediante una revolución violenta.  La campaña electoral se vio adulterada, ya que a los partidos marxistas o de corte comunista se les prohibió celebrar mítines y cualquier propaganda electoral y además la mayoría de sus dirigentes permanecían detenidos sin causa justificada, como medida de prevención. 
+
+El partido nazi ganó las elecciones, pero sin llegar a su objetivo, que era obtener la mayoría absoluta.  Ante la imposibilidad de usar el edificio del Reichstag, el Parlamento se reunió en laÓpera Kroll, donde se aprobó la llamada ley de habilitación, en virtud de la cual el Reichstag concedía de facto el poder absoluto a Hitler.
+
+**Principio de la exageración y desfiguración:  *convertir cualquier anécdota, por pequeña que sea, en amenaza grave.***
+
+El Standartenführer  Von Schönberg tiene la responsabilidad de acabar con los comunistas que intentan establecer en Alemania la revolución bolchevique.
+
+**Principio de la vulgarización:  *toda propaganda debe ser popular, adaptando su nivel al menos inteligente de los individuos a los que va dirigida. Cuanto más grande sea la masa a convencer, más pequeño ha de ser el esfuerzo mental a realizar.  La capacidad receptiva de las masas es limitada, y su comprensión, escasa; además, tienen gran facilidad para olvidar.***
+
+Se había estado anunciando en la radio y los periódicos que aquel 1 de abril, a partir de las diez, se iba a realizar un boicot a los comercios y negocios judíos. Había carteles rojos en las tiendas para señalar las empresas alemanas a las que no afectaba el boicot.  En este ejemplo se observan las arengas transmitidas:  ´´¡Los judíos son la encarnación de la mentira y el fraude! ¡Hasta que no esté muerto el último judío, no habrá ni pan ni trabajo! ´´. *Últimos días en Berlín* de Paloma Sánchez-Garnica.
