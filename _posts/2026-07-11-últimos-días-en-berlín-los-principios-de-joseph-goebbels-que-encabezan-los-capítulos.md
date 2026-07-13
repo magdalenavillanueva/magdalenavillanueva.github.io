@@ -20,4 +20,4 @@ Era un temido demagogo y agitador de masas que monopolizó el aparato mediático
 
 Al comienzo de la novela vemos a Yuri Santacruz defender a Axel Laufer, un joven comunista agredido por las tropas de asalto de Adolf Hitler. Yuri lo salva de la situación e incluso lo esconde para hacerlo salir de Alemania. El nivel de acusaciones contra Axel Laufer era abrumador, no había defensa a quien se le acusara de comunista.  La única alternativa que le quedó fue huir a Suiza.
 
-**Principio del método de contagio: *Reunirdiversos adversarios en una sola categoría o individuo; Los adversarios han deconstituirse en suma individualizada.***
+<i class="fi fi-rr-star" style="color: red;">**Principio del método de contagio: *Reunirdiversos adversarios en una sola categoría o individuo; Los adversarios han deconstituirse en suma individualizada.***</i>
