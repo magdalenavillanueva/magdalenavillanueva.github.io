@@ -32,6 +32,12 @@ Las leyes de Núremberg de 1935 fueron creadas por Wilhelm Frick para convencer 
 
 **Principio de la transfusión:  *por regla general, la propaganda opera siempre a partir de un sustrato preexistente, ya sea una mitología nacional o un complejo de odios y prejuicios tradicionales; se trata de difundir argumentos que puedan arraigar en actitudes primitivas.***
 
-
-
 Esta propaganda se desata contra los judíos. Los hechos acaecidos el 7 de noviembre de 1938, fueron presentados por la propaganda nazi como una reacción espontánea de la población tras el asesinato de Ernst vom Rath, secretario de la embajada alemana en París por un judío polaco de origen alemán, Herschel Grynszpan. La prensa lo  denominó la noche de los cristales rotos, Kristallnacht, al quedar las calzadas de la ciudad sembradas de ellos. En todo el país, incluida Austria, que había quedado incorporada al Tercer Reich desde marzo de aquel año, fueron incendiadas y destruidas miles de sinagogas, calcinando libros sagrados y de oración, biblias, archivos, imágenes y mobiliario; se destrozaron y desvalijaron la gran mayoría de los comercios y locales que dirigían o aún eran propiedad de judíos, se saquearon consultas médicas, despachos de abogados y de todo profesional regentados por hebreos.
+
+**Principio de orquestación:  *la propaganda debe limitarse a un número pequeño de ideas y repetirlas incansablemente, presentadas una y otra vez desde diferentes perspectivas, pero siempre convergiendo sobre el mismo concepto. Sin fisuras ni dudas.  Si una mentira se repite suficientemente, acaba por convertirse en verdad.***
+
+El hecho de que los Laufer fueran los padres de Alex, un comunista militante que ha atentado contra un familiar directo de un destacado miembro de las SA, los convirtieron en proscritos obligados a vender sus propiedades por precios irrisorios y salir de Alemania. 
+
+**Principio de la verosimilitud:  *construir argumentos a partir de fuentes diversas, a través de los llamados globos sondas o de informaciones fragmentarias***
+
+Hans Litten fue el único abogado que ha osado llamar como testigo a Adolf Hitler, en el juicio del Tanzpalast Eden contra varios miembros de las SA que atacaron a unos jóvenes detractores, y lo mejor de todo es que lo sacó de sus casillas yl o puso en ridículo. Fue detenido e internado en la prisión de Spandau. Posteriormente, pasó por el campo de concentración de Sonnenburg y la cárcel de Brandeburgo, donde fue torturado y humillado, y recorrió después los campos de concentración de Esterwegen, Lichtenburg y Buchenwald. En octubre de 1937 fue trasladado a Dachau, donde el 5 de febrero de 1938 fue hallado ahorcado en una letrina, vestido solo con una camisa. Dejó una nota con la explicación de susuicidio.
