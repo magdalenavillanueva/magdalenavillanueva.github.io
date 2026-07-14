@@ -49,4 +49,8 @@ Es un monumento neoclásico del siglo XVIII situado en Berlín, construido por o
 
 **Reichstag**:  
 
-Se encuentra en el barrio del Tiergarten, en el distrito Mitte de Berlín, capital de Alemania. Fue la sede del Reichstag en tiempos del II Imperio alemán (1871-1918) y más tarde del parlamento de la República de Weimar (1919-1933). En la obra se dice que: ´´En la noche del 27 de febrero, un incendio claramente intencionado arrasó el Reichstag´´.
+Se encuentra en el barrio del Tiergarten, en el distrito Mitte de Berlín, capital de Alemania. Fue la sede del Reichstag en tiempos del II Imperio alemán (1871-1918) y más tarde del parlamento de la República de Weimar (1919-1933). En la obra se dice que: ´´En la noche del 27 de febrero, un incendio claramente intencionado arrasó el Reichstag´´.  
+
+**Tiergarten**:  
+
+Es el principal parque de Berlín, capital de Alemania. Ubicado en el centro de la ciudad, es además desde 2001 un distrito de esta ciudad. Tiergarten significa jardín de animales, en recuerdo de cuando era lugar de deleite de la aristocracia prusiana como coto de caza de jabalíes y ciervos. En la obra describe cuando: ´´Yuri observaba a través de la ventanilla del coche el extenso parque de Tiergarten, una arboleda en el corazón de la ciudad que aún guardaba los colores fríos delinvierno.´´.
