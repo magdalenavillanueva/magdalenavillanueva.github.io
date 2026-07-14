@@ -20,7 +20,9 @@ Al comienzo de la novela vemos a Yuri Santacruz defender a Axel Laufer, un joven
 
 <i class="fi fi-rr-star" style="color: red;">**Principio del método de contagio: *Reunirdiversos adversarios en una sola categoría o individuo; Los adversarios han deconstituirse en suma individualizada.***</i>
 
-![](/assets/img/ultimos-dias-en-berlin.-campos-de-concentracion.png){:width="300" style="float: left"}Este principio se observa cuando a través de la historia de varios judíos en la novela nos van relatando como el nazismo los va acorralando quitándole todos sus derechos como ciudadanos a consecuencia de las nuevas leyes del gobierno, que empezaban a complicar la vida a muchos alemanes de origen hebreo, hasta abrir y habilitar en todos los rincones del país campos de concentración y exterminio, donde eran trasladados hacinados como animales para exterminarlos en forma sistemática.  Con esto, han borrado del mapa al disidente, al crítico, al opositor. La propaganda está encadenando las mentes más lúcidas con un mensaje monótono, simple, insistente, suscitando desde la absoluta indiferencia hasta la peligrosa insensibilidad, cuando la reacción normal debería ser repugnancia y rebelión.   
+![](/assets/img/ultimos-dias-en-berlin.-campos-de-concentracion.png)
+
+{:width="300" style="float: left"}Este principio se observa cuando a través de la historia de varios judíos en la novela nos van relatando como el nazismo los va acorralando quitándole todos sus derechos como ciudadanos a consecuencia de las nuevas leyes del gobierno, que empezaban a complicar la vida a muchos alemanes de origen hebreo, hasta abrir y habilitar en todos los rincones del país campos de concentración y exterminio, donde eran trasladados hacinados como animales para exterminarlos en forma sistemática.  Con esto, han borrado del mapa al disidente, al crítico, al opositor. La propaganda está encadenando las mentes más lúcidas con un mensaje monótono, simple, insistente, suscitando desde la absoluta indiferencia hasta la peligrosa insensibilidad, cuando la reacción normal debería ser repugnancia y rebelión.   
 
  **Principio de la transposición: *cargar sobre el adversario los propios errores o defectos, respondiendo el ataque con el ataque. “Si no puedes negar las malas noticias, inventa otras que las distraigan”.***
 
@@ -28,9 +30,13 @@ Pretenden doblegar la libertad de pensamiento. De ahí que Fritz Siegel lea en t
 
 **Principio de la unanimidad: *llegar a convencer a mucha gente de que se piensa «como todo el mundo», creando impresión de unanimidad.***
 
+![](/assets/img/ultimos-dias-en-berlin-bebé-ario-ideal.png)
+
 Las leyes de Núremberg de 1935 fueron creadas por Wilhelm Frick para convencer a las masas alemanas que el judío era una lacra social que debía ser extirpada como un tumor cancerígeno. El objetivo fundamental era preservar la aricidad del pueblo alemán y de expulsara los judíos y otros grupos raciales considerados peligrosos para la comunidad:  comunistas, homosexuales,discapacitados, gitanos. La intromisión del Estado era total.  La mayoría de la población lo aceptaba.  A los disidentes de cualquier orden, se los llevaba la Gestapo y los hacía desaparecer.
 
 **Principio de la transfusión:  *por regla general, la propaganda opera siempre a partir de un sustrato preexistente, ya sea una mitología nacional o un complejo de odios y prejuicios tradicionales; se trata de difundir argumentos que puedan arraigar en actitudes primitivas.***
+
+![](/assets/img/ultimos-dias-en-berlin-ernst-vom-rath.png)
 
 Esta propaganda se desata contra los judíos. Los hechos acaecidos el 7 de noviembre de 1938, fueron presentados por la propaganda nazi como una reacción espontánea de la población tras el asesinato de Ernst vom Rath, secretario de la embajada alemana en París por un judío polaco de origen alemán, Herschel Grynszpan. La prensa lo  denominó la noche de los cristales rotos, Kristallnacht, al quedar las calzadas de la ciudad sembradas de ellos. En todo el país, incluida Austria, que había quedado incorporada al Tercer Reich desde marzo de aquel año, fueron incendiadas y destruidas miles de sinagogas, calcinando libros sagrados y de oración, biblias, archivos, imágenes y mobiliario; se destrozaron y desvalijaron la gran mayoría de los comercios y locales que dirigían o aún eran propiedad de judíos, se saquearon consultas médicas, despachos de abogados y de todo profesional regentados por hebreos.
 
