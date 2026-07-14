@@ -41,4 +41,8 @@ Fue un famoso teatro de ópera en Berlín, Alemania en el costado oeste de la K�
 
 **PariserPlatz:**  
 
-Se encuentra entre la Puerta de Brandeburgo y la calle Unter den Linden, en el distrito de Mitte de la ciudad de Berlín, capital de Alemania.  Esta plaza tiene una forma rectangular y cuenta con una superficie de 1,5 ha. En este ejemplo vemos a medida que:  ´´Yuri se acercaba a Pariser Platz,crecía una multitud desordenada ávida de presenciar aquel cortejo. Las chispas de las antorchas crepitaban en el aire helado´´.
+Se encuentra entre la Puerta de Brandeburgo y la calle Unter den Linden, en el distrito de Mitte de la ciudad de Berlín, capital de Alemania.  Esta plaza tiene una forma rectangular y cuenta con una superficie de 1,5 ha. En este ejemplo vemos a medida que:  ´´Yuri se acercaba a Pariser Platz,crecía una multitud desordenada ávida de presenciar aquel cortejo. Las chispas de las antorchas crepitaban en el aire helado´´.   
+
+**Puerta de Brandeburgo**:   
+
+Es un monumento neoclásico del siglo XVIII situado en Berlín, construido por orden del rey de Prusia, Federico Guillermo II, después de reprimir la revuelta popular holandesa y restaurar el poder orangista en los Países Bajos.  Es uno de los monumentos más conocidos de Alemania, y fue construida en la ubicación de la antigua puerta de la ciudad en la que comenzaba la carretera que conducía de Berlín a la Ciudad de Brandeburgo.  Está situada en la parte occidental del centro de Berlín, en Mitte, en la intersección de Unter den Linden y Ebertstraße, al oeste de la plaza de París. En la novela observamos que: ´´En el horizonte nocturno en el que destacaba el ático de la Puerta de Brandeburgo se vislumbraba el fulgor de cientos de teas´´.
