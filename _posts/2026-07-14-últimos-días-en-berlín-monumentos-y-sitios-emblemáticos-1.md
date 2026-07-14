@@ -11,7 +11,9 @@ date: 2026-07-14T18:29:00.000-04:00
 
 **Bebelplatz:** 
 
-![](/assets/img/ultimos-dias-en-berlin-quema-de-libros-en-la-plaza-de-la-ópera-de-berlín.png){:width="300" style="float: right"}Es una plaza pública de Berlín, la capital de Alemania. La plaza fue nombrada en honor de August Bebel, un líder fundamental del Partido Social demócrata de Alemania (SPD) en el siglo XIX. La Bebelplatz es célebre por ser el lugar en el que se realizó la quema de libros el 10 de mayo de 1933, llevada a cabo por miembros de las camisas pardas y las Juventudes Hitlerianas, e instigada por el ministro de propaganda Joseph Goebbels. En el siguiente ejemplo, observamos la acción realizada:´´Al llegar a la Bebelplatz, frente al edificio de la Universidad Friedrich-Wilhelm, se detuvo para contemplar con amargura los restos aún humeantes de la monumental pira formada en el centro de la plaza, las negras montoneras de libros calcinados, de sabiduría abrasada, devastada por la cerril incultura´´.
+![](/assets/img/ultimos-dias-en-berlin-quema-de-libros-en-la-plaza-de-la-ópera-de-berlín.png)
+
+{:width="300" style="float: right"}Es una plaza pública de Berlín, la capital de Alemania. La plaza fue nombrada en honor de August Bebel, un líder fundamental del Partido Social demócrata de Alemania (SPD) en el siglo XIX. La Bebelplatz es célebre por ser el lugar en el que se realizó la quema de libros el 10 de mayo de 1933, llevada a cabo por miembros de las camisas pardas y las Juventudes Hitlerianas, e instigada por el ministro de propaganda Joseph Goebbels. En el siguiente ejemplo, observamos la acción realizada:´´Al llegar a la Bebelplatz, frente al edificio de la Universidad Friedrich-Wilhelm, se detuvo para contemplar con amargura los restos aún humeantes de la monumental pira formada en el centro de la plaza, las negras montoneras de libros calcinados, de sabiduría abrasada, devastada por la cerril incultura´´.
 
 **Cancillería del Reich**:   
 
@@ -44,3 +46,7 @@ Se encuentra entre la Puerta de Brandeburgo y la calle Unter den Linden, en el d
 **Puerta de Brandeburgo**:   
 
 Es un monumento neoclásico del siglo XVIII situado en Berlín, construido por orden del rey de Prusia, Federico Guillermo II, después de reprimir la revuelta popular holandesa y restaurar el poder orangista en los Países Bajos.  Es uno de los monumentos más conocidos de Alemania, y fue construida en la ubicación de la antigua puerta de la ciudad en la que comenzaba la carretera que conducía de Berlín a la Ciudad de Brandeburgo.  Está situada en la parte occidental del centro de Berlín, en Mitte, en la intersección de Unter den Linden y Ebertstraße, al oeste de la plaza de París. En la novela observamos que: ´´En el horizonte nocturno en el que destacaba el ático de la Puerta de Brandeburgo se vislumbraba el fulgor de cientos de teas´´.
+
+**Reichstag**:  
+
+Se encuentra en el barrio del Tiergarten, en el distrito Mitte de Berlín, capital de Alemania. Fue la sede del Reichstag en tiempos del II Imperio alemán (1871-1918) y más tarde del parlamento de la República de Weimar (1919-1933). En la obra se dice que: ´´En la noche del 27 de febrero, un incendio claramente intencionado arrasó el Reichstag´´.
