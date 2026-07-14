@@ -37,4 +37,8 @@ También conocida como Ku'damm es una de las avenidas más famosas de Berlín, A
 
 **Ópera Kroll**:  
 
-Fue un famoso teatro de ópera en Berlín, Alemania en el costado oeste de la Königsplatz (hoy Platz der Republik) cercano a la Puerta de Brandeburgo construido en 1844 como teatro de variedades del restaurante de Joseph Kroll y transformado en teatro de ópera en 1851. Refaccionado nuevamente en 1895 fue inaugurado como la nueva ópera real del estado de Prusia, diseñada por el arquitecto Oskar Kaufmann.  En la novela se observa que: ´´Ante la imposibilidad de usar el edificio del Reichstag, el Parlamento se reunió en la Ópera Kroll, junto a Königsplatz: un teatro que resultó perfecto para la puestae n escena de aquella obra maquiavélica que estrenaba Adolf Hitler´´.
+Fue un famoso teatro de ópera en Berlín, Alemania en el costado oeste de la Königsplatz (hoy Platz der Republik) cercano a la Puerta de Brandeburgo construido en 1844 como teatro de variedades del restaurante de Joseph Kroll y transformado en teatro de ópera en 1851. Refaccionado nuevamente en 1895 fue inaugurado como la nueva ópera real del estado de Prusia, diseñada por el arquitecto Oskar Kaufmann.  En la novela se observa que: ´´Ante la imposibilidad de usar el edificio del Reichstag, el Parlamento se reunió en la Ópera Kroll, junto a Königsplatz: un teatro que resultó perfecto para la puestae n escena de aquella obra maquiavélica que estrenaba Adolf Hitler´´.  
+
+**PariserPlatz:**  
+
+Se encuentra entre la Puerta de Brandeburgo y la calle Unter den Linden, en el distrito de Mitte de la ciudad de Berlín, capital de Alemania.  Esta plaza tiene una forma rectangular y cuenta con una superficie de 1,5 ha. En este ejemplo vemos a medida que:  ´´Yuri se acercaba a Pariser Platz,crecía una multitud desordenada ávida de presenciar aquel cortejo. Las chispas de las antorchas crepitaban en el aire helado´´.
