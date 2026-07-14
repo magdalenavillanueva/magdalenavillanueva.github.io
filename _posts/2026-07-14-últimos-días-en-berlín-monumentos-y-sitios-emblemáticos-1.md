@@ -34,3 +34,7 @@ Es una plaza situada en Berlín. Se sitúa en el distrito Tiergarten, barrio Mit
 **Kurfürstendamm**:  
 
 También conocida como Ku'damm es una de las avenidas más famosas de Berlín, Alemania. Tiene una longitud de 3,5 km.  Comienza cerca de la estación de tren BahnhofZoo en Zoologischer Garten, cerca de las ruinas de la Iglesia Memorial KaiserWilhelm, atraviesa Charlottenburg y Wilmersdorf. En el ejemplo, observamos que: ´´La señora Metzger vivía de la pensión de viudedad, además del alquiler que percibía de Yuri y de la renta de un local en la Kurfürstendamm, la calle  principal del Westend de Berlín´´.
+
+**Ópera Kroll**:  
+
+Fue un famoso teatro de ópera en Berlín, Alemania en el costado oeste de la Königsplatz (hoy Platz der Republik) cercano a la Puerta de Brandeburgo construido en 1844 como teatro de variedades del restaurante de Joseph Kroll y transformado en teatro de ópera en 1851. Refaccionado nuevamente en 1895 fue inaugurado como la nueva ópera real del estado de Prusia, diseñada por el arquitecto Oskar Kaufmann.  En la novela se observa que: ´´Ante la imposibilidad de usar el edificio del Reichstag, el Parlamento se reunió en la Ópera Kroll, junto a Königsplatz: un teatro que resultó perfecto para la puestae n escena de aquella obra maquiavélica que estrenaba Adolf Hitler´´.
