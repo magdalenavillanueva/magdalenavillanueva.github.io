@@ -26,3 +26,11 @@ Es una calle comercial en el centro de Berlín, que forma el centro del distrito
 **Hotel Adlon**:  
 
 Fue construido en 1907 por el hombre de negocios Lorenz Adlon. El Kaiser Guillermo II intervino para que se usara el predio donde se levantaba un palacio de Karl Friedrich Schinkel. El Adlon fue uno de los más famosos hoteles de Europa que inspiró la película Gran Hotel (1932) con Greta Garbo, Joan Crawford y John Barrymore. Entre sus visitantes se contaron Louise Brooks, Charlie Chaplin, Herbert Hoover, Josephine Baker y Marlene Dietrich, entre otros. Favorito de diplomáticos, gobernantes y periodistas. Durante la Segunda Guerra Mundial fue hotel y hospital y sobrevivió a la mayoría de los ataques hasta la noche del 2 de mayo de 1945, cuando se incendió. En la obra Franz Kahler le dice a Krista:  ´´Por eso había pensado ofrecerte una opción conveniente para todos. Puedes instalarte en una suite del Hotel Adlon´´.
+
+**Königsplatz**:  
+
+Es una plaza situada en Berlín. Se sitúa en el distrito Tiergarten, barrio Mitte, frente al Reichstag. La plaza tiene una superficie de unos 36900 metros cuadrados y está cubierta de hierba, decorada con algunos setos y árboles.  Antes de1926 y entre 1933 y 1948 se llamaba Königsplatz (Plaza del Rey)
+
+**Kurfürstendamm**:  
+
+También conocida como Ku'damm es una de las avenidas más famosas de Berlín, Alemania. Tiene una longitud de 3,5 km.  Comienza cerca de la estación de tren BahnhofZoo en Zoologischer Garten, cerca de las ruinas de la Iglesia Memorial KaiserWilhelm, atraviesa Charlottenburg y Wilmersdorf. En el ejemplo, observamos que: ´´La señora Metzger vivía de la pensión de viudedad, además del alquiler que percibía de Yuri y de la renta de un local en la Kurfürstendamm, la calle  principal del Westend de Berlín´´.
