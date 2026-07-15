@@ -66,3 +66,7 @@ Es la más antigua de esta ciudad alemana. Ha servido como modelo para otras uni
 **Unter den Linden**:  
 
 Es el bulevar más tradicional y conocido de la ciudad. Desde sus  principios hasta la Segunda Guerra Mundial fue el centro neurálgico de la vida cultural berlinesa y el punto de encuentro de muchos ciudadanos. En la secuencia observamos que:  ´´Yuri al llegar al bulevar de Unter den Linden ralentizó el paso, pasmado ante el espectáculo´´.
+
+**Wilhelmstraße**: 
+
+Es una importante vía pública de Berlín, Alemania, en los distritos de Mitte yKreuzberg. Hasta 1945 fue el centro del gobierno, primero del Reino de Prusia y más tarde del Reich alemán, albergando en particular la Cancillería del Reich y el Ministerio de Asuntos Exteriores. Se cita varias veces en la obra, entre ellas, esta: ´´MartinRitter tenía el despacho en Wilhelmstraße, muy cerca de la cancillería del Tercer Reich y a escasos cinco minutos en coche del domicilio de Villanueva´´. *Últimos días en Berlín* de Paloma Sánchez-Garnica.
