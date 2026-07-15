@@ -69,4 +69,18 @@ Es el bulevar más tradicional y conocido de la ciudad. Desde sus  principios h
 
 **Wilhelmstraße**: 
 
-Es una importante vía pública de Berlín, Alemania, en los distritos de Mitte yKreuzberg. Hasta 1945 fue el centro del gobierno, primero del Reino de Prusia y más tarde del Reich alemán, albergando en particular la Cancillería del Reich y el Ministerio de Asuntos Exteriores. Se cita varias veces en la obra, entre ellas, esta: ´´MartinRitter tenía el despacho en Wilhelmstraße, muy cerca de la cancillería del Tercer Reich y a escasos cinco minutos en coche del domicilio de Villanueva´´. *Últimos días en Berlín* de Paloma Sánchez-Garnica.
+Es una importante vía pública de Berlín, Alemania, en los distritos de Mitte yKreuzberg. Hasta 1945 fue el centro del gobierno, primero del Reino de Prusia y más tarde del Reich alemán, albergando en particular la Cancillería del Reich y el Ministerio de Asuntos Exteriores. Se cita varias veces en la obra, entre ellas, esta: ´´MartinRitter tenía el despacho en Wilhelmstraße, muy cerca de la cancillería del Tercer Reich y a escasos cinco minutos en coche del domicilio de Villanueva´´. *Últimos días en Berlín* de Paloma Sánchez-Garnica. 
+
+El otro escenario que senos presenta en la novela es **Moscú** yotros sitios de Rusia:
+
+**Moscú**: 
+
+Es la capital y la entidad federal más poblada de Rusia. La ciudad es un importante centro político, económico, cultural y científico de Rusia y del continente.  Moscú está situada a orillas del río Moscova, en el Distrito Federal Central de la Rusia europea. 
+
+**Catedral de Cristo Salvador**:  
+
+Es un templo de la Iglesia Ortodoxa Rusa situado en la ciudad de Moscú, construido en el siglo XIX según el proyecto del arquitecto Konstantín Thon. Se trata, además, de la iglesia ortodoxa más alta del mundo.  La catedral se encuentra en el centro de Moscú, cerca del Kremlin y sobre la orilla del río Moscova. 
+
+**Hotel Metropol**:  
+
+Uno de los lugares más pintorescos de la capital rusa. En este famoso hotel de cinco estrellas se han instalado personalidades de todo el mundo desde hace más de un siglo. Situado entre la Plaza Roja y el Teatro Bolshói, el mecenas Savva Mámontov transformó esta casa de baños en un hotel. Durante la revolución se transformó en un cuartel y en la época soviética sufrió numerosos cambios. Hace dos años salió a subasta y fue adquirido por la cadena AzimutHotel por 274 millones de dólares.  En este ejemplo observamos cuando Kolia:  ´´Dirigía la mirada hacia la avenida en la que, a unos cuatrocientos metros escasos, se hallaba el Hotel Metropol en el que se hospedaba desde hacía días su hermano Yuri´´.
