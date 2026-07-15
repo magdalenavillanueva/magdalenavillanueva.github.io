@@ -88,3 +88,37 @@ Uno de los lugares más pintorescos de la capital rusa. En este famoso hotel de 
 **Las murallas rojas del Kremlin**: 
 
 Es la muralla que rodea el recinto defensivo del Kremlin de Moscú  y se  reconoce por sus características almenas y torres. La muralla original, construida en 1156, era simplemente una valla de madera con garitas de guardia. Desde 1990 el conjunto del Kremlin fue incluido, junto con la Plaza Roja en la lista de Patrimonio de la Humanidad de la Unesco:  ´´Yuri estaba más nervioso de lo que quería admitir. Vio las murallas  rojas del Kremlin y nada más atravesar el puente Bolshói Kámenni sobre las negras aguas del río Moscova el coche redujo la velocidad y se detuvo frente a una gigantesca mole gris compuesta de dos torres de diez plantas, plagadas sus fachadas de ventanas, unidas por una monumental arcada recta que le daba un aspecto de fortaleza´´.
+
+**La estación Finlandia**:  
+
+Es una estación de ferrocarril de la ciudad de San Petersburgo, Rusia. Fue inaugurada en 1870 y opera la línea con destino a Helsinki y Výborg. La terminal es, también, parte de la línea de alta velocidad entre San Petersburgoy Helsinki.
+
+**Plaza Lubianka**:  
+
+Está situada no lejos de la Plaza Roja, es una plaza importante en la historia de la ciudad. Su nombre fue mencionado por primera vez en 1480, cuando Iván III instaló cerca de esta zona a habitantes de Nóvgorod. Estos construyeron la iglesia de Santa Sofía a partir del modelo de la Catedral de Santa Sofía de Nóvgorod y llamaron a este barrio Lubyanka en referencia al distrito Lubyánitsy de su ciudad de origen. En 1990 la Plaza recuperó su nombre original.
+
+**San Petersburgo**: 
+
+Es una ciudad rusa situada sobre la desembocadura del río Nevá en el golfo de Finlandia. Es la segunda ciudad más poblada e importante del país, solo superada por la capital, Moscú. Se la conoce también como la Venecia del Norte,por sus numerosos canales. Es considerada una de las capitales más bellas yculturales de Europa y del mundo. Fue fundada por el zar Pedro el Grande el 27de mayo de 1703. Cuando estalló la Revolución rusa, la ciudad fue el centro dela rebelión. En marzo de 1918 la capital fue trasladada a Moscú. (En eseentonces se llamaba Petrogrado y al morir Lenin cambió su nombre a Leningrado.  Al desaparecer la URSS, con el consiguientecolapso del comunismo, la ciudad se renombró San Petersburgo.
+
+**Grand Hotel Europe**:  
+
+Conocido como Hotel Evropéiskaya durante el período soviético, se encuentra entre los tres hoteles de cinco estrellas más lujosos de San Petersburgo, junto con el Hotel Corinthia y el Hotel Astoria. El Grand Hotel Europe abrió sus puertas al público el 28 de enero de 1875, sustituyendo a otro establecimiento hotelero que se situaba en el mismo solar. Sus interiores de mármol y oro, sus imponentes escalinatas y su elegante mobiliario lo convirtieron en uno de los hoteles de referencia de la Europa del siglo XIX.
+
+**Instituto Smolny**:   
+
+Es un edificio de estilo palladiano situado en San Petersburgo y que ha sido testigo de importantes acontecimientos de la historia de Rusia. Su construcción fue encargada a Giacomo Quarenghi por la Sociedad para la Educación de Nobles Doncellas y construido entre 1806 y 1808 para ser la sede del Instituto Smolny para Nobles Doncellas, fundado por Iván Betskói en 1764 y que tomó su nombre del cercano convento Smolny.
+
+**Estación de Belorussky**:  
+
+Es una de las nueve estaciones de ferrocarril de Moscú. Fue construida en 1870 para cubrir las conexiones desde Moscú a Smolensk, Minsk y Varsovia, y fue reconstruida entre 1910 y 1912. La estación tiene conexión directa con la de Saviólovski y el Aeropuerto Internacional de Moscú-Sheremétievo mediante trenes Aeroexpress.
+
+**Kaliningrado**: 
+
+Es una ciudad portuaria de Europa Oriental perteneciente a Rusia tras su anexión en 1945 y situada en un enclave en la desembocadura del río Pregel, que desagua en el lago del Vístula, comunicado a su vez con el mar Báltico por el estrecho de Baltiysk. Es capital del óblast de Kaliningrado. En este ejemplo vemos que Ulrich: ´´Había permanecido escondido desde el mes de enero en un palacete abandonado a las afueras de Kaliningrado. En realidad, el Sturmbannführer Von Schönberg había desertado de las Waffen-SS abandonando a su suerte a los hombres bajo sumando´´.  
+
+**Rostovdel Don**:  
+
+Es una ciudad de Rusia. Es la capital del óblast de Rostov (en el suroeste de la Rusia europea) y del Distrito federal del  Sur. Por Rostov pasa el río Don, cerca de su desembocadura al mar de Azov, es un importante centro comercial, industrial y de transporte. En la obra observamos como Olga Ivánovna, la madre de Verónica Olégovna Filátova: ´´tomaría otro tren que la llevaría junto a su marido a Rostov del Don´´.   
+
+Y, por último, otro escenario destacado en el libro es Madrid, España a través de los siguientes lugares:
