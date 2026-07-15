@@ -11,7 +11,9 @@ date: 2026-07-14T18:29:00.000-04:00
 
 **Bebelplatz:** 
 
-![](/assets/img/ultimos-dias-en-berlin-quema-de-libros-en-la-plaza-de-la-ópera-de-berlín.png){:width="300" style="float: right"}Es una plaza pública de Berlín, la capital de Alemania. La plaza fue nombrada en honor de August Bebel, un líder fundamental del Partido Social demócrata de Alemania (SPD) en el siglo XIX. La Bebelplatz es célebre por ser el lugar en el que se realizó la quema de libros el 10 de mayo de 1933, llevada a cabo por miembros de las camisas pardas y las Juventudes Hitlerianas, e instigada por el ministro de propaganda Joseph Goebbels. En el siguiente ejemplo, observamos la acción realizada:´´Al llegar a la Bebelplatz, frente al edificio de la Universidad Friedrich-Wilhelm, se detuvo para contemplar con amargura los restos aún humeantes de la monumental pira formada en el centro de la plaza, las negras montoneras de libros calcinados, de sabiduría abrasada, devastada por la cerril incultura´´.
+![](/assets/img/ultimos-dias-en-berlin-quema-de-libros-en-la-plaza-de-la-ópera-de-berlín.png)
+
+{:width="300" style="float: right"}Es una plaza pública de Berlín, la capital de Alemania. La plaza fue nombrada en honor de August Bebel, un líder fundamental del Partido Social demócrata de Alemania (SPD) en el siglo XIX. La Bebelplatz es célebre por ser el lugar en el que se realizó la quema de libros el 10 de mayo de 1933, llevada a cabo por miembros de las camisas pardas y las Juventudes Hitlerianas, e instigada por el ministro de propaganda Joseph Goebbels. En el siguiente ejemplo, observamos la acción realizada:´´Al llegar a la Bebelplatz, frente al edificio de la Universidad Friedrich-Wilhelm, se detuvo para contemplar con amargura los restos aún humeantes de la monumental pira formada en el centro de la plaza, las negras montoneras de libros calcinados, de sabiduría abrasada, devastada por la cerril incultura´´.
 
 **Cancillería del Reich**:   
 
@@ -56,3 +58,11 @@ Es el principal parque de Berlín, capital de Alemania. Ubicado en el centro de 
 **Tiergartenstraße**:  
 
 Es una calle en el distrito de Tiergarten en el  centro de Berlín, la capital de Alemania.  La calle corre de este a oeste a lo largo del borde sur del parque Großer Tiergarten desde Kemperplatz y Ben-Gurion-Straße cerca del Sony Center y Potsdamer Platz en el este hasta la intersección de Hofjägerallee y Klingelhöferstraße en el oeste.  En esta secuencia observamos como:  ´´Yuri condujo su Ford por las bulliciosas calles de Berlín rumbo al piso de  Villanueva en Tiergartenstraße´´.
+
+**Universidad de Humboldt**: 
+
+Es la más antigua de esta ciudad alemana. Ha servido como modelo para otras universidades europeas y de otros países occidentales. Dado que el nombre histórico, Universidad Friedrich Wilhelm, tenía orígenes monárquicos, la escuela fue rebautizada oficialmente en 1949. Vemos en el ejemplo siguiente:  ´´HerrSiegel era catedrático de Filosofía y llevaba tres décadas dando clases en la Universidad Friedrich-Wilhelm´´.
+
+**Unter den Linden**:  
+
+Es el bulevar más tradicional y conocido de la ciudad. Desde sus  principios hasta la Segunda Guerra Mundial fue el centro neurálgico de la vida cultural berlinesa y el punto de encuentro de muchos ciudadanos. En la secuencia observamos que:  ´´Yuri al llegar al bulevar de Unter den Linden ralentizó el paso, pasmado ante el espectáculo´´.
