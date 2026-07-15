@@ -122,3 +122,7 @@ Es una ciudad portuaria de Europa Oriental perteneciente a Rusia tras su anexió
 Es una ciudad de Rusia. Es la capital del óblast de Rostov (en el suroeste de la Rusia europea) y del Distrito federal del  Sur. Por Rostov pasa el río Don, cerca de su desembocadura al mar de Azov, es un importante centro comercial, industrial y de transporte. En la obra observamos como Olga Ivánovna, la madre de Verónica Olégovna Filátova: ´´tomaría otro tren que la llevaría junto a su marido a Rostov del Don´´.   
 
 Y, por último, otro escenario destacado en el libro es Madrid, España a través de los siguientes lugares:
+
+**La calle de la Princesa**:  
+
+Se encuentra entre las plazas de España y de la Moncloa. Cuando en 1770 se construyó el palacio de la Casa de Alba, al comienzo de esta calle, tomó el nombre de Duque de Liria hasta que, en 1852, recibió el de la Princesa, en recuerdo de María Isabel Francisca (1851-1931), dos veces princesa de Asturias. En la revolución de 1868 se denominó Olózaga,en los años treinta Blasco Ibáñez y recuperó su tradicional nombre de Princesaen 1941.
