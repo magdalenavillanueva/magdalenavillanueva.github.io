@@ -53,4 +53,8 @@ Se encuentra en el barrio del Tiergarten, en el distrito Mitte de Berlín, capit
 
 **Tiergarten**:  
 
-Es el principal parque de Berlín, capital de Alemania. Ubicado en el centro de la ciudad, es además desde 2001 un distrito de esta ciudad. Tiergarten significa jardín de animales, en recuerdo de cuando era lugar de deleite de la aristocracia prusiana como coto de caza de jabalíes y ciervos. En la obra describe cuando: ´´Yuri observaba a través de la ventanilla del coche el extenso parque de Tiergarten, una arboleda en el corazón de la ciudad que aún guardaba los colores fríos delinvierno.´´.
+Es el principal parque de Berlín, capital de Alemania. Ubicado en el centro de la ciudad, es además desde 2001 un distrito de esta ciudad. Tiergarten significa jardín de animales, en recuerdo de cuando era lugar de deleite de la aristocracia prusiana como coto de caza de jabalíes y ciervos. En la obra describe cuando: ´´Yuri observaba a través de la ventanilla del coche el extenso parque de Tiergarten, una arboleda en el corazón de la ciudad que aún guardaba los colores fríos delinvierno.´´. 
+
+**Tiergartenstraße**:  
+
+Es una calle en el distrito de Tiergarten en el  centro de Berlín, la capital de Alemania.  La calle corre de este a oeste a lo largo del borde sur del parque Großer Tiergarten desde Kemperplatz y Ben-Gurion-Straße cerca del Sony Center y Potsdamer Platz en el este hasta la intersección de Hofjägerallee y Klingelhöferstraße en el oeste.  En esta secuencia observamos como:  ´´Yuri condujo su Ford por las bulliciosas calles de Berlín rumbo al piso de  Villanueva en Tiergartenstraße´´.
