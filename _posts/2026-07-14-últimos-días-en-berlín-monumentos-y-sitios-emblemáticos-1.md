@@ -11,7 +11,9 @@ date: 2026-07-14T18:29:00.000-04:00
 
 **Bebelplatz:** 
 
-![](/assets/img/ultimos-dias-en-berlin-quema-de-libros-en-la-plaza-de-la-ópera-de-berlín.png){:width="300" style="float: right"}Es una plaza pública de Berlín, la capital de Alemania. La plaza fue nombrada en honor de August Bebel, un líder fundamental del Partido Social demócrata de Alemania (SPD) en el siglo XIX. La Bebelplatz es célebre por ser el lugar en el que se realizó la quema de libros el 10 de mayo de 1933, llevada a cabo por miembros de las camisas pardas y las Juventudes Hitlerianas, e instigada por el ministro de propaganda Joseph Goebbels. En el siguiente ejemplo, observamos la acción realizada:´´Al llegar a la Bebelplatz, frente al edificio de la Universidad Friedrich-Wilhelm, se detuvo para contemplar con amargura los restos aún humeantes de la monumental pira formada en el centro de la plaza, las negras montoneras de libros calcinados, de sabiduría abrasada, devastada por la cerril incultura´´.
+![](/assets/img/ultimos-dias-en-berlin-quema-de-libros-en-la-plaza-de-la-ópera-de-berlín.png)
+
+{:width="300" style="float: right"}Es una plaza pública de Berlín, la capital de Alemania. La plaza fue nombrada en honor de August Bebel, un líder fundamental del Partido Social demócrata de Alemania (SPD) en el siglo XIX. La Bebelplatz es célebre por ser el lugar en el que se realizó la quema de libros el 10 de mayo de 1933, llevada a cabo por miembros de las camisas pardas y las Juventudes Hitlerianas, e instigada por el ministro de propaganda Joseph Goebbels. En el siguiente ejemplo, observamos la acción realizada:´´Al llegar a la Bebelplatz, frente al edificio de la Universidad Friedrich-Wilhelm, se detuvo para contemplar con amargura los restos aún humeantes de la monumental pira formada en el centro de la plaza, las negras montoneras de libros calcinados, de sabiduría abrasada, devastada por la cerril incultura´´.
 
 **Cancillería del Reich**:   
 
@@ -36,6 +38,8 @@ También conocida como Ku'damm es una de las avenidas más famosas de Berlín, A
 **Ópera Kroll**:  
 
 Fue un famoso teatro de ópera en Berlín, Alemania en el costado oeste de la Königsplatz (hoy Platz der Republik) cercano a la Puerta de Brandeburgo construido en 1844 como teatro de variedades del restaurante de Joseph Kroll y transformado en teatro de ópera en 1851. Refaccionado nuevamente en 1895 fue inaugurado como la nueva ópera real del estado de Prusia, diseñada por el arquitecto Oskar Kaufmann.  En la novela se observa que: ´´Ante la imposibilidad de usar el edificio del Reichstag, el Parlamento se reunió en la Ópera Kroll, junto a Königsplatz: un teatro que resultó perfecto para la puestae n escena de aquella obra maquiavélica que estrenaba Adolf Hitler´´.  
+
+![](/assets/img/ultimos-dias-en-berlin-monumentos.png)
 
 **PariserPlatz:**  
 
