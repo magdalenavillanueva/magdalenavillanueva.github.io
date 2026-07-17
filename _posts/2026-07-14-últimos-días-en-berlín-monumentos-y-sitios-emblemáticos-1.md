@@ -37,7 +37,7 @@ También conocida como Ku'damm es una de las avenidas más famosas de Berlín, A
 
 Fue un famoso teatro de ópera en Berlín, Alemania en el costado oeste de la Königsplatz (hoy Platz der Republik) cercano a la Puerta de Brandeburgo construido en 1844 como teatro de variedades del restaurante de Joseph Kroll y transformado en teatro de ópera en 1851. Refaccionado nuevamente en 1895 fue inaugurado como la nueva ópera real del estado de Prusia, diseñada por el arquitecto Oskar Kaufmann.  En la novela se observa que: ´´Ante la imposibilidad de usar el edificio del Reichstag, el Parlamento se reunió en la Ópera Kroll, junto a Königsplatz: un teatro que resultó perfecto para la puestae n escena de aquella obra maquiavélica que estrenaba Adolf Hitler´´.  
 
-![](/assets/img/ultimos-dias-en-berlin-monumentos.png){:width="300" style="float: right"}
+![](/assets/img/ultimos-dias-en-berlin-sitios-y-monumentos-uno.png){:width="300" style="float: right"}
 
 **PariserPlatz:**  
 
@@ -76,6 +76,8 @@ El otro escenario que senos presenta en la novela es **Moscú** yotros sitios de
 **Moscú**: 
 
 Es la capital y la entidad federal más poblada de Rusia. La ciudad es un importante centro político, económico, cultural y científico de Rusia y del continente.  Moscú está situada a orillas del río Moscova, en el Distrito Federal Central de la Rusia europea. 
+
+![](/assets/img/ultimos-dias-en-berlin-sitios-y-monumentos-2.png){:width="300" style="float: right"}
 
 **Catedral de Cristo Salvador**:  
 
