@@ -7,9 +7,7 @@ date: 2026-07-18T18:51:00.000-04:00
 ---
 ![](/assets/img/banner-de-paloma.png)
 
- 
-
-![](/assets/img/ultimo-dias-en-berlin-organizaciones.png){:width="300" style="float: left"}
+![](/assets/img/organizaciones-en-ultimos-dias.png){:width="300" style="float: left"}
 
 **Butyrka**: 
 
