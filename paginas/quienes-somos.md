@@ -5,10 +5,9 @@ class: prose min-w-full
 ---
 # Quienes Somos
 
-**Los libros no están hechos para ser creídos, sino para ser sometidos a análisis. Cuando consideramos un libro, no debemos preguntarnos qué dice, sino qué significa...»**.
-**— Umberto Eco**.— 
+                                                    **Los libros no están hechos para ser creídos, sino para ser sometidos a análisis. Cuando consideramos un libro, no                                                                                                                      debemos preguntarnos qué dice, sino qué significa...»**.
+                                                                                                                                                     **— Umberto Eco**.— 
 
-<figcaption><i>**Los libros no están hechos para ser creídos, sino para ser sometidos a análisis. Cuando consideramos un libro, no debemos preguntarnos qué dice, sino qué significa...»**.</i></figcaption>
 
 
 Nosotras, María Magdalena Villanueva, Luz del Alba Inojosa Mudarra e Isabel
