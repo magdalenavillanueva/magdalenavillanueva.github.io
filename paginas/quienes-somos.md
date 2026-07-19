@@ -5,6 +5,11 @@ class: prose min-w-full
 ---
 # Quienes Somos
 
+«Los libros no están hechos para ser creídos, sino para ser sometidos a análisis. Cuando consideramos un libro, no debemos preguntarnos qué dice, sino qué significa...»
+
+— Umberto Eco
+
+
 Nosotras, María Magdalena Villanueva, Luz del Alba Inojosa Mudarra e Isabel
 Rodríguez Calanche, docentes en Literatura y Orientación somos lectoras
 apasionadas. Las estrategias de análisis de nuestras lecturas no derivan de un
@@ -42,9 +47,7 @@ De acuerdo a lo expresado anteriormente, como lectoras compartimos lo que
 sabemos para seguir sumando con uds., a través de nuestro blog: **Disfrutando la
 lectura**.
 
-«Los libros no están hechos para ser creídos, sino para ser sometidos a análisis. Cuando consideramos un libro, no debemos preguntarnos qué dice, sino qué significa...»
 
-— Umberto Eco
 
 A continuación quienes somos:
 
