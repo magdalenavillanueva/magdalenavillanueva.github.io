@@ -5,8 +5,7 @@ class: prose min-w-full
 ---
 # Quienes Somos
 
-<center>**Los libros no están hechos para ser creídos, sino para ser sometidos a análisis. Cuando consideramos un libro, no debemos preguntarnos qué dice, sino qué significa...»**.</center>
-
+**Los libros no están hechos para ser creídos, sino para ser sometidos a análisis. Cuando consideramos un libro, no debemos preguntarnos qué dice, sino qué significa...»**.
 **— Umberto Eco**.— 
 
 
