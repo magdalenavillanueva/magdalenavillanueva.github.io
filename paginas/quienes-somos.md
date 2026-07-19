@@ -42,6 +42,10 @@ De acuerdo a lo expresado anteriormente, como lectoras compartimos lo que
 sabemos para seguir sumando con uds., a través de nuestro blog: **Disfrutando la
 lectura**.
 
+«Los libros no están hechos para ser creídos, sino para ser sometidos a análisis. Cuando consideramos un libro, no debemos preguntarnos qué dice, sino qué significa...»
+
+— Umberto Eco
+
 A continuación quienes somos:
 
 - **María Magdalena Villanueva**. Profesora de Educación Media en la Especialidad
@@ -63,3 +67,6 @@ Manual de Castellano y Literatura 1° y 2° nivel de Educación Diversificada. 2
 (Nova-Florida) Doctorado en Educación. (US-México) Asesora-Orientadora-Titular
 del Centro Local Aragua de la UNA.
 [irodriguez2705@gmail.com](mailto:irodriguez2705@gmail.com)
+
+
+
