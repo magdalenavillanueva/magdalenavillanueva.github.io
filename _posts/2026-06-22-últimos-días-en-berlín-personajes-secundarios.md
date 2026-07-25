@@ -5,7 +5,7 @@ categories:
 title: "Últimos días en Berlín: Personajes secundarios:"
 date: 2026-06-22T15:32:00.000-04:00
 ---
-![](/assets/img/banner-de-paloma.png)
+![](/assets/img/banner-ultimos-dias-en-berlin.png)
 
 **Miguel Santacruz**:  tenía veintisiete años cuando conoció a Verónika Olégovna Filátova, era diez años mayor que ella. Se casaron en 1907. Fue agregado de negocios en la embajada de España en la Rusia zarista. Murió destrozado por una bomba, durante la Guerra Civil Española, junto a  Sveta  Rudakova, la niñera de los niños Santacruz.
 
@@ -17,6 +17,7 @@ Luego de casada consagró su vida al cuidado de sus hijos. Tuvo que quedarse en 
 **Sasha Santacruz**: nació en febrero de 1917. Murió cuando se iban de Rusia.
 
 **Nikolái/Kolia Mijáilovich Santacruz**: hermano de Yuri, un año menor y el segundo hijo del matrimonio. Se  hace  llamar Kolia Fiódorovich Smelov, de ojos color ámbar, pelo oscuro y rizado. Estuvo en la escuela forestal en la que permaneció hasta los dieciséis años. Se había transformado en un ser distante, imperturbable, huidizo y desconfiado, tratando de olvidar el día que se separó de su familia  en la estación Finlandia de San Petersburgo y selló su destino, como lo observamos en este ejemplo:  ´´el intenso dolor del abandono, de aquella sensación de soledad y desamparo que se había cernido sobre él a partir del momento en el que corrió detrás de su madre, a la que nunca llegó a alcanzar, tragado por aquella multitud  que lo dejó aturdido el tiempo suficiente para perderlo todo´´. 
+
 Estaba casado con Sonia. Tenían dos hijos. Era capitán en la Lubianka, nombre popular del cuartel general del Servicio Federal de Seguridad (FSB), anteriormente KGB. Era callado, eficiente y organizado en el trabajo; su trato agradable desconcertaba a los detenidos socavando aún más sus nervios. Esnifaba cocaína, aunque no le gustaba hacerlo, pero negarse al ofrecimiento de Lavrenti Beria habría sido temerario.
 Participó en la masacre del bosque de Katyn en 1940. Esa matanza la ordenó Stalin, y la llevó a cabo su lugarteniente Beria. El mismo Kolia se lo confiesa a Yuri:  ´´El bosque de Katyn... Nunca lo olvides... Yo participé en esa masacre, Yuri. No hay perdón posible para mí. Merezco la condena eterna. Deseo que llegue la hora de que aprieten el gatillo sobre mi nuca´´.
 
@@ -105,4 +106,6 @@ Franz Kahler:  hermano de Claudia tres años menor que ella, estudiaba ingenier�
 
 **Vasili Blojín**:  actuó como el principal verdugo de la NKVD, de aspecto zafio, carácter rudo, grosero, radical y violento. Fue instructor de Kolia, uno de los investigadores más audaces, crueles e inhumanos, el más experto en las distintas habilidades para tratar a los detenidos y sacarles toda la información necesaria en el mínimo tiempo posible. Estuvo implicado en la masacre de Katyn bajo la administración  de Lavrenti Beria. Fue la matanza masiva más organizada y prolongada, por un solo individuo.
 
-![](/assets/img/personajes-secundaros-historicos.png){:width="300" style="float: left"}**Adolf Hitler**:  era un agitador inculto, un hombre sin escrúpulos, un tipo mediocre y fracasado, lleno de odio y prejuicios, dispuesto a tomar el poder a costa de lo que sea, de personalidad histriónica e intolerante. Es antisemita, anticomunista y anticristiano. Pretende crear una religión basada en la ideología nacionalsocialista, utilizando las teorías del germanismo. Lleva años ejerciendo la violencia a través de sus tropas de asalto, las Sturmabteilung. Es el autor de un panfleto:  Mein Kampf.   Utiliza todos los medios a  su alcance para doblegar la ley a su medida. La novela Últimos días en Berlín, comienza en 1933 cuando Adolf Hitler fue nombrado nuevo canciller de Alemania.
+![](/assets/img/personajes-secundaros-historicos.png)
+
+{:width="300" style="float: left"}**Adolf Hitler**:  era un agitador inculto, un hombre sin escrúpulos, un tipo mediocre y fracasado, lleno de odio y prejuicios, dispuesto a tomar el poder a costa de lo que sea, de personalidad histriónica e intolerante. Es antisemita, anticomunista y anticristiano. Pretende crear una religión basada en la ideología nacionalsocialista, utilizando las teorías del germanismo. Lleva años ejerciendo la violencia a través de sus tropas de asalto, las Sturmabteilung. Es el autor de un panfleto:  Mein Kampf.   Utiliza todos los medios a  su alcance para doblegar la ley a su medida. La novela Últimos días en Berlín, comienza en 1933 cuando Adolf Hitler fue nombrado nuevo canciller de Alemania.
