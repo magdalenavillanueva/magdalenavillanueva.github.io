@@ -6,7 +6,7 @@ title: "Últimos días en Berlín: Personajes principales:  Yuri/Yura Mijáilovi
   Santacruz Filatov y  Claudia Kahler.   "
 date: 2026-06-21T23:32:00.000-04:00
 ---
-![](/assets/img/banner-de-paloma.png)
+![](/assets/img/banner-ultimos-dias-en-berlin.png)
 
 ![](/assets/img/isabel-ayende.jpg){:width="200" style="float: left"}
 
@@ -52,14 +52,8 @@ Con Glaudia se aprende la resistencia. Nos muestra que resistir no siempre es em
 
 **Hans**:  lo llamaron así  por el abuelo, es el  hijo mayor de Yuri y Claudia, de ojos color ámbar, pelo muy oscuro y rizado,  labios carnosos.  Se parecía a Kolia a su edad.   Sokolov le dice:  ´´Es sorprendente el parecido de tu hermano Kolia con el hijo de la vecina del segundo, la señora Von Schönberg. —Se volvió hacia él con una mueca irónica—.Teniendo en cuenta que Kolia está a miles de kilómetros... Y siguiendo las reglas de la genética, cualquiera podría llegar a pensar que el pequeño Hans es hijo tuyo´´.  
 
- 
-
 El niño suscita comentarios por su aspecto poco ario, incluso del propio Ulrich, que lo observa con desasosiego por su físico demasiado moreno, y el pelo tan oscuro. Claudia se rebela contra él por esa actitud despectiva hacia el  niño y hace que  le diga firme:  ´´—¡Es nuestro hijo! —replicaba ella—. Hitler también tiene el pelo oscuro y  no creo que pongas en duda la raza del Führer´´.   
 
- 
-
 **Jenell:**  hija  deYuri y Claudia, nació a finales de abril de 1937, rubia, de piel blanca y ojos claros, es idéntica a Claudia.  Desde su nacimiento, Jenell fue atendida por Mina, la niñera judía que había permanecido a su lado hasta que fue detenida. No se había vuelto a saber nada de ella tras su detención.
-
- 
 
 **Krista**: una vez que se instalaron en Brienz, nuevamente Claudia se quedó embarazada, y así nació en el verano de 1946, una niña morena y de ojos verdes, a la que le pusieron Krista.
