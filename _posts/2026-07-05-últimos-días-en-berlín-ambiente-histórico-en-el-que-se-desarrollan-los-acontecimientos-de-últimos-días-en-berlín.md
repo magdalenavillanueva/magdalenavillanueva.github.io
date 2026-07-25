@@ -6,7 +6,7 @@ title: "Últimos días en Berlín: Ambiente histórico en el que se desarrollan 
   acontecimientos de Últimos días en Berlín"
 date: 2026-07-05T18:15:00.000-04:00
 ---
-![](/assets/img/banner-de-paloma.png)
+![](/assets/img/banner-ultimos-dias-en-berlin.png)
 
 > ***La guerra es una masacre entre gentes que no se conocen, para provecho de gentes que si se conocen pero que no se masacran.
 > Paul Valéry. (Cahiers. Desde 1894 hasta su muerte en 1945)***
