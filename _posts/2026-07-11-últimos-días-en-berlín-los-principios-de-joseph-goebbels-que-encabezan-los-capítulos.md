@@ -6,7 +6,7 @@ title: "Últimos días en Berlín: Los principios de Joseph Goebbels que encabez
   los capítulos"
 date: 2026-07-11T18:24:00.000-04:00
 ---
-![](/assets/img/banner-de-paloma.png)
+![](/assets/img/banner-ultimos-dias-en-berlin.png)
 
 Joseph Goebbels llevó la propaganda política y la manipulación hasta unos límites jamás alcanzados antes o después del gobierno nazi.  Paul Joseph Goebbels, doctorado en Filología Germánica, dirigió el Ministerio de Educación Popular y Propaganda, una cartera que fue creada por Adolf Hitler a su llegada al poder en 1933.  Antes había sido el director de Comunicación del Partido Nacional-Socialista y arquitecto del ascenso al poder de quien fue conocido como el Führer.
 
