@@ -5,7 +5,7 @@ categories:
 title: "Últimos días en Berlín: Ambiente Físico"
 date: 2026-07-11T18:24:00.000-04:00
 ---
-![](/assets/img/banner-de-paloma.png)
+![](/assets/img/banner-ultimos-dias-en-berlin.png)
 
 Miguel Santacruz, el padre de Yuri,  llegó a la hermosa ciudad de San  Petersburgo, la segunda ciudad más poblada de Rusia y su capital cultural en la primavera de 1906 para incorporarse como agregado de negocios a la embajada de España en la Rusia zarista.  Perdió la oportunidad de abandonar Rusia y regresara España junto con la mayoría de la plantilla diplomática cuando, en el verano de 1918, poco después de la ejecución del zar Nicolás II y la familia imperial Románov, la embajada cerró la legación. 
 
@@ -18,6 +18,5 @@ A partir de ahí, se desatan todos los acontecimientos que van a durar seis año
 Ese mismo año regresa a un Berlín destruido y devastado, con una población ocupada y culpabilizada de todos los males para seguir a Suiza y se queda  unos días en Berna, una vasta ciudad-estado al norte de los Alpes, construida en torno a un recodo del río Aar, con arquitectura medieval y preservada en el Altstadt (Ciudad vieja).  
 
 Seguirá con su familia al pueblo de Brienz, una  comuna suiza  a las orillas del Brienzrsee, donde se instalará con Claudia y los niños, una vez que arregló los asuntos pendientes en la notaría que le había dejado Erich Villanueva al nombrarlo heredero universal de toda su fortuna  y firmar toda la documentación.
-
 
 ![](/assets/img/ambiente-fisico-en-ultimos-dias-en-berlin.png)
