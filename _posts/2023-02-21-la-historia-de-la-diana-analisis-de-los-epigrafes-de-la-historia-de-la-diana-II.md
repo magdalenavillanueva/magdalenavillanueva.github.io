@@ -1,10 +1,13 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de los Epígrafes de La Historia de La Diana II"
-date:   2023-02-21 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis de los Epígrafes de La Historia de La
+  Diana II"
+date: 2023-02-21 12:00:00 +0100
 ---
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
 **Dime, ¿quién es como Dios? La historia de La Diana II.**
 
 **Epígrafe**
@@ -27,7 +30,7 @@ libertad.*
 Fue una canción escrita por José Luis Armenteros y Pablo
 Herreros**,** que se dedicaba a la primera víctima en cruzar el muro de
 Berlín: un joven de 18 años de edad de la Alemania del Este, Peter
-Fechter,** **que quería huir del comunismo saltando el muro y que fue
+Fechter,\*\* \*\*que quería huir del comunismo saltando el muro y que fue
 abatido a tiros por la policía de aquel régimen opresor el 17 de agosto
 de 1962.
 
@@ -200,7 +203,7 @@ hija.
 
 **Epígrafe**
 
-*A las pocas semanas de que el conflicto \[en Bosnia\] estallase en
+*A las pocas semanas de que el conflicto \[en Bosnia] estallase en
 1992,*
 
 *miles de refugiados fueron arreados en un nuevo gulag de campos de
@@ -215,8 +218,9 @@ malévolas*
 **David Blair, periodista inglés (1973)**
 
 Blair gerente de la Oficina de África del Daily Telegraph en junio de
+
 2004. Informó sobre la guerra en Darfur, y la guerra en el norte
-de Uganda. 
+      de Uganda. 
 
 En 2009, Blair se unió al Financial *Times* como editor de noticias de
 Oriente Medio y África. En 2010 corresponsal de energía del *Financial
@@ -260,7 +264,7 @@ Jorowsky, presidenta de la ONG.
 
 **Epígrafe**
 
-*Una vez que eres prisionero en los campos \[de concentración\], siempre
+*Una vez que eres prisionero en los campos \[de concentración], siempre
 estarás allí dentro.*
 
 **Autor**
@@ -282,7 +286,7 @@ de encontrar a su hija.
 
 **Epígrafe**
 
-*¿Qué es la ley de Monsanto? Es la de las patentes. \[\...\] Si controla
+*¿Qué es la ley de Monsanto? Es la de las patentes. \[...] Si controla
 las semillas, controla la alimentación; la empresa lo sabe, es su
 estrategia.*
 
@@ -445,8 +449,8 @@ salvador. El problema es que Diana está embarazada de Lazar.
 > **Leyenda en latín inscripta en el escudo de San Miguel Arcángel**
 
 Quis ut Deus? (¿o Quis sicut Deus?), una oración latina que significa
-\"¿Quién \[es\] como Dios?\", es una traducción literal del nombre
-Michael (hebreo: מִיכָאֵל, transcrito Micha\'el o Mîkhā\'ēl). ¿La frase
+"¿Quién \[es] como Dios?", es una traducción literal del nombre
+Michael (hebreo: מִיכָאֵל, transcrito Micha'el o Mîkhā'ēl). ¿La frase
 Quis ut Deus? está particularmente asociado con el Arcángel Miguel. El
 Escapulario de San Miguel Arcángel también lleva esta frase.
 
@@ -538,11 +542,10 @@ esperar una solución.
 
 Sostenía que el mundo externo existe con independencia del acto a través
 del cual se percibe.*\
-*
 
-**Relación con el Epígrafe**
+* **Relación con el Epígrafe**
 
-**Capitulo XIX**
+  **Capitulo XIX**
 
 Diana una vez más se doblega. Vuk la amenaza con entregarle a Darko a su
 padre biológico que trabaja para ellos.
@@ -614,7 +617,7 @@ hermano.
 
 **(1844-1900)**
 
-La frase \"Dios ha muerto\" no afirma literalmente. En esa época existió
+La frase "Dios ha muerto" no afirma literalmente. En esa época existió
 un creciente ateísmo. que surgió durante el siglo XVIII, con el
 nacimiento de la Ilustración.
 
