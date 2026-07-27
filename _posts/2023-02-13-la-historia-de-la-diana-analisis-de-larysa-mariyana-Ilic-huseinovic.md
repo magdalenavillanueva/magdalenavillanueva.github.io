@@ -1,12 +1,14 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de Mariyana Huseinovic"
-date:   2023-02-13 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis de Mariyana Huseinovic"
+date: 2023-02-13 12:00:00 +0100
 ---
-> No puedes cambiar lo sucedido, no puedes cambiar lo que hiciste o lo
-que te hicieron. Pero puedes decidir cómo vivir ahora. Edith Eger.
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
+**No puedes cambiar lo sucedido, no puedes cambiar lo que hiciste o lo
+que te hicieron. Pero puedes decidir cómo vivir ahora. Edith Eger.**
 
 **Mariyana Huseinovic:**
 
