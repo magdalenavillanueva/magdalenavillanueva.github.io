@@ -5,7 +5,7 @@ categories:
 title: "La Centuria: Familia Franck"
 date: 2023-08-05 12:00:00 +0100
 ---
-  
+![](/assets/img/banner-la-centuria.png)
 
 ![Familia Franck](/assets/img/familia-franck.png)
 
