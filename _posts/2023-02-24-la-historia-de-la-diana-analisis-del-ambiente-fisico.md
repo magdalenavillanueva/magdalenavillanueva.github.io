@@ -1,24 +1,30 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis del ambiente físico"
-date:   2023-02-24 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis del ambiente físico"
+date: 2023-02-24 12:00:00 +0100
 ---
-> Un libro se convierte en parte de la vida de una persona por una
-> suma de razones que tienen que ver simultáneamente con el libro y la
-> persona. Mario Vargas Llosa.
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
+**Un libro se convierte en parte de la vida de una persona por una
+suma de razones que tienen que ver simultáneamente con el libro y la
+persona. Mario Vargas Llosa.**
 
 **Análisis del ambiente físico:**
 
-![Stanhope Garden](/assets/img/stanhope_garden.jpg){:width="200" style="float: right"}
+![Stanhope Garden](/assets/img/stanhope_garden.jpg)
+
+{:width="200" style="float: right"}
 La novela comienza en Stanhope Gardens,
 Londres donde vive actualmente Diana después de irse de París para
 trabajar en L'Agence: ´´Esa noche regresó a su departamento en el número
 21 de Stanhope Gardens, en el barrio de South Kensington´´. Pág. 58.
 *Aquí hay dragones*. *La historia de La Diana I.*
 
-![Sarajevo](/assets/img/sarajevo.jpg){:width="200" style="float: left"}
+![Sarajevo](/assets/img/sarajevo.jpg)
+
+{:width="200" style="float: left"}
 El general danés Anders Raemmers le
 asignó una misión en Bosnia. Aquí empieza su historia, como Diana
 personaje principal, antes que se enlazara con la de Lazar Kovać.
@@ -27,7 +33,9 @@ desarrollarse como dice Juana: *´´*---. ¿Quién iba a decirlo, aquí, en
 la **mítica Sarajevo**?´´ Pág. 960. *Dime, ¿quién es como Dios?* *La
 historia de La Diana II.*
 
-![Miljacka](/assets/img/miljacka.jpg){:width="200" style="float: right"}
+![Miljacka](/assets/img/miljacka.jpg)
+
+{:width="200" style="float: right"}
 Pero no se queda solo en el ambiente
 urbano sarajevita. En la trama se van entrelazando los dos ambientes
 desde el principio. Así, el ambiente físico es el medio natural que se
@@ -38,7 +46,9 @@ caminar por su orilla. Este río discurre por la ciudad, como observamos
 en la imagen y se encuentra con el río Bosna.
 ![Bosna](/assets/img/bosna.jpg){:width="200" style="float: left"}
 
-![Vrelo Bosne](/assets/img/vrelo-bosne.jpg){:width="200" style="float: right"}
+![Vrelo Bosne](/assets/img/vrelo-bosne.jpg)
+
+{:width="200" style="float: right"}
 Después de haberse conocido unos días atrás, Kovać la invita en su día
 libre al parque Nacional **Vrelo Bosne**, el monumento natural más
 importante de Sarajevo, como observamos en este ejemplo: ´´La casa de
@@ -47,7 +57,9 @@ surcado por el río Bosna y con muchos altos y pequeñas cascadas.
 Podríamos visitarlo mañana´´. Pág. 496. *Aquí hay dragones*. La historia
 de La Diana I.
 
-![Parque Veliki](/assets/img/parque-veliki.jpg){:width="200" style="float: left"}
+![Parque Veliki](/assets/img/parque-veliki.jpg)
+
+{:width="200" style="float: left"}
 A medida que se desarrolla la trama, el
 informante contacta a Kovać para darle datos nuevos de las muchachas
 traficadas. El encuentro es en el **Vječna Vatra**, el monumento a los
@@ -61,7 +73,9 @@ algo impensable: entró en el parque, un espacio exclusivo para peatones
 y ciclistas´´*.* Pág. 677. *Aquí hay dragones*. *La historia de La Diana
 I.*
 
-![Sutjeska](/assets/img/sutjeska.jpg){:width="200" style="float: right"}
+![Sutjeska](/assets/img/sutjeska.jpg)
+
+{:width="200" style="float: right"}
 Pero quien está desde el principio, en *Aquí hay
 dragones*, La historia de La Diana I, como un personaje más, es el
 **Sutjeska**, el Parque Nacional más importante y antiguo de Bosnia. En
@@ -75,7 +89,9 @@ parque nacional Sutjeska, por un cruce fuera del circuito oficial. Desde
 allí, estarás sola para llegar a Sarajevo*.* Pág. 316. *Aquí hay
 dragones´´*. *La historia de La Diana* I.
 
-![Sutjeska](/assets/img/sutjeska-3.jpg){:width="200" style="float: right"}
+![Sutjeska](/assets/img/sutjeska-3.jpg)
+
+{:width="200" style="float: right"}
 Más adelante, también será la puerta de
 salida al huir de la banda de traficantes que siempre estaban a un paso
 detrás de ellos, lo hacen adentrándose en el parque nacional a través de
@@ -86,7 +102,9 @@ en el mapa, desembocaba en la carretera que los pondría de nuevo rumbo
 hacia el sur, hacia el parque Sutjeska en el límite con Montenegro´´.
 Pág 790. *Aquí hay dragones*. *La historia de La Diana I.*
 
-![Sutjeska](/assets/img/sutjeska-4.jpg){:width="300" style="float: left"}
+![Sutjeska](/assets/img/sutjeska-4.jpg)
+
+{:width="300" style="float: left"}
 En ese momento que se internan en el
 parque, una tormenta de inusuales proporciones cae sobre toda la región,
 y los atrapa en la huida por el Sutjeska ya que habían perdido la
@@ -95,7 +113,9 @@ cincuenta centímetros de nieve, en el paisaje boscoso, donde los rayos
 no penetraban debido a la espesura que formaban los pinos y los abetos y
 el frío era de varios grados bajo cero. 
 
-![Sutjeska](/assets/img/sutjeska-5.jpg){:width="200" style="float: right"}
+![Sutjeska](/assets/img/sutjeska-5.jpg)
+
+{:width="200" style="float: right"}
 En ese sitio, será el lugar
 donde los rescatarán, como le dice Diana a Kovać: ´´Intentaré que vayan
 a buscarnos en helicóptero al confín con Montenegro, en el parque
@@ -124,8 +144,9 @@ estaba Vuk, que elevó una pistola de grueso calibre y apuntó a Kovać,
 que cayó de rodillas y luego se desplomó boca abajo´´*.* Pág. 873. *Aquí
 hay dragones*. *La historia de La Diana I.*
 
+![Camp Bondsteel](/assets/img/camp-bondsteel.jpg)
 
-![Camp Bondsteel](/assets/img/camp-bondsteel.jpg){:width="200" style="float: right"}
+{:width="200" style="float: right"}
 Bajo esa circunstancia, el Black Hawk,
 escoltado por los dos helicópteros, cobró altura y se alejó hacia el
 Hospital militar de **Camp Bondsteel,** Kosovo, con Lazar malherido y su
@@ -134,9 +155,9 @@ escenarios y comienza La historia de La Diana II, cuyo periplo es más
 bien urbano. Solo hace su aparición el Parque Mojmilo al final de esta
 II parte.
 
+![Parque Mojmilo](/assets/img/parque-mojmilo.jpg)
 
-
-![Parque Mojmilo](/assets/img/parque-mojmilo.jpg){:width="400"}  
+{:width="400"}\
 **Parque Mojmilo, con una vista de Sarajevo al fondo**  
 
 En la parte II, en otra de las
