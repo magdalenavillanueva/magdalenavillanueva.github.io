@@ -1,11 +1,13 @@
 ---
 layout: single
-title:  "La Centuria: Familia Fitzherbert"
-date:   2023-08-07 12:00:00 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Familia Fitzherbert"
+date: 2023-08-07 12:00:00 +0100
 ---
-![Familia Fitzherbert](/assets/img/familia-fitzherbert.png)  
+![](/assets/img/banner-la-centuria.png)
+
+![Familia Fitzherbert](/assets/img/familia-fitzherbert.png)
 
 **Conde Edward/Fitz Fitzherbert:**
 
