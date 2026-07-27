@@ -1,22 +1,24 @@
 ---
 layout: single
-title:  "La Centuria: Familia Vyalov"
-date:   2023-12-01 12:00:01 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Familia Vyalov"
+date: 2023-12-01 12:00:01 +0100
 ---
-![Familia Vyalov](/assets/img/familia-vyalov.png)  
+![](/assets/img/banner-la-centuria.png)
+
+![Familia Vyalov](/assets/img/familia-vyalov.png)
 
 **Josef Vyalov**: hijo de un inmigrante ruso que comenzó trabajando en un
 bar de Buffalo, Nueva York. Con el tiempo la familia prosperó hasta
 llegar a ser concejal del ayuntamiento y pilar de la iglesia ortodoxa
 rusa. Sus negocios iban de ser dueño de bares, hoteles, fundidora de
-metales donde lo ilegal y lo legal se entremezclaban.**
+metales donde lo ilegal y lo legal se entremezclaban.\*\*
 
 Era un representante de la familia Vyalov en Estados Unidos, los rusos
 que querían emigrar les compraban el pasaje y los documentos necesarios
 para pasar los controles de inmigración, y así lograban iniciar una
-nueva vida, por supuesto bajo la mirada de Vyalov.**
+nueva vida, por supuesto bajo la mirada de Vyalov.\*\*
 
 Tenía un código moral a conveniencia. Amaba a su familia, pero era
 estricto en la educación su hija. Quería subir de nivel en el estrato
@@ -36,7 +38,7 @@ adularan. Su atracción hacia Lev Peshkov, el chofer de la familia, tuvo
 consecuencias. Se casaron y tuvieron una hija. Luego del matrimonio vio
 con otros ojos a su marido y no lo quiso más a su lado.
 
-![Familia Peshkov](/assets/img/familia-peshkov.png)  
+![Familia Peshkov](/assets/img/familia-peshkov.png)
 
 **Árbol genealógico de la familia Peshkov en sus dos ramas: norteamericana y rusa:**
 
