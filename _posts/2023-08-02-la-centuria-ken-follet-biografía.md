@@ -1,13 +1,17 @@
 ---
 layout: single
-title:  "La Centuria: Biografía de Ken Follett"
-date:   2023-08-02 12:00:00 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Biografía de Ken Follett"
+date: 2023-08-02 12:00:00 +0100
 ---
+![](/assets/img/banner-la-centuria.png)
+
 **Biografía de Ken Follett: Ken Follett**
 
-![Ken Follett](/assets/img/ken-follett.jpg){:width="200" style="float: left"}
+![Ken Follett](/assets/img/ken-follett.jpg)
+
+{:width="200" style="float: left"}
 Kenneth Martin Follett, escritor galés
 nacido en Cardiff en 1949. Los libros fueron su medio de sobrellevar las
 exigencias de su vida familiar, sus padres eran seguidores de una secta
