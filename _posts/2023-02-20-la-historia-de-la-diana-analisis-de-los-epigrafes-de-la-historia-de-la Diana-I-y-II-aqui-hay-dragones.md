@@ -1,10 +1,15 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de los Epígrafes de La Historia de La Diana I"
-date:   2023-02-20 12:00:00 |0100
-categories: 
-    - La Historia de La Diana
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis de los Epígrafes de La Historia de La
+  Diana I"
+date: 2023-02-20 12:00:00 |0100
 ---
+
+
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
 ***Aquí hay dragones. La historia de La Diana I.***
 
 **Epígrafe**
@@ -193,9 +198,9 @@ la hora de salida.
 > Su obra es lírica, épica y dramática. Destaca su legendaria
 > epopeya Gorski Vijenac (La corona de las montañas), que retrata el
 > combate del pueblo
-> de [[Montenegro]{.underline}](https://es.wikipedia.org/wiki/Montenegro) y
-> [[Serbia]{.underline}](https://es.wikipedia.org/wiki/Serbia) contra
-> los [[turcos]{.underline}](https://es.wikipedia.org/wiki/Turcos).
+> de [\[Montenegro]{.underline}](https://es.wikipedia.org/wiki/Montenegro) y
+> [\[Serbia]{.underline}](https://es.wikipedia.org/wiki/Serbia) contra
+> los [\[turcos]{.underline}](https://es.wikipedia.org/wiki/Turcos).
 >
 > Pedro II Petrović-Njegoš es una de las figuras políticas más
 > importantes y uno de los más grandes pensadores de Serbia y
@@ -257,7 +262,7 @@ guerra.*
 
 > Biljana Plavšić, bióloga y política serbia
 >
-> \(1930\)
+> (1930)
 >
 > Biljana Plavšić es una antigua política y profesora universitaria
 > serbobosnia. Ocupó el cargo de presidenta de la República Srpska
@@ -370,9 +375,9 @@ contra el tráfico humano y contra la pedofilia.
 > Kanun I Lekë Dukagjinit,
 >
 > El **Kanun** o **Doke** es un conjunto
-> de leyes tradicionales [[albanesas]{.underline}](https://en-m-wikipedia-org.translate.goog/wiki/Albania?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=ajax,sc,elem,se). El
+> de leyes tradicionales [\[albanesas]{.underline}](https://en-m-wikipedia-org.translate.goog/wiki/Albania?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=ajax,sc,elem,se). El
 > Kanun inicialmente fue oral y se publicó por escrito solo en el siglo
-> XX.  El Kanun de [Lekë Dukagjini]{.underline} ( Kanuni i Lekë
+> XX.  El Kanun de \[Lekë Dukagjini]{.underline} ( Kanuni i Lekë
 > Dukagjinit ) fue codificado en el siglo XV.
 
 **Relación con el epígrafe**
@@ -478,7 +483,7 @@ un motivo para vivir.
 >
 > Poeta emblemático de la Generación del 98.
 
-En 1928 conoce a la poetisa Pilar de Valderrama, la \"Guiomar\" de sus
+En 1928 conoce a la poetisa Pilar de Valderrama, la "Guiomar" de sus
 poemas, con la que mantiene relaciones secretas durante años.
 
 **Relación con el epígrafe**
@@ -535,7 +540,7 @@ violaciones, diez, quince, veinte o más veces por día*.
 > Siddharth Kara, escritor, activista y experto en esclavitud moderna
 
 Escritor americano de familia hindú, Siddarth Kara es licenciado
-en *Duke, Columbia  *y la *Universidad de Londres*.
+en *Duke, Columbia*  y la *Universidad de Londres*.
 
 Kara es conocido por sus investigaciones sobre el mundo del tráfico de
 seres humanos y la esclavitud como negocio de las grandes mafias
@@ -565,11 +570,11 @@ como estrategia de sobrevivencia por la cercanía de los traficantes.
 
 > Apocalipsis 13,10
 
-Como observa el Dr. Mitchell, \"Dios llama a sus santos a tener en
+Como observa el Dr. Mitchell, "Dios llama a sus santos a tener en
 cuenta, bajo todas sus persecuciones, su justicia retributiva; no hay
 violencia que se haya ejercido sobre ellos sino la que se tomará como
 represalia contra el gobierno y gobernadores crueles y perseguidores del
-imperio latino \"
+imperio latino "
 
 **Relación con el epígrafe**
 
