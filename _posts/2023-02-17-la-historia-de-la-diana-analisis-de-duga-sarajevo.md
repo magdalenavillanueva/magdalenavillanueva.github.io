@@ -1,12 +1,14 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de Duga Sarajevo"
-date:   2023-02-17 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis de Duga Sarajevo"
+date: 2023-02-17 12:00:00 +0100
 ---
-> **Los monstruos existen, pero son demasiado pocos para ser realmente
-> peligrosos. Los más peligrosos son los hombres comunes.**
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
+**Los monstruos existen, pero son demasiado pocos para ser realmente
+peligrosos. Los más peligrosos son los hombres comunes.**
 
 **Primo Levi.**
 
