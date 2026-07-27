@@ -1,13 +1,15 @@
 ---
 layout: single
-title:  "La Centuria: Familia Williams"
-date:   2023-08-08 12:00:00 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Familia Williams"
+date: 2023-08-08 12:00:00 +0100
 ---
+![](/assets/img/banner-la-centuria.png)
+
 **Familia Williams**
 
-![Familia Williams](/assets/img/familia-williams.jpg)  
+![Familia Williams](/assets/img/familia-williams.jpg)
 
 La Familia es de Gales, país del Reino Unido. Era una familia
 constituida por los padres, un abuelo y dos hermanos. Los otros hijos
@@ -38,7 +40,7 @@ Ethel Williams pasó de ser ama de llaves hasta baronesa Leckwith y Billy
 Williams, un minero del carbón había llegado a parlamentario por
 Aberowen. El apellido Williams se mantuvo hasta la cuarta generación.
 
-![Familia Williams](/assets/img/familia-williams2.png)  
+![Familia Williams](/assets/img/familia-williams2.png)
 
 **David Williams:**
 
