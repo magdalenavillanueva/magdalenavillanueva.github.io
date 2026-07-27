@@ -1,10 +1,12 @@
 ---
 layout: single
-title:  "La Centuria: Personajes Secundarios"
-date:   2023-12-03 12:00:01 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Personajes Secundarios"
+date: 2023-12-03 12:00:01 +0100
 ---
+![](/assets/img/banner-la-centuria.png)
+
 **PERSONAJES SECUNDARIOS DE LA CENTURIA:**
 
 **LA CAÍDA DE LOS GIGANTES:**
