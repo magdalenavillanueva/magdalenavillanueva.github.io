@@ -1,11 +1,15 @@
 ---
 layout: single
-title:  "La Centuria: Familia von Ulricht"
-date:   2023-08-04 12:00:00 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Familia von Ulricht"
+date: 2023-08-04 12:00:00 +0100
 ---
-![Familia von Ulricht](/assets/img/familia-von-ulrich.png)  
+![](/assets/img/banner-la-centuria.png)
+
+![Familia von Ulricht](/assets/img/familia-von-ulrich.png)
+
+\
 La Familia von Ulrich tiene dos ramas: los abuelos de Walter y Robert
 eran hermanos, el menor se casó con una rica heredera alemana y abandonó
 Viena para irse a vivir a Berlín, razón por la que Walter era alemán,
@@ -85,7 +89,9 @@ ella. De hecho, no la concebía sin ella.
 
 **El cambio que produce en los von Ulricht las dos guerras:**
 
-![Vijećnica](/assets/img/vijecnica.jpg){:width="200" style="float: right"}
+![Vijećnica](/assets/img/vijecnica.jpg)
+
+{:width="200" style="float: right"}
 El nacionalista bosnio Gavrilo Princip
 asesinó al archiduque Francisco Fernando, heredero al trono del Imperio
 austrohúngaro y a su esposa, la archiduquesa Sofía, a unos cuatrocientos
@@ -114,14 +120,18 @@ Rut, en la Biblia: ´´Dondequiera que tú vayas, iré yo, y donde quiera
 que vivas, viviré; tu pueblo será mi pueblo y tu Dios, mi Dios; donde tú
 mueras, moriré yo, y allí seré enterrada´´. *Rut 1:16-17.*
 
-![Berlin](/assets/img/berlin.png){:width="200" style="float: left"}
+![Berlin](/assets/img/berlin.png)
+
+{:width="200" style="float: left"}
  Vivían en una casa de clase media en
 Berlín. Su hogar se encontraba en el barrio de Mitte, en el centro de la
 ciudad. La carrera de Walter en el Ministerio de Asuntos Exteriores
 estaba estancada debido a su matrimonio con una inglesa. El sueldo de
 Walter subía cada mes, pero nunca al ritmo de la inflación.
 
-![Reichstagsgebäude](/assets/img/reichstag.jpg){:width="200" style="float: right"} 
+![Reichstagsgebäude](/assets/img/reichstag.jpg)
+
+{:width="200" style="float: right"} 
 Era 1923 y la intentona golpista de
 Munich se había acabado. Adolf Hitler estaba en la cárcel acusado de
 alta traición. Liberado ocho meses después, en 1924, Hitler obtuvo
