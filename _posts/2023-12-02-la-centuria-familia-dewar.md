@@ -1,11 +1,13 @@
 ---
 layout: single
-title:  "La Centuria: Familia Dewar"
-date:   2023-12-02 12:00:01 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Familia Dewar"
+date: 2023-12-02 12:00:01 +0100
 ---
-![Familia Dewar](/assets/img/familia-dewar.png)  
+![](/assets/img/banner-la-centuria.png)
+
+![Familia Dewar](/assets/img/familia-dewar.png)
 
 **Augus/Gus Dewar: j**oven norteamericano de carácter amable, tímido,
 inteligente, alto, sin gracia, un poco torpe, y que no parecía muy
