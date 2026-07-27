@@ -1,14 +1,17 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de los Epígrafes de La Historia de La Diana I y II"
-date:   2023-02-19 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis de los Epígrafes de La Historia de La
+  Diana I y II"
+date: 2023-02-19 12:00:00 +0100
 ---
->En algún lugar de un libro hay una frase esperándonos para darle un sentido a la existencia. Miguel de Cervantes y Saavedra.
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
 
-**Los Epígrafes en los libros de Florencia Bonelli:**  
-**Aquí hay Dragones y Dime, ¿quién es como Dios?**  
+**En algún lugar de un libro hay una frase esperándonos para darle un sentido a la existencia. Miguel de Cervantes y Saavedra.**
+
+**Los Epígrafes en los libros de Florencia Bonelli:**\
+**Aquí hay Dragones y Dime, ¿quién es como Dios?**\
 **La historia de La Diana I y II.**  
 
 Un epígrafe es un contenido o enunciado de un escrito, frase o cita que
@@ -154,17 +157,17 @@ verdad los hará libres. La esencia de la Papisa es paradójica, pues
 representa nuestro origen primordial, el útero que nos albergó antes de
 nacer. Nuestra vida es gracias a ella y de ella dependemos para ser.
 
-A las pocas semanas de que el conflicto \[en Bosnia\] estallase en 1992,
+A las pocas semanas de que el conflicto \[en Bosnia] estallase en 1992,
 miles de refugiados fueron arreados en un nuevo gulag de campos de
 concentración localizados en el corazón de Europa, donde sufrieron
 atrocidades y privaciones a manos de los serbobosnios... Sin embargo,
 incluso hoy, algunos cuestionan la existencia de estos campos e ignoran
 la montaña de evidencia mientras giran en torno a teorías conspirativas
 malévolas. Los Balcanes producen más historia de la que pueden digerir.
-Una vez que eres prisionero en los campos \[de concentración\], siempre
+Una vez que eres prisionero en los campos \[de concentración], siempre
 estarás allí dentro.
 
-¿Qué es la ley de Monsanto? Es la de las patentes. \[\...\] Si controla
+¿Qué es la ley de Monsanto? Es la de las patentes. \[...] Si controla
 las semillas, controla la alimentación; la empresa lo sabe, es su
 estrategia. Es más poderosa que las bombas, es más poderosa que las
 armas, es el mejor medio para controlar a las poblaciones del mundo.
