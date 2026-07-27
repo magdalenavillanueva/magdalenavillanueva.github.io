@@ -1,11 +1,17 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de Aleksandar/Saša Ilić"
-date:   2023-02-16 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
-excerpt: "Magnate serbio con ciudadanía inglesa. Nació en Belgrado el 15 de febrero de 1930. De sonrisa fácil. Hijo ilegítimo del regente del reino de Yugoslavia: el príncipe Pavle de la dinastía de los Karadordevic"
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis de Aleksandar/Saša Ilić"
+date: 2023-02-16 12:00:00 +0100
+excerpt: "Magnate serbio con ciudadanía inglesa. Nació en Belgrado el 15 de
+  febrero de 1930. De sonrisa fácil. Hijo ilegítimo del regente del reino de
+  Yugoslavia: el príncipe Pavle de la dinastía de los Karadordevic"
 ---
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
+
+
 **Aleksandar/Saša Ilić**:
 
 Magnate serbio con ciudadanía inglesa. Nació en Belgrado el 15 de
