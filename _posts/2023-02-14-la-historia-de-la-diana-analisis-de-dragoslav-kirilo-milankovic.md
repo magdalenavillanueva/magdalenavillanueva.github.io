@@ -1,16 +1,18 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de Dragoslav/Draža Kirilo Milanković"
-date:   2023-02-14 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis de Dragoslav/Draža Kirilo Milanković"
+date: 2023-02-14 12:00:00 +0100
 ---
-> **Salvo raras excepciones, el
-> hombre [criminal](https://www.mundifrases.com/tema/crimen/) fue
-> un [niño](https://www.mundifrases.com/tema/ni%C3%B1os/) desdichado, a
-> quien faltaron buenos ejemplos
-> y [caricias](https://www.mundifrases.com/tema/caricia/). [Concepción
-> Arenal](https://www.mundifrases.com/frases-de/concepcion-arenal/)***.*
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
+**Salvo raras excepciones, el
+hombre [criminal](https://www.mundifrases.com/tema/crimen/) fue
+un [niño](https://www.mundifrases.com/tema/ni%C3%B1os/) desdichado, a
+quien faltaron buenos ejemplos
+y [caricias](https://www.mundifrases.com/tema/caricia/). [Concepción
+Arenal](https://www.mundifrases.com/frases-de/concepcion-arenal/)***.*
 
 **Dragoslav/** **Draža Kirilo Milanković:**
 
@@ -49,7 +51,9 @@ apretado mientras lo besaba y le confesaba cuánto lo había echado de
 menos´´*.* Pág. 492. *Dime ¿Quién es cómo Dios? La historia de la Diana
 II.*
 
-![Evolución del Personaje: Dragoslav Kirilo Milanković](/assets/img/evolucion-de-dragoslav.jpeg)  
+![Evolución del Personaje: Dragoslav Kirilo Milanković](/assets/img/evolucion-de-dragoslav.jpeg)
+
+\
 Sin embargo, lo consideró un traidor al traer a la casa a Natalija, una
 muchacha joven y bella por la que estaba loco de amor. Las miradas y
 sonrisas, los mimos y las palabras dulces ya no se las dirigía solo a
