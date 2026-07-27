@@ -1,11 +1,15 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de Larysa/Lary Mariyana Ilić Huseinovic"
-date:   2023-02-15 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
-excerpt: "Larysa es el fruto de la violencia que ejerció Dragoslav Kirilo Milanković, comandante del centro de detención de Rogatica sobre Diana, cuando estuvo prisionera durante los años de la guerra."
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis de Larysa/Lary Mariyana Ilić Huseinovic"
+date: 2023-02-15 12:00:00 +0100
+excerpt: Larysa es el fruto de la violencia que ejerció Dragoslav Kirilo
+  Milanković, comandante del centro de detención de Rogatica sobre Diana, cuando
+  estuvo prisionera durante los años de la guerra.
 ---
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
 **Larysa/Lary Mariyana Ilić Huseinovic:**
 
 Larysa es el fruto de la violencia que ejerció Dragoslav Kirilo
