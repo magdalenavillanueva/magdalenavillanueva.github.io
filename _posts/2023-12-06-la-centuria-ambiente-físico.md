@@ -1,10 +1,12 @@
 ---
 layout: single
-title:  "La Centuria: Ambiente Físico"
-date:   2023-12-06 12:00:01 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Ambiente Físico"
+date: 2023-12-06 12:00:01 +0100
 ---
+![](/assets/img/banner-la-centuria.png)
+
 **Análisis del ambiente físico:**
 
 En la primera obra: *La caída de los gigantes*, el ambiente físico se
