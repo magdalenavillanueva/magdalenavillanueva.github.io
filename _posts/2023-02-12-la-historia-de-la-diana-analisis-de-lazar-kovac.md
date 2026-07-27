@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Análisis de Lazar Kovać. Descripción física y sicológica del personaje"
-date:   2023-02-12 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Análisis de Lazar Kovać. Descripción física y
+  sicológica del personaje"
+date: 2023-02-12 12:00:00 +0100
 ---
-> **No sabes lo fuerte que eres hasta que ser fuerte es la única opción
-> que te queda. Bob Marley.**
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
+ **  No sabes lo fuerte que eres hasta que ser fuerte es la única opción
+que te queda. Bob Marley.**
 
 **Análisis de Lazar Kovać. Descripción física y sicológica del
 personaje:**
