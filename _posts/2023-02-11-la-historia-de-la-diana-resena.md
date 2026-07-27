@@ -1,12 +1,14 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Reseña"
-date:   2023-02-11 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Reseña"
+date: 2023-02-11 12:00:00 +0100
 ---
-> El poder cambia de manos y, con ello, también cambian las tornas.
-> Paula Hawkins.
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
+**El poder cambia de manos y, con ello, también cambian las tornas.
+Paula Hawkins.**
 
 **RESEÑA:**
 
@@ -175,7 +177,7 @@ una situación antinatural, incierta y peligrosa que habría enloquecido a
 uno menos estoico que ella; no obstante, estaba alcanzando el límite´´.
 Pág. 692. *Dime ¿Quién es cómo Dios?* *La historia de la Diana II.*
 
-[![Smederevo](/assets/img/smederevo.jpeg)](https://commons.wikimedia.org/wiki/User:Lošmi) Justo en ese momento, lo mismo le está
+ Justo en ese momento, lo mismo le está
 sucediendo a Lazar, cuando tiene que enfrentarse a Aleksandar Ilić.
 Kovać al entrar en la mansión se dio cuenta de la semejanza con la de
 Smederevo de su niñez. El aroma le resultó el mismo, y fue ese aspecto
