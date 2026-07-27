@@ -1,11 +1,13 @@
 ---
 layout: single
-title:  "La Centuria: Familia Rothmann"
-date:   2023-08-06 12:00:00 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Familia Rothmann"
+date: 2023-08-06 12:00:00 +0100
 ---
-![Familia Rothmann](/assets/img/familia-rothmann.png)  
+![](/assets/img/banner-la-centuria.png)
+
+![Familia Rothmann](/assets/img/familia-rothmann.png)
 
 **Isaac Rothmann:** era el médico de cabecera de los von Ulrich. A la
 llegada de los nazis por ser judío no tenía permitida la práctica de la
