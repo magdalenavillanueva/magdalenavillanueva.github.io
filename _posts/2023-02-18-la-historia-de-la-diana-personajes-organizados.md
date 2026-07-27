@@ -1,11 +1,16 @@
 ---
 layout: single
-title:  "La Historia de la Diana: Personajes Organizados"
-date:   2023-02-18 12:00:00 +0100
-categories: 
-    - La Historia de La Diana
-excerpt: "Un puñado de personajes literarios han marcado mi vida de manera más durable que buena parte de los seres de carne y hueso que he conocido"
+categories:
+  - La Historia de La Diana
+title: "La Historia de la Diana: Personajes Organizados"
+date: 2023-02-18 12:00:00 +0100
+excerpt: Un puñado de personajes literarios han marcado mi vida de manera más
+  durable que buena parte de los seres de carne y hueso que he conocido
 ---
+![](/assets/img/banner-de-la-historia-de-la-diana.png)
+
+
+
 **PERSONAJES**
 
 > **Un puñado de personajes literarios han marcado mi vida de manera más
@@ -203,6 +208,7 @@ Poco confiable, sobre todo cuando bebía y golpeaba a Yura. Era doctor en
 Biología Molecular, fue Chief Executive Officer, más conocido como CEO,
 del poderoso laboratorio Ouroboros Global. Había renunciado al Instituto
 Peter Gray. Supuestamente, se suicida en Zúrich el 19 de diciembre del
+
 2000.
 
 **Harry Paddington:** escocés, cincuentón, alto, delgado, medio
@@ -560,7 +566,7 @@ denunció a Vuh su paradero. Gracias a esto, los secuestraron.
 
 **Olga Oltrović:** cabello encanecido, ralo y fino a causa de la mala
 alimentación. Directora del orfanato Mariscal Tito en Sarajevo. Fue
-asesinada, en las cercanías de Međugorje[,]{.mark} Bosnia y Herzegovina,
+asesinada, en las cercanías de Međugorje\[,]{.mark} Bosnia y Herzegovina,
 6 de febrero de 1996 junto al chofer.
 
 **Ivanka/Iva Broz:** huérfana del orfanato Mariscal Tito en Sarajevo. De
@@ -802,68 +808,44 @@ material genético estropeado.
 
 **EN LA HISTORIA DE LA DIANA I y II:**
 
--   **Eliah Al-Saud**, **Matilde Martínez** y sus hijos: **Jérôme,
-    Amina** y **Kolia**.
-
--   **Alamán Al-Saud, Joséphine Boel** y su hijo **Kamal.**
-
--   **Shariar, Jacqueline Al-Saud** y sus hijos.
-
--   **Leila Huseinovic, Peter Ramsay** y sus hijos: **Daisy:** de un
-    año, de cabello rubio y ojos oscuros, alegre, vivaz, muy parlanchina
-    y **Julian Peter** de apenas un mes de nacido. En el diario de La
-    Diana conocemos la verdadera magnitud de la tragedia que llevó a
-    Leila a su regresión a la infancia y dejar de hablar.
-
--   **Sándor Huseinovic, Yasmín Al-Saud**, y su hijo: **Emmanuel
-    Ratko**.
-
--   **Kamal Al-Saud** y **Francesca De Gecco.**
-
--   **Aldo Martínez Olazábal** y **Sáyida**, su esposa.
-
--   **Sofía Martínez Olazábal, Fernando Guzmán** e hijos.
-
--   **N'Yanda** y su hija **Verabey**.
-
--   **Takumi** y **Laurette Kaito**.
-
--   **Shiloah Moses**, y **Juana Folicuré**.
-
--   **Ezequiel Blahetter** y su esposo **Jean-Paul Trégart**.
-
--   **Nigel Taylor**, **Angelie Trouvée** que está embarazada y su hijo
-    **Kabú.**
-
--   **Sergei Markov**: una aparición espectral que se convierte en el
-    ángel protector de Diana durante la bilogía.
-
--   **Zlatan Tarkovich:** rescata a Diana, Lazar y el grupo cuando huyen
-    de los traficantes en el Parque Nacional Sutjeska.
-
--   **Martin Guerin:** su ex compañero de la Mercure o Doc, dadas sus
-    habilidades como paramédico asiste a Lazar.
-
--   **Noah Keen** y **Ulysse Vachal:** escoltas de Diana y Lazar
-    asignados por la Mercure.
-
--   **Viktor Oschensky:** se presenta en el Hospital militar de Camp
-    Bondsteel a limpiar la habitación donde estaba recluido Lazar.
-
--   **Paloméro**, capitán del Gulfstream V y **Natalie** la aeromoza.
-
--   **Marie** y **Agnesk**a**:** empleadas de la casa de Eliah
-    Al**-**Saud.
-
--   **Dorianne Jorowsky:** vocera de la ONG Defensores de los Derechos
-    Humanos.
-
--   **Thérèse:** secretaria de Al**-**Saud.
-
--   **Jenny:** secretaria de Nigel Taylor en la agencia: Spider
-    International.
-
--   **Manos Que Curan:** organización no gubernamental humanitaria.
-
--   **Vladimir Chevrikov/Lefortovo:** uno de los socios minoritarios de
-    la empresa militar privada la Mercure.
+* **Eliah Al-Saud**, **Matilde Martínez** y sus hijos: **Jérôme,
+  Amina** y **Kolia**.
+* **Alamán Al-Saud, Joséphine Boel** y su hijo **Kamal.**
+* **Shariar, Jacqueline Al-Saud** y sus hijos.
+* **Leila Huseinovic, Peter Ramsay** y sus hijos: **Daisy:** de un
+  año, de cabello rubio y ojos oscuros, alegre, vivaz, muy parlanchina
+  y **Julian Peter** de apenas un mes de nacido. En el diario de La
+  Diana conocemos la verdadera magnitud de la tragedia que llevó a
+  Leila a su regresión a la infancia y dejar de hablar.
+* **Sándor Huseinovic, Yasmín Al-Saud**, y su hijo: **Emmanuel
+  Ratko**.
+* **Kamal Al-Saud** y **Francesca De Gecco.**
+* **Aldo Martínez Olazábal** y **Sáyida**, su esposa.
+* **Sofía Martínez Olazábal, Fernando Guzmán** e hijos.
+* **N'Yanda** y su hija **Verabey**.
+* **Takumi** y **Laurette Kaito**.
+* **Shiloah Moses**, y **Juana Folicuré**.
+* **Ezequiel Blahetter** y su esposo **Jean-Paul Trégart**.
+* **Nigel Taylor**, **Angelie Trouvée** que está embarazada y su hijo
+  **Kabú.**
+* **Sergei Markov**: una aparición espectral que se convierte en el
+  ángel protector de Diana durante la bilogía.
+* **Zlatan Tarkovich:** rescata a Diana, Lazar y el grupo cuando huyen
+  de los traficantes en el Parque Nacional Sutjeska.
+* **Martin Guerin:** su ex compañero de la Mercure o Doc, dadas sus
+  habilidades como paramédico asiste a Lazar.
+* **Noah Keen** y **Ulysse Vachal:** escoltas de Diana y Lazar
+  asignados por la Mercure.
+* **Viktor Oschensky:** se presenta en el Hospital militar de Camp
+  Bondsteel a limpiar la habitación donde estaba recluido Lazar.
+* **Paloméro**, capitán del Gulfstream V y **Natalie** la aeromoza.
+* **Marie** y **Agnesk**a**:** empleadas de la casa de Eliah
+  Al**\-**Saud.
+* **Dorianne Jorowsky:** vocera de la ONG Defensores de los Derechos
+  Humanos.
+* **Thérèse:** secretaria de Al**\-**Saud.
+* **Jenny:** secretaria de Nigel Taylor en la agencia: Spider
+  International.
+* **Manos Que Curan:** organización no gubernamental humanitaria.
+* **Vladimir Chevrikov/Lefortovo:** uno de los socios minoritarios de
+  la empresa militar privada la Mercure.
