@@ -1,11 +1,13 @@
 ---
 layout: single
-title:  "La Centuria: Familia Dvorkin"
-date:   2023-08-08 12:00:01 +0100
-categories: 
-    - La Centuria
+categories:
+  - La Centuria
+title: "La Centuria: Familia Dvorkin"
+date: 2023-08-08 12:00:01 +0100
 ---
-![Familia Dvorkin](/assets/img/familia-dvorkin.png)  
+![](/assets/img/banner-la-centuria.png)
+
+![Familia Dvorkin](/assets/img/familia-dvorkin.png)
 
 **Grigori Peshkov:** obrero metalúrgico, con aspiraciones de iniciar su
 vida en otro país. En principio era él quien iba a ir a América en busca
@@ -60,8 +62,6 @@ sangre y miseria llena de guerras e injusticias.
 el pelo rubio claro, los ojos de un azul casi incoloro de tan pálido y
 un cutis blanco e impecable, de personalidad pragmática que se ocultaba
 tras su físico espléndido. Era licenciada en física.
-
- 
 
 **Ania**: es la hija de Gregori y Katerina. La segunda de ella y la
 primera de él.  Estudio en la universidad, casándose con **Ilia
@@ -126,8 +126,6 @@ siguieran las instrucciones estando asignada como periodista en Cuba.
 Ambos vivieron el conflicto preguerra entre URSS y EE. UU para no perder
 a Cuba. Posteriormente, se separa y se casa con Natalia
 Smótrova, también divorciada, con la que tiene una niña llamada Katia.
-
- 
 
 A lo largo de tres generaciones vemos los cambios que se producen en la
 mentalidad del hombre ruso**:**  en Gregori se manifestó un
