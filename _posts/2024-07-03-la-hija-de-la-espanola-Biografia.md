@@ -1,18 +1,17 @@
 ---
 layout: single
+categories:
+  - La Hija de la Española
 title: "La Hija de la Española: Biografía de Karina Sainz Borgo"
 date: 2024-07-03 12:00:01 +0100
-categories: 
-    - La Hija de la Española
 ---
+![](/assets/img/banner-la-hija-de-la-española.png)
+
 <center><h2>Biografía de Karina Sainz Borgo</h2></center>
 
+![Karina](/assets/img/Karina Borgo.jpg)
 
-
-
-
-![Karina](</assets/img/Karina Borgo.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
-
+{:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 Karina Sainz Borgo nació en una Caracas de 1982, cuando todo estaba a  punto de incendiarse. 
 Trabaja como periodista especializada en temas culturales en Vozpópuli.com, Zenda y Onda Cero, 
@@ -24,14 +23,13 @@ Su primera novela, La hija de la española (Lumen, 2019) fue aclamada por la cr�
 lectores, obtuvo el Grand Prix de Héroïne Madame Figaro y el International Literary Prize, fue 
 finalista del Kulturhuset Stadsteatern Stockholm y fue nominada al LiBeraturpreis. Considerado 
 como uno de los mejores libros del año por NPR y por Time, está siendo traducido en veintiséis idiomas y se han vendido sus derechos para una película.
- 
-![Karina](</assets/img/la hija de la española.jpg>){:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
+![Karina](</assets/img/la hija de la española.jpg>)
+
+{:width="200" style ="float: right"padding:10px" border - radus: 25px"}
 
 En 2019, Karina Sainz Borgo fue escogida como una de las cien personas más creativas en la 
 revista Forbes. El Tercer País es su segunda novela. donde revisa el mito de Antígona y el 
 derecho fundamental que tienen los seres humanos de enterrar a sus muertos. Como en La hija de la 
 española, Sainz Borgo vuelve a las mujeres que generalmente están solas o acompañadas de otras 
 mujeres.
-
-
