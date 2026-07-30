@@ -1,22 +1,28 @@
 ---
 layout: single
+categories:
+  - Aquitania
 title: "Aquitania: La historia detrás de los personajes de Aquitania"
 date: 2024-02-12 12:00:01 +0100
-categories: 
-    - Aquitania
 ---
-![Aquitania](/assets/img/5a8d592e-c8bc-4dac-bc7d-8f2f07e48148.png){:width="200" style="float: right"}
----
-**Aquitania** 
----
-Fue una antigua región de Francia, desaparecida el 31 de diciembre de 2015. Se ubicaba en las Galias que comprendía generalmente entre Lória y Rodano. En 1453 fue incorporada a la corona de Francia. Estaba formada por los departamentos de Dordoña, Gironda, Landas, Lot y Garona y Pirineos Atlánticos. La capital de Aquitania era Burdeos.
+![](/assets/img/banner-de-aquitania.png)
 
+![Aquitania](/assets/img/5a8d592e-c8bc-4dac-bc7d-8f2f07e48148.png)
+
+## {:width="200" style="float: right"}
+
+## **Aquitania**
+
+Fue una antigua región de Francia, desaparecida el 31 de diciembre de 2015. Se ubicaba en las Galias que comprendía generalmente entre Lória y Rodano. En 1453 fue incorporada a la corona de Francia. Estaba formada por los departamentos de Dordoña, Gironda, Landas, Lot y Garona y Pirineos Atlánticos. La capital de Aquitania era Burdeos.
 
 ![image](https://github.com/user-attachments/assets/f6e4bfa8-4d23-425f-a239-c7af57ede9a0)
 
----
+- - -
+
 **Lui VI de Francia:** 
---- 
+
+- - -
+
 Fue hijo del rey
 Felipe I de Francia y su primera esposa, Berta de Holanda (1055-1094).
 Pertenece a la dinastía de los Capetos. ​ Rey enérgico, tuvo un
@@ -26,10 +32,12 @@ matrimonio fue anulado, y la segunda en 1115 con Adela de Saboya
 (1100-1154). Tuvieron ocho hijos, entre ellos: Luis el Joven (1120-
 1180), rey de Francia, con el nombre de Lui VII.
 
-![Lui VII de Francia](/assets/img/2b1a06e2-b805-443d-a8c0-6e339d41037c.jpg){:width="200" style="float: right"}
----
-**Lui VII de Francia:**
----
+![Lui VII de Francia](/assets/img/2b1a06e2-b805-443d-a8c0-6e339d41037c.jpg)
+
+## {:width="200" style="float: right"}
+
+## **Lui VII de Francia:**
+
 Llamado Luis el Joven. Nació en París, 1120 y
 murió en Melun, 18 de septiembre de 1180, fue rey de Francia de 1137 a
 1180, el sexto en línea directa de la dinastía de los Capetos. Era hijo
@@ -37,10 +45,12 @@ de Luis VI de Francia y de Adela de Saboya. Se casó sucesivamente con
 Leonor de Aquitania, Constanza de Castilla, y Adela de Champaña. Su
 hijo, Felipe Augusto, fue su sucesor.
 
-![Leonor de Aquitania](/assets/img/ca490ab6-3735-43ce-af4e-f469ff02da3c.jpg){:width="200" style="float: right"}
----
-**Leonor de Aquitania:** 
----
+![Leonor de Aquitania](/assets/img/ca490ab6-3735-43ce-af4e-f469ff02da3c.jpg)
+
+## {:width="200" style="float: right"}
+
+## **Leonor de Aquitania:**
+
 Fue una de las
 mujeres más importantes del medievo europeo. No se cortaba jamás las
 trenzas, que le caían ya por los tobillos. Nacida a finales del siglo
@@ -65,8 +75,10 @@ de Sicilia, y Juan I de Inglaterra. Esto hizo que ella fuera una figura
 clave en la lucha por el poder de Inglaterra, ya que sus hijos eran los
 herederos al trono.
 
-![Leonor de Aquitania](/assets/img/71db0db7-2d3b-40fc-a7e5-6cf615d59bfd.jpg){:width="200" style="float: right"}
----
+![Leonor de Aquitania](/assets/img/71db0db7-2d3b-40fc-a7e5-6cf615d59bfd.jpg)
+
+## {:width="200" style="float: right"}
+
 Junto a todo esto, Leonor también fue
 conocida por su independencia y por su voluntad de mantener su propia
 identidad. Lo que fue algo muy importante para la época y demostró que
@@ -77,10 +89,12 @@ la igualdad de género, defendiendo el derecho de las mujeres a heredar
 la tierra. Su defensa de los derechos de la mujer inspiró a muchas otras
 figuras femeninas de la Edad Media.
 
-![Petronila](/assets/img/05e74999-bb41-4bad-b646-5f5e8ed52836.png){:width="200" style="float: right"}
----
-**Petronila de Aquitania:**
----
+![Petronila](/assets/img/05e74999-bb41-4bad-b646-5f5e8ed52836.png)
+
+## {:width="200" style="float: right"}
+
+## **Petronila de Aquitania:**
+
 Nacida el año
 1125 y falleció en 1153, fue la segunda hija de Guillermo X de Poitiers,
 duque de Aquitania y de Leonor de Châtellerault y hermana de Leonor de
@@ -98,28 +112,32 @@ de su esposa. El rey persuadió a tres arzobispos del reino de Francia
 para disolver el matrimonio de Raúl y Leonor, por razones de
 consanguinidad, permitiendo así el matrimonio entre Petronila y Raúl.
 
-**Felipa de Tolosa:** 
----
+## **Felipa de Tolosa:**
+
 Nació aproximadamente alrededor de 1073. Era hija
 del conde Guillermo IV de Tolosa, y su esposa Emma de Mortain. Fue
 condesa titular de Tolosa, así como duquesa consorte de Aquitania por su
 matrimonio con el duque Guillermo IX. Murió en la Abadía de
 Fontevrault.
 
-![Guillermo IX de Aquitania](/assets/img/4330cf2a-87c7-417b-afb2-767f0dffe421.jpg){:width="200" style="float: right"} 
----
-**Guillermo IX de Aquitania y VII de Poitiers:**  
----
+![Guillermo IX de Aquitania](/assets/img/4330cf2a-87c7-417b-afb2-767f0dffe421.jpg)
+
+## {:width="200" style="float: right"}
+
+## **Guillermo IX de Aquitania y VII de Poitiers:**
+
 22 de octubre de 1071-Poitiers, 10 de febrero de 1126,
 conocido también como Guillermo el Trovador (en francés, Guillaume le
 Troubadour), fue un noble francés, noveno duque de Aquitania, séptimo
 conde de Poitiers y primero de los trovadores en lengua provenzal del
 que se tiene noticia.
 
-![Guillermo VIII de Poitiers](/assets/img/92a02af2-ad38-4e1c-98ff-b5735f402233.jpg){:width="200" style="float: right"}
----
-**Guillermo VIII de Poitiers:**
----
+![Guillermo VIII de Poitiers](/assets/img/92a02af2-ad38-4e1c-98ff-b5735f402233.jpg)
+
+## {:width="200" style="float: right"}
+
+## **Guillermo VIII de Poitiers:**
+
 Conocido también como Guillermo X de Aquitania​ 1099 - Santiago de Compostela 9
 de abril de 1137, fue un noble francés, el último conde de Poitiers y
 duque de Aquitania de la dinastía de los Rammulfides, ya que a su muerte
@@ -129,20 +147,22 @@ VIII y el de duque de Aquitania con el nombre de Guillermo X. Era hijo
 de Guillermo el Trovador, al que sucedió, y de Felipa, condesa de
 Tolosa, hija de Guillermo IV conde de Toulouse.
 
-**Leonor de Châtellerault:** 
----
+## **Leonor de Châtellerault:**
+
 Es conocida sobre todo por ser la madre de
 Leonor de Aquitania, la mujer más poderosa de Occidente durante el siglo
 XII. Era la hija del vizconde de Châtellerault, Amalarico I de
-Châtellerault, y de su esposa, Dangerosa de L\'Isle Bouchard (amante de
+Châtellerault, y de su esposa, Dangerosa de L'Isle Bouchard (amante de
 Guillermo IX, duque de Aquitania). Se casó con Guillermo X de Poitiers y
 tuvo tres hijos: Leonor de Aquitania, Petronila de Aquitania y Aigret
 que falleció a los cuatro años.
 
-![Suger de Saint-Denis](/assets/img/493970f1-b288-41c0-9d0a-ef554eb2c65e.jpg){:width="200" style="float: right"} 
----
-**Suger de Saint-Denis:** 
----
+![Suger de Saint-Denis](/assets/img/493970f1-b288-41c0-9d0a-ef554eb2c65e.jpg)
+
+## {:width="200" style="float: right"}
+
+## **Suger de Saint-Denis:**
+
 Nació en 1081 y murió el 13 de enero de 1151, fue un eclesiástico, personaje político e
 historiador francés. Procedía de una familia de campesinos y nació en
 Saint-Denis, cerca de París. Fue abad de la abadía de Saint-Denis desde
@@ -153,10 +173,12 @@ fue el más famoso historiador de su tiempo. Escribió un panegírico sobre
 Luis VI y colaboró en la redacción de la que es quizá la crónica más
 imparcial del reinado de Luis VII.
 
-![image](https://github.com/user-attachments/assets/9960e0eb-7982-40a3-8d3d-05fd99b4d1fe){:width="200" style="float: right"} 
----
-**Raimundo I de Poitiers:** 
----
+![image](https://github.com/user-attachments/assets/9960e0eb-7982-40a3-8d3d-05fd99b4d1fe)
+
+## {:width="200" style="float: right"}
+
+## **Raimundo I de Poitiers:**
+
 Fue un aristócrata medieval francés, miembro de la casa de Poitiers, hijo menor
 de Guillermo IX, duque de Aquitania y su esposa Felipa, condesa de
 Tolosa, que por su matrimonio con Constanza de Antioquía llegó a ser
@@ -189,8 +211,8 @@ convertía en primo hermano del rey Luis VI de Francia y un primo segundo
 de Luis VII de Francia. Ralph sirvió como el senescal de Francia durante
 el reinado de Luis VII. Presionado por la reina, Leonor de Aquitania,
 
-
 ![image](https://github.com/user-attachments/assets/efeee192-1390-4c2c-86e5-3e41643baaaf)
+
 {:width="200" style="float: right; padding:10px"} 
 
 Luis permitió a Ralph repudiar a su esposa,
@@ -203,18 +225,19 @@ Inocencio II por su matrimonio ilegítimo.​ En 1148, Eugenio III legitimó
 el matrimonio en el Concilio de Reims. No obstante, Petronila y Raúl se
 divorciaron en 1151.
 
-**Amalarico I de Châtellerault:** 
----
+## **Amalarico I de Châtellerault:**
+
 (1075 -- 1151), fue el vizconde de
 Châtellerault, padre de Leonor de Châtellerault y abuelo de Leonor de
 Aquitania.
 
 ![image](https://github.com/user-attachments/assets/1b7b2e85-4ca7-48ee-accc-f281db079ff3)
+
 {:width="200" style="float: right"}
 
-**Dangerosa de l\'Isle Bouchard:**
----
-(1079-1151), era la hija de Bartolomé de L\'Île-Bouchard. Fue la abuela
+## **Dangerosa de l'Isle Bouchard:**
+
+(1079-1151), era la hija de Bartolomé de L'Île-Bouchard. Fue la abuela
 materna de Leonor de Aquitania y también, amante del abuelo paterno de
 sus nietas, Guillermo IX de Aquitania. ​Como amante de Guillermo el
 Trovador, fue conocida como La Maubergeonne por la torre que él
@@ -222,10 +245,12 @@ construyó para ella en su castillo en Poitiers. Dangerosa fue un
 sobrenombre que recibió por su carácter seductor; su nombre de pila pudo
 haber sido Amauberge.
 
-![Los Capetos](/assets/img/584e5aed-a87c-47c8-a36f-28d075c6be35.png){:width="200" style="float: right"} 
----
-**Los Capetos:** 
----
+![Los Capetos](/assets/img/584e5aed-a87c-47c8-a36f-28d075c6be35.png)
+
+## {:width="200" style="float: right"}
+
+## **Los Capetos:**
+
 El nombre de Capeto
 proviene del sexto representante de la dinastía: Hugo Capeto, rey de
 Francia. Es una de las más importantes dinastías reales de Europa;
@@ -243,10 +268,12 @@ monarcas más destacados fueron cuatro: Hugo Capeto (fundador de la
 dinastía), Felipe IV (conocido como Felipe el Hermoso), Felipe ll y Luis
 lX, más conocido como San Luis.
 
-![Los Poitiers](/assets/img/f4b5631d-fa32-4545-8943-bdcb1ce7c371.png){:width="200" style="float: right"}
----
-**Los Poitiers:** 
----
+![Los Poitiers](/assets/img/f4b5631d-fa32-4545-8943-bdcb1ce7c371.png)
+
+## {:width="200" style="float: right"}
+
+## **Los Poitiers:**
+
 Poitiers fue fundada por
 la tribu celta de los pictones como el oppidum Lemono (en latín, Lemonum
 antes de la influencia romana). Se dice que el nombre venía de la palabra
