@@ -1,14 +1,13 @@
 ---
 layout: single
+categories:
+  - La Hija de la Española
 title: "La Hija de la Española: Análisis"
 date: 2024-07-02 12:00:01 +0100
-categories: 
-    - La Hija de la Española
 ---
+![](/assets/img/banner-la-hija-de-la-española.png)
+
 <center><h2>LA HIJA DE LA ESPAÑOLA. ANALISIS</h2></center>
-
-
-
 
 <center><h3>"Una realidad que algunos han llamado “el insilio” 
 (estar exiliado sin salir de tu patria) y que no es otra 
@@ -24,15 +23,12 @@ inmisericordemente, las fuerzas públicas aliadas con grupos armados
 llenos de odio y resentimiento persiguen y asesinan a los que se atreven a oponerse.  El 2014 es el año en que el país se desangró y cambió, 
 ¿para bien o para mal?, el tiempo lo dirá. 
 
-
 La novela La hija de la española de Karina Sainz Borgo, venezolana 
 radicada en España, está ambientada en esta época aciaga. Es una obra que no pasa desapercibida, los que han vivido una 
 cuota de violencia gratuita entenderán los recovecos de lo que 
 cuenta. 
 
-
 <center><H3>RESEÑA</H3> </center>
-
 
 Es el 2014 y las calles de Caracas son el escenario de 
 enfrenamientos entre estudiantes, el  orden público y afectos al gobierno revolucionario. Adelaida Falcón muere después de una 
@@ -62,7 +58,6 @@ del país, sobre todo,
 refleja los valores culturales, sociales que han caracterizado la 
 idiosincrasia venezolana. 
 
-
 Adelaida Falcón, la madre, fue maestra, y representa a esa mujer 
 venezolana que no se amilanó 
 ante las situaciones que surgían. Su novio la deja embarazada, y 
@@ -80,7 +75,6 @@ dejarlos de lado, aunque
 viviera en un pueblito de Aragua alejado relativamente de la 
 Capital. 
 
-
 Adelaida representa a una generación orgullosa por ser profesional, 
 que estudió con las uñas, 
 provenientes de familias pobres, algunas ignorantes, pero con una 
@@ -92,7 +86,6 @@ sabían leer, pero si sabían
 que querían algo mejor para sus hijos. No importa de qué pueblo 
 recóndito viniera, su norte era 
 estudiar y trabajar.
-
 
 En los recuerdos de Adelaida hija, pinta una sociedad venezolana 
 armoniosa si cabe decirlo. 
@@ -113,12 +106,10 @@ recuerdos era la visión que se
 tenía de los hijos bastardos, de los que tenía la piel menos blanca, 
 de los “cafeconleche”. 
 
-
 Pero a pesar de esas tribulaciones económicas,  sociales, 
 culturales, su madre se tomó con 
 seriedad inculcarle a su hija el valor del arte, la literatura y  la 
 historia. 
-
 
 La novela respira desaliento, desesperanza, pesadumbre, tristeza, no 
 vislumbra un futuro 
@@ -129,7 +120,6 @@ con los suministros que ha
 encontrado, organiza eficientemente su escape de la tragedia que 
 vive su país.
 
-
 Si se va a juzgar de alguna manera la decisión de Adelaida de “huir” 
 como lo concibió, hay que 
 contextualizarlo dentro de las circunstancias que sufrió y la 
@@ -137,6 +127,6 @@ desarraigaron de su historia, su
 cotidianeidad, y  su identidad y de todo lo que había heredado 
 éticamente de su madre.
 
-![LA HIJA DE LA ESPAÑOLA](</assets/img/caratula de la hija.jpeg>){:width="250" style ="float: right"padding:10px" border - radus: 25px"}
+![LA HIJA DE LA ESPAÑOLA](</assets/img/caratula de la hija.jpeg>)
 
-
+{:width="250" style ="float: right"padding:10px" border - radus: 25px"}
