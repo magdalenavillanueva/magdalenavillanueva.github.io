@@ -24,4 +24,4 @@ Angustias Romero huye de la peste con su marido y sus dos hijos atados a la espa
 Después de esto, Angustias es abandonada por su marido y luchará junto a la 
 sepulturera contra un entorno hostil donde, la única ley la dictan quienes van armados. Aunado a esto, el peligro y la violencia crecen hasta el último minuto borrando los límites entre la vida y la muerte. Mientras tanto, misteriosos juguetes aparecen sobre  las tumbas de los dos niños.
 
-![EL TERCER PAIS](</assets/img/el tercer pais.jpg>)
+![EL TERCER PAIS](/assets/img/el tercer pais.jpg)
