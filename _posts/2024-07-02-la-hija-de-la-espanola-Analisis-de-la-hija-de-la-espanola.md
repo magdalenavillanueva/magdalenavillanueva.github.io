@@ -7,7 +7,7 @@ date: 2024-07-02 12:00:01 +0100
 ---
 ![](/assets/img/banner-la-hija-de-la-española.png)
 
-<center><h2>LA HIJA DE LA ESPAÑOLA. ANALISIS</h2></center>
+
 
 <center><h3>"Una realidad que algunos han llamado “el insilio” 
 (estar exiliado sin salir de tu patria) y que no es otra 
