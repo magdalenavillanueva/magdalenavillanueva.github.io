@@ -5,8 +5,12 @@ categories:
 title: "Aquitania: Orden de análisis"
 date: 2024-02-01 12:00:01 +0100
 ---
+![](/assets/img/banner-de-aquitania.png)
+
 # Aquitania de Eva García Sáenz de Urturi
+
 ## Orden de análisis
+
 1. Biografía de Eva García Sáenz de Urturi.
 2. Reseña de Aquitania.
 3. Análisis de Eleanor/Lía de Aquitania.
@@ -20,3 +24,6 @@ date: 2024-02-01 12:00:01 +0100
 11. La historia detrás de los personajes de Aquitania.
 12. La figura de Eleanor de Aquitania en las artes.
 
+    ![]()
+
+    ![]()
