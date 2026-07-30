@@ -15,7 +15,9 @@ que no identificarse con la sociedad donde naciste
 y creciste, porque eso que llegaste a amar ya está muerto
 "</h3> </center>
 <center><h3>Carlos Balladares Castillo.</h3></center>
----
+
+
+
 
 Caracas está inmersa en una vorágine de violencia producto de los 
 desafueros de un grupo de poder que espera mandar en el país sin ningún tipo de restricciones. Un grupo de jóvenes protestan ante las injusticias y la pérdida de un futuro viable.  Estos jóvenes están siendo masacrados 
