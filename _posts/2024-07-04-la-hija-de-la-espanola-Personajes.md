@@ -1,16 +1,15 @@
 ---
 layout: single
+categories:
+  - La Hija de la Española
 title: "La Hija de la Española: Personajes"
 date: 2024-07-04 12:00:01 +0100
-categories: 
-    - La Hija de la Española
 ---
+![](/assets/img/banner-la-hija-de-la-española.png)
+
 <center><h2>PERSONAJES</h2></center>
 
-
-
 <h3>Adelaida Falcón</h3>
-
 
 (Madre), maestra, pertenece a una 
 generación que asumió el coraje de salir 
@@ -33,9 +32,7 @@ lectora. Adquiría libros a través de El Círculo de Lectores.
 Intuyó las desgracias que vendría al país. Tenía la costumbre de 
 comprar ropa y zapatos y no usarlos después.
 
-
 <h3>Adelaida Falcón (hija)</h3>
-
 
 Estudió en la Facultad de Humanidades, su interés se centró en 
 trabajar en la edición profesional, como correctora de estilo, 
@@ -43,7 +40,6 @@ de pruebas en un periódico. Era gran lectora, curiosa, creativa,
 generosa, valoraba la relación con su madre. Era agradecida de 
 su sabiduría. Reconoce su valía a través de lo que su madre le 
 enseñó. 
-
 
 Tuvo una relación de tres años con el periodista Francisco 
 Salazar Solano, el cual se  dedicaba a reportajes políticos.
@@ -58,15 +54,12 @@ comprometerse para seguir adelante.
 
 <h3>Amelia y Clara Falcón (tías)</h3>
 
-
 Hermanas de Adelaida (madre), de unos ochenta años, tenían una 
 posada en Ocumare y era el lugar de las vacaciones de las 
 adelaidas. Eran mellizas y se distinguían porque una era gorda y 
 la otra delgada, Clara fumaba. Leales y fieles a su hermana, 
 carismáticas y excéntricas, tenían la costumbre de que al hablar 
 “se quitaban la palabra la una a la otra”.
-
-
 
 <h3>Julia Peralta y Aurora Peralta</h3>
 
@@ -83,7 +76,6 @@ Aurora inicia las diligencias para la tramitación de su
 pasaporte y Documento Nacional de Identidad del Reino de España 
 con la intención de regresar a España.
 
-
 <h3>Ana</h3>
 Compañera de la Facultad de Letras  de Adelaida Falcón, son muy 
 parecidas en el carácter. 
@@ -92,7 +84,6 @@ parecidas en el carácter.
 
 Marido de Ana.
 
-
 <h3>Santiago</h3>
  
 Hermano de Ana. Estudiante universitario, formaba parte de los 
@@ -100,7 +91,6 @@ grupos de protestas que se enfrentaban contra el gobierno
 revolucionario. Es atrapado  y torturado, por los “hijos de la 
 Revolución” en La Tumba,  obligado hacer actos delictivos y 
 luego perseguido hasta que le dan muerte.
-
 
 <h3>Francisco Salazar Solano</h3>
 
@@ -111,11 +101,9 @@ carácter fuerte, muy observador, un poco atrevido y aventurero,
 apasionado por su trabajo.  A pesar de su arrogancia supo 
 apreciar y valorar a Adelaida.
 
-
 <h3>María Jesús y Florencia</h3>
 
 Maestras jubiladas, amigas de la madre.
-
 
 <h3>María</h3>
 
@@ -160,4 +148,3 @@ Presidente…"
 de aquellos insectos. Iban en grupo, eran rápidas y nunca dejaban nada a su paso…"
 
 ![alt text](</assets/img/LA HIJA DE LA ESPAÑOLA INST.jpg>)
-
