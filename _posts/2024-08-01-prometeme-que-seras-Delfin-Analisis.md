@@ -1,42 +1,38 @@
 ---
 layout: single
+categories:
+  - Prométeme que serás Delfin
 title: "Prométeme que serás Delfin: Análisis"
 date: 2024-08-01 12:00:01 +0100
-categories: 
- -   Prométeme que serás Delfin
 ---
+![](/assets/img/banner-prometeme-que-seras-delfin.png)
+
 <center><h2>PROMÉTEME QUE SERÁS DELFÍN</h2></center>
 <center><h2>AMELIA NOGUERA. 2013</h2></center>
 
 <h3>Semblanza</h3>
 
-![alt text](</assets/img/1 Amalia.jpg>){:width="250" style="float: right; padding:10px"}
+![alt text](</assets/img/1 Amalia.jpg>)
 
+{:width="250" style="float: right; padding:10px"}
 
 Ingeniero Informático. Escritora y traductora española. Directora de revistas técnicas. 
 Estudió Humanidades en la Universidad Carlos III de Madrid. Auto publicaba sus historias 
 digitalmente en 2012 en la plataforma Amazon, alcanzando el número uno en ventas en la 
 novela La pintora de las estrellas.
 
+![alt text](</assets/img/2 libro.jpg>)
 
-![alt text](</assets/img/2 libro.jpg>){:width="150" style="float: left; padding:10px"}
-
+{:width="150" style="float: left; padding:10px"}
 
 **Algunas novelas:** La marca de la luna (2014), La pintora de estrellas (2015), Escrita 
 en tu nombre (2017), Prométeme que serás delfín (2013), El paseo de los canadienses (2020). Y en breve publicará La bruja de la luna plateada y La pintora de la luna.
 
-
-
-
-
-
 <h4>EXTRACTO: </h4>
 
+![alt text](/assets/img/big.jpg)
 
-
-![alt text](/assets/img/big.jpg){:width="200" style="float: right; padding:10px"}
-
-
+{:width="200" style="float: right; padding:10px"}
 
 Es una novela detectivesca, autobiográfica, social, educativa, psicológica y realista. Se 
 estructura en diez partes y diez capítulos.  Los personajes principales son María y la 
@@ -49,13 +45,13 @@ sin contacto, manteniendo cada protagonista en su cuadro o en su pintura. Ambas 
 sus sentimientos y su percepción ante los acontecimientos, dejando interrogantes sin 
 respuestas. Son autobiográficas, cada una observó, pensó y actuó.
 
-
 <center><h2>PERSONAJES PRIMARIOS:</h2></center>
-
 
 <h4>MARIA:</h4>
 
-![alt text](/assets/img/sad-female-doctor-photo.jpg){:width="250" style="float: right; padding:10px"}
+![alt text](/assets/img/sad-female-doctor-photo.jpg)
+
+{:width="250" style="float: right; padding:10px"}
 
 Casada con Manuel y su única hija con diagnostico TDA/TDAH (Trastorno por difícil de 
 atención/hiperactividad). Profesión médica en un hospital público, hace presente la 
@@ -87,11 +83,11 @@ Con la muerte de la profesora Adela, María fue a la cárcel convirtiéndose en 
 homicida por haber amenazado a la profesora, pero al ocurrir un segundo asesinato del 
 docente suplente llamada Celia, la dejan en libertad.
 
-
-
 <h3>LA ESTUDIANTE:</h3>  
 
-![alt text](/assets/img/ElementarySchool_Girl-1-removebg-preview.png){:width="250" style="float: right; padding:10px"}
+![alt text](/assets/img/ElementarySchool_Girl-1-removebg-preview.png)
+
+{:width="250" style="float: right; padding:10px"}
 
 El segundo personaje principal es la estudiante que describe un hecho pasado en un colegio 
 donde asesinaron a dos profesoras. Narra todo lo ocurrido, analiza a los involucrados, 
@@ -113,7 +109,6 @@ estudiante estuvieron preocupados por la impresión emocional, pero ella se sent
 feliz,  su preocupación estaba en torno a que quieren cambiarla de la escuela y dejar a 
 sus amigas. Ella lo llamó: la catástrofe.
 
-
 La suplente de Adela se llamaba Celia, asignada por el Consejo de Educación. La nueva 
 profesora de primaria es psicóloga y terapeuta. Aplicaba diferentes estrategias con el 
 propósito que los estudiantes hablaran sobre lo sucedido con la profesora Adela. La 
@@ -121,12 +116,10 @@ estudiante expresa la aceptación y agrado que la llevó a sentir amor por la le
 ambiente escolar cambió, pero continuaban niños callados que no querían ni recordar ni 
 hablar de la profesora Adela.
 
-
 La policía busca al asesino de Adela, comienzan rondas de vigilancias en los alrededores 
 del colegio, visita a los padres que tuvieron inconvenientes con la profesora Adela. Así 
 fueron descartando hasta llegar a la casa de María, encontrando entre las cosas de Sofía 
 el pañuelo que usaba Adela. 
-
 
 Transcurridos más de diez días con María en la cárcel, la profesora Celia es asesinada. 
 Una segunda profesora sin pruebas. No hay huellas, solamente la flor para da a entender 
@@ -135,28 +128,25 @@ Ahora los psicólogos de la EOEP comienzan a hacer entrevistas a los estudiantes
 de los padres, sin ningún resultado, solamente aclarando que los niños menores de catorce 
 años no pueden ser privados de libertad,  aunque se demuestre su culpabilidad.
 
-
 El asesino fue Jorge, compañero  de escuela, motivado por la injusticia de la profesora 
 con su amiga Sofía.  Luego mata a la segunda profesora Celia para sacar a la mamá de Sofía 
 de la cárcel como presunta asesina. Ese crimen quedó en silencio, ningún estudiante dio 
 información y siempre decían que se sentían agradados por su profesora Adela. 
-
 
 Para concluir, Jorge muere en un enfrentamiento con Gonzalo. El año escolar terminó y la 
 estudiante ya no le preocupaba que le cambiaran de colegio, así pasó el tiempo y continúo 
 recordando lo que decía la abuela de Blanca:  ´´No seáis borregos; sed delfines.  Aprended 
 mucho y no dejéis que os engañen´´. Pág. 40. Prométeme que serás delfín de Amelia Noguera.
 
-
 Para la estudiante, Blanca y Ana se convirtió en el gran secreto
-
 
 <center><h2>PERSONAJES SECUNDARIOS:</h2></center>
 
-
 <h3>SOFÍA:</h3>
 
-![alt text](/assets/img/images-removebg-preview.png){:width="250" style="float: right; padding:10px"}
+![alt text](/assets/img/images-removebg-preview.png)
+
+{:width="250" style="float: right; padding:10px"}
 
 Es una niña con diagnostico TDA y medicada. Ojos de color verde, delgada. Estudia ballet. 
 Es la tercera mejor amiga de la estudiante. Desde educación inicial, lloraba, gritaba, era 
@@ -176,12 +166,10 @@ En relación al contexto familiar, la separación de sus padres la llevó a mani
 como único recurso de expresar,  tanto ver a sus padres separados, como el distanciamiento 
 de su padre hacia ella.
 
-
 <h4>MANUEL:</h4>
 
 Esposo de María y el padre de Sofía. Era un profesional exitoso, inteligente y atractivo. 
 Pensaba que María estaba obsesionada con la profesora Adela y que Sofía no tenía nada.
-
 
 <h4>JORGE:</h4>
 
@@ -196,23 +184,19 @@ estaba bailando, Gonzalo se burla y Jorge lo enfrenta. Entre golpes con rabia y 
 escalera de la zona de butacas, Jorge pierde el equilibrio por un golpe que le propina 
 Gonzalo, cayendo por las escaleras hasta llegar al suelo sin vida.
 
-
 <h4>ADELA:</h4>
 
 Profesora titular. Discutía con todas las profesoras y directora. Faltaba a su trabajo por 
 lo menos una vez al mes. La encontraron muerta en el armario del salón de clases.
-
 
 <h4>ABUELA DE BLANCA:</h4>
 
 Era la abuela bibliotecaria. En su casa por todos lados había libros y tuvo problemas con 
 la profesora Adela. Era profesora jubilada universitaria y vivía sola.
 
-
 <h4>ANA:</h4>
 
 Amiga y compañera de clase
-
 
 <h4>BLANCA:</h4>
 
@@ -227,7 +211,6 @@ Ex esposo de Adela y profesor de Educa.
 Profesor contratado. Orientaba a María y lograba que Sofía realizara sus actividades en 
 clase.
 
-
 <h4>CELIA:</h4>
 
 Psicóloga y terapeuta. Profesora suplente de la profesora Adela. Fue la segunda docente 
@@ -237,7 +220,6 @@ asesinada.
 
 Era la que hacía suplencia cuando faltaba la profesora Adela. El contenido programático 
 era de chistes.
-
 
 <h4>DIRECTORA JACINTA: </h4>
 
@@ -252,10 +234,7 @@ No trabajaba.
 Son dos profesionales que se encargaron de realizar preguntas a los estudiantes y orientar 
 a los padres.
 
-
-
 <center><h2>CANCIONES:</h2></center>
-
 
 El colegio para anunciar el inicio de regreso utilizaba la música. Los estudiantes por 
 grados seleccionaban la canción que querían escuchar.  Se mencionan las canciones de 
@@ -263,56 +242,48 @@ Bisbal;  Shakira y la canción de El Chocolatero. Son nombradas sin dar informac
 los nombres y letras.  Como se observa en el ejemplo siguiente:   ´´Pasamos los siguientes 
 minutos hasta que suena la canción de Bisbal, que esta vez han elegido los chulitos de 
 sexto A, con el corazón en vilo, esperando ansiosas para saber qué le habrá ocurrido que 
-le hace tener esa cara  de limón´´.   Pág. 53.  Prométeme que serás delfín de Amelia  
+le hace tener esa cara  de limón´´.   Pág. 53.  Prométeme que serás delfín de Amelia\
 Noguera.
-
-                
 
 ![alt text](</assets/img/David y Shakira.jpg>)
 
-
-
-
-
 <h4>Canción del Chocolatero</h4>
 
+![alt text](/assets/img/11.jpg)
 
-![alt text](/assets/img/11.jpg){:width="200" style="float: left; padding:10px"}
+{:width="200" style="float: left; padding:10px"}
 
-
-Le llamaban Paquito el Chocolatero a una canción de pasodoble español del compositor  
+Le llamaban Paquito el Chocolatero a una canción de pasodoble español del compositor\
 español Gustavo Pascual Falcó   en el año de  1937.
-
-
-
 
 <center><h2>AFORISMOS EN LA NOVELA:</h2></center>
 
 Son frases u oraciones literarias breves que expresan ideas motivadoras y 
 reflexivas que la autora nos ofrece como parte de la trama.
 
+![alt text](/assets/img/6.jpg)
 
-![alt text](/assets/img/6.jpg){:width="400" style="}
+{:width="400" style="}
 
+![alt text](/assets/img/7.jpg)
 
-![alt text](/assets/img/7.jpg){:width="400" style="}
+{:width="400" style="}
 
+![alt text](/assets/img/8.jpg)
 
+{:width="400" style="}
 
-![alt text](/assets/img/8.jpg){:width="400" style="}
+![alt text](/assets/img/9.jpg)
 
-
-
-![alt text](/assets/img/9.jpg){:width="400" style="}
-
-
+{:width="400" style="}
 
 <center><h2>DISTINCIÓN DE LA NOVELA:</h2></center>
 
-
 a.- Para la estudiante la catástrofe no fue la muerte de la profesora Adela,  sino que la cambiaran de colegio y perdiera a sus amigas. Ver a la profesora muerta en el armario no le causó ninguna impresión a la estudiante. 
 
-![alt text](/assets/img/10.jpg){:width="200" style="float: left; padding:10px"}
+![alt text](/assets/img/10.jpg)
+
+{:width="200" style="float: left; padding:10px"}
 
 b.- Sofía fue una estudiante excluida del sistema educativo a pesar que estuvo 
 matriculada.
