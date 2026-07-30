@@ -1,15 +1,19 @@
 ---
 layout: single
+categories:
+  - Aquitania
 title: "Aquitania: Eleanor/Lía de Aquitania"
 date: 2024-02-04 12:00:01 +0100
-categories: 
-    - Aquitania
 ---
+
+
+![](/assets/img/banner-de-aquitania.png)
+
 ![Eleanor/Lía de Aquitania](/assets/img/2dda041b-57f9-460f-bb9d-26e46dab4de9.png)
 
+![Eleanor/Lía de Aquitania](/assets/img/c5c82a96-ef21-46ee-a3c8-5e62167984b5.jpg)
 
-![Eleanor/Lía de Aquitania](/assets/img/c5c82a96-ef21-46ee-a3c8-5e62167984b5.jpg){:width="200"style="float:right; padding:10px"}
-  
+{:width="200"style="float:right; padding:10px"}
 
 Se conoce como una niña precoz, que
 dominaba el latín, el inglés, la lengua de oc y la lengua de oíl que
@@ -25,9 +29,9 @@ ducado de Aquitania y Guyena y condesa de Gascuña, tras la muerte de su
 hermano Aigret. Su abuelo decidió llamarla Alia Aenor, Eleanor: *la otra
 Aenor* para diferenciarla de su madre.
 
+![Eleanor/Lía de Aquitania](/assets/img/6cae66b9-7406-4a6f-9b26-acd51e78e097.jpg)
 
-![Eleanor/Lía de Aquitania](/assets/img/6cae66b9-7406-4a6f-9b26-acd51e78e097.jpg){:width="200"style="float:right; padding:10px"}
- 
+{:width="200"style="float:right; padding:10px"}
 
 Es hija de Guillermo X, duque de Aquitania,
 y de Leonor de Châtellerault. Su padre le enseñó desde los ocho años a
@@ -42,7 +46,6 @@ en asuntos vacuos e inmediatos, nada de planes políticos. Y adoraba que
 mi hija fuera una diminuta morena aquitana de fieros ojos azules y
 rasgados. Pág. 244. *Aquitania* de Eva García Sáenz de Urturi.
 
-
 **Eleanor y Luy VII**
 
 Las tensiones entre la pareja empezaron, cuando la reina apoyó el matrimonio
@@ -54,8 +57,9 @@ por su propia suegra, Adelaida de Saboya. Sin embargo, nada de esto le
 importó al soberano francés, que estaba locamente enamorado de su
 esposa.
 
+![Segunda cruzada](/assets/img/e9e63f6d-e233-4be6-a653-bff976feacfa.jpg)
 
-![Segunda cruzada](/assets/img/e9e63f6d-e233-4be6-a653-bff976feacfa.jpg){:width="200"style="float:right; padding:10px"}
+{:width="200"style="float:right; padding:10px"}
 
 En 1147, los jóvenes esposos marcharon a la 
 Segunda Cruzada, movidos por la predicación de Bernardo de Claraval. El
