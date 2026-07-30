@@ -1,10 +1,12 @@
 ---
 layout: single
+categories:
+  - Aquitania
 title: "Aquitania: Ambiente histórico"
 date: 2024-02-10 12:00:01 +0100
-categories: 
-    - Aquitania
 ---
+![](/assets/img/banner-de-aquitania.png)
+
 **AMBIENTE HISTÓRICO:**
 
 El trasfondo de los hechos históricos en que se desarrolla la novela Aquitania nos ubica en la Edad Media, siglo XII. Eleanor de Aquitania es el centro de este thriller, es la duquesa de Aquitania, hija de Guilhem
