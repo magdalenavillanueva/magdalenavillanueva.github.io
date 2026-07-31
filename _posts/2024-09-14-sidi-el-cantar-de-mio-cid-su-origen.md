@@ -1,16 +1,17 @@
 ---
 layout: single
+categories:
+  - Sidi
 title: "Sidi: El Cantar de Mio Cid: Su Origen"
 date: 2024-09-14  12:00:01 +0100
-categories: 
-    - Sidi
 ---
+![](/assets/img/banner-sidi.png)
 
 <center><h2>EL CANTAR DE MÍO CID: SU ORIGEN</h2></center>
 
+![alt text](</assets/img/el cantar.jpg>)
 
-
-![alt text](</assets/img/el cantar.jpg>){:width="200" style="float: right"}
+{:width="200" style="float: right"}
 
 Es un cantar de gesta anónimo que relata hazañas heroicas inspiradas 
 en los últimos años de la vida del caballero castellano Rodrigo Díaz 
@@ -18,7 +19,6 @@ de Vivar, el Campeador. La versión conservada fue compuesta, según
 la mayoría de la crítica actual, alrededor del año 1200. Se trata de 
 la primera obra poética extensa de la literatura española y el único 
 cantar épico castellano conservado casi completo. 
-
 
 El poema consta de 3735 versos de extensión variable 
 (anisosilábicos), aunque predominan los de catorce a dieciséis 
@@ -29,7 +29,6 @@ Cantar. Sus versos no se agrupan en estrofas, sino en tiradas; cada
 una es una serie sin número fijo de versos con una sola y misma rima 
 asonante. Se desconoce su título original.
 
-
 La principal fuente del cantar sería la historia oral, y 
 parcialmente pasajes que en última instancia remiten a la Historia 
 Roderici, aunque queda la objeción de que el cantar de gesta omite 
@@ -38,10 +37,11 @@ de Zaragoza, que en la biografía latina está relatado con
 considerable extensión, y es el hecho que toma Arturo Pérez Reverte 
 para construir su  Sidi.
 
-
 **Fecha y lugar de composición  del Cantar de mío Cid:**
 
-![alt text](</assets/img/el poder.jpeg>){:width="200" style="float: right"}
+![alt text](</assets/img/el poder.jpeg>)
+
+{:width="200" style="float: right"}
 
 El Cantar de Mío Cid arranca del primer destierro, Además, todo lo 
 relativo a los matrimonios entre las hijas del Cid y los infantes de 
@@ -66,7 +66,6 @@ elementos más históricos del poema; el segundo, vinculado a
 Medinaceli, habría amplificado el poema con los rasgos más 
 novelescos, hacia 1140. 
 
-
 En el otro polo se sitúa la interpretación de Colin Smith, quien 
 defendía que el colofón del manuscrito del Cantar de Mío Cid 
 transmitía tanto su fecha de composición, 1207, como el nombre de su 
@@ -82,7 +81,6 @@ que hace difícil identificarlo. Colin Smith defendió en 1983 que Per
 Abbat fue el autor del cantar aunque también en 1994 el profesor 
 británico reconoció que probablemente Per Abbat solo fuera el 
 copista.  
-
 
 Este primitivo cantar es posible que fuera objeto de una refundición 
 entre los años 1140 y 1150; y de otra, tal vez más intensa, hacia 
