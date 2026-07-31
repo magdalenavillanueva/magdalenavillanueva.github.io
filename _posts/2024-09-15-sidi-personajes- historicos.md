@@ -1,25 +1,23 @@
 ---
 layout: single
+categories:
+  - Sidi
 title: "Sidi: Personajes Históricos"
 date: 2024-09-15  12:00:01 +0100
-categories: 
-    - Sidi
 ---
-
+![](/assets/img/banner-sidi.png)
 
 <center><h2>PERSONAJES HISTÓRICOS:</h2></center>
 
-
-
 **PERSONAJES CRISTIANOS:**
 
-![alt text](</assets/img/sidi 8.jpg>){:width="100" style="float: left"}
+![alt text](</assets/img/sidi 8.jpg>)
+
+{:width="100" style="float: left"}
 
 **Sancho II:** 
 Fue el primer rey de Castilla, entre 1065 y 1072, y, por conquista, 
 de Galicia (1071-1072) y de León (1072).                                                                               
-
-
 
 **Alfonso VI:** 
 ![alt text](</assets/img/sidi 9.jpg>){:width="200" style="float: right"}Hijo de 
@@ -31,10 +29,9 @@ lugar las batallas de Sagrajas y Uclés, que constituyeron sendas derrotas para 
 mesnadas leonesas y castellanas. En la segunda falleció el heredero del rey, el 
 infante Sancho Alfónsez.
 
+![alt text](</assets/img/sidi 10.jpg>)
 
-
-
-![alt text](</assets/img/sidi 10.jpg>){:width="200" style="float: left"}
+{:width="200" style="float: left"}
 **Berenguer Remont II:** 
 Fue conde de Barcelona (1076-1097). Era hijo de Ramón 
 Berenguer I y de Almodis de la Marca. Al principio gobernó junto a su hermano gemelo, 
@@ -44,9 +41,9 @@ voluntad de su padre. Ramón Berenguer II murió a manos de su hermano, Berengue
 II el 5 de diciembre de 1082. Su hermano, quien se hizo único conde de Barcelona, fue, 
 según la opinión popular,  el confabulador de su asesinato.
 
+![alt text](</assets/img/sidi 11.jpg>)
 
-
-![alt text](</assets/img/sidi 11.jpg>){:width="200" style="float: left"}
+{:width="200" style="float: left"}
 
 **Ramón Berenguer II:** 
 Llamado Cabeza de Estopa (en catalán Cap d'Estopes) en alusión 
@@ -58,22 +55,18 @@ asesinaron en ese bosque. Su cadáver fue trasladado a Gerona donde recibió sep
 Su hermano, Berenguer Ramón II, fue acusado de este asesinato, por lo que 
 posteriormente, lo apodaron el Fratricida
 
-
 **PERSONAJES MOROS:**
 
-
-**Abú Yaáfar Áhmad ibn Sulaymán al-Muqtádir bi-L·la:**  
+**Abú Yaáfar Áhmad ibn Sulaymán al-Muqtádir bi-L·la:**\
 Rey de la taifa de Saraqusta entre 1046 y 1081. Abú Yaáfar al-Muqtádir, de la dinastía 
 de los Banu Hud, llevó a la taifa de Zaragoza a su máximo apogeo político y cultural. 
 Fue mecenas de las ciencias, de la filosofía y de las artes. Mandó construir el bello 
 palacio de la  Aljafería donde se reunieron importantes intelectuales andalusíes.
 
-
 Al-Muqtádir consiguió reunir bajo su mandato las tierras disgregadas tras el reparto 
 de los dominios de Zaragoza entre sus hermanos hecha por su padre Sulaymán ibn Hud 
 al-Musta'in. Solo Yúsuf, gobernador de Lérida, resistió durante más de treinta años 
 los intentos de integración de su hermano, hasta que fue hecho prisionero en 1078.  
-
 
 La difícil situación de Zaragoza, amenazada por el reino de Aragón de Ramiro I y 
 Sancho Ramírez y en constante litigio fronterizo por las tierras de la extremadura 
@@ -83,8 +76,7 @@ Alfonso VI de León. Hasta el punto de que, en 1081, su sucesor, Al-Mutaman hubo
 contratar los servicios de un mercenario castellano, Rodrigo Díaz de Vivar, conocido 
 más tarde como El Cid, apodo que deriva del árabe Sidi y significa Señor.
 
-
-**Yúsuf al-Mutaman o Al-Mutamin o Almutaman:**   
+**Yúsuf al-Mutaman o Al-Mutamin o Almutaman:**\
 Fue rey de la taifa de Zaragoza de la 
 dinastía hudí en su momento de máximo esplendor  entre 1081 y 1085, tras el pujante 
 reinado de su padre al-Muqtádir. Fue asimismo un rey erudito, protector de las 
@@ -92,13 +84,13 @@ ciencias, de la filosofía y de las artes, conocedor de las matemáticas, la ast
 y la filosofía, que continuó la labor de su padre al-Muqtádir creando una corte de 
 sabios intelectuales que tenía como marco el bello palacio de la Aljafería.
 
-
 Al-Mutaman heredó de al-Muqtádir en 1081 la parte occidental de la taifa de Zaragoza, 
 que comprendía Zaragoza, Tudela, Huesca y Calatayud, quedando al-Múndir con la zona 
 costera del reino: Lérida, Monzón, Tortosa y Denia.
 
+![alt text](</assets/img/sidi 13.jpg>)
 
-![alt text](</assets/img/sidi 13.jpg>){:width="300" style="float: left"}
+{:width="300" style="float: left"}
 **Walida al-Mustaqfi:** 
 Fue una poetisa de Córdoba, Andalucía, hija de Muhammad 
 al-Mustakfi, del efímero undécimo califa de Córdoba. Era una mujer instruida y sabia, 
@@ -115,12 +107,3 @@ la mujer musulmana. Era una mujer a la que se le buscaba por su agradable compa�
 su inteligencia, además era admirada por su belleza y nobleza. Sin embargo, su 
 desprecio por las conveniencias dio lugar a numerosas habladurías acerca de su 
 conducta, de ahí también que se afirmara que carecía del decoro propio de su nobleza.
-
-
-
-
-
-
-
-
-
