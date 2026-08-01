@@ -2,8 +2,7 @@
 layout: single
 categories:
   - La Historiadora
-title: "La Historiadora:: Orden de análisis."
-date: 2025-12-21T19:24:00.000-04:00
+title: "La Historiadora: Biografía de Elizabeth Kostova"
+date: 2026-08-01T09:14:00.000-04:00
 ---
-
-Ejemplo
+![](/assets/img/banner-la-historiadora.png)
