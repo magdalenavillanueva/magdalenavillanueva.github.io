@@ -23,6 +23,6 @@ date: 2026-07-31T19:00:00.000-04:00
 
 8.             Comida.
 
-9.             Laobra Drácula de Bram  Stoker  tomada como referencia en la novela *La    historiadora*  de Elizabeth Kostova.
+9.             La obra Drácula de Bram  Stoker  tomada como referencia en la novela.
 
 10.         La evolución de Drácula en el cine
