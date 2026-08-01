@@ -8,13 +8,9 @@ date: 2026-08-01T11:02:00.000-04:00
 ---
 ![](/assets/img/banner-la-historiadora.png)
 
-![](/assets/img/ficha-tecnica-de-la-historiadora.png)
+![](/assets/img/ficha-tecnica-de-la-historiadora.png){:width="300" style="float: left"}
 
-{:width="300" style="float: left"}
-
-![](/assets/img/la-autora-de-la-histioradora.png)
-
-{:width="300" style="float: right"}
+![](/assets/img/la-autora-de-la-histioradora.png){:width="300" style="float: right"}
 
 La autora en un estilo autobiográfico narra su descubrimiento de un libro en la biblioteca donde aparecía el dibujo de un dragón y lo que su padre le cuenta sobre lo acontecido con este libro, y que contiene todas las páginas en blanco, y con una xilografía en la página central del símbolo de la Orden del Dragón, institución fundada por el padre de Vlad Tepes: Vlad Dracul.
 
