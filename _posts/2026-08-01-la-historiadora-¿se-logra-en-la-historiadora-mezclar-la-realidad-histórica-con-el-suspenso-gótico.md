@@ -13,3 +13,5 @@ date: 2026-08-01T11:02:00.000-04:00
 {:width="300" style="float: left"}
 
 ![](/assets/img/la-autora-de-la-histioradora.png)
+
+{:width="300" style="float: right"}
