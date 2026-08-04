@@ -8,9 +8,13 @@ date: 2026-08-01T11:02:00.000-04:00
 ---
 ![](/assets/img/banner-la-historiadora.png)
 
-![](/assets/img/ficha-tecnica-de-la-historiadora.png){:width="300" style="float: left"}
+![](/assets/img/ficha-tecnica-de-la-historiadora.png)
 
-![](/assets/img/la-autora-de-la-histioradora.png){:width="300" style="float: right"}
+{:width="300" style="float: left"}
+
+![](/assets/img/la-autora-de-la-histioradora.png)
+
+{:width="300" style="float: right"}
 
 La autora en un estilo autobiográfico narra su descubrimiento de un libro en la biblioteca donde aparecía el dibujo de un dragón y lo que su padre le cuenta sobre lo acontecido con este libro, y que contiene todas las páginas en blanco, y con una xilografía en la página central del símbolo de la Orden del Dragón, institución fundada por el padre de Vlad Tepes: Vlad Dracul.
 
@@ -26,7 +30,7 @@ El interés por el tema de Vlad, el empalador, está plagado de situaciones extr
 
 Paralelamente a esta historia, se desarrolla otra narrada por la hija de Paul, que sale en busca de su padre desaparecido.  Una de las líneas argumentales de la obra es la referente a la relación entre Paul y su hija. Paul fue incapaz de contarle la verdad sobre la obsesión que le había tomado toda la vida. Ella descubrió entre sus papeles unas cartas dentro de un libro, le preguntó a su padre y este le contó sobre la desaparición del director de su tesis, el profesor Rossi.  
 
-![](/assets/img/biliotecas-y-monasterios-de-la-novela-la-historiadora.png)
+![](/assets/img/bibliotecas-y-monasterios-en-la-historiadora.png)
 
 En ese momento, le empieza a hacer partícipe de la búsqueda. Paul visitó antiguas bibliotecas en Estambul, monasterios en Rumania y pueblos remotos en Bulgaria, persiguiendo el rastro de su mentor. En esa aventura él no estaba solo: lo acompañaba Helen que afirmaba ser la hija de Rossi. Le relata la investigación de los últimos cinco siglos sobre [Vlad Tepes](https://es.wikipedia.org/wiki/Vlad_Tepes), el empalador,también conocido como [Drácula](https://es.wikipedia.org/wiki/Dr%C3%A1cula), en busca del paradero de su tumba, donde van ambos.
 
