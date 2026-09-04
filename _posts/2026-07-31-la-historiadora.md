@@ -26,9 +26,3 @@ gótico nos lleva a conocer la crónica  de una leyenda?
 
 9.             Aspectos literarios y cinematográficos sobre la leyenda de Drácula:
 
-
-         9.1 La obra *Drácula* de Bram Stoker como referente
-            del suspenso gótico. 
- 
-
-         9.2 La evolución de Drácula en el cine.
