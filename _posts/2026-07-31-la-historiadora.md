@@ -9,7 +9,8 @@ date: 2026-07-31T19:00:00.000-04:00
 
 1.             Biografíade Elizabeth Kostova.
 
-2.             ¿Porqué en *La Historiadora*, la mezcla de la realidad histórica con el suspenso gótico nos lleva a conocer la crónica  de una leyenda?
+2.             ¿Porqué en *La Historiadora*, la mezcla de la realidad histórica con el suspenso 
+gótico nos lleva a conocer la crónica  de una leyenda?
 
 3.             Personajes principales: 
 
@@ -25,13 +26,9 @@ date: 2026-07-31T19:00:00.000-04:00
 
 9.             Aspectos literarios y cinematográficos sobre la leyenda de Drácula:
 
-```
+
          9.1 La obra *Drácula* de Bram Stoker como referente
             del suspenso gótico. 
-```
+ 
 
-
-
-```chuck
          9.2 La evolución de Drácula en el cine.
-```
