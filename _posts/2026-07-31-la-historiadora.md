@@ -9,20 +9,43 @@ date: 2026-07-31T19:00:00.000-04:00
 
 1.             Biografíade Elizabeth Kostova.
 
-2.             ¿Porqué leer La historiadora?
+ 
 
-3.             Personajesprincipales.
+2.             ¿Porqué en *La Historiadora*, la mezcla de la realidad histórica con el suspenso gótico nos lleva a conocer la crónica  de una leyenda?
 
-4.             Personajessecundarios.
+ 
 
-5.             Personajeshistóricos.
+3.             Personajes principales: 
 
-6.             Análisisdel ambiente físico  en que sedesarrollan los hechos de la novela.
+ 
 
-7.             Literatura  
+4.             Personajes secundarios.
 
-8.             Comida.
+ 
 
-9.             La obra Drácula de Bram  Stoker  tomada como referencia en la novela.
+5.             Personajes históricos.
 
-10.         La evolución de Drácula en el cine
+ 
+
+6.             Referencias del espacio geográfico.
+
+ 
+
+7.             Referencias literarias
+
+ 
+
+8.             Referencias gastronómicas.
+
+ 
+
+9.             Aspectos literarios y cinematográficos sobre la leyenda de Drácula:
+
+ 
+
+             9.1 La obra *Drácula* de Bram Stoker como referente
+                del suspenso gótico. 
+
+ 
+
+             9.2 La evolución de Drácula en el cine.
