@@ -43,4 +43,22 @@ Ve a los humanos como marionetas a su disposición y en su visión del bien y el
 
 
 
-**Helen Rossi Getzi**
+**Helen Rossi Getzi:** rumana, de grandes ojos oscuros, cabello negro, larga nariz recta, alta y delgada, de hombros anchos, manos de huesos finos y dedos estrechos y de extremos cuadrados, de humor áspero, voz grave de contralto, vivaracha, desenvuelta, irónica y muy perspicaz.  
+
+ Hija de Bartholomew Rossi y una campesina de Transilvania de apellido Getsi. Este hecho la marcó y la hizo tomar decisiones para vengarse de su padre por desconocer la relación con su madre.
+
+ Hablaba rumano, húngaro, francés e inglés. Es antropóloga y estudiante de posgrado. Obtuvo su doctorado en antropología. Es una mujer muy inteligente, estudiosa, comprometida con sus estudios y con sus decisiones. Ante las circunstancias adversas las enfrenta con frialdad y determinación, algo terca, “le gusta llevar la voz cantante”. Luego de casarse y tener una hija decide sacrificarse abandonando a su hija por el temor de convertirse en un peligro para la existencia de la niña.
+
+ Era descendiente de Vlad Drácula, el empalador, como lo expresa Rossi aquí cuando habla de la madre de Helen: ´´La muchacha también me dijo que su apellido era Getzi, aunque parecía no tener ni idea de su significado. Ya puedes imaginar mi nerviosismo: con toda probabilidad, me encontraba cara a cara con una descendiente de Vlad Drácula´´.    
+
+
+
+**La historiadora:** hija de Paul y Helen:  es morena de cejas finas como su madre y de pelo oscuro. Se va enterando de la verdadera historia de su padre y la desaparición de su madre.  Sale en busca de su padre.  Su nombre no se sabe en ningún momento. De hecho, en el libro nunca se revela el nombre de la hija de Paul. 
+
+Es la narradora por la que se conocen los hechos que narra la novela y da paso a las otras voces que desentrañan el misterio en el que ha entrado por encontrar a sus padres. Sus primeros pasos muestran a una adolescente de 16 años, muy inteligente tímida y poco sociable, dedicaba su tiempo a la lectura y sus estudios.  Como hija de un diplomático estaba acostumbrada a viajar.
+
+![](/assets/img/la-historiadora-narradora.png)
+
+{:width="300" style="float: left"}Al encontrar un libro extraño en su biblioteca la curiosidad la gana y logra que su padre le cuente la historia que hay detrás de ella. Y de ser una adolescente tímida se convierte en una valerosa mujer en busca de respuestas.
+
+![](/assets/img/grafico-mapa-más-allá-del-mito-aprendizajes-de-vida-a-través-de-los-protagonistas-de-la-historiadora.png)
