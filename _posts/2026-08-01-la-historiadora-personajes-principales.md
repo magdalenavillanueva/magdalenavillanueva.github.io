@@ -35,14 +35,12 @@ Ve a los humanos como marionetas a su disposición y en su visión del bien y el
 
 {:width="300" style="float: right"}Su hija lo recuerda así:  ´´Mientras le miraba, con su chaqueta de tweed y el jersey de cuello alto, pensé que se había negado todas las aventuras de la vida, excepto la diplomacia, que le absorbía. Habría sido más feliz de haber vivido un poco, pensé´´. 
 
- 
-
-Su figura nosdemuestra que la curiosidad intelectual no es solo un ejercicio académico, sinoel motor fundamental, el chispazo inicial que define la propia naturaleza deinvestigar. Para un espíritu como el suyo, el oficio no se limita a las aulas;es una forma de habitar el mundo. Esta pasión lo lleva a vivir un pasado quelate en todo presente y genera una dualidad compleja en su relación con sufamilia. Esa armadura de sobriedad y templanza académica es el refugio de unpadre que procesa el mundo desde la razón, la prudencia y una profunda dignidadintelectual. Surgen al leer e interpretar a Paul Smith la emulación comolector- investigador: leer y preguntar.
-
- 
+ Su figura nos demuestra que la curiosidad intelectual no es solo un ejercicio académico, sino el motor fundamental, el chispazo inicial que define la propia naturaleza de investigar. Para un espíritu como el suyo, el oficio no se limita a las aulas; es una forma de habitar el mundo. Esta pasión lo lleva a vivir un pasado que late en todo presente y genera una dualidad compleja en su relación con su familia. Esa armadura de sobriedad y templanza académica es el refugio de un padre que procesa el mundo desde la razón, la prudencia y una profunda dignidad intelectual. Surgen al leer e interpretar a Paul Smith la emulación como lector- investigador: leer y preguntar.
 
 
 
- 
+ Era un estudiante de postgrado, profesor en Nueva York de no más de veintisiete años. Y luego de los acontecimientos vividos se dedicó a la búsqueda de la paz entre los pueblos, la diplomacia fue su camino y fue un exagerado protector de su hija.
 
-Eraun estudiante de postgrado, profesor en Nueva York de no más de veintisieteaños. Y luego de los acontecimientos vividos se dedicó a la búsqueda de la pazentre los pueblos, la diplomacia fue su camino y fue un exagerado protector desu hija.
+
+
+**Helen Rossi Getzi**
