@@ -3,7 +3,7 @@ layout: single
 categories:
   - La Historiadora
 title: "La Historiadora: Personajes Históricos"
-date: 2026-09-09T15:03:00.000-04:00
+date: 2026-09-09T21:39:00.000-04:00
 ---
 ![](/assets/img/banner-la-historiadora.png)
 
