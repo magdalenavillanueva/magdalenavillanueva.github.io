@@ -41,26 +41,14 @@ A la cabeza de un imperio en expansión, Solimán promovió importantes cambios 
 
 ![](/assets/img/la-novela-la-historiadora-personajer-historicos-2.png)
 
-**ReyIstván**:  fue el último gran príncipe de los húngaros (997-1000/1001) y el primer rey de Hungría (1000/1001-1038). El año de su  nacimiento es incierto, pero las fuentes sugieren que nació en o después de 975 en Esztergom; su nombre original era Vajk, de origen pagano. La fecha de su bautismo tampoco es conocida. Fue el único hijo varón del gran príncipe Géza y Sarolta, princesa descendiente de una distinguida familia de gyulas. Aunque sus padres fueron bautizados antes de su nacimiento, Esteban fue el primer miembro de la dinastía Árpad devoto del cristianismo. Se casó con Gisela de Baviera, originaria de la dinastía imperial otoniana.
-
- 
+**Rey István**:  fue el último gran príncipe de los húngaros (997-1000/1001) y el primer rey de Hungría (1000/1001-1038). El año de su  nacimiento es incierto, pero las fuentes sugieren que nació en o después de 975 en Esztergom; su nombre original era Vajk, de origen pagano. La fecha de su bautismo tampoco es conocida. Fue el único hijo varón del gran príncipe Géza y Sarolta, princesa descendiente de una distinguida familia de gyulas. Aunque sus padres fueron bautizados antes de su nacimiento, Esteban fue el primer miembro de la dinastía Árpad devoto del cristianismo. Se casó con Gisela de Baviera, originaria de la dinastía imperial otoniana.
 
 **Manuel I** **Comneno**: emperador bizantino que reinó entre 1143 y 1180, siendo conocido por Megas (el Grande). Fue elegido por su padre por su valentía y valor militar.
 
- 
-
- 
-
 **Imre Nagy:**  político húngaro, que ejerció el cargo de primer ministro durante el periodo comunista e implementó reformas democráticas ocasionando una revuelta militar sovietica.
-
- 
 
 **Mátyás Rákosi:** comunista húngaro, líder de este país entre 1945 y 1956 como Secretario General del Partido Comunista Húngaro y del Partido de los Trabajadores Húngaros.
 
- 
-
 **Georgi Dimitrov:**    dictador estalinista búlgaro. gobernante dictatorial de facto de Hungría entre 1947 y1956. Líder más represivo de la época estalinista.
-
- 
 
 ![](/assets/img/la-novela-la-historiadora-personajes-historicos-3.png)
