@@ -10,7 +10,9 @@ date: 2026-09-10T19:35:00.000-04:00
  **Baladas de los Cárpatos:**   es una colección de textos de canciones populares de Transilvania y Valaquia, publicadas por un recopilador anónimo. Algunas son mucho más que canciones populares.  Son poemas épicos. Fue impreso en el año 1790.
 **Cuentos de los Cárpatos de Robert Digby**:  es  un libro ficticio del siglo XIX publicado de manera privada por un coleccionista inglés. 
 
-![](/assets/img/bram-stoker.png)**Bram Stoker:**  fue un novelista y escritor irlandés, conocido por sunovela *Drácula* (1897). Fue sucreación literaria más reconocida, en la cual realzó los maticesdel vampirismo y pasó a ser una obra literaria transmitida a través de losaños.  Es una historia basada en elpersonaje real del príncipe de Valaquia Vlad III, nacido como Vlad Drăculea,más conocido como Vlad el Empalador.
+![](/assets/img/bram-stoker.png)
+
+**{:width="300" style="float: left"}Bram Stoker:**  fue un novelista y escritor irlandés, conocido por sunovela *Drácula* (1897). Fue sucreación literaria más reconocida, en la cual realzó los maticesdel vampirismo y pasó a ser una obra literaria transmitida a través de losaños.  Es una historia basada en elpersonaje real del príncipe de Valaquia Vlad III, nacido como Vlad Drăculea,más conocido como Vlad el Empalador.
 
 ***Historia de Europa Central*  de lord Gelling**: es un libro ficticio que usa el autor en su novela La historiadora: ´´Volví a encontrar el libro hace años en una librería: *Historia de Europa Central*, de lordGelling´´. 
 
