@@ -28,7 +28,7 @@ date: 2026-09-10T19:35:00.000-04:00
 
 ***El rey de Tashkani*:**  obra ficticia que en *La historiadora* aparece como  una obra perdida de William Shakeapeare que está ambientada en una versión imaginaria de Estambul. En la obra original, un fantasma maligno llamado Dracole se aparece al monarca de una hermosa ciudad antigua que él, el monarca, ha tomado por la fuerza. El fantasma dice que en otra época fue enemigo del rey, pero que ahora viene a felicitarle por su sed de sangre. Después anima al monarca a beber la sangre de los habitantes de la ciudad, quienes son ahora los súbditos del monarca.  
 
-***Sonetos* de Dryden**: poeta, crítico literario y dramaturgo inglés, que dominó la vida literaria en la Inglaterra de la Restauración inglesa hasta tal punto que llegó a ser conocida como la Época de Dryden.  Es importante aclarar que, a pesar que para la novela La Historiadora, Dryden creó Soneto, su escritura eran  odas, las sátiras y las obras dramáticas.
+***Sonetos* de Dryden**: poeta, crítico literario y dramaturgo inglés, que dominó la vida literaria en la Inglaterra de la Restauración inglesa hasta tal punto que llegó a ser conocida como la Época de Dryden.  Es importante aclarar que, a pesar que para la novela La Historiadora, Dryden creó Soneto, su escritura son odas, las sátiras y las obras dramáticas.
 
 una paráfrasis libre en verso que Dryden hizo de la Oda 29 del Libro 3 del poeta clásico romano Horacio. 1.685
 
