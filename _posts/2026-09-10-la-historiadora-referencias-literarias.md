@@ -12,7 +12,7 @@ date: 2026-09-10T19:35:00.000-04:00
 
 ![](/assets/img/bram-stoker.png)**{:width="300" style="float: left"}Bram Stoker:**  fue un novelista y escritor irlandés, conocido por su novela *Drácula* (1897). Fue su creación literaria más reconocida, en la cual realzó los matices del vampirismo y pasó a ser una obra literaria transmitida a través de los años.  Es una historia basada en el personaje real del príncipe de Valaquia Vlad III, nacido como Vlad Drăculea, más conocido como Vlad el Empalador.
 
-***Historia de Europa Central*  de lord Gelling**: es un libro ficticio que usa el autor en su novela La historiadora: ´´Volví a encontrar el libro hace años en una librería: *Historia de Europa Central*, de lordGelling´´. 
+***Historia de Europa Central*  de lord Gelling**: es un libro ficticio que usa el autor en su novela La historiadora: ´´Volví a encontrar el libro hace años en una librería: *Historia de Europa Central*, de lord Gelling´´. 
 
 ***Historia Turco-Bizantina*de Michael Doukas**:  es un documento del último siglo de la vida de Bizancio aunque, para ser más exactos, en realidad se trata de la narración y enjuiciamiento de los primeros ciento veinte años de dominio otomano en los Balcanes.
 
