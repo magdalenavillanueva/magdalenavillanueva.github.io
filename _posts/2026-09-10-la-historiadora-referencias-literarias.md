@@ -24,8 +24,21 @@ date: 2026-09-10T19:35:00.000-04:00
 
 ![](/assets/img/henry-james.png)
 
-*{:width="300" style="float: right"}**Retrato de una dama*** ** de Henry James**:    es una novela de Henry James,  publicada originariamente de forma seriada en las revistas The Atlantic Monthly y Macmillan's Magazine durante los años 1880 y 1881, y como libro ese último año. Se trata de la historia de Isabel Archer, una mujer estadounidense que afronta su destino. Tras heredar una gran suma de dinero, se convierte en la víctima de un maquiavélico plan. Al igual que otras muchas novelas de James, transcurre en Inglaterra e Italia. Considerada como la obra maestra de los primeros trabajos de Henry James, refleja su interés en las diferencias entre el Nuevo y el Viejo Mundo. También trata en profundidad temas como la libertad personal, la responsabilidad, la traición y la sexualidad. En la obra Paul manifiesta que la figura de Tía Eva la ha utilizado: ´´para recrear a personajes de libros o de figuras históricas. Por ejemplo, se materializó de manera automática cuando me topé con madame Merle, la agradable conspiradora de *Retrato de una dama,*  de Henry James.
+\*{:width="300" style="float: right"}**Retrato de una dama***  **de Henry James**:    es una novela de Henry James,  publicada originariamente de forma seriada en las revistas The Atlantic Monthly y Macmillan's Magazine durante los años 1880 y 1881, y como libro ese último año. Se trata de la historia de Isabel Archer, una mujer estadounidense que afronta su destino. Tras heredar una gran suma de dinero, se convierte en la víctima de un maquiavélico plan. Al igual que otras muchas novelas de James, transcurre en Inglaterra e Italia. Considerada como la obra maestra de los primeros trabajos de Henry James, refleja su interés en las diferencias entre el Nuevo y el Viejo Mundo. También trata en profundidad temas como la libertad personal, la responsabilidad, la traición y la sexualidad. En la obra Paul manifiesta que la figura de Tía Eva la ha utilizado: ´´para recrear a personajes de libros o de figuras históricas. Por ejemplo, se materializó de manera automática cuando me topé con madame Merle, la agradable conspiradora de *Retrato de una dama,*  de Henry James.
 
 ***El rey de Tashkani*:**  obra ficticia que en *La historiadora* aparece como  una obra perdida de William Shakeapeare que está ambientada en una versión imaginaria de Estambul. En la obra original, un fantasma maligno llamado Dracole se aparece al monarca de una hermosa ciudad antigua que él, el monarca, ha tomado por la fuerza. El fantasma dice que en otra época fue enemigo del rey, pero que ahora viene a felicitarle por su sed de sangre. Después anima al monarca a beber la sangre de los habitantes de la ciudad, quienes son ahora los súbditos del monarca.  
 
- ***Sonetos* de Dryden**: poeta, crítico literario y dramaturgo inglés, que dominó la vida literaria en la Inglaterra de la Restauración inglesa hasta tal punto que llegó a ser conocida como la Época de Dryden.  En la obra se observa cuando  Hugh James dice:  ´´Hay algunos libros hermosísimos en esas pequeñas bibliotecas, y por un momento llamó mi atención un volumen de sonetos de Dryden, que estaba al alcance de mi mano´´.
+***Sonetos* de Dryden**: poeta, crítico literario y dramaturgo inglés, que dominó la vida literaria en la Inglaterra de la Restauración inglesa hasta tal punto que llegó a ser conocida como la Época de Dryden.  Es importante aclarar que, a pesar que para la novela La Historiadora, Dryden creó Soneto, su escritura eran  odas, las sátiras y las obras dramáticas.
+
+una paráfrasis libre en verso que Dryden hizo de la Oda 29 del Libro 3 del poeta clásico romano Horacio. 1.685
+
+
+
+**"Feliz el hombre, y feliz solo él,
+aquel que puede llamar suyo el día de hoy;
+el que, seguro por dentro, puede decir:
+«Mañana haz lo peor, pues hoy he vivido».
+No importa que el cielo se llene de nubes o de sol puro,
+pues mis placeres pasados ya son míos en su totalidad.
+Lo que el Destino una vez tuvo, el Destino no puede deshacerlo;
+lo que fue mío, ya fue, y he tenido mi parte."**
