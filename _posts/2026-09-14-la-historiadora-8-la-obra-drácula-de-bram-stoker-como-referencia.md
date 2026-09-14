@@ -30,4 +30,8 @@ En 1992 se hizo una de las más memorables  películas del vampiro.  Se trata 
 
 En 2014 se realizó otra película que intentó darle una historia de origen a Drácula.  El protagónico lo realizó Luke Evans y   muestra la historia de Vlad Tepes el Empalador, príncipe de Valaquia y Transilvania.
 
-En la última década se realizaron más versiones de Drácula en el cine, pero ninguna logró el éxito de los ejemplos mencionados  con anterioridad.
+En la última década se realizaron más versiones de Drácula en el cine, pero ninguna logró el éxito de los ejemplos mencionados  con anterioridad.  
+
+Otro giro logra ellibro de Bram Stoker. Desde 1933 secrearon parodia y caricaturas, como el cortometraje de Mickey Mouse *Mickey'sGala Premier,* 1970con la serie Groovy Ghoulies. 1988 la serie animada británica denominada Elconde Pátula. Por último, por Sony Pictures Animation franquiciacinematográfica animada Hotel Transylvania, donde el Conde Drácula es elprotagonista
+
+![](/assets/img/png-transparent-hotel-transylvania-dracula-art-count-dracula-mavis-jonathan-hotel-transylvania-series-others-purple-television-fictional-character.png){:width="300" style="float: right"}El Conde Drácula es elprotagonista de la franquicia cinematográfica animada Hotel Transylvania,creada por Sony Pictures Animation: *Hotel Transylvania*(2012), *Hotel Transylvania 2*(2015), *Hotel Transylvania 3:Summer Vacation* (2018) y  *Hotel Transylvania:Transformania* (2022)
