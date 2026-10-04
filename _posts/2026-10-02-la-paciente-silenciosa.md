@@ -5,4 +5,8 @@ categories:
 title: "La paciente silenciosa: Orden del análisis"
 date: 2026-10-02 05:00:00 +0100
 ---
-![](/assets/img/orden-de-analisis-de-la-paciente-silenciosa.jpg)
+![](/assets/img/banner-de-la-paciente-silenciosa.png)
+
+
+
+![](/assets/img/la-paciente-silenciosa-analisis.jpg)
