@@ -7,9 +7,7 @@ date: 2026-10-03T20:50:00.000-04:00
 ---
 ![](/assets/img/banner-de-la-paciente-silenciosa.png)
 
-![](/assets/img/alex-michaelides.png)
-
-{:width="500" style="float: left"}
+![](/assets/img/alex-michaelides.png){:width="500" style="float: left"}
 
  Nació en Chipre en 1977, de padre grecochipriota y madre inglesa, dos nacionalidades. Rodeado de las letras que su madre tanto apreciaba, creció junto a una vasta biblioteca familiar más la hermana fue la cómplice de dedicar sus horas de lectura bajo las sábanas, como una carpa de té en un jardín de fiesta, leyendo novelas de misterio, donde Agatha Christie fue su mentora literaria silenciosa. Por otro lado, fue un niñomaltratado por su padre que lo convirtió en un adolescente  confundido. Su infancia no fue feliz y al llegar a la adolescencia empezó a sentir que nunca encajaba en ningún lugar. Comenzó a hacer terapia para entenderse a sí mismo.  Estudió Literatura Inglesa en Cambridge y Psicoterapia, y fue paciente terapéutico durante diez años.      
 
@@ -31,9 +29,7 @@ Fue bajo el influjo de esa biblioteca materna y el persistente estímulo de su h
 
 **Obra literaria**
 
-![](/assets/img/las-obras-de-alex-michaelides.png)
-
-{:width="500" style="float: left"}
+![](/assets/img/las-obras-de-alex-michaelides.png){:width="500" style="float: left"}
 
 En el año 2021, Alfaguara Negra publica un nuevo thriller *Las doncellas,* en la que el autor esta vez se recrea en el mito de Perséfone y el sacrificio de Ifigenia. Introduce en la trama a personajes de *La paciente silenciosa,* porque la historia de *Las doncellas* es simultánea a los sucesos acontecidos en *La paciente silenciosa*, cuando Alicia está internada en The Grove.  *El secreto de Donna Tartt* fue una de sus inspiraciones para escribir *Las doncellas.*
 
