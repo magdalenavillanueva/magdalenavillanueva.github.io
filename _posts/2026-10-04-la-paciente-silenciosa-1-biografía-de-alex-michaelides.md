@@ -34,3 +34,7 @@ Fue bajo el influjo de esa biblioteca materna y el persistente estímulo de su h
 ![](/assets/img/las-obras-de-alex-michaelides.png)
 
 {:width="500" style="float: left"}
+
+En el año 2021, Alfaguara Negra publica un nuevo thriller *Las doncellas,* en la que el autor esta vez se recrea en el mito de Perséfone y el sacrificio de Ifigenia. Introduce en la trama a personajes de *La paciente silenciosa,* porque la historia de *Las doncellas* es simultánea a los sucesos acontecidos en *La paciente silenciosa*, cuando Alicia está internada en The Grove.  *El secreto de Donna Tartt* fue una de sus inspiraciones para escribir *Las doncellas.*
+
+ En 2024, publica su tercera novela: *La furia,* donde insiste nuevamente en el thriller pero abandona el ámbito de la psicoterapia. Esta es la historia de un asesinato, cuando la furia de un poderoso viento azota la isla y deja a un grupo atrapado sin poder salir, las viejas amistades acaban sacando a flote el odio, la envidia y el deseo de venganza reprimidos durante años. Y, de repente, alguien desaparece. Así se inicia un juego de encerronas y trampas, una batalla de ingenio llena de giros y sorpresas que desemboca en un final inolvidable, como suele hacer el autor.
