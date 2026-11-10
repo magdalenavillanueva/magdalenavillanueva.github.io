@@ -10,6 +10,6 @@ date: 2026-11-10T17:50:00.000-04:00
 
 
 
-![](/assets/img/ficha-de-tecnica-de-la-paciente-silencionsa.png)
+![](/assets/img/ficha-de-tecnica-de-la-paciente-silencionsa.png){:width="300" style="float: left"}
 
 ![](/assets/img/reseña-1-de-la-pacientesilencionsa.jpg)
