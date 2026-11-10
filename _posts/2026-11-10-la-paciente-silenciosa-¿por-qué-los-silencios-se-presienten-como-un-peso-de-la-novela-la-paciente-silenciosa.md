@@ -8,8 +8,10 @@ date: 2026-11-10T17:50:00.000-04:00
 ---
 ![](/assets/img/banner-de-la-paciente-silenciosa.png)
 
+![](/assets/img/ficha-de-tecnica-de-la-paciente-silencionsa.png)
 
-
-![](/assets/img/ficha-de-tecnica-de-la-paciente-silencionsa.png){:width="300" style="float: left"}
+{:width="300" style="float: left"}
 
 ![](/assets/img/reseña-1-de-la-pacientesilencionsa.jpg)
+
+![](/assets/img/reseña-2-de-la-paciente-silenciosa.jpg)
