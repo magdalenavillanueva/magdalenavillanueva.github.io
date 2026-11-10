@@ -15,3 +15,5 @@ date: 2026-11-10T17:50:00.000-04:00
 ![](/assets/img/reseña-1-de-la-paciente-silenciosa.jpg)
 
 ![](/assets/img/reseña-1-de-la-paciente-silenciosa.jpg)
+
+![](/assets/img/reseña-2-de-la-paciente-silenciosa.jpg)
