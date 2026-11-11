@@ -53,3 +53,19 @@ Cada capítulo se siente con una tensión que se construye no a través de lo qu
 ![](/assets/img/traumas-que-son-demasiado-abrumadores-para-ser-articulados-en-palabras..png)
 
 {:width="300" style="float: left"}Uno de los aspectos que más intriga fue cómo el silencio funciona como un poderoso símbolo.  Alicia no solo calla en el sentido literal, sino que también simboliza todos los secretos y traumas no resueltos. Este silencio se convierte en una forma de poder y de resistencia. En el caso de Alicia, su silencio puede verse como una manifestación de lo indecible, de aquellas experiencias y traumas que son demasiado abrumadores para ser articulados en palabras.
+
+El lector se pregunta si, al no hablar, Alicia no solo se protegía a sí misma, sino que también desafiaba a quienes intentaban descubrir la verdad.  No es un silencio vacío, sino uno cargado de significado y emoción. Es un silencio que habla, que cuenta una historia sin palabras que transmite dolor y trauma.
+
+Otra forma de silencio lo observamos en la conducta de Kathy Faber. La trayectoria de Kathy a lo largo de la novela ilustra la complicada dicotomía entre el silencio y el habla: mientras que Kathy comienza como uno de los personajes más habladores y abiertos, al final de la historia, está casi totalmente en silencio, envuelta en una tranquila depresión propia de quien ha sufrido una pérdida para lo cual no estaba preparada y poco a poco se va encerrando en sí misma.
+
+Pero ese silencio no solo lo manifiesta Alicia. Gabriel, Kathy y Theo también están envueltos en una red de complicidad y conexión; sus traumas y dolores se entretejieron como hilos invisibles para transformarlos en marionetas. Esta historia reafirma cómo la subvaloración de la inteligencia emocional condiciona trágicamente el comportamiento humano.
+
+Una mina de oro para el análisis psicológico. Desde la inteligencia emocional (IE) y la neurociencia, los "hilos invisibles" no son metáforas: mecanismos biológicos y emocionales reales. Es decir, con la finalidad de puntualizar el repensar para pensar:
+
+1.-Ninguno de los personajes sabe identificar qué siente. Analfabetismo emocional.
+
+2.- La incapacidad de gestionar lo que se piensa. No hay autocontrol.
+
+3.- No hay empatía ni cognitiva ni emocional. Cada uno en su isla con sus soldados.
+
+Se abre un abanico de preguntas, pero una de ellas destaca sobre las demás: ¿Dónde queda la responsabilidad individual cuando se acciona buscando siempre un culpable externo? En psicología y neurociencia, a esto se le llama Locus de Control Externo. Al final, las historias repiten la misma causa raíz: la infancia. No hay nada más que decir.
