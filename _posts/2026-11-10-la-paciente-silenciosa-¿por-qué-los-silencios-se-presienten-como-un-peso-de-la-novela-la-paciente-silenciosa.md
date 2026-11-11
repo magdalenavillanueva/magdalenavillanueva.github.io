@@ -43,3 +43,7 @@ Esto se vuelve a repetir con Gabriel Berenson, cuando Alicia descubre su traici�
 
 
 ##### *"*La muerte de la empatía humana es uno de los primeros y más reveladores signos de una cultura a punto de caer en la barbarie". * Hannah Arendt.   1.951.*
+
+
+
+##### El silencio como un grito mudo:
