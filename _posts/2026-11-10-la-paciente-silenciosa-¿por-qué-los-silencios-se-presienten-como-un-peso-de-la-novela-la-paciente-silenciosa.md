@@ -80,7 +80,9 @@ En su nueva novela, *Las doncellas* relata la peripecia en la que se ve envuelta
 
 Esta vez, el investigador especializado en la psique humana es Mariana Andros, y la ambientación es en Cambridge, aunque el autor no da demasiados datos ni se explaya en descripciones, sí logra sumergirnos en ese ambiente universitario de estudiantes y  profesores. 
 
-Aunque *Las doncellas* es posterior a *La paciente silenciosa*, la historia que aquí nos relatan es simultánea a los hechos ocurridos en *La paciente silenciosa*. Nos encontramos a un Theo Faber trabajando en The Grove, atendiendo a Alicia Berenson.
+![](/assets/img/la-doncella-de-alex.png)
+
+{:width="300" style="float: left"}Aunque *Las doncellas* es posterior a *La paciente silenciosa*, la historia que aquí nos relatan es simultánea a los hechos ocurridos en *La paciente silenciosa*. Nos encontramos a un Theo Faber trabajando en The Grove, atendiendo a Alicia Berenson.
 
 Theo era psicólogo forense. Se había formado con Mariana la protagonista, en Londres.  A pesar de que compartían a Ruth como supervisora, apenas se conocían. En *Las doncellas* nos describen a un Theo profesional, como lo habíamos visto al principio de la novela *La paciente silenciosa*.  Atiende  a Zoe la sobrina de Mariana, y a Alicia Berenson, una guapa pelirroja en  The Grove, la unidad psiquiátrica de seguridad que había en Edgware, al norte de Londres.
 
