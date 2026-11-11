@@ -86,7 +86,9 @@ Theo trata a Zoe, que ha intentado suicidarse varias veces, antes de  sufrir un
 
 #### El secreto deDonna Tartt, obra en que se inspira  Alex Michaelides para escribir *Las doncellas*.
 
-El profesor de estudios clásicos Julian Morrow,  da clases de lenguas antiguas a un  grupo de cinco estudiantes, en una prestigiosa universidad de artes liberales ubicada en Vermont. Pero en este club selecto en el que hay muchas cosas oscuras, logra ingresar Richard Papen.  La historia es contada en retrospectiva, teniendo como narrador único a Richard Papen, el estudiante foráneo que acabaría integrándose a la selecta clase del profesor Julián, conformada por Henry  Winter, Francis Abernathy, Edmund/Bunny Corcoran y los mellizos  Charles y Camilla Macaulay, todos ellos presentándose como un conjunto apartado del resto de la facultad.
+![](/assets/img/donna-tartl-el-secreto.png)
+
+{:width="300" style="float: right"}El profesor de estudios clásicos Julian Morrow,  da clases de lenguas antiguas a un  grupo de cinco estudiantes, en una prestigiosa universidad de artes liberales ubicada en Vermont. Pero en este club selecto en el que hay muchas cosas oscuras, logra ingresar Richard Papen.  La historia es contada en retrospectiva, teniendo como narrador único a Richard Papen, el estudiante foráneo que acabaría integrándose a la selecta clase del profesor Julián, conformada por Henry  Winter, Francis Abernathy, Edmund/Bunny Corcoran y los mellizos  Charles y Camilla Macaulay, todos ellos presentándose como un conjunto apartado del resto de la facultad.
 
 Durante una bacanal  a la que Richard y Bunny no asistieron, Henry mató accidentalmente a un granjero cerca de la finca de Francis.  Richard averigua, gracias a Camilla, que cuando mataron al granjero, le abrieron el estómago, lo que sugiere que no fue un accidente en lo absoluto.  Los hechos se van complicando cuando Bunny descubre la verdad y chantajea, desde entonces, al grupo. Temiendo que su secreto sea expuesto, los amigos deciden matar a Bunny. Es empujado de un barranco por Henry, lo cual produce su muerte.
 
