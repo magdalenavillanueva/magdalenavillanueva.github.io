@@ -42,7 +42,7 @@ Esto se vuelve a repetir con Gabriel Berenson, cuando Alicia descubre su traici�
 
 ##### *"*La muerte de la empatía humana es uno de los primeros y más reveladores signos de una cultura a punto de caer en la barbarie".  *Hannah Arendt.   1.951.*
 
-##### El silencio como un grito mudo:
+#### El silencio como un grito mudo:
 
 ![](/assets/img/el-espejo-del-silencio.png)
 
@@ -69,3 +69,13 @@ Una mina de oro para el análisis psicológico. Desde la inteligencia emocional 
 3.- No hay empatía ni cognitiva ni emocional. Cada uno en su isla con sus soldados.
 
 Se abre un abanico de preguntas, pero una de ellas destaca sobre las demás: ¿Dónde queda la responsabilidad individual cuando se acciona buscando siempre un culpable externo? En psicología y neurociencia, a esto se le llama Locus de Control Externo. Al final, las historias repiten la misma causa raíz: la infancia. No hay nada más que decir.
+
+#### Las doncellas:  TheoFaber en susinicios de psicólogo forense.
+
+
+
+Alex Michaelides estuvo rodeado por los dioses desde niño, los mitos griegos tuvieron un papel determinante en su educación. Como el mismo autor lo declara a la revista Lengua ´´desde que tengo uso de razón, los mitos han nutrido mi imaginación y han supuesto una fuente de inspiración. Me encanta formar parte de esta relectura de los mismos desde una perspectiva moderna porque conservan toda su fuerza psicológica y narrativa´´.
+
+En su nueva novela, *Las doncellas* relata la peripecia en la que se ve envuelta Mariana Andros, una psicoterapeuta que deja la terapia de grupo  en Londres. y viajará hasta Cambridge, donde estudia Literatura Inglesa su sobrina Zoe, la única familia que le queda, para consolarla tras la violenta muerte de Tara, su amiga íntima. Zoe y Tara iban juntas al Saint Christopher’s College de la Universidad de Cambridge. Tara formaba parte de una sociedad secreta denominada Las Doncellas, bajo la égida  del profesor de Filología Clásica Edward  Fosca.
+
+Esta vez, el investigador especializado en la psique humana es Mariana Andros, y la ambientación es en Cambridge, aunque el autor no da demasiados datos ni se explaya en descripciones, sí logra sumergirnos en ese ambiente universitario de estudiantes y  profesores.
