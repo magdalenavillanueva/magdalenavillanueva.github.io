@@ -40,10 +40,14 @@ Igual que Admeto había condenado físicamente a Alcestis a morir, Vernon Rose h
 
 Esto se vuelve a repetir con Gabriel Berenson, cuando Alicia descubre su traición, situación que no puede soportar al recordar la terrible traición de su padre.  Lo que hace que, se desencadene la tragedia, y por eso, completó la esperada venganza contra su padre, en la persona de su marido, Es su segunda muerte.  Y ante ello, explota, y va a cobrarse la rabia largamente contenida, como observamos a continuación:  ´´Por fin lo veía. Jamás estaría a salvo. Jamás sería amada. Todas mis esperanzas, perdidas; todos mis sueños, destrozados. Mi padre tenía razón, no merecía estar viva. No era nada. Eso fue lo que me hizo Gabriel. Esa es la verdad. Yo no maté a Gabriel: él me mató a mí, Lo único que hice yo fue apretar el gatillo´´.
 
-
-
-##### *"*La muerte de la empatía humana es uno de los primeros y más reveladores signos de una cultura a punto de caer en la barbarie". * Hannah Arendt.   1.951.*
-
-
+##### *"*La muerte de la empatía humana es uno de los primeros y más reveladores signos de una cultura a punto de caer en la barbarie".  *Hannah Arendt.   1.951.*
 
 ##### El silencio como un grito mudo:
+
+![](/assets/img/el-espejo-del-silencio.png)
+
+{:width="300" style="float: right"}  La novela explora el poder del silencio, no solo como una ausencia de palabras, sino como un grito mudo, revelando secretos y verdades ocultas. En un género donde el diálogo y la acción suelen dominar, Michaelides demuestra que el silencio puede ser más elocuente y cómplice.
+
+Cada capítulo se siente con una tensión que se construye no a través de lo que se dice, sino de lo que se deja de decir. El silencio de Alicia Berenson refleja su sensación de traición de toda la vida: primero su padre y luego Gabriel. El asesinato de Gabriel tenía unos orígenes más antiguos y más profundos al buscar la venganza que no pudo realizar con el padre. 
+
+Uno de los aspectos que más intriga fue cómo el silencio funciona como un poderoso símbolo.  Alicia no solo calla en el sentido literal, sino que también simboliza todos los secretos y traumas no resueltos. Este silencio se convierte en una forma de poder y de resistencia. En el caso de Alicia, su silencio puede verse como una manifestación de lo indecible, de aquellas experiencias y traumas que son demasiado abrumadores para ser articulados en palabras.
