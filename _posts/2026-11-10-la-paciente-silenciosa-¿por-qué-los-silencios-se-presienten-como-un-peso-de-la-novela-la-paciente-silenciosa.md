@@ -50,4 +50,6 @@ Esto se vuelve a repetir con Gabriel Berenson, cuando Alicia descubre su traici�
 
 Cada capítulo se siente con una tensión que se construye no a través de lo que se dice, sino de lo que se deja de decir. El silencio de Alicia Berenson refleja su sensación de traición de toda la vida: primero su padre y luego Gabriel. El asesinato de Gabriel tenía unos orígenes más antiguos y más profundos al buscar la venganza que no pudo realizar con el padre. 
 
-Uno de los aspectos que más intriga fue cómo el silencio funciona como un poderoso símbolo.  Alicia no solo calla en el sentido literal, sino que también simboliza todos los secretos y traumas no resueltos. Este silencio se convierte en una forma de poder y de resistencia. En el caso de Alicia, su silencio puede verse como una manifestación de lo indecible, de aquellas experiencias y traumas que son demasiado abrumadores para ser articulados en palabras.
+![](/assets/img/traumas-que-son-demasiado-abrumadores-para-ser-articulados-en-palabras..png)
+
+{:width="300" style="float: left"}Uno de los aspectos que más intriga fue cómo el silencio funciona como un poderoso símbolo.  Alicia no solo calla en el sentido literal, sino que también simboliza todos los secretos y traumas no resueltos. Este silencio se convierte en una forma de poder y de resistencia. En el caso de Alicia, su silencio puede verse como una manifestación de lo indecible, de aquellas experiencias y traumas que son demasiado abrumadores para ser articulados en palabras.
