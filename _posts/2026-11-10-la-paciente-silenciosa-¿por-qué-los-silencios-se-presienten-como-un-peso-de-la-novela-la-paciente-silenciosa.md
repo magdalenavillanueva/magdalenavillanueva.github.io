@@ -8,7 +8,9 @@ date: 2026-11-10T17:50:00.000-04:00
 ---
 ![](/assets/img/banner-de-la-paciente-silenciosa.png)
 
-![](/assets/img/ficha-de-tecnica-de-la-paciente-silencionsa.png){:width="400" style="float: left"}
+![](/assets/img/ficha-de-tecnica-de-la-paciente-silencionsa.png)
+
+{:width="400" style="float: left"}
 
 Alicia Berenson, está dedicada a la pintura, aparentemente vive una vida feliz, pero asesina cruelmente a su esposo y cae en un mutismo, y no vuelve hablar ni a comunicarse con nadie. Es trasladada a un centro de reclusión donde ve pasar el tiempo hasta que llega un terapeuta llamado Theo Faber  muy interesado en su caso.
 
@@ -28,19 +30,27 @@ La infidelidad de Gabriel y Kathy  va a ser el desencadenante que provoca la tr
 
 Es una novela que atrapa a medida que pasan las páginas, obligándonos a pensar constantemente en su título. En *La paciente silenciosa*, Alicia protagoniza una tragedia criminal donde el asesinato se entrelaza trágicamente con los traumas infantiles. Se trata de un drama con un motivo claro pero oculto: una trama de infidelidad en matrimonios aparentemente estables narrada con absoluta intriga. Ante la ausencia de la palabra oral, la escritura y la pintura se convierten en las únicas pruebas —inicialmente no validadas— que terminan condenándola a un hospital psiquiátrico.
 
-![](/assets/img/alicia-y-el-silencio.png){:width="300" style="float: left"}Igual que Admeto había condenado físicamente a Alcestis a morir, Vernon Rose había condenado psicológicamente a la muerte a su hija Alicia.  Lo que hizo fue un acto de infanticidio psicológico, como lo expresa Faber. De ahí que, la furia asesina  de Alicia, no nace en el presente.  Se origina en su infancia,  y con el paso de los años va acumulando esa carga hasta que estalla, a menudo contra un blanco equivocado. Alicia escucha estas palabras terribles  en boca de su padre:  ´´—Vernon no hacía más que hablar de lo mucho que quería a Eva, que no podía vivir sin ella. «Mi niña», repetía sin parar. «Mi pobre niña, mi Eva... ¿Por qué ha tenido que morir? ¿Por qué ha tenido que ser ella? ¿Por qué no ha muerto Alicia en vez de ella?´´.  
+![](/assets/img/alicia-y-el-silencio.png)
 
-![](/assets/img/alicia-y-su-pintua.png){:width="400" style="float: right"}Esto se vuelve a repetir con Gabriel Berenson, cuando Alicia descubre su traición, situación que no puede soportar al recordar la terrible traición de su padre.  Lo que hace que, se desencadene la tragedia, y por eso, completó la esperada venganza contra su padre, en la persona de su marido, Es su segunda muerte.  Y ante ello, explota, y va a cobrarse la rabia largamente contenida, como observamos a continuación:  ´´Por fin lo veía. Jamás estaría a salvo. Jamás sería amada. Todas mis esperanzas, perdidas; todos mis sueños, destrozados. Mi padre tenía razón, no merecía estar viva. No era nada. Eso fue lo que me hizo Gabriel. Esa es la verdad. Yo no maté a Gabriel: él me mató a mí, Lo único que hice yo fue apretar el gatillo´´.
+{:width="300" style="float: left"}Igual que Admeto había condenado físicamente a Alcestis a morir, Vernon Rose había condenado psicológicamente a la muerte a su hija Alicia.  Lo que hizo fue un acto de infanticidio psicológico, como lo expresa Faber. De ahí que, la furia asesina  de Alicia, no nace en el presente.  Se origina en su infancia,  y con el paso de los años va acumulando esa carga hasta que estalla, a menudo contra un blanco equivocado. Alicia escucha estas palabras terribles  en boca de su padre:  ´´—Vernon no hacía más que hablar de lo mucho que quería a Eva, que no podía vivir sin ella. «Mi niña», repetía sin parar. «Mi pobre niña, mi Eva... ¿Por qué ha tenido que morir? ¿Por qué ha tenido que ser ella? ¿Por qué no ha muerto Alicia en vez de ella?´´.  
+
+![](/assets/img/alicia-y-su-pintua.png)
+
+{:width="400" style="float: right"}Esto se vuelve a repetir con Gabriel Berenson, cuando Alicia descubre su traición, situación que no puede soportar al recordar la terrible traición de su padre.  Lo que hace que, se desencadene la tragedia, y por eso, completó la esperada venganza contra su padre, en la persona de su marido, Es su segunda muerte.  Y ante ello, explota, y va a cobrarse la rabia largamente contenida, como observamos a continuación:  ´´Por fin lo veía. Jamás estaría a salvo. Jamás sería amada. Todas mis esperanzas, perdidas; todos mis sueños, destrozados. Mi padre tenía razón, no merecía estar viva. No era nada. Eso fue lo que me hizo Gabriel. Esa es la verdad. Yo no maté a Gabriel: él me mató a mí, Lo único que hice yo fue apretar el gatillo´´.
 
 ##### *"*La muerte de la empatía humana es uno de los primeros y más reveladores signos de una cultura a punto de caer en la barbarie".  *Hannah Arendt.   1.951.*
 
 #### El silencio como un grito mudo:
 
-![](/assets/img/el-espejo-del-silencio.png){:width="300" style="float: right"}  La novela explora el poder del silencio, no solo como una ausencia de palabras, sino como un grito mudo, revelando secretos y verdades ocultas. En un género donde el diálogo y la acción suelen dominar, Michaelides demuestra que el silencio puede ser más elocuente y cómplice.
+![](/assets/img/el-espejo-del-silencio.png)
+
+{:width="300" style="float: right"}  La novela explora el poder del silencio, no solo como una ausencia de palabras, sino como un grito mudo, revelando secretos y verdades ocultas. En un género donde el diálogo y la acción suelen dominar, Michaelides demuestra que el silencio puede ser más elocuente y cómplice.
 
 Cada capítulo se siente con una tensión que se construye no a través de lo que se dice, sino de lo que se deja de decir. El silencio de Alicia Berenson refleja su sensación de traición de toda la vida: primero su padre y luego Gabriel. El asesinato de Gabriel tenía unos orígenes más antiguos y más profundos al buscar la venganza que no pudo realizar con el padre. 
 
-![](/assets/img/traumas-que-son-demasiado-abrumadores-para-ser-articulados-en-palabras..png){:width="300" style="float: left"}Uno de los aspectos que más intriga fue cómo el silencio funciona como un poderoso símbolo.  Alicia no solo calla en el sentido literal, sino que también simboliza todos los secretos y traumas no resueltos. Este silencio se convierte en una forma de poder y de resistencia. En el caso de Alicia, su silencio puede verse como una manifestación de lo indecible, de aquellas experiencias y traumas que son demasiado abrumadores para ser articulados en palabras.
+![](/assets/img/traumas-que-son-demasiado-abrumadores-para-ser-articulados-en-palabras..png)
+
+{:width="300" style="float: left"}Uno de los aspectos que más intriga fue cómo el silencio funciona como un poderoso símbolo.  Alicia no solo calla en el sentido literal, sino que también simboliza todos los secretos y traumas no resueltos. Este silencio se convierte en una forma de poder y de resistencia. En el caso de Alicia, su silencio puede verse como una manifestación de lo indecible, de aquellas experiencias y traumas que son demasiado abrumadores para ser articulados en palabras.
 
 El lector se pregunta si, al no hablar, Alicia no solo se protegía a sí misma, sino que también desafiaba a quienes intentaban descubrir la verdad.  No es un silencio vacío, sino uno cargado de significado y emoción. Es un silencio que habla, que cuenta una historia sin palabras que transmite dolor y trauma.
 
@@ -60,16 +70,24 @@ Se abre un abanico de preguntas, pero una de ellas destaca sobre las demás: ¿D
 
 #### Las doncellas:  TheoFaber en susinicios de psicólogo forense.
 
-
-
 Alex Michaelides estuvo rodeado por los dioses desde niño, los mitos griegos tuvieron un papel determinante en su educación. Como el mismo autor lo declara a la revista Lengua ´´desde que tengo uso de razón, los mitos han nutrido mi imaginación y han supuesto una fuente de inspiración. Me encanta formar parte de esta relectura de los mismos desde una perspectiva moderna porque conservan toda su fuerza psicológica y narrativa´´.
 
 En su nueva novela, *Las doncellas* relata la peripecia en la que se ve envuelta Mariana Andros, una psicoterapeuta que deja la terapia de grupo  en Londres. y viajará hasta Cambridge, donde estudia Literatura Inglesa su sobrina Zoe, la única familia que le queda, para consolarla tras la violenta muerte de Tara, su amiga íntima. Zoe y Tara iban juntas al Saint Christopher’s College de la Universidad de Cambridge. Tara formaba parte de una sociedad secreta denominada Las Doncellas, bajo la égida  del profesor de Filología Clásica Edward  Fosca.
 
 Esta vez, el investigador especializado en la psique humana es Mariana Andros, y la ambientación es en Cambridge, aunque el autor no da demasiados datos ni se explaya en descripciones, sí logra sumergirnos en ese ambiente universitario de estudiantes y  profesores. 
 
-![](/assets/img/la-doncella-de-alex.png){:width="300" style="float: left"}Aunque *Las doncellas* es posterior a *La paciente silenciosa*, la historia que aquí nos relatan es simultánea a los hechos ocurridos en *La paciente silenciosa*. Nos encontramos a un Theo Faber trabajando en The Grove, atendiendo a Alicia Berenson.
+![](/assets/img/la-doncella-de-alex.png)
+
+{:width="300" style="float: left"}Aunque *Las doncellas* es posterior a *La paciente silenciosa*, la historia que aquí nos relatan es simultánea a los hechos ocurridos en *La paciente silenciosa*. Nos encontramos a un Theo Faber trabajando en The Grove, atendiendo a Alicia Berenson.
 
 Theo era psicólogo forense. Se había formado con Mariana la protagonista, en Londres.  A pesar de que compartían a Ruth como supervisora, apenas se conocían. En *Las doncellas* nos describen a un Theo profesional, como lo habíamos visto al principio de la novela *La paciente silenciosa*.  Atiende  a Zoe la sobrina de Mariana, y a Alicia Berenson, una guapa pelirroja en  The Grove, la unidad psiquiátrica de seguridad que había en Edgware, al norte de Londres.
 
 Theo trata a Zoe, que ha intentado suicidarse varias veces, antes de  sufrir una grave crisis psicótica.  Quiso ponerse en contacto con Mariana en numerosas ocasiones por el asunto de Zoe, y al no recibir respuesta, Mariana recibió  una carta de Theo, donde le pedía que reconsiderara una vez más su negativa a ver a Zoe, que estaba empezando a  hablar del mundo secreto que compartía con Sebastián, el difunto esposo de Mariana. En su tratamiento con Zoe la insta a verla. Ella accedió y Theo le dice:  ´´—Creo que es algo más complicado, Mariana —vaciló un instante—. El que intentó matarte fue él. Ella no fue más que la mano ejecutora. Su marioneta. Estaba completamente a su merced´´.
+
+#### El secreto deDonna Tartt, obra en que se inspira  Alex Michaelides para escribir *Las doncellas*.
+
+El profesor de estudios clásicos Julian Morrow,  da clases de lenguas antiguas a un  grupo de cinco estudiantes, en una prestigiosa universidad de artes liberales ubicada en Vermont. Pero en este club selecto en el que hay muchas cosas oscuras, logra ingresar Richard Papen.  La historia es contada en retrospectiva, teniendo como narrador único a Richard Papen, el estudiante foráneo que acabaría integrándose a la selecta clase del profesor Julián, conformada por Henry  Winter, Francis Abernathy, Edmund/Bunny Corcoran y los mellizos  Charles y Camilla Macaulay, todos ellos presentándose como un conjunto apartado del resto de la facultad.
+
+Durante una bacanal  a la que Richard y Bunny no asistieron, Henry mató accidentalmente a un granjero cerca de la finca de Francis.  Richard averigua, gracias a Camilla, que cuando mataron al granjero, le abrieron el estómago, lo que sugiere que no fue un accidente en lo absoluto.  Los hechos se van complicando cuando Bunny descubre la verdad y chantajea, desde entonces, al grupo. Temiendo que su secreto sea expuesto, los amigos deciden matar a Bunny. Es empujado de un barranco por Henry, lo cual produce su muerte.
+
+Esta situación de grupo selecto también se da en *Las doncellas* de Alex Michaelides.  Edward Fosca, un profesor de Filología Clásica mantiene un grupo de estudio en el que se rodea de un grupo de jovencitas llamadas las Doncellas. Las jóvenes que aparecen muertas forman parte de ese grupo. Todo se resume a que el asesino las degüella y una vez muertas hace una carnicería con sus cuerpos.
