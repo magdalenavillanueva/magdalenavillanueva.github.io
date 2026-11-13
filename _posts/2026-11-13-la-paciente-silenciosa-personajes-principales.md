@@ -59,7 +59,8 @@ Al igual que Theo, todo consultor tiene un historial, la diferencia es que hay q
 
 ##### Personajes cercanos con Alicia Berenson y Theo Faber:
 
-![](/assets/img/no-quiero-morir.png)**{:width="300" style="float: left"} Gabriel Berenson:**  esposo de Alicia, de elevada estatura, pelo oscuro, rasgos apuestos, mandíbula fuerte, pómulos altos, nariz elegante, corpulento, grácil, piernas fuertes  y muslos gruesos, tenía cuarenta y cuatro años,   ordenado, era un fotógrafo de moda muy conocido. Fotografiaba  a mujeres medio anoréxicas y medio desnudas desde ángulos fuera de lo común.  Sin embargo, parecía más un actor de cine que un fotógrafo.
+![](/assets/img/no-quiero-morir.png){:width="300" style="float: left"} 
+**Gabriel Berenson**:  esposo de Alicia, de elevada estatura, pelo oscuro, rasgos apuestos, mandíbula fuerte, pómulos altos, nariz elegante, corpulento, grácil, piernas fuertes  y muslos gruesos, tenía cuarenta y cuatro años,   ordenado, era un fotógrafo de moda muy conocido. Fotografiaba  a mujeres medio anoréxicas y medio desnudas desde ángulos fuera de lo común.  Sin embargo, parecía más un actor de cine que un fotógrafo.
 
 Tenía una situación económica holgada. Le dejó el grueso de su patrimonio a su hermano. Según Max Berenson era un marido abnegado y muy enamorado de su mujer.  Gabriel era crucial en la vida emocional de Alicia. Era bastante posesivo, pero también, una fuente de angustia, porque  tenía un lado que asustaba a Alicia:  ´´Gabriel tiene un lado agresivo, una parte de él que solo atisbo en ocasiones, y cuando lo hago, me asusta. Durante esos breves momentos es como vivir con un extraño. Y es aterrador´´. 
 
