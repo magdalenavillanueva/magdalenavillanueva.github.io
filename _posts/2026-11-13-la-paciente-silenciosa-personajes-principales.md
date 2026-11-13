@@ -7,15 +7,11 @@ date: 2026-11-13T07:02:00.000-04:00
 ---
 ![](/assets/img/banner-de-la-paciente-silenciosa.png)
 
-![](/assets/img/estamos-compuestos-de-cosas.png)
-
-{:width="300" style="float: right"} 
+![](/assets/img/estamos-compuestos-de-cosas.png){:width="300" style="float: right"} 
 
 ##### Alicia Berenson
 
-![](/assets/img/la-evolución-de-un-silencio_-las-fases-de-alicia-berenson.png)
-
-{:width="300" style="float: left"}De ojos azules profundos, rostro de simetría perfecta, larga melena pelirroja, hombros huesudos, piel translúcida. Estuvo felizmente casada con Gabriel, durante siete años. Ambo serán artistas:  ella era una brillante pintora, cada vez más cotizada y él un fotógrafo de prestigio, con una vida aparentemente perfecta. Alicia admira a Gabriel y estaba totalmente enamorada de él, ama y adora a su marido, como ella misma lo expresa en su diario:   ´´Amo muchísimo a Gabriel. Es, sin lugar a dudas, el amor de mi vida.  Lo quiero de una forma tan completa, tan absoluta, que a veces ese sentimiento amenaza con superarme´´.  
+![](/assets/img/la-evolución-de-un-silencio_-las-fases-de-alicia-berenson.png){:width="300" style="float: left"}De ojos azules profundos, rostro de simetría perfecta, larga melena pelirroja, hombros huesudos, piel translúcida. Estuvo felizmente casada con Gabriel, durante siete años. Ambo serán artistas:  ella era una brillante pintora, cada vez más cotizada y él un fotógrafo de prestigio, con una vida aparentemente perfecta. Alicia admira a Gabriel y estaba totalmente enamorada de él, ama y adora a su marido, como ella misma lo expresa en su diario:   ´´Amo muchísimo a Gabriel. Es, sin lugar a dudas, el amor de mi vida.  Lo quiero de una forma tan completa, tan absoluta, que a veces ese sentimiento amenaza con superarme´´.  
 
 Nació en Cambridge. Allí pasó los primeros dieciocho años de su vida, donde se había formado su personalidad. Alicia no tenía  más de diez  años cuando ocurrió el accidente de tráfico en el que murió su madre, que no fue tal, según palabras de la  misma Alicia:  ´´He pensado en mi madre. ¿Estaba loca? ¿Por eso lo hizo? ¿Por eso me ató con el cinturón de seguridad al asiento del acompañante de su mini amarillo y aceleró hasta estrellarnos contra esa pared de ladrillo rojo? ´´.  
 
@@ -31,7 +27,7 @@ Vemos  que la ruptura con  la realidad a través del silencio y la psicosis q
 
 De Alicia Berenson se comprende la influencia de la mente humana, el dolor y las relaciones. En resumen: el mutismo es un mecanismo de defensa, pero sus manos con el pincel y el bolígrafo gritaron su sentir ante una historia de traumas. No hay un silencio absoluto, como tampoco la herencia es determinante así sea un portador de generaciones.
 
-Otra reflexión, es la utilidad de herramientas. Tanto la pintura como la escritura son recursos de expresión, buscando un equilibrio entre el pensar y el sentir. En el caso de Alicia los utilizó para describir el asesinato, que se convirtieron en pistas a investigar.
+![](/assets/img/la-escritura-deja-de-ser-terapéutica-cuando-es-el-miedo-quien-toma-la-pluma.png){:width="300" style="float: right"}Otra reflexión, es la utilidad de herramientas. Tanto la pintura como la escritura son recursos de expresión, buscando un equilibrio entre el pensar y el sentir. En el caso de Alicia los utilizó para describir el asesinato, que se convirtieron en pistas a investigar.
 
 Retomando ser portadora, las diferentes situaciones vividas en la infancia marcan el presente. Como Menelao en la Odisea: “La sangre de tus padres no se pierde…”  La epigenética dice que el entorno y los hábitos pueden anular la participación de los genes. En el caso de Alicia, el entorno fue determinante para reactivar la herencia. El accidente en el auto donde estaban la madre y ella, por ejemplo.
 
