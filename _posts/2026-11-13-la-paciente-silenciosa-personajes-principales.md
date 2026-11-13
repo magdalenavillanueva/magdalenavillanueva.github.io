@@ -76,3 +76,7 @@ Tenía una situación económica holgada. Le dejó el grueso de su patrimonio a 
 Esa aparente devoción se demostró al momento de decidir por su vida y no por la de Alicia o de ambos, lo que ocasionó su muerte por la reacción de Alicia al propinarle cinco disparos con la pistola que dejó el intruso ( Theo) olvidada..
 
 Gabriel es un personaje que se sale de lo convencional. Sus fotografías de mujeres que en cierto modo han perdido la belleza, mujeres sumamente delgadas en contraposición a él, el fotógrafo, con su apariencia de actor. Su relación con Alicia tenía sus altibajos que solo ellos conocían. Mostraba un afecto y devoción a Alicia, haciendo que ella lo necesitara en su vida emocional, pero tenía sus momentos donde aparecían sus rasgos agresivos.
+
+**Kathryn/Kathy Faber:**  esposa de Theo, joven y hermosa, de larga melena negra, ojos verdes penetrantes. Era estadounidense, había nacido y crecido en el Upper West Side deManhattan. Su madre inglesa le permitió doble nacionalidad.  Pasó por la escuela de arte dramático y al final del primer año firmó con un agente, y empezó a actuar profesionalmente.
+
+Antes de Theo, salía con un australiano que se llamaba Daniel, pero él no quería casarse ni tener hijos en un futuro próximo, así que consideró  que estaba perdiendo el tiempo.  Y conoció a Theo que también tenía pareja: Marianne.  Ambos dejan a sus anteriores parejas y se unen.
