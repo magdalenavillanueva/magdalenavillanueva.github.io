@@ -7,11 +7,15 @@ date: 2026-11-13T07:02:00.000-04:00
 ---
 ![](/assets/img/banner-de-la-paciente-silenciosa.png)
 
-![](/assets/img/estamos-compuestos-de-cosas.png){:width="300" style="float: right"} 
+![](/assets/img/estamos-compuestos-de-cosas.png)
+
+{:width="300" style="float: right"} 
 
 ##### Alicia Berenson
 
-![](/assets/img/la-evolución-de-un-silencio_-las-fases-de-alicia-berenson.png){:width="300" style="float: left"}De ojos azules profundos, rostro de simetría perfecta, larga melena pelirroja, hombros huesudos, piel translúcida. Estuvo felizmente casada con Gabriel, durante siete años. Ambo serán artistas:  ella era una brillante pintora, cada vez más cotizada y él un fotógrafo de prestigio, con una vida aparentemente perfecta. Alicia admira a Gabriel y estaba totalmente enamorada de él, ama y adora a su marido, como ella misma lo expresa en su diario:   ´´Amo muchísimo a Gabriel. Es, sin lugar a dudas, el amor de mi vida.  Lo quiero de una forma tan completa, tan absoluta, que a veces ese sentimiento amenaza con superarme´´.  
+![](/assets/img/la-evolución-de-un-silencio_-las-fases-de-alicia-berenson.png)
+
+{:width="300" style="float: left"}De ojos azules profundos, rostro de simetría perfecta, larga melena pelirroja, hombros huesudos, piel translúcida. Estuvo felizmente casada con Gabriel, durante siete años. Ambo serán artistas:  ella era una brillante pintora, cada vez más cotizada y él un fotógrafo de prestigio, con una vida aparentemente perfecta. Alicia admira a Gabriel y estaba totalmente enamorada de él, ama y adora a su marido, como ella misma lo expresa en su diario:   ´´Amo muchísimo a Gabriel. Es, sin lugar a dudas, el amor de mi vida.  Lo quiero de una forma tan completa, tan absoluta, que a veces ese sentimiento amenaza con superarme´´.  
 
 Nació en Cambridge. Allí pasó los primeros dieciocho años de su vida, donde se había formado su personalidad. Alicia no tenía  más de diez  años cuando ocurrió el accidente de tráfico en el que murió su madre, que no fue tal, según palabras de la  misma Alicia:  ´´He pensado en mi madre. ¿Estaba loca? ¿Por eso lo hizo? ¿Por eso me ató con el cinturón de seguridad al asiento del acompañante de su mini amarillo y aceleró hasta estrellarnos contra esa pared de ladrillo rojo? ´´.  
 
@@ -27,7 +31,9 @@ Vemos  que la ruptura con  la realidad a través del silencio y la psicosis q
 
 De Alicia Berenson se comprende la influencia de la mente humana, el dolor y las relaciones. En resumen: el mutismo es un mecanismo de defensa, pero sus manos con el pincel y el bolígrafo gritaron su sentir ante una historia de traumas. No hay un silencio absoluto, como tampoco la herencia es determinante así sea un portador de generaciones.
 
-![](/assets/img/la-escritura-deja-de-ser-terapéutica-cuando-es-el-miedo-quien-toma-la-pluma.png){:width="300" style="float: right"}Otra reflexión, es la utilidad de herramientas. Tanto la pintura como la escritura son recursos de expresión, buscando un equilibrio entre el pensar y el sentir. En el caso de Alicia los utilizó para describir el asesinato, que se convirtieron en pistas a investigar.
+![](/assets/img/la-escritura-deja-de-ser-terapéutica-cuando-es-el-miedo-quien-toma-la-pluma.png)
+
+{:width="300" style="float: right"}Otra reflexión, es la utilidad de herramientas. Tanto la pintura como la escritura son recursos de expresión, buscando un equilibrio entre el pensar y el sentir. En el caso de Alicia los utilizó para describir el asesinato, que se convirtieron en pistas a investigar.
 
 Retomando ser portadora, las diferentes situaciones vividas en la infancia marcan el presente. Como Menelao en la Odisea: “La sangre de tus padres no se pierde…”  La epigenética dice que el entorno y los hábitos pueden anular la participación de los genes. En el caso de Alicia, el entorno fue determinante para reactivar la herencia. El accidente en el auto donde estaban la madre y ella, por ejemplo.
 
@@ -35,7 +41,9 @@ Una infancia traumada y un presente de traición. Una vez más, dependencias, ob
 
 #### Theo Faber
 
-![](/assets/img/theo-faber.png){:width="300" style="float: left"}Tiene cuarenta y dos años, de ojos negros, rostro agradable, afectuoso, mirada angustiosa, casi obsesiva, constitución delgada.  Creció rodeado de una tensión constante a causa del maltrato infantil, inseguridades y traumas, producto de la relación con su padre, porque nunca se sintió seguro cuando lo tenía cerca:  ´´Si hoy en día lo hubiera examinado un psiquiatra, sospecho que a mi padre le habrían diagnosticado un trastorno de la personalidad.
+![](/assets/img/theo-faber.png)
+
+{:width="300" style="float: left"}Tiene cuarenta y dos años, de ojos negros, rostro agradable, afectuoso, mirada angustiosa, casi obsesiva, constitución delgada.  Creció rodeado de una tensión constante a causa del maltrato infantil, inseguridades y traumas, producto de la relación con su padre, porque nunca se sintió seguro cuando lo tenía cerca:  ´´Si hoy en día lo hubiera examinado un psiquiatra, sospecho que a mi padre le habrían diagnosticado un trastorno de la personalidad.
 
 Faber es un personaje muy complicado que estaba traumatizado por un padre violento y tirano y una madre incapaz de ayudarlo. Intento suicidarse. Tenía que entender lo que le pasó cuando era niño, también tenía que entender lo que le pasó a sus padres cuando eran niños. De lo contrario, nunca podría perdonar realmente y nunca podrá superar las cosas, en la construcción de su conducta de adulto. El mismo se siente como: ´´Un niño pequeño a punto de estallar de ansiedad, albergando en su interior todos sus terrores, todo su dolor; caminando de un lado a otro sin pausa, sin  descanso, asustado; solo ante el miedo al loco de su padre´´. 
 
@@ -47,7 +55,9 @@ Lo que vivió hasta la adolescencia lo hace escapar del hogar, logra conseguir u
 
 Fumaba marihuana desde la universidad. Estaba demasiado herido y era incapaz de compartir intimidad con nadie, hasta que conoció a Kathy y se enamoró. Trabajaba en el hospital psiquiátrico de Broadmoor y luego, buscó plaza como psicoterapeuta forense en el hospital The Grove. El objetivo del ambicioso Theo Faber al ingresar al psiquiátrico es convertirse en el terapeuta de Alicia  para tratar de que vuelva a hablar y busca aclarar el misterio de su silencio.
 
-![](/assets/img/theo-con-el-espejo.png){:width="300" style="float: right"}Theo se posiciona de su papel de ayudador, protector y redentor. Su obsesión insana hacia Alicia  hace que Faber, con la excusa de la terapia, realice una investigación particular al  entrevistar a  todas las personas que pudieran arrojar  luz  sobre el asesinato.  Sus acciones van encaminadas a descubrir lo que sucedió esa fatídica noche en que Alicia asesinó a sangre fría a su marido.  
+![](/assets/img/theo-con-el-espejo.png)
+
+{:width="300" style="float: right"}Theo se posiciona de su papel de ayudador, protector y redentor. Su obsesión insana hacia Alicia  hace que Faber, con la excusa de la terapia, realice una investigación particular al  entrevistar a  todas las personas que pudieran arrojar  luz  sobre el asesinato.  Sus acciones van encaminadas a descubrir lo que sucedió esa fatídica noche en que Alicia asesinó a sangre fría a su marido.  
 
 Theo se va adentrando en su vida personal y en sus propios demonios producto de sus traumas  de la infancia, las razones que le llevaron a estudiar y de por qué se hizo psicoterapeuta, los problemas en el hospital psiquiátrico con algunos de sus colegas  y con los pacientes, su relación con su mujer y cómo vive la infidelidad que le descubre. 
 
@@ -59,7 +69,9 @@ Al igual que Theo, todo consultor tiene un historial, la diferencia es que hay q
 
 ##### Personajes cercanos con Alicia Berenson y Theo Faber:
 
-**Gabriel Berenson:**  esposo de Alicia, de elevada estatura, pelo oscuro, rasgos apuestos, mandíbula fuerte, pómulos altos, nariz elegante, corpulento, grácil, piernas fuertes  y muslos gruesos, tenía cuarenta y cuatro años,   ordenado, era un fotógrafo de moda muy conocido. Fotografiaba  a mujeres medio anoréxicas y medio desnudas desde ángulos fuera de lo común.  Sin embargo, parecía más un actor de cine que un fotógrafo.
+![](/assets/img/no-quiero-morir.png)
+
+**{:width="300" style="float: left"} Gabriel Berenson:**  esposo de Alicia, de elevada estatura, pelo oscuro, rasgos apuestos, mandíbula fuerte, pómulos altos, nariz elegante, corpulento, grácil, piernas fuertes  y muslos gruesos, tenía cuarenta y cuatro años,   ordenado, era un fotógrafo de moda muy conocido. Fotografiaba  a mujeres medio anoréxicas y medio desnudas desde ángulos fuera de lo común.  Sin embargo, parecía más un actor de cine que un fotógrafo.
 
 Tenía una situación económica holgada. Le dejó el grueso de su patrimonio a su hermano. Según Max Berenson era un marido abnegado y muy enamorado de su mujer.  Gabriel era crucial en la vida emocional de Alicia. Era bastante posesivo, pero también, una fuente de angustia, porque  tenía un lado que asustaba a Alicia:  ´´Gabriel tiene un lado agresivo, una parte de él que solo atisbo en ocasiones, y cuando lo hago, me asusta. Durante esos breves momentos es como vivir con un extraño. Y es aterrador´´. 
 
