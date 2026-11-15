@@ -5,9 +5,9 @@ categories:
 title: "La paciente silenciosa:   \tEl mito de Alcestis  y Admeto"
 date: 2026-11-14T07:04:00.000-04:00
 ---
-![](/assets/img/pensamiento-de-alex-michaelides.png)
+![](/assets/img/banner-de-la-paciente-silenciosa.png)
 
-{:width="300" style="float: left"}
+![](/assets/img/pensamiento-de-alex-michaelides.png){:width="300" style="float: left"}
 
 **Alcestis**: es una de las más tempranas obras supervivientes del dramaturgo griego Eurípides. La obra fue probablemente producida por primera vez en las Dionisias del año 438 a. C., estando ya avanzada la carrera del autor. Se la caracteriza como una obra satírica y a  veces, como un melodrama. Eurípides la presentó como la pieza final de una tetralogía con la que ganaría el segundo premio. Se aceptó Alcestis a pesar de que se entendía que la última pieza de una tetralogía había de ser un drama satírico, cosa que no era en propiedad. Las otras tres obras eran *Las cretenses*, *Alcmeón en Psófide*  y *Télefo.*
 
